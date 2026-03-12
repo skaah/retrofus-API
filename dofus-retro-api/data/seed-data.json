@@ -1,0 +1,326 @@
+{
+  "items": [
+    {
+      "name": "Amulette du Bouftou",
+      "type": "Amulette",
+      "level": 10,
+      "description": "Une amulette faite de poils de bouftou.",
+      "stats": { "force": 10, "vitalite": 20 },
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1234.png"
+    },
+    {
+      "name": "Anneau du Bouftou",
+      "type": "Anneau",
+      "level": 10,
+      "description": "Un anneau fait de poils de bouftou.",
+      "stats": { "sagesse": 5, "vitalite": 15 },
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1235.png"
+    },
+    {
+      "name": "Bottes du Bouftou",
+      "type": "Bottes",
+      "level": 10,
+      "description": "Des bottes faites de cuir de bouftou.",
+      "stats": { "agilite": 5, "vitalite": 10 },
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1236.png"
+    },
+    {
+      "name": "Cape du Bouftou",
+      "type": "Cape",
+      "level": 10,
+      "description": "Une cape faite de poils de bouftou.",
+      "stats": { "chance": 5, "vitalite": 10 },
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1237.png"
+    },
+    {
+      "name": "Ceinture du Bouftou",
+      "type": "Ceinture",
+      "level": 10,
+      "description": "Une ceinture faite de cuir de bouftou.",
+      "stats": { "force": 5, "vitalite": 15 },
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1238.png"
+    },
+    {
+      "name": "Coiffe du Bouftou",
+      "type": "Chapeau",
+      "level": 10,
+      "description": "Un chapeau fait de poils de bouftou.",
+      "stats": { "intelligence": 5, "vitalite": 10 },
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1239.png"
+    },
+    {
+      "name": "Amulette de l'Ours",
+      "type": "Amulette",
+      "level": 30,
+      "description": "Une amulette en griffe d'ours.",
+      "stats": { "force": 20, "vitalite": 30 },
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2345.png"
+    },
+    {
+      "name": "Bottes de Klime",
+      "type": "Bottes",
+      "level": 50,
+      "description": "Des bottes magiques.",
+      "stats": { "sagesse": 20, "vitalite": 40, "pm": 1 },
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/3456.png"
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Épée de Bois",
+      "type": "Épée",
+      "level": 1,
+      "description": "Une simple épée en bois.",
+      "pa": 4,
+      "po": 1,
+      "cc": "1/50",
+      "ec": "1/50",
+      "damage_type": "Neutre",
+      "damage": { "min": 1, "max": 5 },
+      "stats": {},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1001.png"
+    },
+    {
+      "name": "Baguette de Bois",
+      "type": "Baguette",
+      "level": 1,
+      "description": "Une baguette magique en bois.",
+      "pa": 4,
+      "po": 2,
+      "cc": "1/50",
+      "ec": "1/50",
+      "damage_type": "Feu",
+      "damage": { "min": 2, "max": 4 },
+      "stats": {},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1002.png"
+    },
+    {
+      "name": "Arc de Bois",
+      "type": "Arc",
+      "level": 1,
+      "description": "Un arc en bois simple.",
+      "pa": 4,
+      "po": 5,
+      "cc": "1/50",
+      "ec": "1/50",
+      "damage_type": "Air",
+      "damage": { "min": 3, "max": 6 },
+      "stats": {},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1003.png"
+    },
+    {
+      "name": "Marteau de Bois",
+      "type": "Marteau",
+      "level": 5,
+      "description": "Un marteau en bois robuste.",
+      "pa": 4,
+      "po": 1,
+      "cc": "1/45",
+      "ec": "1/50",
+      "damage_type": "Terre",
+      "damage": { "min": 5, "max": 10 },
+      "stats": {},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1004.png"
+    },
+    {
+      "name": "Dagues de Fourbur",
+      "type": "Dague",
+      "level": 20,
+      "description": "Des dagues rapides.",
+      "pa": 3,
+      "po": 1,
+      "cc": "1/40",
+      "ec": "1/40",
+      "damage_type": "Air",
+      "damage": { "min": 8, "max": 15 },
+      "stats": { "agilite": 10 },
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1005.png"
+    }
+  ],
+  "resources": [
+    { "name": "Poil de Bouftou", "type": "Poil", "level": 1, "description": "Un poil de bouftou." },
+    { "name": "Cuir de Bouftou", "type": "Cuir", "level": 1, "description": "Un morceau de cuir de bouftou." },
+    { "name": "Sang de Bouftou", "type": "Sang", "level": 1, "description": "Du sang de bouftou." },
+    { "name": "Corne de Bouftou", "type": "Corne", "level": 1, "description": "Une corne de bouftou." },
+    { "name": "Laine de Boufton Noir", "type": "Laine", "level": 10, "description": "De la laine noire." },
+    { "name": "Corne de Boufton Noir", "type": "Corne", "level": 10, "description": "Une corne noire." },
+    { "name": "Plume de Tofu", "type": "Plume", "level": 1, "description": "Une plume de tofu." },
+    { "name": "Bec de Tofu", "type": "Bec", "level": 1, "description": "Un bec de tofu." },
+    { "name": "Oeil de Tofu", "type": "Oeil", "level": 1, "description": "Un œil de tofu." },
+    { "name": "Patte d'Arakne", "type": "Patte", "level": 1, "description": "Une patte d'arakne." },
+    { "name": "Toile d'Arakne", "type": "Toile", "level": 1, "description": "Une toile d'arakne." },
+    { "name": "Fer", "type": "Minerai", "level": 1, "description": "Un minerai de fer." },
+    { "name": "Cuivre", "type": "Minerai", "level": 1, "description": "Un minerai de cuivre." },
+    { "name": "Bronze", "type": "Minerai", "level": 10, "description": "Un minerai de bronze." },
+    { "name": "Kobalte", "type": "Minerai", "level": 20, "description": "Un minerai de kobalte." },
+    { "name": "Blé", "type": "Céréale", "level": 1, "description": "Un épi de blé." },
+    { "name": "Orge", "type": "Céréale", "level": 1, "description": "Un épi d'orge." },
+    { "name": "Avoine", "type": "Céréale", "level": 10, "description": "Un épi d'avoine." },
+    { "name": "Houblon", "type": "Céréale", "level": 20, "description": "Du houblon." },
+    { "name": "Lin", "type": "Fleur", "level": 1, "description": "Du lin." },
+    { "name": "Chanvre", "type": "Fleur", "level": 10, "description": "Du chanvre." },
+    { "name": "Trefle à 5 feuilles", "type": "Fleur", "level": 20, "description": "Un trèfle porte-bonheur." },
+    { "name": "Menthe Sauvage", "type": "Fleur", "level": 30, "description": "De la menthe." },
+    { "name": "Edelweiss", "type": "Fleur", "level": 40, "description": "Une fleur rare." },
+    { "name": "Frene", "type": "Bois", "level": 1, "description": "Du bois de frêne." },
+    { "name": "Châtaignier", "type": "Bois", "level": 10, "description": "Du bois de châtaignier." },
+    { "name": "Noyer", "type": "Bois", "level": 20, "description": "Du bois de noyer." },
+    { "name": "Kaliptus", "type": "Bois", "level": 40, "description": "Du bois de kaliptus." }
+  ],
+  "monsters": [
+    {
+      "name": "Bouftou",
+      "type": "Monstre",
+      "level_min": 1,
+      "level_max": 10,
+      "hp": 50,
+      "pa": 4,
+      "pm": 3,
+      "stats": { "force": 10, "agilite": 5 },
+      "resistances": { "neutre": 0, "terre": 0, "feu": -10, "eau": 0, "air": 0 },
+      "drops": [
+        { "item": "Poil de Bouftou", "rate": 50 },
+        { "item": "Cuir de Bouftou", "rate": 30 },
+        { "item": "Sang de Bouftou", "rate": 40 },
+        { "item": "Corne de Bouftou", "rate": 10 }
+      ]
+    },
+    {
+      "name": "Boufton Blanc",
+      "type": "Monstre",
+      "level_min": 5,
+      "level_max": 15,
+      "hp": 80,
+      "pa": 4,
+      "pm": 3,
+      "stats": { "force": 15, "agilite": 8 },
+      "resistances": { "neutre": 5, "terre": 5, "feu": -5, "eau": 5, "air": 5 },
+      "drops": [
+        { "item": "Poil de Bouftou", "rate": 60 },
+        { "item": "Cuir de Bouftou", "rate": 40 }
+      ]
+    },
+    {
+      "name": "Boufton Noir",
+      "type": "Monstre",
+      "level_min": 10,
+      "level_max": 20,
+      "hp": 120,
+      "pa": 4,
+      "pm": 4,
+      "stats": { "force": 25, "agilite": 12 },
+      "resistances": { "neutre": 10, "terre": 10, "feu": 0, "eau": 10, "air": 10 },
+      "drops": [
+        { "item": "Laine de Boufton Noir", "rate": 40 },
+        { "item": "Corne de Boufton Noir", "rate": 20 }
+      ]
+    },
+    {
+      "name": "Tofu",
+      "type": "Monstre",
+      "level_min": 1,
+      "level_max": 5,
+      "hp": 30,
+      "pa": 3,
+      "pm": 3,
+      "stats": { "agilite": 15 },
+      "resistances": { "neutre": 0, "terre": -10, "feu": 0, "eau": 0, "air": 10 },
+      "drops": [
+        { "item": "Plume de Tofu", "rate": 60 },
+        { "item": "Bec de Tofu", "rate": 30 },
+        { "item": "Oeil de Tofu", "rate": 20 }
+      ]
+    },
+    {
+      "name": "Arakne",
+      "type": "Monstre",
+      "level_min": 1,
+      "level_max": 10,
+      "hp": 40,
+      "pa": 4,
+      "pm": 3,
+      "stats": { "chance": 10 },
+      "resistances": { "neutre": 0, "terre": 0, "feu": 0, "eau": 5, "air": 0 },
+      "drops": [
+        { "item": "Patte d'Arakne", "rate": 50 },
+        { "item": "Toile d'Arakne", "rate": 70 }
+      ]
+    }
+  ],
+  "sets": [
+    {
+      "name": "Panoplie du Bouftou",
+      "level": 10,
+      "items": ["Amulette du Bouftou", "Anneau du Bouftou", "Bottes du Bouftou", "Cape du Bouftou", "Ceinture du Bouftou", "Coiffe du Bouftou"],
+      "bonus": {
+        "2_items": { "vitalite": 10 },
+        "3_items": { "vitalite": 20, "force": 5 },
+        "4_items": { "vitalite": 40, "force": 10 },
+        "5_items": { "vitalite": 60, "force": 15, "sagesse": 10 },
+        "6_items": { "vitalite": 100, "force": 20, "sagesse": 20, "prospection": 10 }
+      }
+    }
+  ],
+  "professions": [
+    {
+      "name": "Paysan",
+      "description": "Récolte des céréales et fabrique des pains.",
+      "gathering_locations": ["Champs d'Astrub", "Plaines de Cania", "Bonta", "Brakmar"]
+    },
+    {
+      "name": "Mineur",
+      "description": "Récolte des minerais et fabrique des alliages.",
+      "gathering_locations": ["Mines d'Astrub", "Mines de Brakmar", "Mines de Bonta", "Amakna"]
+    },
+    {
+      "name": "Bûcheron",
+      "description": "Récolte du bois pour les crafts.",
+      "gathering_locations": ["Forêt d'Astrub", "Forêt de Amakna", "Bonta", "Brakmar"]
+    },
+    {
+      "name": "Alchimiste",
+      "description": "Récolte des fleurs et fabrique des potions.",
+      "gathering_locations": ["Champs d'Astrub", "Plaines de Cania", "Bonta", "Brakmar"]
+    },
+    {
+      "name": "Pêcheur",
+      "description": "Pêche des poissons et fabrique des poissons utilses.",
+      "gathering_locations": ["Rivières d'Amakna", "Ports de Bonta", "Ports de Brakmar"]
+    },
+    {
+      "name": "Chasseur",
+      "description": "Récolte de la viande sur les monstres et la prépare.",
+      "gathering_locations": ["Tous les donjons et maps"]
+    },
+    {
+      "name": "Forgeron",
+      "description": "Forge des armes de corps à corps.",
+      "recipes": ["Épées", "Marteaux", "Haches", "Dagues", "Bâtons"]
+    },
+    {
+      "name": "Sculpteur",
+      "description": "Sculpte des armes à distance et des baguettes.",
+      "recipes": ["Arcs", "Baguettes", "Bâtons"]
+    },
+    {
+      "name": "Cordonnier",
+      "description": "Coud des bottes et des ceintures.",
+      "recipes": ["Bottes", "Ceintures"]
+    },
+    {
+      "name": "Tailleur",
+      "description": "Coud des capes et des chapeaux.",
+      "recipes": ["Capes", "Chapeaux"]
+    },
+    {
+      "name": "Bijoutier",
+      "description": "Fabrique des amulettes et des anneaux.",
+      "recipes": ["Amulettes", "Anneaux"]
+    },
+    {
+      "name": "Boulanger",
+      "description": "Fabrique des pains à partir de céréales.",
+      "recipes": ["Pains", "Pains régénérants"]
+    }
+  ]
+}
