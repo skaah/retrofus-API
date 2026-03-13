@@ -1,0 +1,2290 @@
+{
+  "monsters": [
+    {
+      "name": "Bouftou",
+      "type": "Monstre",
+      "level_min": 1,
+      "level_max": 5,
+      "hp": 40,
+      "pa": 4,
+      "pm": 3,
+      "stats": {
+        "force": 8,
+        "intelligence": 5,
+        "chance": 5,
+        "agilite": 5
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 0,
+        "feu": -10,
+        "eau": 0,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Poil de Bouftou", "rate": 50},
+        {"item": "Laine de Bouftou", "rate": 35},
+        {"item": "Cuir de Bouftou", "rate": 25},
+        {"item": "Oeil de Bouftou", "rate": 10},
+        {"item": "Corne de Bouftou", "rate": 5}
+      ]
+    },
+    {
+      "name": "Boufton Blanc",
+      "type": "Monstre",
+      "level_min": 5,
+      "level_max": 10,
+      "hp": 70,
+      "pa": 4,
+      "pm": 3,
+      "stats": {
+        "force": 12,
+        "intelligence": 8,
+        "chance": 8,
+        "agilite": 8
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 5,
+        "feu": -5,
+        "eau": 0,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Poil de Boufton Blanc", "rate": 45},
+        {"item": "Laine de Boufton Blanc", "rate": 40},
+        {"item": "Cuir de Boufton Blanc", "rate": 30},
+        {"item": "Corne de Boufton Blanc", "rate": 8}
+      ]
+    },
+    {
+      "name": "Boufton Noir",
+      "type": "Monstre",
+      "level_min": 5,
+      "level_max": 10,
+      "hp": 75,
+      "pa": 4,
+      "pm": 3,
+      "stats": {
+        "force": 14,
+        "intelligence": 6,
+        "chance": 6,
+        "agilite": 8
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 0,
+        "feu": 0,
+        "eau": -10,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Poil de Boufton Noir", "rate": 45},
+        {"item": "Laine de Boufton Noir", "rate": 40},
+        {"item": "Cuir de Boufton Noir", "rate": 30},
+        {"item": "Corne de Boufton Noir", "rate": 8}
+      ]
+    },
+    {
+      "name": "Bouftou Royal",
+      "type": "Monstre",
+      "level_min": 15,
+      "level_max": 25,
+      "hp": 200,
+      "pa": 6,
+      "pm": 4,
+      "stats": {
+        "force": 35,
+        "intelligence": 15,
+        "chance": 15,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 10,
+        "feu": -5,
+        "eau": 5,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Poil de Bouftou Royal", "rate": 60},
+        {"item": "Cuir de Bouftou Royal", "rate": 50},
+        {"item": "Corne de Bouftou Royal", "rate": 30},
+        {"item": "Collier du Bouftou Royal", "rate": 2},
+        {"item": "Clef du Donjon Bouftou", "rate": 15}
+      ]
+    },
+    {
+      "name": "Tofu",
+      "type": "Monstre",
+      "level_min": 1,
+      "level_max": 4,
+      "hp": 25,
+      "pa": 3,
+      "pm": 5,
+      "stats": {
+        "force": 3,
+        "intelligence": 3,
+        "chance": 3,
+        "agilite": 12
+      },
+      "resistances": {
+        "neutre": -20,
+        "terre": 0,
+        "feu": -20,
+        "eau": 0,
+        "air": 20
+      },
+      "drops": [
+        {"item": "Plume de Tofu", "rate": 60},
+        {"item": "Oeil de Tofu", "rate": 40},
+        {"item": "Bec de Tofu", "rate": 20},
+        {"item": "Graine de Tournesol", "rate": 10}
+      ]
+    },
+    {
+      "name": "Tofu Maléfique",
+      "type": "Monstre",
+      "level_min": 3,
+      "level_max": 6,
+      "hp": 40,
+      "pa": 4,
+      "pm": 5,
+      "stats": {
+        "force": 5,
+        "intelligence": 10,
+        "chance": 5,
+        "agilite": 15
+      },
+      "resistances": {
+        "neutre": -15,
+        "terre": 0,
+        "feu": -10,
+        "eau": 0,
+        "air": 25
+      },
+      "drops": [
+        {"item": "Plume de Tofu Maléfique", "rate": 55},
+        {"item": "Oeil de Tofu Maléfique", "rate": 35},
+        {"item": "Bec de Tofu Maléfique", "rate": 15}
+      ]
+    },
+    {
+      "name": "Tofu Ventripotent",
+      "type": "Monstre",
+      "level_min": 8,
+      "level_max": 12,
+      "hp": 80,
+      "pa": 4,
+      "pm": 4,
+      "stats": {
+        "force": 10,
+        "intelligence": 8,
+        "chance": 8,
+        "agilite": 18
+      },
+      "resistances": {
+        "neutre": -10,
+        "terre": 5,
+        "feu": -15,
+        "eau": 5,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Plume de Tofu Ventripotent", "rate": 50},
+        {"item": "Oeil de Tofu Ventripotent", "rate": 30},
+        {"item": "Viande de Tofu", "rate": 40}
+      ]
+    },
+    {
+      "name": "Tofukaz",
+      "type": "Monstre",
+      "level_min": 20,
+      "level_max": 30,
+      "hp": 250,
+      "pa": 6,
+      "pm": 5,
+      "stats": {
+        "force": 20,
+        "intelligence": 40,
+        "chance": 20,
+        "agilite": 40
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 0,
+        "feu": -10,
+        "eau": 0,
+        "air": 30
+      },
+      "drops": [
+        {"item": "Plume de Tofukaz", "rate": 55},
+        {"item": "Oeil de Tofukaz", "rate": 40},
+        {"item": "Bec de Tofukaz", "rate": 25},
+        {"item": "Aile de Tofukaz", "rate": 15},
+        {"item": "Bottes de Tofu", "rate": 1}
+      ]
+    },
+    {
+      "name": "Tofu Royal",
+      "type": "Monstre",
+      "level_min": 25,
+      "level_max": 35,
+      "hp": 400,
+      "pa": 7,
+      "pm": 6,
+      "stats": {
+        "force": 30,
+        "intelligence": 50,
+        "chance": 25,
+        "agilite": 60
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 5,
+        "feu": -5,
+        "eau": 5,
+        "air": 35
+      },
+      "drops": [
+        {"item": "Plume de Tofu Royal", "rate": 60},
+        {"item": "Oeil de Tofu Royal", "rate": 45},
+        {"item": "Corne de Tofu Royal", "rate": 20},
+        {"item": "Coiffe du Tofu Royal", "rate": 1},
+        {"item": "Clef du Donjon Tofu", "rate": 20}
+      ]
+    },
+    {
+      "name": "Arakne",
+      "type": "Monstre",
+      "level_min": 1,
+      "level_max": 5,
+      "hp": 30,
+      "pa": 3,
+      "pm": 4,
+      "stats": {
+        "force": 5,
+        "intelligence": 5,
+        "chance": 8,
+        "agilite": 8
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 0,
+        "feu": -15,
+        "eau": 0,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Toile d'Arakne", "rate": 55},
+        {"item": "Patte d'Arakne", "rate": 40},
+        {"item": "Oeil d'Arakne", "rate": 25},
+        {"item": "Ficelle", "rate": 30}
+      ]
+    },
+    {
+      "name": "Arakne Majeure",
+      "type": "Monstre",
+      "level_min": 8,
+      "level_max": 15,
+      "hp": 90,
+      "pa": 4,
+      "pm": 4,
+      "stats": {
+        "force": 12,
+        "intelligence": 10,
+        "chance": 18,
+        "agilite": 18
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 5,
+        "feu": -10,
+        "eau": 5,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Toile d'Arakne Majeure", "rate": 50},
+        {"item": "Patte d'Arakne Majeure", "rate": 35},
+        {"item": "Oeil d'Arakne Majeure", "rate": 20},
+        {"item": "Clef du Donjon Arakne", "rate": 15}
+      ]
+    },
+    {
+      "name": "Arakne Agressive",
+      "type": "Monstre",
+      "level_min": 12,
+      "level_max": 18,
+      "hp": 120,
+      "pa": 5,
+      "pm": 5,
+      "stats": {
+        "force": 20,
+        "intelligence": 12,
+        "chance": 20,
+        "agilite": 25
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 10,
+        "feu": -5,
+        "eau": 10,
+        "air": 20
+      },
+      "drops": [
+        {"item": "Toile d'Arakne Agressive", "rate": 45},
+        {"item": "Patte d'Arakne Agressive", "rate": 30},
+        {"item": "Venin d'Arakne", "rate": 20},
+        {"item": "Dent d'Arakne Agressive", "rate": 15}
+      ]
+    },
+    {
+      "name": "Reine des Araknes",
+      "type": "Monstre",
+      "level_min": 30,
+      "level_max": 40,
+      "hp": 450,
+      "pa": 7,
+      "pm": 5,
+      "stats": {
+        "force": 40,
+        "intelligence": 30,
+        "chance": 50,
+        "agilite": 55
+      },
+      "resistances": {
+        "neutre": 15,
+        "terre": 15,
+        "feu": 0,
+        "eau": 15,
+        "air": 25
+      },
+      "drops": [
+        {"item": "Toile de la Reine des Araknes", "rate": 60},
+        {"item": "Patte de la Reine des Araknes", "rate": 50},
+        {"item": "Oeil de la Reine des Araknes", "rate": 30},
+        {"item": "Amulette de la Reine des Araknes", "rate": 1},
+        {"item": "Clef du Donjon Reine des Araknes", "rate": 25}
+      ]
+    },
+    {
+      "name": "Prespic",
+      "type": "Monstre",
+      "level_min": 8,
+      "level_max": 14,
+      "hp": 100,
+      "pa": 5,
+      "pm": 4,
+      "stats": {
+        "force": 15,
+        "intelligence": 10,
+        "chance": 10,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 5,
+        "feu": -10,
+        "eau": 5,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Poil de Prespic", "rate": 50},
+        {"item": "Pic de Prespic", "rate": 35},
+        {"item": "Oeil de Prespic", "rate": 20},
+        {"item": "Viande de Prespic", "rate": 40}
+      ]
+    },
+    {
+      "name": "Prespic Lourd",
+      "type": "Monstre",
+      "level_min": 15,
+      "level_max": 22,
+      "hp": 180,
+      "pa": 5,
+      "pm": 3,
+      "stats": {
+        "force": 30,
+        "intelligence": 15,
+        "chance": 15,
+        "agilite": 25
+      },
+      "resistances": {
+        "neutre": 15,
+        "terre": 10,
+        "feu": -5,
+        "eau": 10,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Poil de Prespic Lourd", "rate": 45},
+        {"item": "Pic de Prespic Lourd", "rate": 30},
+        {"item": "Ongle de Prespic", "rate": 15}
+      ]
+    },
+    {
+      "name": "Milimulou",
+      "type": "Monstre",
+      "level_min": 12,
+      "level_max": 18,
+      "hp": 130,
+      "pa": 5,
+      "pm": 4,
+      "stats": {
+        "force": 18,
+        "intelligence": 12,
+        "chance": 12,
+        "agilite": 28
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 0,
+        "feu": 0,
+        "eau": 0,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Poil de Milimulou", "rate": 50},
+        {"item": "Croc de Milimulou", "rate": 35},
+        {"item": "Langue de Milimulou", "rate": 20},
+        {"item": "Oreille de Milimulou", "rate": 15}
+      ]
+    },
+    {
+      "name": "Milimulou Gargantuesque",
+      "type": "Monstre",
+      "level_min": 20,
+      "level_max": 28,
+      "hp": 220,
+      "pa": 6,
+      "pm": 4,
+      "stats": {
+        "force": 35,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 40
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 5,
+        "feu": 5,
+        "eau": 5,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Poil de Milimulou Gargantuesque", "rate": 45},
+        {"item": "Croc de Milimulou Gargantuesque", "rate": 30},
+        {"item": "Queue de Milimulou", "rate": 15}
+      ]
+    },
+    {
+      "name": "Sanglier",
+      "type": "Monstre",
+      "level_min": 10,
+      "level_max": 16,
+      "hp": 140,
+      "pa": 5,
+      "pm": 3,
+      "stats": {
+        "force": 28,
+        "intelligence": 8,
+        "chance": 8,
+        "agilite": 12
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 10,
+        "feu": -5,
+        "eau": 0,
+        "air": -5
+      },
+      "drops": [
+        {"item": "Poil de Sanglier", "rate": 50},
+        {"item": "Cuir de Sanglier", "rate": 40},
+        {"item": "Défense de Sanglier", "rate": 25},
+        {"item": "Oeil de Sanglier", "rate": 20},
+        {"item": "Viande de Sanglier", "rate": 45}
+      ]
+    },
+    {
+      "name": "Sanglier des Plaines",
+      "type": "Monstre",
+      "level_min": 18,
+      "level_max": 25,
+      "hp": 200,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 40,
+        "intelligence": 12,
+        "chance": 12,
+        "agilite": 18
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 15,
+        "feu": 0,
+        "eau": 5,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Poil de Sanglier des Plaines", "rate": 45},
+        {"item": "Cuir de Sanglier des Plaines", "rate": 35},
+        {"item": "Défense de Sanglier des Plaines", "rate": 20},
+        {"item": "Sabot de Sanglier", "rate": 15}
+      ]
+    },
+    {
+      "name": "Wabbit",
+      "type": "Monstre",
+      "level_min": 20,
+      "level_max": 30,
+      "hp": 180,
+      "pa": 5,
+      "pm": 4,
+      "stats": {
+        "force": 15,
+        "intelligence": 15,
+        "chance": 25,
+        "agilite": 35
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 0,
+        "feu": -10,
+        "eau": 10,
+        "air": 20
+      },
+      "drops": [
+        {"item": "Poil de Wabbit", "rate": 55},
+        {"item": "Oreille de Wabbit", "rate": 40},
+        {"item": "Carotte", "rate": 30},
+        {"item": "Viande de Wabbit", "rate": 35}
+      ]
+    },
+    {
+      "name": "Wabbit Squelettique",
+      "type": "Monstre",
+      "level_min": 25,
+      "level_max": 35,
+      "hp": 250,
+      "pa": 6,
+      "pm": 4,
+      "stats": {
+        "force": 25,
+        "intelligence": 20,
+        "chance": 35,
+        "agilite": 45
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 5,
+        "feu": 0,
+        "eau": 15,
+        "air": 25
+      },
+      "drops": [
+        {"item": "Os de Wabbit Squelettique", "rate": 50},
+        {"item": "Crâne de Wabbit", "rate": 30},
+        {"item": "Oreille de Wabbit Squelettique", "rate": 25}
+      ]
+    },
+    {
+      "name": "Wabbit Céleste",
+      "type": "Monstre",
+      "level_min": 35,
+      "level_max": 45,
+      "hp": 350,
+      "pa": 7,
+      "pm": 5,
+      "stats": {
+        "force": 30,
+        "intelligence": 40,
+        "chance": 50,
+        "agilite": 60
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 10,
+        "feu": 5,
+        "eau": 20,
+        "air": 30
+      },
+      "drops": [
+        {"item": "Poil de Wabbit Céleste", "rate": 45},
+        {"item": "Oreille de Wabbit Céleste", "rate": 35},
+        {"item": "Aile de Wabbit Céleste", "rate": 20},
+        {"item": "Clef du Donjon Wabbit", "rate": 15}
+      ]
+    },
+    {
+      "name": "Wabbit GM",
+      "type": "Monstre",
+      "level_min": 50,
+      "level_max": 60,
+      "hp": 600,
+      "pa": 8,
+      "pm": 5,
+      "stats": {
+        "force": 50,
+        "intelligence": 50,
+        "chance": 70,
+        "agilite": 80
+      },
+      "resistances": {
+        "neutre": 15,
+        "terre": 15,
+        "feu": 10,
+        "eau": 25,
+        "air": 35
+      },
+      "drops": [
+        {"item": "Poil de Wabbit GM", "rate": 60},
+        {"item": "Oreille de Wabbit GM", "rate": 45},
+        {"item": "Carotte Magique", "rate": 25},
+        {"item": "Arc de Wabbit", "rate": 1}
+      ]
+    },
+    {
+      "name": "Crocodaille",
+      "type": "Monstre",
+      "level_min": 30,
+      "level_max": 40,
+      "hp": 300,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 45,
+        "intelligence": 15,
+        "chance": 35,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 0,
+        "feu": -5,
+        "eau": 25,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Peau de Crocodaille", "rate": 50},
+        {"item": "Dent de Crocodaille", "rate": 35},
+        {"item": "Oeil de Crocodaille", "rate": 25},
+        {"item": "Queue de Crocodaille", "rate": 20}
+      ]
+    },
+    {
+      "name": "Crocodaille Albinos",
+      "type": "Monstre",
+      "level_min": 40,
+      "level_max": 50,
+      "hp": 420,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 60,
+        "intelligence": 20,
+        "chance": 45,
+        "agilite": 25
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 5,
+        "feu": 0,
+        "eau": 30,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Peau de Crocodaille Albinos", "rate": 45},
+        {"item": "Dent de Crocodaille Albinos", "rate": 30},
+        {"item": "Oeil de Crocodaille Albinos", "rate": 20}
+      ]
+    },
+    {
+      "name": "Sanglier des Rivières",
+      "type": "Monstre",
+      "level_min": 35,
+      "level_max": 45,
+      "hp": 380,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 55,
+        "intelligence": 20,
+        "chance": 40,
+        "agilite": 25
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 10,
+        "feu": -5,
+        "eau": 20,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Poil de Sanglier des Rivières", "rate": 45},
+        {"item": "Défense de Sanglier des Rivières", "rate": 30},
+        {"item": "Viande de Sanglier des Rivières", "rate": 40}
+      ]
+    },
+    {
+      "name": "Dragoeuf Blanc",
+      "type": "Monstre",
+      "level_min": 35,
+      "level_max": 45,
+      "hp": 400,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 50
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 0,
+        "feu": -10,
+        "eau": 0,
+        "air": 30
+      },
+      "drops": [
+        {"item": "Écaille de Dragoeuf Blanc", "rate": 50},
+        {"item": "Oeil de Dragoeuf Blanc", "rate": 35},
+        {"item": "Patte de Dragoeuf Blanc", "rate": 25},
+        {"item": "Aile de Dragoeuf Blanc", "rate": 15}
+      ]
+    },
+    {
+      "name": "Dragoeuf Noir",
+      "type": "Monstre",
+      "level_min": 40,
+      "level_max": 50,
+      "hp": 480,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 30,
+        "intelligence": 30,
+        "chance": 30,
+        "agilite": 55
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 5,
+        "feu": -5,
+        "eau": 5,
+        "air": 35
+      },
+      "drops": [
+        {"item": "Écaille de Dragoeuf Noir", "rate": 45},
+        {"item": "Oeil de Dragoeuf Noir", "rate": 30},
+        {"item": "Corne de Dragoeuf Noir", "rate": 20}
+      ]
+    },
+    {
+      "name": "Dragoeuf Doré",
+      "type": "Monstre",
+      "level_min": 50,
+      "level_max": 60,
+      "hp": 600,
+      "pa": 8,
+      "pm": 4,
+      "stats": {
+        "force": 40,
+        "intelligence": 40,
+        "chance": 40,
+        "agilite": 70
+      },
+      "resistances": {
+        "neutre": 15,
+        "terre": 10,
+        "feu": 0,
+        "eau": 10,
+        "air": 40
+      },
+      "drops": [
+        {"item": "Écaille de Dragoeuf Doré", "rate": 40},
+        {"item": "Oeil de Dragoeuf Doré", "rate": 25},
+        {"item": "Corne de Dragoeuf Doré", "rate": 15},
+        {"item": "Clef du Donjon Dragoeuf", "rate": 20}
+      ]
+    },
+    {
+      "name": "Dragoeuf de Saphir",
+      "type": "Monstre",
+      "level_min": 45,
+      "level_max": 55,
+      "hp": 520,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 35,
+        "intelligence": 35,
+        "chance": 50,
+        "agilite": 60
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 5,
+        "feu": 0,
+        "eau": 30,
+        "air": 30
+      },
+      "drops": [
+        {"item": "Écaille de Dragoeuf de Saphir", "rate": 45},
+        {"item": "Oeil de Dragoeuf de Saphir", "rate": 30},
+        {"item": "Cristal de Saphir", "rate": 10}
+      ]
+    },
+    {
+      "name": "Bandit Manchot",
+      "type": "Monstre",
+      "level_min": 20,
+      "level_max": 30,
+      "hp": 220,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 30,
+        "intelligence": 20,
+        "chance": 30,
+        "agilite": 25
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 0,
+        "feu": 0,
+        "eau": 0,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Etoffe Violette", "rate": 40},
+        {"item": "Poil de Bandit", "rate": 35},
+        {"item": "Bâton de Bandit", "rate": 20},
+        {"item": "Clef du Donjon Bandit", "rate": 15}
+      ]
+    },
+    {
+      "name": "Bandit Archer",
+      "type": "Monstre",
+      "level_min": 25,
+      "level_max": 35,
+      "hp": 180,
+      "pa": 5,
+      "pm": 4,
+      "stats": {
+        "force": 25,
+        "intelligence": 15,
+        "chance": 35,
+        "agilite": 40
+      },
+      "resistances": {
+        "neutre": -5,
+        "terre": 0,
+        "feu": 0,
+        "eau": 0,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Etoffe Violette", "rate": 45},
+        {"item": "Poil de Bandit Archer", "rate": 35},
+        {"item": "Arc de Bandit", "rate": 15}
+      ]
+    },
+    {
+      "name": "Bandit Sorcier",
+      "type": "Monstre",
+      "level_min": 30,
+      "level_max": 40,
+      "hp": 200,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 15,
+        "intelligence": 50,
+        "chance": 25,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 0,
+        "feu": 15,
+        "eau": 0,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Etoffe Violette", "rate": 50},
+        {"item": "Poil de Bandit Sorcier", "rate": 40},
+        {"item": "Bâton du Bandit Sorcier", "rate": 10}
+      ]
+    },
+    {
+      "name": "Bandit du Clan",
+      "type": "Monstre",
+      "level_min": 40,
+      "level_max": 50,
+      "hp": 350,
+      "pa": 7,
+      "pm": 4,
+      "stats": {
+        "force": 45,
+        "intelligence": 30,
+        "chance": 40,
+        "agilite": 35
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 5,
+        "feu": 5,
+        "eau": 5,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Etoffe Violette", "rate": 55},
+        {"item": "Cape de Bandit", "rate": 5},
+        {"item": "Masque de Bandit", "rate": 5}
+      ]
+    },
+    {
+      "name": "Dopeul Feca",
+      "type": "Monstre",
+      "level_min": 25,
+      "level_max": 35,
+      "hp": 280,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 25,
+        "intelligence": 30,
+        "chance": 20,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 10,
+        "feu": 10,
+        "eau": 10,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Poupée Feca", "rate": 30},
+        {"item": "Etoffe Magique", "rate": 40}
+      ]
+    },
+    {
+      "name": "Dopeul Osamodas",
+      "type": "Monstre",
+      "level_min": 30,
+      "level_max": 40,
+      "hp": 300,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 25,
+        "intelligence": 35,
+        "chance": 25,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 10,
+        "feu": 20,
+        "eau": 0,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Poupée Osamodas", "rate": 30},
+        {"item": "Osmarite", "rate": 25}
+      ]
+    },
+    {
+      "name": "Dopeul Enutrof",
+      "type": "Monstre",
+      "level_min": 35,
+      "level_max": 45,
+      "hp": 320,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 20,
+        "intelligence": 20,
+        "chance": 50,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 15,
+        "feu": 0,
+        "eau": 25,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Poupée Enutrof", "rate": 30},
+        {"item": "Pierre de Diamant", "rate": 20}
+      ]
+    },
+    {
+      "name": "Dopeul Sram",
+      "type": "Monstre",
+      "level_min": 40,
+      "level_max": 50,
+      "hp": 280,
+      "pa": 7,
+      "pm": 4,
+      "stats": {
+        "force": 30,
+        "intelligence": 20,
+        "chance": 45,
+        "agilite": 40
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 5,
+        "feu": 0,
+        "eau": 15,
+        "air": 25
+      },
+      "drops": [
+        {"item": "Poupée Sram", "rate": 30},
+        {"item": "Ongle de Sram", "rate": 35}
+      ]
+    },
+    {
+      "name": "Dopeul Xelor",
+      "type": "Monstre",
+      "level_min": 45,
+      "level_max": 55,
+      "hp": 340,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 20,
+        "intelligence": 50,
+        "chance": 30,
+        "agilite": 25
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 0,
+        "feu": 15,
+        "eau": 10,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Poupée Xelor", "rate": 30},
+        {"item": "Sable Éternel", "rate": 25}
+      ]
+    },
+    {
+      "name": "Dopeul Ecaflip",
+      "type": "Monstre",
+      "level_min": 50,
+      "level_max": 60,
+      "hp": 400,
+      "pa": 7,
+      "pm": 4,
+      "stats": {
+        "force": 45,
+        "intelligence": 25,
+        "chance": 45,
+        "agilite": 30
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 15,
+        "feu": 0,
+        "eau": 15,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Poupée Ecaflip", "rate": 30},
+        {"item": "Carte de Duel", "rate": 20}
+      ]
+    },
+    {
+      "name": "Dopeul Eniripsa",
+      "type": "Monstre",
+      "level_min": 55,
+      "level_max": 65,
+      "hp": 350,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 20,
+        "intelligence": 55,
+        "chance": 25,
+        "agilite": 25
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 0,
+        "feu": 20,
+        "eau": 15,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Poupée Eniripsa", "rate": 30},
+        {"item": "Plume d'Eniripsa", "rate": 35}
+      ]
+    },
+    {
+      "name": "Dopeul Iop",
+      "type": "Monstre",
+      "level_min": 60,
+      "level_max": 70,
+      "hp": 500,
+      "pa": 8,
+      "pm": 3,
+      "stats": {
+        "force": 70,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 30
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 25,
+        "feu": 0,
+        "eau": 0,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Poupée Iop", "rate": 30},
+        {"item": "Moustache d'Iop", "rate": 25}
+      ]
+    },
+    {
+      "name": "Dopeul Crâ",
+      "type": "Monstre",
+      "level_min": 65,
+      "level_max": 75,
+      "hp": 420,
+      "pa": 8,
+      "pm": 4,
+      "stats": {
+        "force": 30,
+        "intelligence": 30,
+        "chance": 30,
+        "agilite": 60
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 5,
+        "feu": 5,
+        "eau": 5,
+        "air": 30
+      },
+      "drops": [
+        {"item": "Poupée Crâ", "rate": 30},
+        {"item": "Oeil de Crâ", "rate": 30}
+      ]
+    },
+    {
+      "name": "Dopeul Sadida",
+      "type": "Monstre",
+      "level_min": 70,
+      "level_max": 80,
+      "hp": 480,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 40,
+        "intelligence": 35,
+        "chance": 40,
+        "agilite": 30
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 30,
+        "feu": 0,
+        "eau": 15,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Poupée Sadida", "rate": 30},
+        {"item": "Feuille de Sadida", "rate": 35}
+      ]
+    },
+    {
+      "name": "Dopeul Sacrieur",
+      "type": "Monstre",
+      "level_min": 75,
+      "level_max": 85,
+      "hp": 600,
+      "pa": 8,
+      "pm": 3,
+      "stats": {
+        "force": 60,
+        "intelligence": 30,
+        "chance": 30,
+        "agilite": 40
+      },
+      "resistances": {
+        "neutre": 15,
+        "terre": 20,
+        "feu": 10,
+        "eau": 10,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Poupée Sacrieur", "rate": 30},
+        {"item": "Tatouage de Sacrieur", "rate": 20}
+      ]
+    },
+    {
+      "name": "Bwork",
+      "type": "Monstre",
+      "level_min": 25,
+      "level_max": 35,
+      "hp": 280,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 40,
+        "intelligence": 10,
+        "chance": 15,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 15,
+        "feu": -5,
+        "eau": 0,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Poil de Bwork", "rate": 50},
+        {"item": "Cuir de Bwork", "rate": 40},
+        {"item": "Dent de Bwork", "rate": 25},
+        {"item": "Clef du Donjon Bwork", "rate": 15}
+      ]
+    },
+    {
+      "name": "Bwork Archer",
+      "type": "Monstre",
+      "level_min": 30,
+      "level_max": 40,
+      "hp": 220,
+      "pa": 6,
+      "pm": 4,
+      "stats": {
+        "force": 30,
+        "intelligence": 15,
+        "chance": 35,
+        "agilite": 35
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 10,
+        "feu": 0,
+        "eau": 10,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Poil de Bwork Archer", "rate": 45},
+        {"item": "Arc de Bwork", "rate": 10},
+        {"item": "Flèche de Bwork", "rate": 30}
+      ]
+    },
+    {
+      "name": "Bwork Mage",
+      "type": "Monstre",
+      "level_min": 35,
+      "level_max": 45,
+      "hp": 250,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 20,
+        "intelligence": 50,
+        "chance": 25,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 10,
+        "feu": 20,
+        "eau": 0,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Poil de Bwork Mage", "rate": 45},
+        {"item": "Bâton de Bwork", "rate": 15}
+      ]
+    },
+    {
+      "name": "Bwork Elémental",
+      "type": "Monstre",
+      "level_min": 40,
+      "level_max": 50,
+      "hp": 320,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 35,
+        "intelligence": 35,
+        "chance": 35,
+        "agilite": 25
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 15,
+        "feu": 15,
+        "eau": 15,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Poil de Bwork Elémental", "rate": 40},
+        {"item": "Cœur de Bwork", "rate": 15}
+      ]
+    },
+    {
+      "name": "Bwork Royal",
+      "type": "Monstre",
+      "level_min": 50,
+      "level_max": 60,
+      "hp": 550,
+      "pa": 8,
+      "pm": 4,
+      "stats": {
+        "force": 70,
+        "intelligence": 30,
+        "chance": 35,
+        "agilite": 40
+      },
+      "resistances": {
+        "neutre": 15,
+        "terre": 25,
+        "feu": 5,
+        "eau": 10,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Poil de Bwork Royal", "rate": 55},
+        {"item": "Cuir de Bwork Royal", "rate": 45},
+        {"item": "Couronne du Bwork Royal", "rate": 2},
+        {"item": "Bottes du Bwork", "rate": 1}
+      ]
+    },
+    {
+      "name": "Craqueleur",
+      "type": "Monstre",
+      "level_min": 15,
+      "level_max": 25,
+      "hp": 200,
+      "pa": 5,
+      "pm": 2,
+      "stats": {
+        "force": 35,
+        "intelligence": 10,
+        "chance": 10,
+        "agilite": 5
+      },
+      "resistances": {
+        "neutre": 30,
+        "terre": 40,
+        "feu": -20,
+        "eau": 20,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Fragment de Craqueleur", "rate": 55},
+        {"item": "Pierre de Craqueleur", "rate": 40},
+        {"item": "Minerai d'Argent", "rate": 10},
+        {"item": "Minerai d'Étain", "rate": 15}
+      ]
+    },
+    {
+      "name": "Craqueleur Pétrifié",
+      "type": "Monstre",
+      "level_min": 25,
+      "level_max": 35,
+      "hp": 320,
+      "pa": 6,
+      "pm": 2,
+      "stats": {
+        "force": 50,
+        "intelligence": 15,
+        "chance": 15,
+        "agilite": 5
+      },
+      "resistances": {
+        "neutre": 35,
+        "terre": 45,
+        "feu": -15,
+        "eau": 25,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Fragment de Craqueleur Pétrifié", "rate": 50},
+        {"item": "Pierre de Craqueleur Pétrifié", "rate": 35},
+        {"item": "Minerai de Fer", "rate": 15}
+      ]
+    },
+    {
+      "name": "Craqueleur des Plaines",
+      "type": "Monstre",
+      "level_min": 35,
+      "level_max": 45,
+      "hp": 450,
+      "pa": 6,
+      "pm": 2,
+      "stats": {
+        "force": 65,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 10
+      },
+      "resistances": {
+        "neutre": 40,
+        "terre": 50,
+        "feu": -10,
+        "eau": 30,
+        "air": 20
+      },
+      "drops": [
+        {"item": "Fragment de Craqueleur des Plaines", "rate": 45},
+        {"item": "Pierre de Craqueleur des Plaines", "rate": 30},
+        {"item": "Minerai d'Or", "rate": 10},
+        {"item": "Clef du Donjon Craqueleur", "rate": 15}
+      ]
+    },
+    {
+      "name": "Craqueleur Légendaire",
+      "type": "Monstre",
+      "level_min": 50,
+      "level_max": 60,
+      "hp": 600,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 80,
+        "intelligence": 30,
+        "chance": 30,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 45,
+        "terre": 55,
+        "feu": -5,
+        "eau": 35,
+        "air": 25
+      },
+      "drops": [
+        {"item": "Fragment de Craqueleur Légendaire", "rate": 50},
+        {"item": "Cœur de Craqueleur", "rate": 15},
+        {"item": "Minerai de Kobalte", "rate": 10}
+      ]
+    },
+    {
+      "name": "Champignon",
+      "type": "Monstre",
+      "level_min": 5,
+      "level_max": 12,
+      "hp": 60,
+      "pa": 4,
+      "pm": 3,
+      "stats": {
+        "force": 12,
+        "intelligence": 15,
+        "chance": 8,
+        "agilite": 5
+      },
+      "resistances": {
+        "neutre": -20,
+        "terre": 30,
+        "feu": -30,
+        "eau": 20,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Chapeau de Champignon", "rate": 50},
+        {"item": "Pied de Champignon", "rate": 40},
+        {"item": "Spore de Champignon", "rate": 30},
+        {"item": "Viande de Champignon", "rate": 35}
+      ]
+    },
+    {
+      "name": "Champignon Parasite",
+      "type": "Monstre",
+      "level_min": 12,
+      "level_max": 20,
+      "hp": 100,
+      "pa": 5,
+      "pm": 3,
+      "stats": {
+        "force": 18,
+        "intelligence": 25,
+        "chance": 12,
+        "agilite": 8
+      },
+      "resistances": {
+        "neutre": -15,
+        "terre": 35,
+        "feu": -25,
+        "eau": 25,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Chapeau de Champignon Parasite", "rate": 45},
+        {"item": "Pied de Champignon Parasite", "rate": 35},
+        {"item": "Spore Parasite", "rate": 25}
+      ]
+    },
+    {
+      "name": "Champignon Vénéneux",
+      "type": "Monstre",
+      "level_min": 20,
+      "level_max": 30,
+      "hp": 160,
+      "pa": 5,
+      "pm": 3,
+      "stats": {
+        "force": 25,
+        "intelligence": 35,
+        "chance": 18,
+        "agilite": 12
+      },
+      "resistances": {
+        "neutre": -10,
+        "terre": 40,
+        "feu": -20,
+        "eau": 30,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Chapeau de Champignon Vénéneux", "rate": 40},
+        {"item": "Pied de Champignon Vénéneux", "rate": 30},
+        {"item": "Venin de Champignon", "rate": 20}
+      ]
+    },
+    {
+      "name": "Champignon Mourant",
+      "type": "Monstre",
+      "level_min": 30,
+      "level_max": 40,
+      "hp": 240,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 35,
+        "intelligence": 50,
+        "chance": 25,
+        "agilite": 15
+      },
+      "resistances": {
+        "neutre": -5,
+        "terre": 45,
+        "feu": -15,
+        "eau": 35,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Chapeau de Champignon Mourant", "rate": 35},
+        {"item": "Spore Mourante", "rate": 25},
+        {"item": "Clef du Donjon Champignon", "rate": 15}
+      ]
+    },
+    {
+      "name": "Champignon Dévoreur",
+      "type": "Monstre",
+      "level_min": 40,
+      "level_max": 50,
+      "hp": 350,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 50,
+        "intelligence": 65,
+        "chance": 35,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 50,
+        "feu": -10,
+        "eau": 40,
+        "air": 20
+      },
+      "drops": [
+        {"item": "Chapeau de Champignon Dévoreur", "rate": 30},
+        {"item": "Pied de Champignon Dévoreur", "rate": 25},
+        {"item": "Anneau Fungique", "rate": 2}
+      ]
+    },
+    {
+      "name": "Squelette",
+      "type": "Monstre",
+      "level_min": 15,
+      "level_max": 25,
+      "hp": 150,
+      "pa": 5,
+      "pm": 3,
+      "stats": {
+        "force": 25,
+        "intelligence": 15,
+        "chance": 15,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 0,
+        "feu": -20,
+        "eau": 0,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Os de Squelette", "rate": 55},
+        {"item": "Crâne de Squelette", "rate": 35},
+        {"item": "Côte de Squelette", "rate": 30},
+        {"item": "Fémur de Squelette", "rate": 25}
+      ]
+    },
+    {
+      "name": "Squelette Archer",
+      "type": "Monstre",
+      "level_min": 20,
+      "level_max": 30,
+      "hp": 140,
+      "pa": 5,
+      "pm": 4,
+      "stats": {
+        "force": 20,
+        "intelligence": 15,
+        "chance": 30,
+        "agilite": 35
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 5,
+        "feu": -15,
+        "eau": 5,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Os de Squelette Archer", "rate": 50},
+        {"item": "Crâne de Squelette Archer", "rate": 30},
+        {"item": "Arc de Squelette", "rate": 10}
+      ]
+    },
+    {
+      "name": "Squelette Mage",
+      "type": "Monstre",
+      "level_min": 25,
+      "level_max": 35,
+      "hp": 160,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 15,
+        "intelligence": 45,
+        "chance": 25,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 0,
+        "feu": 10,
+        "eau": 0,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Os de Squelette Mage", "rate": 50},
+        {"item": "Crâne de Squelette Mage", "rate": 30},
+        {"item": "Bâton de Squelette", "rate": 15}
+      ]
+    },
+    {
+      "name": "Squelette Guerrier",
+      "type": "Monstre",
+      "level_min": 30,
+      "level_max": 40,
+      "hp": 280,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 50,
+        "intelligence": 20,
+        "chance": 25,
+        "agilite": 25
+      },
+      "resistances": {
+        "neutre": 15,
+        "terre": 5,
+        "feu": -10,
+        "eau": 5,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Os de Squelette Guerrier", "rate": 45},
+        {"item": "Crâne de Squelette Guerrier", "rate": 25},
+        {"item": "Épée de Squelette", "rate": 10},
+        {"item": "Clef du Donjon Squelette", "rate": 15}
+      ]
+    },
+    {
+      "name": "Squelette Tactique",
+      "type": "Monstre",
+      "level_min": 35,
+      "level_max": 45,
+      "hp": 240,
+      "pa": 6,
+      "pm": 4,
+      "stats": {
+        "force": 35,
+        "intelligence": 35,
+        "chance": 40,
+        "agilite": 35
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 10,
+        "feu": -5,
+        "eau": 10,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Os de Squelette Tactique", "rate": 40},
+        {"item": "Crâne de Squelette Tactique", "rate": 25},
+        {"item": "Bouclier de Squelette", "rate": 5}
+      ]
+    },
+    {
+      "name": "Rib",
+      "type": "Monstre",
+      "level_min": 40,
+      "level_max": 50,
+      "hp": 350,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 45,
+        "intelligence": 30,
+        "chance": 35,
+        "agilite": 35
+      },
+      "resistances": {
+        "neutre": 15,
+        "terre": 10,
+        "feu": -5,
+        "eau": 10,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Os de Rib", "rate": 50},
+        {"item": "Crâne de Rib", "rate": 35},
+        {"item": "Côte de Rib", "rate": 40}
+      ]
+    },
+    {
+      "name": "Chafer",
+      "type": "Monstre",
+      "level_min": 25,
+      "level_max": 35,
+      "hp": 200,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 35,
+        "intelligence": 20,
+        "chance": 25,
+        "agilite": 25
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 0,
+        "feu": -15,
+        "eau": 0,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Os de Chafer", "rate": 55},
+        {"item": "Crâne de Chafer", "rate": 40},
+        {"item": "Épée de Chafer", "rate": 15},
+        {"item": "Clef du Donjon Chafer", "rate": 20}
+      ]
+    },
+    {
+      "name": "Chafer Archer",
+      "type": "Monstre",
+      "level_min": 30,
+      "level_max": 40,
+      "hp": 180,
+      "pa": 6,
+      "pm": 4,
+      "stats": {
+        "force": 25,
+        "intelligence": 20,
+        "chance": 40,
+        "agilite": 40
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 5,
+        "feu": -10,
+        "eau": 5,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Os de Chafer Archer", "rate": 50},
+        {"item": "Crâne de Chafer Archer", "rate": 35},
+        {"item": "Arc de Chafer", "rate": 10}
+      ]
+    },
+    {
+      "name": "Chafer Lancier",
+      "type": "Monstre",
+      "level_min": 35,
+      "level_max": 45,
+      "hp": 260,
+      "pa": 6,
+      "pm": 3,
+      "stats": {
+        "force": 55,
+        "intelligence": 20,
+        "chance": 30,
+        "agilite": 30
+      },
+      "resistances": {
+        "neutre": 10,
+        "terre": 5,
+        "feu": -10,
+        "eau": 5,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Os de Chafer Lancier", "rate": 45},
+        {"item": "Crâne de Chafer Lancier", "rate": 30},
+        {"item": "Lance de Chafer", "rate": 10}
+      ]
+    },
+    {
+      "name": "Chafer Fantassin",
+      "type": "Monstre",
+      "level_min": 40,
+      "level_max": 50,
+      "hp": 320,
+      "pa": 7,
+      "pm": 3,
+      "stats": {
+        "force": 60,
+        "intelligence": 25,
+        "chance": 35,
+        "agilite": 35
+      },
+      "resistances": {
+        "neutre": 15,
+        "terre": 5,
+        "feu": -5,
+        "eau": 5,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Os de Chafer Fantassin", "rate": 50},
+        {"item": "Crâne de Chafer Fantassin", "rate": 35},
+        {"item": "Côte de Chafer Fantassin", "rate": 30},
+        {"item": "Casque de Chafer", "rate": 5}
+      ]
+    },
+    {
+      "name": "Chafer Invisible",
+      "type": "Monstre",
+      "level_min": 45,
+      "level_max": 55,
+      "hp": 240,
+      "pa": 7,
+      "pm": 5,
+      "stats": {
+        "force": 30,
+        "intelligence": 30,
+        "chance": 50,
+        "agilite": 55
+      },
+      "resistances": {
+        "neutre": 5,
+        "terre": 10,
+        "feu": 0,
+        "eau": 10,
+        "air": 25
+      },
+      "drops": [
+        {"item": "Os de Chafer Invisible", "rate": 40},
+        {"item": "Cape Invisible", "rate": 2},
+        {"item": "Poudre Invisible", "rate": 20}
+      ]
+    },
+    {
+      "name": "Chafer Ronin",
+      "type": "Monstre",
+      "level_min": 50,
+      "level_max": 60,
+      "hp": 400,
+      "pa": 7,
+      "pm": 4,
+      "stats": {
+        "force": 70,
+        "intelligence": 30,
+        "chance": 40,
+        "agilite": 50
+      },
+      "resistances": {
+        "neutre": 20,
+        "terre": 10,
+        "feu": 0,
+        "eau": 10,
+        "air": 20
+      },
+      "drops": [
+        {"item": "Os de Chafer Ronin", "rate": 45},
+        {"item": "Katana de Chafer", "rate": 5},
+        {"item": "Ceinture de Chafer Ronin", "rate": 3}
+      ]
+    },
+    {
+      "name": "Tournesol Sauvage",
+      "type": "Monstre",
+      "level_min": 3,
+      "level_max": 8,
+      "hp": 45,
+      "pa": 3,
+      "pm": 2,
+      "stats": {
+        "force": 8,
+        "intelligence": 10,
+        "chance": 8,
+        "agilite": 4
+      },
+      "resistances": {
+        "neutre": -10,
+        "terre": 20,
+        "feu": -20,
+        "eau": 15,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Graine de Tournesol", "rate": 60},
+        {"item": "Pétale de Tournesol", "rate": 40},
+        {"item": "Feuille de Tournesol", "rate": 30}
+      ]
+    },
+    {
+      "name": "Rose Démoniaque",
+      "type": "Monstre",
+      "level_min": 8,
+      "level_max": 15,
+      "hp": 80,
+      "pa": 4,
+      "pm": 3,
+      "stats": {
+        "force": 15,
+        "intelligence": 15,
+        "chance": 15,
+        "agilite": 8
+      },
+      "resistances": {
+        "neutre": -5,
+        "terre": 25,
+        "feu": -15,
+        "eau": 20,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Pétale de Rose Démoniaque", "rate": 50},
+        {"item": "Épine de Rose Démoniaque", "rate": 35},
+        {"item": "Griffe de Rose Démoniaque", "rate": 25}
+      ]
+    },
+    {
+      "name": "Piou Bleu",
+      "type": "Monstre",
+      "level_min": 1,
+      "level_max": 3,
+      "hp": 15,
+      "pa": 3,
+      "pm": 4,
+      "stats": {
+        "force": 3,
+        "intelligence": 3,
+        "chance": 8,
+        "agilite": 6
+      },
+      "resistances": {
+        "neutre": -30,
+        "terre": 0,
+        "feu": 0,
+        "eau": 15,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Plume de Piou Bleu", "rate": 65},
+        {"item": "Oeil de Piou", "rate": 40},
+        {"item": "Viande de Piou", "rate": 50}
+      ]
+    },
+    {
+      "name": "Piou Rouge",
+      "type": "Monstre",
+      "level_min": 1,
+      "level_max": 3,
+      "hp": 18,
+      "pa": 3,
+      "pm": 4,
+      "stats": {
+        "force": 8,
+        "intelligence": 3,
+        "chance": 3,
+        "agilite": 6
+      },
+      "resistances": {
+        "neutre": -30,
+        "terre": 10,
+        "feu": 0,
+        "eau": 0,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Plume de Piou Rouge", "rate": 65},
+        {"item": "Oeil de Piou", "rate": 40}
+      ]
+    },
+    {
+      "name": "Piou Vert",
+      "type": "Monstre",
+      "level_min": 1,
+      "level_max": 3,
+      "hp": 16,
+      "pa": 3,
+      "pm": 4,
+      "stats": {
+        "force": 3,
+        "intelligence": 3,
+        "chance": 3,
+        "agilite": 8
+      },
+      "resistances": {
+        "neutre": -30,
+        "terre": 0,
+        "feu": 0,
+        "eau": 0,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Plume de Piou Vert", "rate": 65},
+        {"item": "Oeil de Piou", "rate": 40}
+      ]
+    },
+    {
+      "name": "Piou Jaune",
+      "type": "Monstre",
+      "level_min": 1,
+      "level_max": 3,
+      "hp": 17,
+      "pa": 3,
+      "pm": 4,
+      "stats": {
+        "force": 3,
+        "intelligence": 8,
+        "chance": 3,
+        "agilite": 6
+      },
+      "resistances": {
+        "neutre": -30,
+        "terre": 0,
+        "feu": 10,
+        "eau": 0,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Plume de Piou Jaune", "rate": 65},
+        {"item": "Oeil de Piou", "rate": 40}
+      ]
+    },
+    {
+      "name": "Moskito",
+      "type": "Monstre",
+      "level_min": 2,
+      "level_max": 6,
+      "hp": 20,
+      "pa": 3,
+      "pm": 5,
+      "stats": {
+        "force": 5,
+        "intelligence": 3,
+        "chance": 5,
+        "agilite": 10
+      },
+      "resistances": {
+        "neutre": -25,
+        "terre": 0,
+        "feu": -10,
+        "eau": 5,
+        "air": 15
+      },
+      "drops": [
+        {"item": "Aile de Moskito", "rate": 55},
+        {"item": "Œuf de Moskito", "rate": 40},
+        {"item": "Piquant de Moskito", "rate": 30}
+      ]
+    },
+    {
+      "name": "Kwoan",
+      "type": "Monstre",
+      "level_min": 5,
+      "level_max": 10,
+      "hp": 50,
+      "pa": 4,
+      "pm": 3,
+      "stats": {
+        "force": 12,
+        "intelligence": 8,
+        "chance": 10,
+        "agilite": 10
+      },
+      "resistances": {
+        "neutre": -5,
+        "terre": 10,
+        "feu": -5,
+        "eau": 0,
+        "air": 5
+      },
+      "drops": [
+        {"item": "Poil de Kwoan", "rate": 50},
+        {"item": "Corne de Kwoan", "rate": 35},
+        {"item": "Cuir de Kwoan", "rate": 25}
+      ]
+    },
+    {
+      "name": "Larve Bleue",
+      "type": "Monstre",
+      "level_min": 1,
+      "level_max": 4,
+      "hp": 22,
+      "pa": 3,
+      "pm": 3,
+      "stats": {
+        "force": 4,
+        "intelligence": 4,
+        "chance": 10,
+        "agilite": 4
+      },
+      "resistances": {
+        "neutre": -20,
+        "terre": 0,
+        "feu": 0,
+        "eau": 20,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Coco de Larve Bleue", "rate": 60},
+        {"item": "Ver de Terre", "rate": 40}
+      ]
+    },
+    {
+      "name": "Larve Verte",
+      "type": "Monstre",
+      "level_min": 2,
+      "level_max": 5,
+      "hp": 28,
+      "pa": 3,
+      "pm": 3,
+      "stats": {
+        "force": 4,
+        "intelligence": 4,
+        "chance": 4,
+        "agilite": 10
+      },
+      "resistances": {
+        "neutre": -20,
+        "terre": 0,
+        "feu": 0,
+        "eau": 0,
+        "air": 20
+      },
+      "drops": [
+        {"item": "Coco de Larve Verte", "rate": 60},
+        {"item": "Ver de Terre", "rate": 40}
+      ]
+    },
+    {
+      "name": "Larve Orange",
+      "type": "Monstre",
+      "level_min": 3,
+      "level_max": 6,
+      "hp": 35,
+      "pa": 3,
+      "pm": 3,
+      "stats": {
+        "force": 4,
+        "intelligence": 10,
+        "chance": 4,
+        "agilite": 4
+      },
+      "resistances": {
+        "neutre": -20,
+        "terre": 0,
+        "feu": 20,
+        "eau": 0,
+        "air": 0
+      },
+      "drops": [
+        {"item": "Coco de Larve Orange", "rate": 60},
+        {"item": "Ver de Terre", "rate": 40}
+      ]
+    },
+    {
+      "name": "Larve Dorée",
+      "type": "Monstre",
+      "level_min": 10,
+      "level_max": 15,
+      "hp": 80,
+      "pa": 4,
+      "pm": 3,
+      "stats": {
+        "force": 15,
+        "intelligence": 15,
+        "chance": 15,
+        "agilite": 15
+      },
+      "resistances": {
+        "neutre": 0,
+        "terre": 10,
+        "feu": 10,
+        "eau": 10,
+        "air": 10
+      },
+      "drops": [
+        {"item": "Coco de Larve Dorée", "rate": 50},
+        {"item": "Sève de Larve", "rate": 30},
+        {"item": "Pierre de Rubis", "rate": 5}
+      ]
+    },
+    {
+      "name": "Coffre des Forgerons",
+      "type": "Monstre",
+      "level_min": 50,
+      "level_max": 60,
+      "hp": 500,
+      "pa": 5,
+      "pm": 2,
+      "stats": {
+        "force": 60,
+        "intelligence": 40,
+        "chance": 40,
+        "agilite": 20
+      },
+      "resistances": {
+        "neutre": 50,
+        "terre": 40,
+        "feu": 30,
+        "eau": 40,
+        "air": 30
+      },
+      "drops": [
+        {"item": "Pierre du Coffre", "rate": 40},
+        {"item": "Planche de Bois", "rate": 30},
+        {"item": "Rune de Forgeron", "rate": 10}
+      ]
+    }
+  ]
+}

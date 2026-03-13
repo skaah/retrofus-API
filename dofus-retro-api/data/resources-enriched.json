@@ -1,0 +1,964 @@
+{
+  "resources": [
+    {
+      "_comment": "==================== FAMILLE BOUFTOU ===================="
+    },
+    {
+      "name": "Poil de Bouftou",
+      "type": "Poil",
+      "level": 1,
+      "description": "Un poil dru et odorant de Bouftou. Les apprentis tailleurs en raffolent."
+    },
+    {
+      "name": "Cuir de Bouftou",
+      "type": "Cuir",
+      "level": 1,
+      "description": "Un morceau de cuir souple récupéré sur un Bouftou. Idéal pour les bottes de débutant."
+    },
+    {
+      "name": "Sang de Bouftou",
+      "type": "Sang",
+      "level": 1,
+      "description": "Du sang de Bouftou aux propriétés curatives méconnues."
+    },
+    {
+      "name": "Corne de Bouftou",
+      "type": "Corne",
+      "level": 1,
+      "description": "Une petite corne tordue de Bouftou. Peut servir de composant pour des potions."
+    },
+    {
+      "name": "Laine de Boufton Blanc",
+      "type": "Laine",
+      "level": 5,
+      "description": "De la laine blanche et douce au toucher. Parfaite pour les capes d'hiver."
+    },
+    {
+      "name": "Cuir de Boufton Blanc",
+      "type": "Cuir",
+      "level": 5,
+      "description": "Un cuir plus résistant que celui du Bouftou ordinaire."
+    },
+    {
+      "name": "Laine de Boufton Noir",
+      "type": "Laine",
+      "level": 10,
+      "description": "De la laine noire rare et prisée des artisans les plus exigeants."
+    },
+    {
+      "name": "Corne de Boufton Noir",
+      "type": "Corne",
+      "level": 10,
+      "description": "Une corne noire imposante qui renferme une étrange magie sombre."
+    },
+    {
+      "name": "Oeil de Boufton Noir",
+      "type": "Oeil",
+      "level": 10,
+      "description": "Un œil perçant qui semble vous observer même après la mort."
+    },
+    {
+      "name": "Cuir de Boufton Noir",
+      "type": "Cuir",
+      "level": 10,
+      "description": "Un cuir noir d'une qualité exceptionnelle, presque magique."
+    },
+    {
+      "_comment": "==================== FAMILLE TOFU ===================="
+    },
+    {
+      "name": "Plume de Tofu",
+      "type": "Plume",
+      "level": 1,
+      "description": "Une plume colorée et légère, symbole de la légèreté des Tofus."
+    },
+    {
+      "name": "Bec de Tofu",
+      "type": "Bec",
+      "level": 1,
+      "description": "Un petit bec pointu capable de transpercer les armures les plus fines."
+    },
+    {
+      "name": "Oeil de Tofu",
+      "type": "Oeil",
+      "level": 1,
+      "description": "Un œil brillant qui semble toujours surpris."
+    },
+    {
+      "name": "Plume de Tofu Maléfique",
+      "type": "Plume",
+      "level": 15,
+      "description": "Une plume sombre imprégnée d'une énergie malveillante."
+    },
+    {
+      "name": "Bec de Tofu Maléfique",
+      "type": "Bec",
+      "level": 15,
+      "description": "Un bec acéré qui a dévoré bien des âmes innocentes."
+    },
+    {
+      "name": "Aile de Tofu Maléfique",
+      "type": "Aile",
+      "level": 15,
+      "description": "Une aile sombre qui ne vole plus que dans les cauchemars."
+    },
+    {
+      "name": "Plume de Tofu Royal",
+      "type": "Plume",
+      "level": 30,
+      "description": "Une plume dorée, symbole de la royauté Tofue."
+    },
+    {
+      "name": "Bec de Tofu Royal",
+      "type": "Bec",
+      "level": 30,
+      "description": "Un bec majestueux qui a commandé des légions de Tofus."
+    },
+    {
+      "name": "Aile de Tofu Royal",
+      "type": "Aile",
+      "level": 30,
+      "description": "Une aile dorée qui a porté le Roi Tofu vers ses nombreuses victoires."
+    },
+    {
+      "_comment": "==================== FAMILLE ARAKNE ===================="
+    },
+    {
+      "name": "Patte d'Arakne",
+      "type": "Patte",
+      "level": 1,
+      "description": "Une patte velue d'Arakne, encore frémissante après la mort."
+    },
+    {
+      "name": "Toile d'Arakne",
+      "type": "Toile",
+      "level": 1,
+      "description": "Une toile collante et résistante, très prisée des alchimistes."
+    },
+    {
+      "name": "Oeil d'Arakne",
+      "type": "Oeil",
+      "level": 1,
+      "description": "Un œil multiple composé de milliers de facettes."
+    },
+    {
+      "name": "Patte d'Arakne Malade",
+      "type": "Patte",
+      "level": 8,
+      "description": "Une patte verdâtre couverte de pustules malodorantes."
+    },
+    {
+      "name": "Toile d'Arakne Malade",
+      "type": "Toile",
+      "level": 8,
+      "description": "Une toile toxique qui peut être utilisée pour créer des poisons."
+    },
+    {
+      "name": "Patte d'Arakne Agressive",
+      "type": "Patte",
+      "level": 20,
+      "description": "Une patte puissante capable de broyer des os."
+    },
+    {
+      "name": "Toile d'Arakne Agressive",
+      "type": "Toile",
+      "level": 20,
+      "description": "Une toile épaisse et quasi indestructible."
+    },
+    {
+      "name": "Oeil d'Arakne Agressive",
+      "type": "Oeil",
+      "level": 20,
+      "description": "Un œil féroce qui reflète la cruauté de sa propriétaire."
+    },
+    {
+      "_comment": "==================== FAMILLE PRESPIC ===================="
+    },
+    {
+      "name": "Laine de Prespic",
+      "type": "Laine",
+      "level": 12,
+      "description": "De la laine piquante qui protège le Prespic des prédateurs."
+    },
+    {
+      "name": "Oeil de Prespic",
+      "type": "Oeil",
+      "level": 12,
+      "description": "Un œil perçant qui ne rate jamais sa cible."
+    },
+    {
+      "name": "Griffe de Prespic",
+      "type": "Patte",
+      "level": 12,
+      "description": "Une griffe acérée capable de lacérer le cuir le plus épais."
+    },
+    {
+      "name": "Laine de Korriandre",
+      "type": "Laine",
+      "level": 25,
+      "description": "Une laine dorée d'une rare beauté, originaire des terres lointaines."
+    },
+    {
+      "name": "Oeil de Korriandre",
+      "type": "Oeil",
+      "level": 25,
+      "description": "Un œil doré qui semble contenir la sagesse des âges."
+    },
+    {
+      "name": "Corne de Korriandre",
+      "type": "Corne",
+      "level": 25,
+      "description": "Une corne spirale d'une élégance sans pareille."
+    },
+    {
+      "_comment": "==================== FAMILLE MILIMULOU ===================="
+    },
+    {
+      "name": "Poil de Milimulou",
+      "type": "Poil",
+      "level": 18,
+      "description": "Un poil épais et soyeux du loup des plaines."
+    },
+    {
+      "name": "Croc de Milimulou",
+      "type": "Os",
+      "level": 18,
+      "description": "Un croc pointu qui a déchiré bien des chairs."
+    },
+    {
+      "name": "Laine de Milimulou",
+      "type": "Laine",
+      "level": 18,
+      "description": "Une laine chaude parfaite pour les vêtements d'hiver."
+    },
+    {
+      "name": "Croc de Miliboowolf",
+      "type": "Os",
+      "level": 35,
+      "description": "Un croc impressionnant du légendaire Miliboowolf."
+    },
+    {
+      "name": "Peau de Miliboowolf",
+      "type": "Peau",
+      "level": 35,
+      "description": "Une peau épaisse et résistante, trophée de chasse prestigieux."
+    },
+    {
+      "name": "Oeil de Miliboowolf",
+      "type": "Oeil",
+      "level": 35,
+      "description": "Un œil jaune qui brille dans l'obscurité."
+    },
+    {
+      "_comment": "==================== FAMILLE SANGLIER ===================="
+    },
+    {
+      "name": "Cuir de Sanglier",
+      "type": "Cuir",
+      "level": 15,
+      "description": "Un cuir robuste et épais, idéal pour les armures lourdes."
+    },
+    {
+      "name": "Corne de Sanglier",
+      "type": "Corne",
+      "level": 15,
+      "description": "Une corne recourbée redoutable au combat."
+    },
+    {
+      "name": "Sang de Sanglier",
+      "type": "Sang",
+      "level": 15,
+      "description": "Du sang bouillonnant utilisé dans certaines recettes alchimiques."
+    },
+    {
+      "name": "Cuir de Sanglier des Tarins",
+      "type": "Cuir",
+      "level": 40,
+      "description": "Un cuir encore plus épais et résistant que celui des sangliers ordinaires."
+    },
+    {
+      "name": "Corne de Sanglier des Tarins",
+      "type": "Corne",
+      "level": 40,
+      "description": "Une corne massive capable de transpercer une armure complète."
+    },
+    {
+      "name": "Peau de Sanglier des Tarins",
+      "type": "Peau",
+      "level": 40,
+      "description": "Une peau presque invulnérable aux armes ordinaires."
+    },
+    {
+      "_comment": "==================== FAMILLE WABBIT ===================="
+    },
+    {
+      "name": "Poil de Wabbit",
+      "type": "Poil",
+      "level": 25,
+      "description": "Un poil blanc et doux du Wabbit insulaire."
+    },
+    {
+      "name": "Oreille de Wabbit",
+      "type": "Peau",
+      "level": 25,
+      "description": "Une oreille de lapin porte-bonheur selon les superstitions locales."
+    },
+    {
+      "name": "Carotte de Wabbit",
+      "type": "Graine",
+      "level": 25,
+      "description": "Une carotte croquée à moitié, symbole du Wabbit gourmand."
+    },
+    {
+      "name": "Poil de Wa Wabbit",
+      "type": "Poil",
+      "level": 45,
+      "description": "Un poil argenté d'une rare finesse."
+    },
+    {
+      "name": "Oreille de Wa Wabbit",
+      "type": "Peau",
+      "level": 45,
+      "description": "Une oreille majestueuse qui trône sur la tête du Wa Wabbit."
+    },
+    {
+      "name": "Cape de Wa Wabbit",
+      "type": "Cuir",
+      "level": 45,
+      "description": "Un morceau de la cape emblématique du Wa Wabbit."
+    },
+    {
+      "_comment": "==================== FAMILLE CROCODAILLE ===================="
+    },
+    {
+      "name": "Peau de Crocodaille",
+      "type": "Peau",
+      "level": 30,
+      "description": "Une peau écailleuse d'une résistance exceptionnelle."
+    },
+    {
+      "name": "Croc de Crocodaille",
+      "type": "Os",
+      "level": 30,
+      "description": "Un croc redoutable qui peut broyer des os en un instant."
+    },
+    {
+      "name": "Oeil de Crocodaille",
+      "type": "Oeil",
+      "level": 30,
+      "description": "Un œil froid et calculateur, sans la moindre once de pitié."
+    },
+    {
+      "name": "Peau de Crocodaille Prespic",
+      "type": "Peau",
+      "level": 50,
+      "description": "Une peau épaisse et parsemée de piquants mortels."
+    },
+    {
+      "name": "Croc de Crocodaille Prespic",
+      "type": "Os",
+      "level": 50,
+      "description": "Un croc empoisonné capable de tuer en quelques secondes."
+    },
+    {
+      "_comment": "==================== FAMILLE DRAGOEUFS ===================="
+    },
+    {
+      "name": "Carapace de Dragoeuf Blanc",
+      "type": "Carapace",
+      "level": 40,
+      "description": "Une carapace blanche lisse comme du marbre."
+    },
+    {
+      "name": "Oeil de Dragoeuf Blanc",
+      "type": "Oeil",
+      "level": 40,
+      "description": "Un œil rougeoyant de jeune dragoeuf."
+    },
+    {
+      "name": "Carapace de Dragoeuf Doré",
+      "type": "Carapace",
+      "level": 60,
+      "description": "Une carapace dorée qui brille comme l'or pur."
+    },
+    {
+      "name": "Oeil de Dragoeuf Doré",
+      "type": "Oeil",
+      "level": 60,
+      "description": "Un œil doré qui reflète la richesse de son propriétaire."
+    },
+    {
+      "name": "Carapace de Dragoeuf Noir",
+      "type": "Carapace",
+      "level": 80,
+      "description": "Une carapace noire d'une solidité légendaire."
+    },
+    {
+      "name": "Oeil de Dragoeuf Noir",
+      "type": "Oeil",
+      "level": 80,
+      "description": "Un œil noir comme le néant, terrifiant à regarder."
+    },
+    {
+      "name": "Aile de Dragoeuf de Saphir",
+      "type": "Aile",
+      "level": 100,
+      "description": "Une aile bleue cristalline d'une beauté spectaculaire."
+    },
+    {
+      "name": "Carapace de Dragoeuf de Saphir",
+      "type": "Carapace",
+      "level": 100,
+      "description": "Une carapace bleue qui semble faite de saphir pur."
+    },
+    {
+      "name": "Oeil de Dragoeuf de Saphir",
+      "type": "Oeil",
+      "level": 100,
+      "description": "Un œil bleu profond comme l'océan."
+    },
+    {
+      "_comment": "==================== MINERAIS ===================="
+    },
+    {
+      "name": "Fer",
+      "type": "Minerai",
+      "level": 1,
+      "description": "Un minerai de fer commun mais essentiel à tout forgeron."
+    },
+    {
+      "name": "Cuivre",
+      "type": "Minerai",
+      "level": 1,
+      "description": "Un minerai de cuivre malléable et conducteur."
+    },
+    {
+      "name": "Bronze",
+      "type": "Minerai",
+      "level": 10,
+      "description": "Un alliage de cuivre et d'étain, plus résistant que ses composants."
+    },
+    {
+      "name": "Kobalte",
+      "type": "Minerai",
+      "level": 20,
+      "description": "Un minerai bleu-gris aux propriétés magnétiques étranges."
+    },
+    {
+      "name": "Étain",
+      "type": "Minerai",
+      "level": 30,
+      "description": "Un minerai argenté souvent utilisé dans les alliages."
+    },
+    {
+      "name": "Manganèse",
+      "type": "Minerai",
+      "level": 40,
+      "description": "Un minerau gris-noir qui renforce considérablement l'acier."
+    },
+    {
+      "name": "Argent",
+      "type": "Minerai",
+      "level": 50,
+      "description": "Un précieux minerai argenté prisé des bijoutiers."
+    },
+    {
+      "name": "Silicate",
+      "type": "Minerai",
+      "level": 60,
+      "description": "Un minerai cristallin aux propriétés réfractaires."
+    },
+    {
+      "name": "Bauxite",
+      "type": "Minerai",
+      "level": 70,
+      "description": "Un minerai rougeâtre servant à produire l'aluminium."
+    },
+    {
+      "name": "Or",
+      "type": "Minerai",
+      "level": 80,
+      "description": "Un minerai d'or pur, symbole de richesse et de pouvoir."
+    },
+    {
+      "name": "Dolomite",
+      "type": "Minerai",
+      "level": 90,
+      "description": "Un minerai calcaire rare aux propriétés curieuses."
+    },
+    {
+      "name": "Cendre Éternelle",
+      "type": "Minerai",
+      "level": 100,
+      "description": "Une substance mystérieuse qui ne se consume jamais."
+    },
+    {
+      "_comment": "==================== CÉRÉALES ===================="
+    },
+    {
+      "name": "Blé",
+      "type": "Céréale",
+      "level": 1,
+      "description": "Un épi de blé doré, base de l'alimentation dans le Monde des Douze."
+    },
+    {
+      "name": "Orge",
+      "type": "Céréale",
+      "level": 1,
+      "description": "Une céréale robuste qui pousse presque partout."
+    },
+    {
+      "name": "Avoine",
+      "type": "Céréale",
+      "level": 10,
+      "description": "Une céréale nourrissante appréciée des montures."
+    },
+    {
+      "name": "Houblon",
+      "type": "Céréale",
+      "level": 20,
+      "description": "Une plante amère utilisée pour fabriquer la bière."
+    },
+    {
+      "name": "Lin",
+      "type": "Céréale",
+      "level": 30,
+      "description": "Une plante fibreuse servant à produire des tissus fins."
+    },
+    {
+      "name": "Seigle",
+      "type": "Céréale",
+      "level": 40,
+      "description": "Une céréale rustique qui résiste aux climats les plus durs."
+    },
+    {
+      "name": "Riz",
+      "type": "Céréale",
+      "level": 50,
+      "description": "Une céréale exotique originaire des contrées lointaines."
+    },
+    {
+      "name": "Malt",
+      "type": "Céréale",
+      "level": 60,
+      "description": "De l'orge germée et séchée, essentielle à la brasserie."
+    },
+    {
+      "name": "Chanvre",
+      "type": "Céréale",
+      "level": 70,
+      "description": "Une plante aux mille usages, des cordes aux tissus."
+    },
+    {
+      "name": "Maïs",
+      "type": "Céréale",
+      "level": 80,
+      "description": "Une céréale dorée en épis, très nourrissante."
+    },
+    {
+      "name": "Millet",
+      "type": "Céréale",
+      "level": 90,
+      "description": "Une petite céréale aux grains dorés et savoureux."
+    },
+    {
+      "name": "Quisnoa",
+      "type": "Céréale",
+      "level": 100,
+      "description": "Une céréale mythique aux pouvoirs énergétiques."
+    },
+    {
+      "_comment": "==================== FLEURS & ALCHIMIE ===================="
+    },
+    {
+      "name": "Ortie",
+      "type": "Fleur",
+      "level": 1,
+      "description": "Une plante piquante aux vertus médicinales surprenantes."
+    },
+    {
+      "name": "Trèfle à 5 Feuilles",
+      "type": "Fleur",
+      "level": 10,
+      "description": "Un trèfle rare qui porte chance à son détenteur."
+    },
+    {
+      "name": "Menthe Sauvage",
+      "type": "Fleur",
+      "level": 20,
+      "description": "Une plante aromatique aux feuilles fraîches et parfumées."
+    },
+    {
+      "name": "Orchidée Freyesque",
+      "type": "Fleur",
+      "level": 30,
+      "description": "Une orchidée rare aux pétales délicats et parfumés."
+    },
+    {
+      "name": "Edelweiss",
+      "type": "Edelweiss",
+      "level": 40,
+      "description": "Une fleur de montagne immaculée, symbole de pureté."
+    },
+    {
+      "name": "Ginseng",
+      "type": "Racine",
+      "level": 50,
+      "description": "Une racine réputée pour ses propriétés revitalisantes."
+    },
+    {
+      "name": "Perce-Neige",
+      "type": "Fleur",
+      "level": 60,
+      "description": "Une fleur blanche qui perce la neige au cœur de l'hiver."
+    },
+    {
+      "name": "Pandouille",
+      "type": "Fleur",
+      "level": 70,
+      "description": "Une plante exotique aux propriétés hallucinogènes."
+    },
+    {
+      "name": "Mandragore",
+      "type": "Racine",
+      "level": 80,
+      "description": "Une racine anthropomorphe aux pouvoirs mystiques."
+    },
+    {
+      "name": "Belladone",
+      "type": "Fleur",
+      "level": 90,
+      "description": "Une plante vénéneuse aux baies noires mortelles."
+    },
+    {
+      "name": "Salikrone",
+      "type": "Fleur",
+      "level": 100,
+      "description": "Une fleur légendaire qui ne fleurit qu'une fois par siècle."
+    },
+    {
+      "_comment": "==================== BOIS ===================="
+    },
+    {
+      "name": "Frêne",
+      "type": "Bois",
+      "level": 1,
+      "description": "Un bois léger et flexible, parfait pour les débutants."
+    },
+    {
+      "name": "Châtaignier",
+      "type": "Bois",
+      "level": 10,
+      "description": "Un bois dur et résistant aux intempéries."
+    },
+    {
+      "name": "Noyer",
+      "type": "Bois",
+      "level": 20,
+      "description": "Un bois sombre et précieux aux veines élégantes."
+    },
+    {
+      "name": "Merisier",
+      "type": "Bois",
+      "level": 30,
+      "description": "Un bois rosé parfait pour les meubles raffinés."
+    },
+    {
+      "name": "Ébène",
+      "type": "Bois",
+      "level": 40,
+      "description": "Un bois noir dense d'une valeur inestimable."
+    },
+    {
+      "name": "Kaliptus",
+      "type": "Kaliptus",
+      "level": 50,
+      "description": "Un bois exotique originaire de l'île d'Otomai."
+    },
+    {
+      "name": "Charme",
+      "type": "Bois",
+      "level": 60,
+      "description": "Un bois clair aux propriétés magiques légendaires."
+    },
+    {
+      "name": "Oliviolet",
+      "type": "Bois",
+      "level": 70,
+      "description": "Un bois violet aux reflets métalliques mystérieux."
+    },
+    {
+      "name": "Bambou",
+      "type": "Bois",
+      "level": 80,
+      "description": "Un bambou creux et résistant des terres pandawas."
+    },
+    {
+      "name": "Bombu",
+      "type": "Bois",
+      "level": 90,
+      "description": "Un bois explosif qui doit être manipulé avec précaution."
+    },
+    {
+      "name": "Ancestral",
+      "type": "Bois",
+      "level": 100,
+      "description": "Un bois millénaire imprégné de magie ancienne."
+    },
+    {
+      "_comment": "==================== PÊCHE ===================="
+    },
+    {
+      "name": "Truite",
+      "type": "Poisson",
+      "level": 1,
+      "description": "Un poisson commun aux chairs roses et délicates."
+    },
+    {
+      "name": "Sardine",
+      "type": "Poisson",
+      "level": 5,
+      "description": "Un petit poisson argenté abondant dans les eaux côtières."
+    },
+    {
+      "name": "Carpe",
+      "type": "Poisson",
+      "level": 10,
+      "description": "Un poisson d'eau douce aux écailles dorées."
+    },
+    {
+      "name": "Brochet",
+      "type": "Poisson",
+      "level": 20,
+      "description": "Un prédateur vorace aux dents acérées."
+    },
+    {
+      "name": "Crabe",
+      "type": "Poisson",
+      "level": 30,
+      "description": "Un crustacé à pinces redoutables."
+    },
+    {
+      "name": "Kralamoure",
+      "type": "Poisson",
+      "level": 40,
+      "description": "Un calmar géant des profondeurs abyssales."
+    },
+    {
+      "name": "Raie",
+      "type": "Poisson",
+      "level": 50,
+      "description": "Un poisson plat qui se fond dans le sable."
+    },
+    {
+      "name": "Lotte",
+      "type": "Poisson",
+      "level": 60,
+      "description": "Un poisson des profondeurs à la chair ferme."
+    },
+    {
+      "name": "Homard",
+      "type": "Poisson",
+      "level": 70,
+      "description": "Un crustacé délicat aux pinces impressionnantes."
+    },
+    {
+      "name": "Poisskaille",
+      "type": "Poisson",
+      "level": 80,
+      "description": "Un poisson squelette des profondeurs maudites."
+    },
+    {
+      "name": "Requin",
+      "type": "Poisson",
+      "level": 90,
+      "description": "Un prédateur marin redouté de tous les pêcheurs."
+    },
+    {
+      "name": "Silure",
+      "type": "Poisson",
+      "level": 100,
+      "description": "Un poisson mythique qui hanterait les eaux depuis des siècles."
+    },
+    {
+      "_comment": "==================== RESSOURCES DIVERSES ===================="
+    },
+    {
+      "name": "Os",
+      "type": "Os",
+      "level": 1,
+      "description": "Un simple os blanchi, utilisé dans divers crafts."
+    },
+    {
+      "name": "Os Saignant",
+      "type": "Os",
+      "level": 20,
+      "description": "Un os récemment arraché, encore humide de sang."
+    },
+    {
+      "name": "Os Broyé",
+      "type": "Os",
+      "level": 40,
+      "description": "Des fragments d'os pulvérisés pour l'alchimie."
+    },
+    {
+      "name": "Pierre Brute",
+      "type": "Pierre",
+      "level": 1,
+      "description": "Une pierre simple mais utile pour la construction."
+    },
+    {
+      "name": "Pierre Polie",
+      "type": "Pierre",
+      "level": 30,
+      "description": "Une pierre lisse et brillante, parfaite pour l'ornementation."
+    },
+    {
+      "name": "Pierre Précieuse",
+      "type": "Pierre",
+      "level": 60,
+      "description": "Une pierre rare aux reflets chatoyants."
+    },
+    {
+      "name": "Graine de Pandouille",
+      "type": "Graine",
+      "level": 50,
+      "description": "Une graine aux propriétés psychotropes puissantes."
+    },
+    {
+      "name": "Graine de Lin",
+      "type": "Graine",
+      "level": 10,
+      "description": "Des graines de lin pour la plantation."
+    },
+    {
+      "name": "Racine de Bulbe",
+      "type": "Racine",
+      "level": 25,
+      "description": "Une racine charnue aux pouvoirs régénératifs."
+    },
+    {
+      "name": "Huile de Koode",
+      "type": "Huile",
+      "level": 35,
+      "description": "Une huile épaisse aux vertus lubrifiantes."
+    },
+    {
+      "name": "Feuille de Bambou",
+      "type": "Feuille",
+      "level": 45,
+      "description": "Une feuille verte et souple du bambou sacré."
+    },
+    {
+      "_comment": "==================== MONSTRES ADDITIONNELS ===================="
+    },
+    {
+      "name": "Plume de Corbac",
+      "type": "Plume",
+      "level": 35,
+      "description": "Une plume noire du mystérieux Corbac."
+    },
+    {
+      "name": "Oeil de Corbac",
+      "type": "Oeil",
+      "level": 35,
+      "description": "Un œil perçant qui voit dans l'obscurité totale."
+    },
+    {
+      "name": "Aile de Corbac",
+      "type": "Aile",
+      "level": 35,
+      "description": "Une aile noire réputée pour sa capacité de vol silencieux."
+    },
+    {
+      "name": "Peau de Larve Bleue",
+      "type": "Peau",
+      "level": 5,
+      "description": "Une peau visqueuse et gélatineuse de larve."
+    },
+    {
+      "name": "Peau de Larve Orange",
+      "type": "Peau",
+      "level": 10,
+      "description": "Une peau orange et poisseuse aux propriétés collantes."
+    },
+    {
+      "name": "Peau de Larve Verte",
+      "type": "Peau",
+      "level": 15,
+      "description": "Une peau verdâtre empestant le compost."
+    },
+    {
+      "name": "Peau de Champ Champ",
+      "type": "Peau",
+      "level": 8,
+      "description": "Une peau charnue et spongieuse de champignon géant."
+    },
+    {
+      "name": "Bractée de Champ Champ",
+      "type": "Feuille",
+      "level": 8,
+      "description": "Une sorte de feuille charnue sous le chapeau du champignon."
+    },
+    {
+      "name": "Spore de Champ Champ",
+      "type": "Graine",
+      "level": 8,
+      "description": "Des spores microscopiques propices à la reproduction."
+    },
+    {
+      "name": "Peau de Rose Démoniaque",
+      "type": "Peau",
+      "level": 22,
+      "description": "Une écorce épineuse d'un buisson carnivore."
+    },
+    {
+      "name": "Épine de Rose Démoniaque",
+      "type": "Plante",
+      "level": 22,
+      "description": "Une épine acérée capable de transpercer l'acier."
+    },
+    {
+      "name": "Pétale de Rose Démoniaque",
+      "type": "Fleur",
+      "level": 22,
+      "description": "Un pétale écarlate aux fragrances envoûtantes."
+    },
+    {
+      "name": "Peau de Bandit",
+      "type": "Peau",
+      "level": 28,
+      "description": "Un morceau de peau tannée d'un bandit des plaines."
+    },
+    {
+      "name": "Cuir de Bandit",
+      "type": "Cuir",
+      "level": 28,
+      "description": "Un cuir épais provenant des vêtements de bandits."
+    },
+    {
+      "name": "Masque de Bandit",
+      "type": "Cuir",
+      "level": 28,
+      "description": "Un masque de tissu porté par les bandits pour dissimuler leur identité."
+    },
+    {
+      "name": "Cuir de Chef de Guerre Bouftou",
+      "type": "Cuir",
+      "level": 50,
+      "description": "Un cuir de qualité royale provenant du chef des Bouftous."
+    },
+    {
+      "name": "Corne de Chef de Guerre Bouftou",
+      "type": "Corne",
+      "level": 50,
+      "description": "Une corne massive symbole de l'autorité bovine."
+    },
+    {
+      "name": "Poil de Chef de Guerre Bouftou",
+      "type": "Poil",
+      "level": 50,
+      "description": "Un poil rare et précieux du chef des troupeaux."
+    }
+  ]
+}

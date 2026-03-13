@@ -1,0 +1,1340 @@
+{
+  "items": [
+    {
+      "name": "Amulette du Bouftou",
+      "type": "Amulette",
+      "level": 10,
+      "description": "Une amulette fabriquée à partir des poils d'un Bouftou. Elle dégage une odeur de foin.",
+      "stats": {"force": 10, "vitalite": 20, "sagesse": 5},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1201.png"
+    },
+    {
+      "name": "Amulette du Hibou",
+      "type": "Amulette",
+      "level": 18,
+      "description": "Cette amulette vous donnera l'air sage et une envie folle de manger des souris.",
+      "stats": {"sagesse": 15, "intelligence": 10, "vitalite": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1245.png"
+    },
+    {
+      "name": "Amulette du Sram",
+      "type": "Amulette",
+      "level": 30,
+      "description": "L'amulette des Srams, parfaite pour les amateurs de pièges sournois.",
+      "stats": {"force": 15, "agilite": 15, "vitalite": 20},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1210.png"
+    },
+    {
+      "name": "Amulette du Chafer",
+      "type": "Amulette",
+      "level": 42,
+      "description": "Une amulette faite d'os de Chafer. Elle cliquette quand vous marchez.",
+      "stats": {"force": 25, "vitalite": 30, "sagesse": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1234.png"
+    },
+    {
+      "name": "Amulette de l'Ouginak",
+      "type": "Amulette",
+      "level": 55,
+      "description": "Une amulette qui vous donne des envies de mordre vos ennemis.",
+      "stats": {"force": 35, "vitalite": 40, "sagesse": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1289.png"
+    },
+    {
+      "name": "Amulette du Blop",
+      "type": "Amulette",
+      "level": 80,
+      "description": "Une amulette visqueuse mais étonnamment puissante.",
+      "stats": {"intelligence": 40, "vitalite": 50, "sagesse": 25, "chance": 20},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1456.png"
+    },
+    {
+      "name": "Amulette du Dragoeuf",
+      "type": "Amulette",
+      "level": 100,
+      "description": "Une amulette façonnée dans l'œuf d'un Dragoeuf. Très prisée des aventuriers.",
+      "stats": {"force": 50, "intelligence": 30, "vitalite": 60, "sagesse": 30},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1567.png"
+    },
+    {
+      "name": "Amulette du Minotot",
+      "type": "Amulette",
+      "level": 150,
+      "description": "Une amulette légendaire issue du Minotot. Elle émet un faible grognement.",
+      "stats": {"force": 80, "vitalite": 100, "sagesse": 50, "agilite": 40},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1890.png"
+    },
+    {
+      "name": "Amulette du Silicate",
+      "type": "Amulette",
+      "level": 180,
+      "description": "Une amulette cristalline aux pouvoirs mystérieux.",
+      "stats": {"intelligence": 100, "sagesse": 60, "vitalite": 80, "chance": 50},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2103.png"
+    },
+    {
+      "name": "Amulette des Dents de Pierre",
+      "type": "Amulette",
+      "level": 200,
+      "description": "L'amulette ultime des plus grands aventuriers d'Amakna.",
+      "stats": {"force": 120, "intelligence": 120, "vitalite": 150, "sagesse": 80, "agilite": 80, "chance": 80},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2345.png"
+    },
+    {
+      "name": "Amulette de la Bouftoune",
+      "type": "Amulette",
+      "level": 6,
+      "description": "Une petite amulette pour les débutants.",
+      "stats": {"force": 5, "vitalite": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1102.png"
+    },
+    {
+      "name": "Amulette en Crabe",
+      "type": "Amulette",
+      "level": 15,
+      "description": "Une amulette faite avec une carapace de crabe.",
+      "stats": {"chance": 12, "vitalite": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1145.png"
+    },
+    {
+      "name": "Amulette du Milimulou",
+      "type": "Amulette",
+      "level": 25,
+      "description": "Une amulette qui hurle à la pleine lune.",
+      "stats": {"agilite": 20, "vitalite": 15, "sagesse": 5},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1189.png"
+    },
+    {
+      "name": "Amulette du Bwork",
+      "type": "Amulette",
+      "level": 38,
+      "description": "Une amulette brute et puissante.",
+      "stats": {"force": 30, "vitalite": 25},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1223.png"
+    },
+    {
+      "name": "Amulette du Kwoan",
+      "type": "Amulette",
+      "level": 65,
+      "description": "Une amulette élégante aux pouvoirs mystiques.",
+      "stats": {"sagesse": 40, "intelligence": 25, "vitalite": 30},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1345.png"
+    },
+    {
+      "name": "Amulette du Scarabosse Doré",
+      "type": "Amulette",
+      "level": 90,
+      "description": "Une amulette brillante qui attire la fortune.",
+      "stats": {"chance": 50, "vitalite": 40, "sagesse": 30},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1489.png"
+    },
+    {
+      "name": "Amulette du Wa Wabbit",
+      "type": "Amulette",
+      "level": 120,
+      "description": "L'amulette du roi des Wabbits. Wasabilie !",
+      "stats": {"sagesse": 60, "vitalite": 70, "intelligence": 40, "force": 30},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1678.png"
+    },
+    {
+      "name": "Amulette du Crocabulia",
+      "type": "Amulette",
+      "level": 140,
+      "description": "Une amulette terrifiante issue du Crocabulia.",
+      "stats": {"force": 70, "vitalite": 80, "agilite": 50, "chance": 40},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1856.png"
+    },
+    {
+      "name": "Amulette du Sphincter Cell",
+      "type": "Amulette",
+      "level": 170,
+      "description": "Une amulette gluante et malodorante mais très puissante.",
+      "stats": {"force": 90, "intelligence": 90, "vitalite": 100, "sagesse": 50},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2089.png"
+    },
+    {
+      "name": "Anneau de la mort",
+      "type": "Anneau",
+      "level": 35,
+      "description": "Un anneau lugubre qui fait froid dans le dos.",
+      "stats": {"force": 25, "vitalite": 20, "sagesse": -10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1341.png"
+    },
+    {
+      "name": "Gelano",
+      "type": "Anneau",
+      "level": 60,
+      "description": "L'anneau le plus convoité d'Amakna. Un must-have absolu.",
+      "stats": {"pm": 1, "vitalite": 50, "sagesse": 30, "force": 20, "intelligence": 20, "chance": 20, "agilite": 20},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1456.png"
+    },
+    {
+      "name": "Anneau du Bouftou",
+      "type": "Anneau",
+      "level": 8,
+      "description": "Un anneau fait avec un poil de Bouftou.",
+      "stats": {"force": 8, "vitalite": 12},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1034.png"
+    },
+    {
+      "name": "Anneau des Rocheuses",
+      "type": "Anneau",
+      "level": 12,
+      "description": "Un anneau en pierre solide comme un roc.",
+      "stats": {"vitalite": 15, "force": 5},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1067.png"
+    },
+    {
+      "name": "Anneau du Hibou",
+      "type": "Anneau",
+      "level": 18,
+      "description": "Un anneau qui vous donne l'air perspicace.",
+      "stats": {"sagesse": 12, "vitalite": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1089.png"
+    },
+    {
+      "name": "Anneau de l'Arakne",
+      "type": "Anneau",
+      "level": 22,
+      "description": "Un anneau tissé dans une toile d'araignée.",
+      "stats": {"agilite": 15, "vitalite": 12},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1102.png"
+    },
+    {
+      "name": "Anneau du Milimulou",
+      "type": "Anneau",
+      "level": 25,
+      "description": "Un anneau qui vous donne envie de hurler.",
+      "stats": {"agilite": 18, "vitalite": 15, "sagesse": 5},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1123.png"
+    },
+    {
+      "name": "Anneau du Chafer",
+      "type": "Anneau",
+      "level": 42,
+      "description": "Un anneau fait avec un os de Chafer.",
+      "stats": {"force": 20, "vitalite": 25, "sagesse": 8},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1234.png"
+    },
+    {
+      "name": "Anneau du Bwork",
+      "type": "Anneau",
+      "level": 38,
+      "description": "Un anneau brutal pour les guerriers.",
+      "stats": {"force": 25, "vitalite": 20},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1189.png"
+    },
+    {
+      "name": "Anneau du Prespic",
+      "type": "Anneau",
+      "level": 45,
+      "description": "Un anneau qui pique un peu mais offre une bonne protection.",
+      "stats": {"vitalite": 35, "sagesse": 15, "force": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1256.png"
+    },
+    {
+      "name": "Anneau de l'Ouginak",
+      "type": "Anneau",
+      "level": 55,
+      "description": "Un anneau qui donne des envies de mordre.",
+      "stats": {"force": 30, "vitalite": 35, "agilite": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1302.png"
+    },
+    {
+      "name": "Anneau du Blop",
+      "type": "Anneau",
+      "level": 80,
+      "description": "Un anneau visqueux mais puissant.",
+      "stats": {"intelligence": 35, "vitalite": 45, "chance": 25},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1478.png"
+    },
+    {
+      "name": "Anneau du Dragoeuf",
+      "type": "Anneau",
+      "level": 100,
+      "description": "Un anneau façonné dans une écaille de Dragoeuf.",
+      "stats": {"force": 40, "intelligence": 30, "vitalite": 50, "sagesse": 25},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1578.png"
+    },
+    {
+      "name": "Anneau du Wa Wabbit",
+      "type": "Anneau",
+      "level": 120,
+      "description": "L'anneau royal des Wabbits.",
+      "stats": {"sagesse": 50, "vitalite": 60, "intelligence": 35, "force": 25},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1689.png"
+    },
+    {
+      "name": "Anneau du Crocabulia",
+      "type": "Anneau",
+      "level": 140,
+      "description": "Un anneau terrifiant qui inspire la peur.",
+      "stats": {"force": 60, "vitalite": 70, "agilite": 40, "chance": 35},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1867.png"
+    },
+    {
+      "name": "Anneau du Minotot",
+      "type": "Anneau",
+      "level": 150,
+      "description": "Un anneau légendaire au pouvoir immense.",
+      "stats": {"force": 70, "vitalite": 80, "sagesse": 40, "agilite": 35},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1901.png"
+    },
+    {
+      "name": "Anneau du Sphincter Cell",
+      "type": "Anneau",
+      "level": 170,
+      "description": "Un anneau visqueux mais extrêmement puissant.",
+      "stats": {"force": 80, "intelligence": 80, "vitalite": 90, "sagesse": 45},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2100.png"
+    },
+    {
+      "name": "Anneau des Dents de Pierre",
+      "type": "Anneau",
+      "level": 200,
+      "description": "L'anneau ultime des plus grands aventuriers.",
+      "stats": {"force": 100, "intelligence": 100, "vitalite": 120, "sagesse": 60, "agilite": 60, "chance": 60},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2356.png"
+    },
+    {
+      "name": "Bottes de Klim",
+      "type": "Bottes",
+      "level": 45,
+      "description": "Des bottes légendaires qui réchauffent les pieds.",
+      "stats": {"pm": 1, "vitalite": 40, "force": 20, "sagesse": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1645.png"
+    },
+    {
+      "name": "Bottes du Bouftou",
+      "type": "Bottes",
+      "level": 10,
+      "description": "Des bottes faites avec des peaux de Bouftou.",
+      "stats": {"force": 10, "vitalite": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1103.png"
+    },
+    {
+      "name": "Bottes de Pisse",
+      "type": "Bottes",
+      "level": 5,
+      "description": "Des bottes confortables pour les débutants.",
+      "stats": {"vitalite": 10, "sagesse": 5},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1067.png"
+    },
+    {
+      "name": "Bottes du Hibou",
+      "type": "Bottes",
+      "level": 18,
+      "description": "Des bottes silencieuses comme le vol d'un hibou.",
+      "stats": {"agilite": 15, "vitalite": 12, "sagesse": 8},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1123.png"
+    },
+    {
+      "name": "Bottes de l'Arakne",
+      "type": "Bottes",
+      "level": 22,
+      "description": "Des bottes qui collent aux murs.",
+      "stats": {"agilite": 18, "vitalite": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1134.png"
+    },
+    {
+      "name": "Bottes du Milimulou",
+      "type": "Bottes",
+      "level": 25,
+      "description": "Des bottes qui vous font courir comme un loup.",
+      "stats": {"agilite": 20, "vitalite": 18, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1145.png"
+    },
+    {
+      "name": "Bottes du Chafer",
+      "type": "Bottes",
+      "level": 42,
+      "description": "Des bottes faites avec des os de Chafer.",
+      "stats": {"force": 22, "vitalite": 28, "sagesse": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1245.png"
+    },
+    {
+      "name": "Bottes du Bwork",
+      "type": "Bottes",
+      "level": 38,
+      "description": "Des bottes lourdes mais protectrices.",
+      "stats": {"force": 28, "vitalite": 25},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1202.png"
+    },
+    {
+      "name": "Bottes du Prespic",
+      "type": "Bottes",
+      "level": 45,
+      "description": "Des bottes qui piquent vos ennemis.",
+      "stats": {"vitalite": 40, "sagesse": 18, "force": 18},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1267.png"
+    },
+    {
+      "name": "Bottes de l'Ouginak",
+      "type": "Bottes",
+      "level": 55,
+      "description": "Des bottes qui sentent le chien mouillé.",
+      "stats": {"force": 32, "vitalite": 38, "agilite": 18},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1312.png"
+    },
+    {
+      "name": "Bottes du Blop",
+      "type": "Bottes",
+      "level": 80,
+      "description": "Des bottes visqueuses mais puissantes.",
+      "stats": {"intelligence": 38, "vitalite": 48, "chance": 28, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1489.png"
+    },
+    {
+      "name": "Bottes du Dragoeuf",
+      "type": "Bottes",
+      "level": 100,
+      "description": "Des bottes faites avec des écailles de Dragoeuf.",
+      "stats": {"force": 45, "intelligence": 35, "vitalite": 55, "sagesse": 28, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1589.png"
+    },
+    {
+      "name": "Bottes du Wa Wabbit",
+      "type": "Bottes",
+      "level": 120,
+      "description": "Les bottes royales des Wabbits.",
+      "stats": {"sagesse": 55, "vitalite": 65, "intelligence": 38, "force": 28, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1700.png"
+    },
+    {
+      "name": "Bottes du Crocabulia",
+      "type": "Bottes",
+      "level": 140,
+      "description": "Des bottes terrifiantes qui font trembler les ennemis.",
+      "stats": {"force": 65, "vitalite": 75, "agilite": 42, "chance": 38, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1878.png"
+    },
+    {
+      "name": "Bottes du Minotot",
+      "type": "Bottes",
+      "level": 150,
+      "description": "Des bottes légendaires au pouvoir immense.",
+      "stats": {"force": 75, "vitalite": 85, "sagesse": 45, "agilite": 38, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1912.png"
+    },
+    {
+      "name": "Bottes du Sphincter Cell",
+      "type": "Bottes",
+      "level": 170,
+      "description": "Des bottes visqueuses mais très puissantes.",
+      "stats": {"force": 85, "intelligence": 85, "vitalite": 95, "sagesse": 48, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2111.png"
+    },
+    {
+      "name": "Bottes des Dents de Pierre",
+      "type": "Bottes",
+      "level": 200,
+      "description": "Les bottes ultimes des plus grands aventuriers.",
+      "stats": {"force": 110, "intelligence": 110, "vitalite": 130, "sagesse": 65, "agilite": 65, "chance": 65, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2367.png"
+    },
+    {
+      "name": "Cape du Prespic",
+      "type": "Cape",
+      "level": 45,
+      "description": "Une cape qui pique vos ennemis quand ils vous attaquent.",
+      "stats": {"vitalite": 45, "sagesse": 20, "force": 20},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1623.png"
+    },
+    {
+      "name": "Cape du Bouftou",
+      "type": "Cape",
+      "level": 10,
+      "description": "Une cape faite avec des poils de Bouftou.",
+      "stats": {"force": 12, "vitalite": 18},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1056.png"
+    },
+    {
+      "name": "Cape du Hibou",
+      "type": "Cape",
+      "level": 18,
+      "description": "Une cape qui vous permet de voler silencieusement.",
+      "stats": {"agilite": 18, "vitalite": 15, "sagesse": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1112.png"
+    },
+    {
+      "name": "Cape de l'Arakne",
+      "type": "Cape",
+      "level": 22,
+      "description": "Une cape tissée dans une toile d'araignée.",
+      "stats": {"agilite": 20, "vitalite": 18},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1123.png"
+    },
+    {
+      "name": "Cape du Milimulou",
+      "type": "Cape",
+      "level": 25,
+      "description": "Une cape qui vous donne l'aspect d'un loup.",
+      "stats": {"agilite": 22, "vitalite": 20, "force": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1134.png"
+    },
+    {
+      "name": "Cape du Chafer",
+      "type": "Cape",
+      "level": 42,
+      "description": "Une cape faite avec des os de Chafer.",
+      "stats": {"force": 25, "vitalite": 32, "sagesse": 12},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1234.png"
+    },
+    {
+      "name": "Cape du Bwork",
+      "type": "Cape",
+      "level": 38,
+      "description": "Une cape brute pour les guerriers.",
+      "stats": {"force": 30, "vitalite": 28},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1189.png"
+    },
+    {
+      "name": "Cape de l'Ouginak",
+      "type": "Cape",
+      "level": 55,
+      "description": "Une cape qui sent le chien mouillé.",
+      "stats": {"force": 35, "vitalite": 42, "agilite": 20},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1290.png"
+    },
+    {
+      "name": "Cape du Blop",
+      "type": "Cape",
+      "level": 80,
+      "description": "Une cape visqueuse mais très protectrice.",
+      "stats": {"intelligence": 42, "vitalite": 52, "chance": 32},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1478.png"
+    },
+    {
+      "name": "Cape du Dragoeuf",
+      "type": "Cape",
+      "level": 100,
+      "description": "Une cape faite avec des écailles de Dragoeuf.",
+      "stats": {"force": 50, "intelligence": 38, "vitalite": 60, "sagesse": 32},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1600.png"
+    },
+    {
+      "name": "Cape du Wa Wabbit",
+      "type": "Cape",
+      "level": 120,
+      "description": "La cape royale des Wabbits.",
+      "stats": {"sagesse": 60, "vitalite": 70, "intelligence": 40, "force": 30},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1711.png"
+    },
+    {
+      "name": "Cape du Crocabulia",
+      "type": "Cape",
+      "level": 140,
+      "description": "Une cape terrifiante qui fait fuir les ennemis.",
+      "stats": {"force": 70, "vitalite": 80, "agilite": 45, "chance": 40},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1889.png"
+    },
+    {
+      "name": "Cape du Minotot",
+      "type": "Cape",
+      "level": 150,
+      "description": "Une cape légendaire au pouvoir immense.",
+      "stats": {"force": 80, "vitalite": 90, "sagesse": 48, "agilite": 40},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1923.png"
+    },
+    {
+      "name": "Cape du Sphincter Cell",
+      "type": "Cape",
+      "level": 170,
+      "description": "Une cape gluante mais extrêmement protectrice.",
+      "stats": {"force": 90, "intelligence": 90, "vitalite": 100, "sagesse": 52},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2122.png"
+    },
+    {
+      "name": "Cape des Dents de Pierre",
+      "type": "Cape",
+      "level": 200,
+      "description": "La cape ultime des plus grands aventuriers.",
+      "stats": {"force": 115, "intelligence": 115, "vitalite": 140, "sagesse": 70, "agilite": 70, "chance": 70},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2378.png"
+    },
+    {
+      "name": "Ceinture du Prespic",
+      "type": "Ceinture",
+      "level": 45,
+      "description": "Une ceinture qui pique vos ennemis.",
+      "stats": {"vitalite": 40, "sagesse": 18, "force": 18},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1678.png"
+    },
+    {
+      "name": "Ceinture du Bouftou",
+      "type": "Ceinture",
+      "level": 10,
+      "description": "Une ceinture faite avec un poil de Bouftou.",
+      "stats": {"force": 10, "vitalite": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1092.png"
+    },
+    {
+      "name": "Ceinture du Hibou",
+      "type": "Ceinture",
+      "level": 18,
+      "description": "Une ceinture qui vous donne l'air sages.",
+      "stats": {"sagesse": 15, "vitalite": 12, "intelligence": 8},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1134.png"
+    },
+    {
+      "name": "Ceinture de l'Arakne",
+      "type": "Ceinture",
+      "level": 22,
+      "description": "Une ceinture qui colle un peu.",
+      "stats": {"agilite": 18, "vitalite": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1145.png"
+    },
+    {
+      "name": "Ceinture du Milimulou",
+      "type": "Ceinture",
+      "level": 25,
+      "description": "Une ceinture qui vous donne des envies de hurler.",
+      "stats": {"agilite": 20, "vitalite": 18, "force": 8},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1156.png"
+    },
+    {
+      "name": "Ceinture du Chafer",
+      "type": "Ceinture",
+      "level": 42,
+      "description": "Une ceinture faite avec des os de Chafer.",
+      "stats": {"force": 22, "vitalite": 28, "sagesse": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1245.png"
+    },
+    {
+      "name": "Ceinture du Bwork",
+      "type": "Ceinture",
+      "level": 38,
+      "description": "Une ceinture robuste pour les guerriers.",
+      "stats": {"force": 28, "vitalite": 25},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1202.png"
+    },
+    {
+      "name": "Ceinture de l'Ouginak",
+      "type": "Ceinture",
+      "level": 55,
+      "description": "Une ceinture qui sent le chien mouillé.",
+      "stats": {"force": 32, "vitalite": 38, "agilite": 18},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1323.png"
+    },
+    {
+      "name": "Ceinture du Blop",
+      "type": "Ceinture",
+      "level": 80,
+      "description": "Une ceinture visqueuse mais puissante.",
+      "stats": {"intelligence": 38, "vitalite": 48, "chance": 28},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1500.png"
+    },
+    {
+      "name": "Ceinture du Dragoeuf",
+      "type": "Ceinture",
+      "level": 100,
+      "description": "Une ceinture faite avec des écailles de Dragoeuf.",
+      "stats": {"force": 45, "intelligence": 35, "vitalite": 55, "sagesse": 28},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1611.png"
+    },
+    {
+      "name": "Ceinture du Wa Wabbit",
+      "type": "Ceinture",
+      "level": 120,
+      "description": "La ceinture royale des Wabbits.",
+      "stats": {"sagesse": 55, "vitalite": 65, "intelligence": 38, "force": 28},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1722.png"
+    },
+    {
+      "name": "Ceinture du Crocabulia",
+      "type": "Ceinture",
+      "level": 140,
+      "description": "Une ceinture terrifiante qui fait trembler les ennemis.",
+      "stats": {"force": 65, "vitalite": 75, "agilite": 42, "chance": 38},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1900.png"
+    },
+    {
+      "name": "Ceinture du Minotot",
+      "type": "Ceinture",
+      "level": 150,
+      "description": "Une ceinture légendaire au pouvoir immense.",
+      "stats": {"force": 75, "vitalite": 85, "sagesse": 45, "agilite": 38},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1934.png"
+    },
+    {
+      "name": "Ceinture du Sphincter Cell",
+      "type": "Ceinture",
+      "level": 170,
+      "description": "Une ceinture visqueuse mais très puissante.",
+      "stats": {"force": 85, "intelligence": 85, "vitalite": 95, "sagesse": 48},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2133.png"
+    },
+    {
+      "name": "Ceinture des Dents de Pierre",
+      "type": "Ceinture",
+      "level": 200,
+      "description": "La ceinture ultime des plus grands aventuriers.",
+      "stats": {"force": 110, "intelligence": 110, "vitalite": 130, "sagesse": 65, "agilite": 65, "chance": 65},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2389.png"
+    },
+    {
+      "name": "Coiffe du Tofu",
+      "type": "Chapeau",
+      "level": 15,
+      "description": "Un chapeau qui fait cocorico ! Vous voilà transformé en Tofu.",
+      "stats": {"agilite": 20, "vitalite": 10, "sagesse": 5},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1156.png"
+    },
+    {
+      "name": "Coiffe du Bouftou",
+      "type": "Chapeau",
+      "level": 10,
+      "description": "Un chapeau qui vous fait ressembler à un Bouftou.",
+      "stats": {"force": 12, "vitalite": 18},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1078.png"
+    },
+    {
+      "name": "Coiffe du Hibou",
+      "type": "Chapeau",
+      "level": 18,
+      "description": "Un chapeau qui vous donne l'air sage et perspicace.",
+      "stats": {"sagesse": 18, "vitalite": 15, "intelligence": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1123.png"
+    },
+    {
+      "name": "Coiffe de l'Arakne",
+      "type": "Chapeau",
+      "level": 22,
+      "description": "Un chapeau qui colle aux murs.",
+      "stats": {"agilite": 22, "vitalite": 18},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1134.png"
+    },
+    {
+      "name": "Coiffe du Milimulou",
+      "type": "Chapeau",
+      "level": 25,
+      "description": "Un chapeau qui vous donne l'aspect d'un loup.",
+      "stats": {"agilite": 25, "vitalite": 20, "force": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1145.png"
+    },
+    {
+      "name": "Coiffe du Chafer",
+      "type": "Chapeau",
+      "level": 42,
+      "description": "Un chapeau fait avec un crâne de Chafer.",
+      "stats": {"force": 28, "vitalite": 35, "sagesse": 12},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1245.png"
+    },
+    {
+      "name": "Coiffe du Bwork",
+      "type": "Chapeau",
+      "level": 38,
+      "description": "Un chapeau brutal pour les guerriers.",
+      "stats": {"force": 32, "vitalite": 30},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1202.png"
+    },
+    {
+      "name": "Coiffe du Prespic",
+      "type": "Chapeau",
+      "level": 45,
+      "description": "Un chapeau qui pique vos ennemis.",
+      "stats": {"vitalite": 45, "sagesse": 20, "force": 20},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1278.png"
+    },
+    {
+      "name": "Coiffe de l'Ouginak",
+      "type": "Chapeau",
+      "level": 55,
+      "description": "Un chapeau qui sent le chien mouillé.",
+      "stats": {"force": 38, "vitalite": 45, "agilite": 20},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1334.png"
+    },
+    {
+      "name": "Coiffe du Blop",
+      "type": "Chapeau",
+      "level": 80,
+      "description": "Un chapeau visqueux mais protecteur.",
+      "stats": {"intelligence": 45, "vitalite": 55, "chance": 35},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1511.png"
+    },
+    {
+      "name": "Coiffe du Dragoeuf",
+      "type": "Chapeau",
+      "level": 100,
+      "description": "Un chapeau fait avec des écailles de Dragoeuf.",
+      "stats": {"force": 55, "intelligence": 40, "vitalite": 65, "sagesse": 35},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1622.png"
+    },
+    {
+      "name": "Coiffe du Wa Wabbit",
+      "type": "Chapeau",
+      "level": 120,
+      "description": "Le chapeau royal des Wabbits.",
+      "stats": {"sagesse": 65, "vitalite": 75, "intelligence": 42, "force": 32},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1733.png"
+    },
+    {
+      "name": "Coiffe du Crocabulia",
+      "type": "Chapeau",
+      "level": 140,
+      "description": "Un chapeau terrifiant qui fait fuir les ennemis.",
+      "stats": {"force": 75, "vitalite": 85, "agilite": 48, "chance": 42},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1911.png"
+    },
+    {
+      "name": "Coiffe du Minotot",
+      "type": "Chapeau",
+      "level": 150,
+      "description": "Un chapeau légendaire au pouvoir immense.",
+      "stats": {"force": 85, "vitalite": 95, "sagesse": 50, "agilite": 42},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1945.png"
+    },
+    {
+      "name": "Coiffe du Sphincter Cell",
+      "type": "Chapeau",
+      "level": 170,
+      "description": "Un chapeau gluant mais très puissant.",
+      "stats": {"force": 95, "intelligence": 95, "vitalite": 105, "sagesse": 55},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2144.png"
+    },
+    {
+      "name": "Coiffe des Dents de Pierre",
+      "type": "Chapeau",
+      "level": 200,
+      "description": "Le chapeau ultime des plus grands aventuriers.",
+      "stats": {"force": 120, "intelligence": 120, "vitalite": 150, "sagesse": 75, "agilite": 75, "chance": 75},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2400.png"
+    },
+    {
+      "name": "Amulette du Tofu",
+      "type": "Amulette",
+      "level": 15,
+      "description": "Une amulette qui fait cocorico !",
+      "stats": {"agilite": 15, "vitalite": 12, "sagesse": 5},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1167.png"
+    },
+    {
+      "name": "Anneau du Tofu",
+      "type": "Anneau",
+      "level": 15,
+      "description": "Un anneau fait avec une plume de Tofu.",
+      "stats": {"agilite": 15, "vitalite": 12},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1156.png"
+    },
+    {
+      "name": "Bottes du Tofu",
+      "type": "Bottes",
+      "level": 15,
+      "description": "Des bottes qui vous font courir comme un Tofu.",
+      "stats": {"agilite": 18, "vitalite": 15, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1178.png"
+    },
+    {
+      "name": "Cape du Tofu",
+      "type": "Cape",
+      "level": 15,
+      "description": "Une cape qui vous fait voler comme un Tofu.",
+      "stats": {"agilite": 20, "vitalite": 18},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1167.png"
+    },
+    {
+      "name": "Ceinture du Tofu",
+      "type": "Ceinture",
+      "level": 15,
+      "description": "Une ceinture qui fait cocorico !",
+      "stats": {"agilite": 15, "vitalite": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1189.png"
+    },
+    {
+      "name": "Anneau de Sagesse",
+      "type": "Anneau",
+      "level": 3,
+      "description": "Un simple anneau qui augmente la sagesse.",
+      "stats": {"sagesse": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1023.png"
+    },
+    {
+      "name": "Anneau de Vitalité",
+      "type": "Anneau",
+      "level": 3,
+      "description": "Un anneau qui augmente la vitalité.",
+      "stats": {"vitalite": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1034.png"
+    },
+    {
+      "name": "Amulette de l'Aventurier",
+      "type": "Amulette",
+      "level": 1,
+      "description": "Une amulette basique pour les nouveaux aventuriers.",
+      "stats": {"vitalite": 5, "sagesse": 3},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1001.png"
+    },
+    {
+      "name": "Amulette du Mercenaire",
+      "type": "Amulette",
+      "level": 20,
+      "description": "Une amulette pour les mercenaires aguerris.",
+      "stats": {"force": 18, "vitalite": 20, "agilite": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1189.png"
+    },
+    {
+      "name": "Amulette du Chasseur",
+      "type": "Amulette",
+      "level": 35,
+      "description": "Une amulette pour les chasseurs expérimentés.",
+      "stats": {"agilite": 25, "vitalite": 25, "force": 15},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1290.png"
+    },
+    {
+      "name": "Amulette du Sorcier",
+      "type": "Amulette",
+      "level": 50,
+      "description": "Une amulette qui amplifie la puissance magique.",
+      "stats": {"intelligence": 40, "sagesse": 30, "vitalite": 30},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1389.png"
+    },
+    {
+      "name": "Amulette du Paladin",
+      "type": "Amulette",
+      "level": 70,
+      "description": "Une amulette sacrée pour les paladins.",
+      "stats": {"force": 35, "intelligence": 35, "vitalite": 50, "sagesse": 30},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1502.png"
+    },
+    {
+      "name": "Amulette de l'Assassin",
+      "type": "Amulette",
+      "level": 85,
+      "description": "Une amulette pour les assassins de l'ombre.",
+      "stats": {"agilite": 50, "force": 30, "vitalite": 40, "chance": 30},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1589.png"
+    },
+    {
+      "name": "Amulette du Druide",
+      "type": "Amulette",
+      "level": 95,
+      "description": "Une amulette qui canalise le pouvoir de la nature.",
+      "stats": {"intelligence": 45, "sagesse": 40, "vitalite": 55, "chance": 35},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1623.png"
+    },
+    {
+      "name": "Amulette du Maître",
+      "type": "Amulette",
+      "level": 130,
+      "description": "Une amulette réservée aux maîtres aventuriers.",
+      "stats": {"force": 65, "intelligence": 50, "vitalite": 70, "sagesse": 45},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1802.png"
+    },
+    {
+      "name": "Amulette du Héros",
+      "type": "Amulette",
+      "level": 160,
+      "description": "Une amulette digne des plus grands héros.",
+      "stats": {"force": 85, "intelligence": 70, "vitalite": 90, "sagesse": 60, "agilite": 50},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2012.png"
+    },
+    {
+      "name": "Amulette du Gardien",
+      "type": "Amulette",
+      "level": 190,
+      "description": "Une amulette pour les gardiens des dimensions.",
+      "stats": {"force": 110, "intelligence": 110, "vitalite": 130, "sagesse": 70, "agilite": 60, "chance": 60},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2267.png"
+    },
+    {
+      "name": "Anneau de l'Aventurier",
+      "type": "Anneau",
+      "level": 1,
+      "description": "Un anneau simple pour les débutants.",
+      "stats": {"vitalite": 8},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1012.png"
+    },
+    {
+      "name": "Anneau du Mercenaire",
+      "type": "Anneau",
+      "level": 20,
+      "description": "Un anneau pour les mercenaires.",
+      "stats": {"force": 15, "vitalite": 18, "agilite": 8},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1167.png"
+    },
+    {
+      "name": "Anneau du Chasseur",
+      "type": "Anneau",
+      "level": 35,
+      "description": "Un anneau pour les chasseurs.",
+      "stats": {"agilite": 22, "vitalite": 22, "force": 12},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1278.png"
+    },
+    {
+      "name": "Anneau du Sorcier",
+      "type": "Anneau",
+      "level": 50,
+      "description": "Un anneau magique.",
+      "stats": {"intelligence": 35, "sagesse": 25, "vitalite": 28},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1389.png"
+    },
+    {
+      "name": "Anneau du Paladin",
+      "type": "Anneau",
+      "level": 70,
+      "description": "Un anneau sacré.",
+      "stats": {"force": 32, "intelligence": 32, "vitalite": 45, "sagesse": 25},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1490.png"
+    },
+    {
+      "name": "Anneau de l'Assassin",
+      "type": "Anneau",
+      "level": 85,
+      "description": "Un anneau discret et mortel.",
+      "stats": {"agilite": 45, "force": 28, "vitalite": 35, "chance": 28},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1589.png"
+    },
+    {
+      "name": "Anneau du Druide",
+      "type": "Anneau",
+      "level": 95,
+      "description": "Un anneau connecté à la nature.",
+      "stats": {"intelligence": 40, "sagesse": 35, "vitalite": 50, "chance": 32},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1645.png"
+    },
+    {
+      "name": "Anneau du Maître",
+      "type": "Anneau",
+      "level": 130,
+      "description": "Un anneau pour les maîtres.",
+      "stats": {"force": 60, "intelligence": 45, "vitalite": 65, "sagesse": 40},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1823.png"
+    },
+    {
+      "name": "Anneau du Héros",
+      "type": "Anneau",
+      "level": 160,
+      "description": "Un anneau héroïque.",
+      "stats": {"force": 80, "intelligence": 65, "vitalite": 85, "sagesse": 55, "agilite": 45},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2045.png"
+    },
+    {
+      "name": "Anneau du Gardien",
+      "type": "Anneau",
+      "level": 190,
+      "description": "Un anneau pour les gardiens.",
+      "stats": {"force": 105, "intelligence": 105, "vitalite": 125, "sagesse": 65, "agilite": 55, "chance": 55},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2290.png"
+    },
+    {
+      "name": "Chapeau de l'Aventurier",
+      "type": "Chapeau",
+      "level": 1,
+      "description": "Un chapeau pour les nouveaux aventuriers.",
+      "stats": {"vitalite": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1001.png"
+    },
+    {
+      "name": "Chapeau du Mercenaire",
+      "type": "Chapeau",
+      "level": 20,
+      "description": "Un chapeau pour les mercenaires.",
+      "stats": {"force": 20, "vitalite": 22, "agilite": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1189.png"
+    },
+    {
+      "name": "Chapeau du Chasseur",
+      "type": "Chapeau",
+      "level": 35,
+      "description": "Un chapeau pour les chasseurs.",
+      "stats": {"agilite": 28, "vitalite": 28, "force": 18},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1302.png"
+    },
+    {
+      "name": "Chapeau du Sorcier",
+      "type": "Chapeau",
+      "level": 50,
+      "description": "Un chapeau pointu pour les sorciers.",
+      "stats": {"intelligence": 45, "sagesse": 35, "vitalite": 35},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1423.png"
+    },
+    {
+      "name": "Chapeau du Paladin",
+      "type": "Chapeau",
+      "level": 70,
+      "description": "Un chapeau sacré pour les paladins.",
+      "stats": {"force": 40, "intelligence": 40, "vitalite": 55, "sagesse": 35},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1523.png"
+    },
+    {
+      "name": "Chapeau de l'Assassin",
+      "type": "Chapeau",
+      "level": 85,
+      "description": "Un chapeau pour les assassins.",
+      "stats": {"agilite": 55, "force": 35, "vitalite": 45, "chance": 35},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1623.png"
+    },
+    {
+      "name": "Chapeau du Druide",
+      "type": "Chapeau",
+      "level": 95,
+      "description": "Un chapeau pour les druides.",
+      "stats": {"intelligence": 50, "sagesse": 45, "vitalite": 60, "chance": 40},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1689.png"
+    },
+    {
+      "name": "Chapeau du Maître",
+      "type": "Chapeau",
+      "level": 130,
+      "description": "Un chapeau pour les maîtres.",
+      "stats": {"force": 70, "intelligence": 55, "vitalite": 75, "sagesse": 50},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1856.png"
+    },
+    {
+      "name": "Chapeau du Héros",
+      "type": "Chapeau",
+      "level": 160,
+      "description": "Un chapeau héroïque.",
+      "stats": {"force": 90, "intelligence": 75, "vitalite": 100, "sagesse": 65, "agilite": 55},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2089.png"
+    },
+    {
+      "name": "Chapeau du Gardien",
+      "type": "Chapeau",
+      "level": 190,
+      "description": "Un chapeau pour les gardiens.",
+      "stats": {"force": 115, "intelligence": 115, "vitalite": 140, "sagesse": 75, "agilite": 65, "chance": 65},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2345.png"
+    },
+    {
+      "name": "Cape de l'Aventurier",
+      "type": "Cape",
+      "level": 1,
+      "description": "Une cape simple pour les débutants.",
+      "stats": {"vitalite": 12},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1012.png"
+    },
+    {
+      "name": "Cape du Mercenaire",
+      "type": "Cape",
+      "level": 20,
+      "description": "Une cape pour les mercenaires.",
+      "stats": {"force": 18, "vitalite": 25, "agilite": 12},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1167.png"
+    },
+    {
+      "name": "Cape du Chasseur",
+      "type": "Cape",
+      "level": 35,
+      "description": "Une cape pour les chasseurs.",
+      "stats": {"agilite": 25, "vitalite": 32, "force": 20},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1289.png"
+    },
+    {
+      "name": "Cape du Sorcier",
+      "type": "Cape",
+      "level": 50,
+      "description": "Une cape magique.",
+      "stats": {"intelligence": 40, "sagesse": 30, "vitalite": 40},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1402.png"
+    },
+    {
+      "name": "Cape du Paladin",
+      "type": "Cape",
+      "level": 70,
+      "description": "Une cape sacrée.",
+      "stats": {"force": 38, "intelligence": 38, "vitalite": 50, "sagesse": 32},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1511.png"
+    },
+    {
+      "name": "Cape de l'Assassin",
+      "type": "Cape",
+      "level": 85,
+      "description": "Une cape pour les assassins.",
+      "stats": {"agilite": 50, "force": 32, "vitalite": 42, "chance": 32},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1612.png"
+    },
+    {
+      "name": "Cape du Druide",
+      "type": "Cape",
+      "level": 95,
+      "description": "Une cape pour les druides.",
+      "stats": {"intelligence": 45, "sagesse": 40, "vitalite": 55, "chance": 38},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1678.png"
+    },
+    {
+      "name": "Cape du Maître",
+      "type": "Cape",
+      "level": 130,
+      "description": "Une cape pour les maîtres.",
+      "stats": {"force": 65, "intelligence": 50, "vitalite": 70, "sagesse": 48},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1845.png"
+    },
+    {
+      "name": "Cape du Héros",
+      "type": "Cape",
+      "level": 160,
+      "description": "Une cape héroïque.",
+      "stats": {"force": 85, "intelligence": 70, "vitalite": 95, "sagesse": 62, "agilite": 52},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2078.png"
+    },
+    {
+      "name": "Cape du Gardien",
+      "type": "Cape",
+      "level": 190,
+      "description": "Une cape pour les gardiens.",
+      "stats": {"force": 110, "intelligence": 110, "vitalite": 135, "sagesse": 72, "agilite": 62, "chance": 62},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2334.png"
+    },
+    {
+      "name": "Ceinture de l'Aventurier",
+      "type": "Ceinture",
+      "level": 1,
+      "description": "Une ceinture pour les débutants.",
+      "stats": {"vitalite": 8},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1023.png"
+    },
+    {
+      "name": "Ceinture du Mercenaire",
+      "type": "Ceinture",
+      "level": 20,
+      "description": "Une ceinture pour les mercenaires.",
+      "stats": {"force": 15, "vitalite": 20, "agilite": 8},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1189.png"
+    },
+    {
+      "name": "Ceinture du Chasseur",
+      "type": "Ceinture",
+      "level": 35,
+      "description": "Une ceinture pour les chasseurs.",
+      "stats": {"agilite": 22, "vitalite": 25, "force": 12},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1301.png"
+    },
+    {
+      "name": "Ceinture du Sorcier",
+      "type": "Ceinture",
+      "level": 50,
+      "description": "Une ceinture magique.",
+      "stats": {"intelligence": 35, "sagesse": 25, "vitalite": 32},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1411.png"
+    },
+    {
+      "name": "Ceinture du Paladin",
+      "type": "Ceinture",
+      "level": 70,
+      "description": "Une ceinture sacrée.",
+      "stats": {"force": 32, "intelligence": 32, "vitalite": 45, "sagesse": 25},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1523.png"
+    },
+    {
+      "name": "Ceinture de l'Assassin",
+      "type": "Ceinture",
+      "level": 85,
+      "description": "Une ceinture pour les assassins.",
+      "stats": {"agilite": 45, "force": 28, "vitalite": 35, "chance": 28},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1623.png"
+    },
+    {
+      "name": "Ceinture du Druide",
+      "type": "Ceinture",
+      "level": 95,
+      "description": "Une ceinture pour les druides.",
+      "stats": {"intelligence": 40, "sagesse": 35, "vitalite": 50, "chance": 32},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1689.png"
+    },
+    {
+      "name": "Ceinture du Maître",
+      "type": "Ceinture",
+      "level": 130,
+      "description": "Une ceinture pour les maîtres.",
+      "stats": {"force": 60, "intelligence": 45, "vitalite": 65, "sagesse": 40},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1867.png"
+    },
+    {
+      "name": "Ceinture du Héros",
+      "type": "Ceinture",
+      "level": 160,
+      "description": "Une ceinture héroïque.",
+      "stats": {"force": 80, "intelligence": 65, "vitalite": 85, "sagesse": 55, "agilite": 45},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2100.png"
+    },
+    {
+      "name": "Ceinture du Gardien",
+      "type": "Ceinture",
+      "level": 190,
+      "description": "Une ceinture pour les gardiens.",
+      "stats": {"force": 105, "intelligence": 105, "vitalite": 125, "sagesse": 65, "agilite": 55, "chance": 55},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2356.png"
+    },
+    {
+      "name": "Bottes de l'Aventurier",
+      "type": "Bottes",
+      "level": 1,
+      "description": "Des bottes pour les débutants.",
+      "stats": {"vitalite": 10},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1012.png"
+    },
+    {
+      "name": "Bottes du Mercenaire",
+      "type": "Bottes",
+      "level": 20,
+      "description": "Des bottes pour les mercenaires.",
+      "stats": {"force": 18, "vitalite": 22, "agilite": 10, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1178.png"
+    },
+    {
+      "name": "Bottes du Chasseur",
+      "type": "Bottes",
+      "level": 35,
+      "description": "Des bottes pour les chasseurs.",
+      "stats": {"agilite": 25, "vitalite": 28, "force": 15, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1290.png"
+    },
+    {
+      "name": "Bottes du Sorcier",
+      "type": "Bottes",
+      "level": 50,
+      "description": "Des bottes magiques.",
+      "stats": {"intelligence": 38, "sagesse": 28, "vitalite": 35, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1400.png"
+    },
+    {
+      "name": "Bottes du Paladin",
+      "type": "Bottes",
+      "level": 70,
+      "description": "Des bottes sacrées.",
+      "stats": {"force": 35, "intelligence": 35, "vitalite": 48, "sagesse": 28, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1512.png"
+    },
+    {
+      "name": "Bottes de l'Assassin",
+      "type": "Bottes",
+      "level": 85,
+      "description": "Des bottes pour les assassins.",
+      "stats": {"agilite": 48, "force": 30, "vitalite": 40, "chance": 30, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1601.png"
+    },
+    {
+      "name": "Bottes du Druide",
+      "type": "Bottes",
+      "level": 95,
+      "description": "Des bottes pour les druides.",
+      "stats": {"intelligence": 42, "sagesse": 38, "vitalite": 52, "chance": 35, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1678.png"
+    },
+    {
+      "name": "Bottes du Maître",
+      "type": "Bottes",
+      "level": 130,
+      "description": "Des bottes pour les maîtres.",
+      "stats": {"force": 68, "intelligence": 52, "vitalite": 72, "sagesse": 45, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/1856.png"
+    },
+    {
+      "name": "Bottes du Héros",
+      "type": "Bottes",
+      "level": 160,
+      "description": "Des bottes héroïques.",
+      "stats": {"force": 88, "intelligence": 72, "vitalite": 98, "sagesse": 58, "agilite": 48, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2089.png"
+    },
+    {
+      "name": "Bottes du Gardien",
+      "type": "Bottes",
+      "level": 190,
+      "description": "Des bottes pour les gardiens.",
+      "stats": {"force": 115, "intelligence": 115, "vitalite": 138, "sagesse": 68, "agilite": 58, "chance": 58, "pm": 1},
+      "image_url": "https://static.ankama.com/dofus/www/game/items/200/2345.png"
+    }
+  ]
+}

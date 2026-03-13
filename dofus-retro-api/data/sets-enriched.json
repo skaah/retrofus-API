@@ -1,0 +1,436 @@
+{
+  "sets": [
+    {
+      "name": "Panoplie du Bouftou",
+      "level": 10,
+      "items": ["Amulette du Bouftou", "Anneau du Bouftou", "Bottes du Bouftou", "Cape du Bouftou", "Ceinture du Bouftou", "Coiffe du Bouftou"],
+      "bonus": {
+        "2_items": { "vitalite": 10 },
+        "3_items": { "vitalite": 20, "force": 5 },
+        "4_items": { "vitalite": 40, "force": 10 },
+        "5_items": { "vitalite": 60, "force": 15, "sagesse": 10 },
+        "6_items": { "vitalite": 100, "force": 20, "sagesse": 20, "prospection": 10 }
+      }
+    },
+    {
+      "name": "Panoplie du Prespic",
+      "level": 18,
+      "items": ["Amulette du Prespic", "Anneau du Prespic", "Bottes du Prespic", "Cape du Prespic", "Ceinture du Prespic", "Coiffe du Prespic"],
+      "bonus": {
+        "2_items": { "sagesse": 5 },
+        "3_items": { "sagesse": 10, "vitalite": 15 },
+        "4_items": { "sagesse": 15, "vitalite": 30, "intelligence": 5 },
+        "5_items": { "sagesse": 25, "vitalite": 50, "intelligence": 10, "chance": 5 },
+        "6_items": { "sagesse": 40, "vitalite": 80, "intelligence": 20, "chance": 10, "prospection": 10 }
+      }
+    },
+    {
+      "name": "Panoplie du Tofu",
+      "level": 12,
+      "items": ["Amulette du Tofu", "Anneau du Tofu", "Bottes du Tofu", "Cape du Tofu", "Ceinture du Tofu", "Coiffe du Tofu"],
+      "bonus": {
+        "2_items": { "agilite": 5 },
+        "3_items": { "agilite": 10, "vitalite": 15 },
+        "4_items": { "agilite": 20, "vitalite": 25, "pm": 1 },
+        "5_items": { "agilite": 30, "vitalite": 40, "pm": 1, "chance": 10 },
+        "6_items": { "agilite": 50, "vitalite": 60, "pm": 1, "chance": 20, "initiative": 100 }
+      }
+    },
+    {
+      "name": "Panoplie du Champ Champ",
+      "level": 22,
+      "items": ["Amulette du Champ Champ", "Anneau du Champ Champ", "Bottes du Champ Champ", "Cape du Champ Champ", "Ceinture du Champ Champ", "Coiffe du Champ Champ"],
+      "bonus": {
+        "2_items": { "vitalite": 15 },
+        "3_items": { "vitalite": 30, "intelligence": 5 },
+        "4_items": { "vitalite": 50, "intelligence": 10, "sagesse": 5 },
+        "5_items": { "vitalite": 80, "intelligence": 20, "sagesse": 10, "chance": 10 },
+        "6_items": { "vitalite": 120, "intelligence": 35, "sagesse": 20, "chance": 20, "dommages": 5 }
+      }
+    },
+    {
+      "name": "Panoplie du Piou",
+      "level": 1,
+      "items": ["Amulette du Piou", "Anneau du Piou", "Bottes du Piou", "Cape du Piou", "Ceinture du Piou", "Coiffe du Piou"],
+      "bonus": {
+        "2_items": { "vitalite": 5 },
+        "3_items": { "vitalite": 10, "force": 5 },
+        "4_items": { "vitalite": 20, "force": 10, "agilite": 5 },
+        "5_items": { "vitalite": 35, "force": 15, "agilite": 10, "chance": 5 },
+        "6_items": { "vitalite": 50, "force": 20, "agilite": 15, "chance": 10, "intelligence": 10 }
+      }
+    },
+    {
+      "name": "Panoplie du Bandit",
+      "level": 65,
+      "items": ["Amulette du Bandit", "Anneau du Bandit", "Bottes du Bandit", "Cape du Bandit", "Ceinture du Bandit", "Coiffe du Bandit"],
+      "bonus": {
+        "2_items": { "chance": 10 },
+        "3_items": { "chance": 20, "vitalite": 30 },
+        "4_items": { "chance": 35, "vitalite": 50, "agilite": 10 },
+        "5_items": { "chance": 50, "vitalite": 80, "agilite": 20, "sagesse": 10 },
+        "6_items": { "chance": 70, "vitalite": 120, "agilite": 30, "sagesse": 20, "prospection": 20 }
+      }
+    },
+    {
+      "name": "Panoplie du Bwork",
+      "level": 70,
+      "items": ["Amulette du Bwork", "Anneau du Bwork", "Bottes du Bwork", "Cape du Bwork", "Ceinture du Bwork", "Coiffe du Bwork"],
+      "bonus": {
+        "2_items": { "force": 15 },
+        "3_items": { "force": 30, "vitalite": 40 },
+        "4_items": { "force": 50, "vitalite": 70, "intelligence": 15 },
+        "5_items": { "force": 75, "vitalite": 100, "intelligence": 25, "sagesse": 10 },
+        "6_items": { "force": 100, "vitalite": 150, "intelligence": 40, "sagesse": 20, "dommages": 8 }
+      }
+    },
+    {
+      "name": "Panoplie du Wabbit",
+      "level": 80,
+      "items": ["Amulette du Wabbit", "Anneau du Wabbit", "Bottes du Wabbit", "Cape du Wabbit", "Ceinture du Wabbit", "Coiffe du Wabbit"],
+      "bonus": {
+        "2_items": { "intelligence": 15 },
+        "3_items": { "intelligence": 30, "vitalite": 40 },
+        "4_items": { "intelligence": 50, "vitalite": 70, "sagesse": 15 },
+        "5_items": { "intelligence": 75, "vitalite": 100, "sagesse": 25, "pm": 1 },
+        "6_items": { "intelligence": 100, "vitalite": 150, "sagesse": 40, "pm": 1, "dommages": 10 }
+      }
+    },
+    {
+      "name": "Panoplie du Dragon Cochon",
+      "level": 95,
+      "items": ["Amulette du Dragon Cochon", "Anneau du Dragon Cochon", "Bottes du Dragon Cochon", "Cape du Dragon Cochon", "Ceinture du Dragon Cochon", "Coiffe du Dragon Cochon"],
+      "bonus": {
+        "2_items": { "force": 20 },
+        "3_items": { "force": 40, "vitalite": 50 },
+        "4_items": { "force": 60, "vitalite": 80, "chance": 20 },
+        "5_items": { "force": 85, "vitalite": 120, "chance": 35, "sagesse": 15 },
+        "6_items": { "force": 120, "vitalite": 180, "chance": 50, "sagesse": 30, "pa": 1 }
+      }
+    },
+    {
+      "name": "Panoplie du Blop Reinette",
+      "level": 60,
+      "items": ["Amulette du Blop Reinette", "Anneau du Blop Reinette", "Bottes du Blop Reinette", "Cape du Blop Reinette", "Ceinture du Blop Reinette", "Coiffe du Blop Reinette"],
+      "bonus": {
+        "2_items": { "force": 10 },
+        "3_items": { "force": 20, "vitalite": 30 },
+        "4_items": { "force": 35, "vitalite": 50, "intelligence": 10 },
+        "5_items": { "force": 50, "vitalite": 80, "intelligence": 20, "sagesse": 10 },
+        "6_items": { "force": 70, "vitalite": 120, "intelligence": 35, "sagesse": 20, "initiative": 200 }
+      }
+    },
+    {
+      "name": "Panoplie du Blop Griotte",
+      "level": 60,
+      "items": ["Amulette du Blop Griotte", "Anneau du Blop Griotte", "Bottes du Blop Griotte", "Cape du Blop Griotte", "Ceinture du Blop Griotte", "Coiffe du Blop Griotte"],
+      "bonus": {
+        "2_items": { "intelligence": 10 },
+        "3_items": { "intelligence": 20, "vitalite": 30 },
+        "4_items": { "intelligence": 35, "vitalite": 50, "force": 10 },
+        "5_items": { "intelligence": 50, "vitalite": 80, "force": 20, "sagesse": 10 },
+        "6_items": { "intelligence": 70, "vitalite": 120, "force": 35, "sagesse": 20, "initiative": 200 }
+      }
+    },
+    {
+      "name": "Panoplie du Blop Indigo",
+      "level": 60,
+      "items": ["Amulette du Blop Indigo", "Anneau du Blop Indigo", "Bottes du Blop Indigo", "Cape du Blop Indigo", "Ceinture du Blop Indigo", "Coiffe du Blop Indigo"],
+      "bonus": {
+        "2_items": { "chance": 10 },
+        "3_items": { "chance": 20, "vitalite": 30 },
+        "4_items": { "chance": 35, "vitalite": 50, "agilite": 10 },
+        "5_items": { "chance": 50, "vitalite": 80, "agilite": 20, "sagesse": 10 },
+        "6_items": { "chance": 70, "vitalite": 120, "agilite": 35, "sagesse": 20, "initiative": 200 }
+      }
+    },
+    {
+      "name": "Panoplie du Blop Coco",
+      "level": 60,
+      "items": ["Amulette du Blop Coco", "Anneau du Blop Coco", "Bottes du Blop Coco", "Cape du Blop Coco", "Ceinture du Blop Coco", "Coiffe du Blop Coco"],
+      "bonus": {
+        "2_items": { "agilite": 10 },
+        "3_items": { "agilite": 20, "vitalite": 30 },
+        "4_items": { "agilite": 35, "vitalite": 50, "chance": 10 },
+        "5_items": { "agilite": 50, "vitalite": 80, "chance": 20, "sagesse": 10 },
+        "6_items": { "agilite": 70, "vitalite": 120, "chance": 35, "sagesse": 20, "initiative": 200 }
+      }
+    },
+    {
+      "name": "Panoplie du Craqueleur",
+      "level": 55,
+      "items": ["Amulette du Craqueleur", "Anneau du Craqueleur", "Bottes du Craqueleur", "Cape du Craqueleur", "Ceinture du Craqueleur", "Coiffe du Craqueleur"],
+      "bonus": {
+        "2_items": { "force": 10 },
+        "3_items": { "force": 20, "vitalite": 40 },
+        "4_items": { "force": 35, "vitalite": 70, "sagesse": 10 },
+        "5_items": { "force": 55, "vitalite": 100, "sagesse": 20, "chance": 10 },
+        "6_items": { "force": 80, "vitalite": 150, "sagesse": 35, "chance": 20, "resistance_neutre": 5 }
+      }
+    },
+    {
+      "name": "Panoplie du Moskito",
+      "level": 45,
+      "items": ["Amulette du Moskito", "Anneau du Moskito", "Bottes du Moskito", "Cape du Moskito", "Ceinture du Moskito", "Coiffe du Moskito"],
+      "bonus": {
+        "2_items": { "agilite": 10 },
+        "3_items": { "agilite": 20, "vitalite": 25 },
+        "4_items": { "agilite": 35, "vitalite": 45, "chance": 10 },
+        "5_items": { "agilite": 50, "vitalite": 70, "chance": 20, "sagesse": 10 },
+        "6_items": { "agilite": 70, "vitalite": 100, "chance": 35, "sagesse": 20, "fuite": 10 }
+      }
+    },
+    {
+      "name": "Panoplie du Dragoeuf",
+      "level": 140,
+      "items": ["Amulette du Dragoeuf", "Anneau du Dragoeuf", "Bottes du Dragoeuf", "Cape du Dragoeuf", "Ceinture du Dragoeuf", "Coiffe du Dragoeuf", "Bouclier du Dragoeuf", "Arme du Dragoeuf"],
+      "bonus": {
+        "2_items": { "vitalite": 50 },
+        "3_items": { "vitalite": 100, "force": 20 },
+        "4_items": { "vitalite": 150, "force": 40, "intelligence": 20 },
+        "5_items": { "vitalite": 200, "force": 60, "intelligence": 40, "sagesse": 20 },
+        "6_items": { "vitalite": 250, "force": 80, "intelligence": 60, "sagesse": 40, "chance": 30 },
+        "7_items": { "vitalite": 300, "force": 100, "intelligence": 80, "sagesse": 60, "chance": 50, "agilite": 40 },
+        "8_items": { "vitalite": 400, "force": 120, "intelligence": 100, "sagesse": 80, "chance": 70, "agilite": 60, "pa": 1 }
+      }
+    },
+    {
+      "name": "Panoplie du Minotot",
+      "level": 160,
+      "items": ["Amulette du Minotot", "Anneau du Minotot", "Bottes du Minotot", "Cape du Minotot", "Ceinture du Minotot", "Coiffe du Minotot", "Bouclier du Minotot", "Arme du Minotot"],
+      "bonus": {
+        "2_items": { "force": 30 },
+        "3_items": { "force": 60, "vitalite": 50 },
+        "4_items": { "force": 100, "vitalite": 100, "sagesse": 30 },
+        "5_items": { "force": 150, "vitalite": 150, "sagesse": 60, "agilite": 30 },
+        "6_items": { "force": 200, "vitalite": 200, "sagesse": 100, "agilite": 60, "chance": 40 },
+        "7_items": { "force": 250, "vitalite": 250, "sagesse": 150, "agilite": 100, "chance": 70, "intelligence": 50 },
+        "8_items": { "force": 300, "vitalite": 300, "sagesse": 200, "agilite": 150, "chance": 100, "intelligence": 80, "pa": 1 }
+      }
+    },
+    {
+      "name": "Panoplie du Silf",
+      "level": 130,
+      "items": ["Amulette du Silf", "Anneau du Silf", "Bottes du Silf", "Cape du Silf", "Ceinture du Silf", "Coiffe du Silf", "Arme du Silf"],
+      "bonus": {
+        "2_items": { "intelligence": 20 },
+        "3_items": { "intelligence": 40, "vitalite": 50 },
+        "4_items": { "intelligence": 70, "vitalite": 100, "chance": 20 },
+        "5_items": { "intelligence": 100, "vitalite": 150, "chance": 40, "sagesse": 30 },
+        "6_items": { "intelligence": 140, "vitalite": 200, "chance": 70, "sagesse": 60, "agilite": 40 },
+        "7_items": { "intelligence": 180, "vitalite": 250, "chance": 100, "sagesse": 90, "agilite": 70, "force": 50 }
+      }
+    },
+    {
+      "name": "Panoplie du Tanukouï San",
+      "level": 145,
+      "items": ["Amulette du Tanukouï San", "Anneau du Tanukouï San", "Bottes du Tanukouï San", "Cape du Tanukouï San", "Ceinture du Tanukouï San", "Coiffe du Tanukouï San", "Arme du Tanukouï San"],
+      "bonus": {
+        "2_items": { "agilite": 20 },
+        "3_items": { "agilite": 40, "vitalite": 50 },
+        "4_items": { "agilite": 70, "vitalite": 100, "force": 20 },
+        "5_items": { "agilite": 100, "vitalite": 150, "force": 40, "sagesse": 30 },
+        "6_items": { "agilite": 140, "vitalite": 200, "force": 70, "sagesse": 60, "chance": 40 },
+        "7_items": { "agilite": 180, "vitalite": 250, "force": 100, "sagesse": 90, "chance": 70, "intelligence": 50 }
+      }
+    },
+    {
+      "name": "Panoplie du Ougah",
+      "level": 175,
+      "items": ["Amulette du Ougah", "Anneau du Ougah", "Bottes du Ougah", "Cape du Ougah", "Ceinture du Ougah", "Coiffe du Ougah", "Bouclier du Ougah", "Arme du Ougah"],
+      "bonus": {
+        "2_items": { "vitalite": 50 },
+        "3_items": { "vitalite": 100, "force": 30 },
+        "4_items": { "vitalite": 150, "force": 60, "intelligence": 30 },
+        "5_items": { "vitalite": 200, "force": 100, "intelligence": 60, "sagesse": 40 },
+        "6_items": { "vitalite": 250, "force": 150, "intelligence": 100, "sagesse": 70, "chance": 50 },
+        "7_items": { "vitalite": 300, "force": 200, "intelligence": 140, "sagesse": 100, "chance": 80, "agilite": 60 },
+        "8_items": { "vitalite": 400, "force": 250, "intelligence": 180, "sagesse": 130, "chance": 110, "agilite": 90, "pm": 1 }
+      }
+    },
+    {
+      "name": "Panoplie du Kimbo",
+      "level": 155,
+      "items": ["Amulette du Kimbo", "Anneau du Kimbo", "Bottes du Kimbo", "Cape du Kimbo", "Ceinture du Kimbo", "Coiffe du Kimbo", "Arme du Kimbo"],
+      "bonus": {
+        "2_items": { "sagesse": 20 },
+        "3_items": { "sagesse": 40, "vitalite": 50 },
+        "4_items": { "sagesse": 70, "vitalite": 100, "intelligence": 20 },
+        "5_items": { "sagesse": 100, "vitalite": 150, "intelligence": 40, "chance": 30 },
+        "6_items": { "sagesse": 140, "vitalite": 200, "intelligence": 70, "chance": 60, "force": 40 },
+        "7_items": { "sagesse": 180, "vitalite": 250, "intelligence": 100, "chance": 90, "force": 70, "agilite": 50 }
+      }
+    },
+    {
+      "name": "Panoplie du Glourmand",
+      "level": 185,
+      "items": ["Amulette du Glourmand", "Anneau du Glourmand", "Bottes du Glourmand", "Cape du Glourmand", "Ceinture du Glourmand", "Coiffe du Glourmand", "Bouclier du Glourmand", "Arme du Glourmand"],
+      "bonus": {
+        "2_items": { "chance": 30 },
+        "3_items": { "chance": 60, "vitalite": 50 },
+        "4_items": { "chance": 100, "vitalite": 100, "agilite": 30 },
+        "5_items": { "chance": 150, "vitalite": 150, "agilite": 60, "sagesse": 40 },
+        "6_items": { "chance": 200, "vitalite": 200, "agilite": 100, "sagesse": 70, "force": 50 },
+        "7_items": { "chance": 250, "vitalite": 250, "agilite": 140, "sagesse": 100, "force": 80, "intelligence": 60 },
+        "8_items": { "chance": 300, "vitalite": 300, "agilite": 180, "sagesse": 130, "force": 110, "intelligence": 90, "pa": 1 }
+      }
+    },
+    {
+      "name": "Panoplie du Tynril",
+      "level": 165,
+      "items": ["Amulette du Tynril", "Anneau du Tynril", "Bottes du Tynril", "Cape du Tynril", "Ceinture du Tynril", "Coiffe du Tynril", "Arme du Tynril"],
+      "bonus": {
+        "2_items": { "intelligence": 25 },
+        "3_items": { "intelligence": 50, "vitalite": 50 },
+        "4_items": { "intelligence": 90, "vitalite": 100, "sagesse": 25 },
+        "5_items": { "intelligence": 130, "vitalite": 150, "sagesse": 50, "chance": 35 },
+        "6_items": { "intelligence": 170, "vitalite": 200, "sagesse": 80, "chance": 65, "agilite": 45 },
+        "7_items": { "intelligence": 210, "vitalite": 250, "sagesse": 110, "chance": 95, "agilite": 75, "force": 55 }
+      }
+    },
+    {
+      "name": "Panoplie du XLII",
+      "level": 195,
+      "items": ["Amulette du XLII", "Anneau du XLII", "Bottes du XLII", "Cape du XLII", "Ceinture du XLII", "Coiffe du XLII", "Bouclier du XLII", "Arme du XLII"],
+      "bonus": {
+        "2_items": { "force": 40 },
+        "3_items": { "force": 80, "vitalite": 50 },
+        "4_items": { "force": 130, "vitalite": 100, "intelligence": 40 },
+        "5_items": { "force": 190, "vitalite": 150, "intelligence": 80, "sagesse": 50 },
+        "6_items": { "force": 250, "vitalite": 200, "intelligence": 120, "sagesse": 90, "chance": 60 },
+        "7_items": { "force": 310, "vitalite": 250, "intelligence": 160, "sagesse": 130, "chance": 100, "agilite": 70 },
+        "8_items": { "force": 370, "vitalite": 300, "intelligence": 200, "sagesse": 170, "chance": 140, "agilite": 110, "pa": 1 }
+      }
+    },
+    {
+      "name": "Panoplie du Rasboul",
+      "level": 190,
+      "items": ["Amulette du Rasboul", "Anneau du Rasboul", "Bottes du Rasboul", "Cape du Rasboul", "Ceinture du Rasboul", "Coiffe du Rasboul", "Arme du Rasboul"],
+      "bonus": {
+        "2_items": { "vitalite": 50 },
+        "3_items": { "vitalite": 100, "agilite": 30 },
+        "4_items": { "vitalite": 150, "agilite": 60, "chance": 30 },
+        "5_items": { "vitalite": 200, "agilite": 100, "chance": 60, "sagesse": 40 },
+        "6_items": { "vitalite": 250, "agilite": 140, "chance": 100, "sagesse": 70, "force": 50 },
+        "7_items": { "vitalite": 300, "agilite": 180, "chance": 140, "sagesse": 100, "force": 80, "intelligence": 60 }
+      }
+    },
+    {
+      "name": "Panoplie de la Larve",
+      "level": 6,
+      "items": ["Amulette de la Larve", "Anneau de la Larve", "Bottes de la Larve", "Cape de la Larve", "Ceinture de la Larve"],
+      "bonus": {
+        "2_items": { "vitalite": 5 },
+        "3_items": { "vitalite": 10, "sagesse": 5 },
+        "4_items": { "vitalite": 20, "sagesse": 10, "chance": 5 },
+        "5_items": { "vitalite": 35, "sagesse": 15, "chance": 10, "prospection": 5 }
+      }
+    },
+    {
+      "name": "Panoplie de l'Arakne",
+      "level": 14,
+      "items": ["Amulette de l'Arakne", "Anneau de l'Arakne", "Bottes de l'Arakne", "Cape de l'Arakne", "Ceinture de l'Arakne"],
+      "bonus": {
+        "2_items": { "chance": 5 },
+        "3_items": { "chance": 10, "vitalite": 10 },
+        "4_items": { "chance": 20, "vitalite": 20, "agilite": 5 },
+        "5_items": { "chance": 30, "vitalite": 35, "agilite": 10, "sagesse": 5 }
+      }
+    },
+    {
+      "name": "Panoplie du Chafer",
+      "level": 38,
+      "items": ["Amulette du Chafer", "Anneau du Chafer", "Bottes du Chafer", "Cape du Chafer", "Ceinture du Chafer", "Coiffe du Chafer"],
+      "bonus": {
+        "2_items": { "force": 8 },
+        "3_items": { "force": 15, "vitalite": 20 },
+        "4_items": { "force": 25, "vitalite": 35, "intelligence": 8 },
+        "5_items": { "force": 40, "vitalite": 55, "intelligence": 15, "sagesse": 8 },
+        "6_items": { "force": 60, "vitalite": 80, "intelligence": 25, "sagesse": 15, "resistance_neutre": 3 }
+      }
+    },
+    {
+      "name": "Panoplie du Boufton Royal",
+      "level": 35,
+      "items": ["Amulette du Boufton Royal", "Anneau du Boufton Royal", "Bottes du Boufton Royal", "Cape du Boufton Royal", "Ceinture du Boufton Royal", "Coiffe du Boufton Royal"],
+      "bonus": {
+        "2_items": { "vitalite": 15 },
+        "3_items": { "vitalite": 30, "force": 10 },
+        "4_items": { "vitalite": 50, "force": 20, "chance": 8 },
+        "5_items": { "vitalite": 75, "force": 35, "chance": 15, "sagesse": 10 },
+        "6_items": { "vitalite": 110, "force": 50, "chance": 25, "sagesse": 20, "prospection": 10 }
+      }
+    },
+    {
+      "name": "Panoplie du Mulou",
+      "level": 75,
+      "items": ["Amulette du Mulou", "Anneau du Mulou", "Bottes du Mulou", "Cape du Mulou", "Ceinture du Mulou", "Coiffe du Mulou"],
+      "bonus": {
+        "2_items": { "agilite": 12 },
+        "3_items": { "agilite": 25, "vitalite": 35 },
+        "4_items": { "agilite": 45, "vitalite": 60, "force": 12 },
+        "5_items": { "agilite": 70, "vitalite": 90, "force": 25, "chance": 12 },
+        "6_items": { "agilite": 100, "vitalite": 130, "force": 40, "chance": 25, "initiative": 150 }
+      }
+    },
+    {
+      "name": "Panoplie du Kanniboul",
+      "level": 85,
+      "items": ["Amulette du Kanniboul", "Anneau du Kanniboul", "Bottes du Kanniboul", "Cape du Kanniboul", "Ceinture du Kanniboul", "Coiffe du Kanniboul"],
+      "bonus": {
+        "2_items": { "force": 15 },
+        "3_items": { "force": 30, "vitalite": 40 },
+        "4_items": { "force": 50, "vitalite": 70, "agilite": 15 },
+        "5_items": { "force": 75, "vitalite": 100, "agilite": 30, "sagesse": 15 },
+        "6_items": { "force": 100, "vitalite": 140, "agilite": 50, "sagesse": 30, "dommages": 6 }
+      }
+    },
+    {
+      "name": "Panoplie du Scarafeuille",
+      "level": 42,
+      "items": ["Amulette du Scarafeuille", "Anneau du Scarafeuille", "Bottes du Scarafeuille", "Cape du Scarafeuille", "Ceinture du Scarafeuille"],
+      "bonus": {
+        "2_items": { "intelligence": 8 },
+        "3_items": { "intelligence": 15, "vitalite": 20 },
+        "4_items": { "intelligence": 25, "vitalite": 35, "chance": 8 },
+        "5_items": { "intelligence": 40, "vitalite": 55, "chance": 15, "sagesse": 8 }
+      }
+    },
+    {
+      "name": "Panoplie du Kanigrou",
+      "level": 90,
+      "items": ["Amulette du Kanigrou", "Anneau du Kanigrou", "Bottes du Kanigrou", "Cape du Kanigrou", "Ceinture du Kanigrou", "Coiffe du Kanigrou"],
+      "bonus": {
+        "2_items": { "chance": 15 },
+        "3_items": { "chance": 30, "vitalite": 40 },
+        "4_items": { "chance": 50, "vitalite": 70, "intelligence": 15 },
+        "5_items": { "chance": 75, "vitalite": 100, "intelligence": 30, "agilite": 15 },
+        "6_items": { "chance": 100, "vitalite": 140, "intelligence": 50, "agilite": 30, "pm": 1 }
+      }
+    },
+    {
+      "name": "Panoplie du Chef Crocodaille",
+      "level": 110,
+      "items": ["Amulette du Chef Crocodaille", "Anneau du Chef Crocodaille", "Bottes du Chef Crocodaille", "Cape du Chef Crocodaille", "Ceinture du Chef Crocodaille", "Coiffe du Chef Crocodaille"],
+      "bonus": {
+        "2_items": { "vitalite": 30 },
+        "3_items": { "vitalite": 60, "force": 20 },
+        "4_items": { "vitalite": 100, "force": 40, "chance": 20 },
+        "5_items": { "vitalite": 150, "force": 65, "chance": 40, "sagesse": 20 },
+        "6_items": { "vitalite": 220, "force": 90, "chance": 65, "sagesse": 40, "dommages": 8 }
+      }
+    },
+    {
+      "name": "Panoplie du Maître Corbac",
+      "level": 125,
+      "items": ["Amulette du Maître Corbac", "Anneau du Maître Corbac", "Bottes du Maître Corbac", "Cape du Maître Corbac", "Ceinture du Maître Corbac", "Coiffe du Maître Corbac"],
+      "bonus": {
+        "2_items": { "sagesse": 15 },
+        "3_items": { "sagesse": 30, "vitalite": 40 },
+        "4_items": { "sagesse": 50, "vitalite": 70, "intelligence": 20 },
+        "5_items": { "sagesse": 75, "vitalite": 100, "intelligence": 40, "agilite": 20 },
+        "6_items": { "sagesse": 100, "vitalite": 140, "intelligence": 65, "agilite": 40, "prospection": 15 }
+      }
+    }
+  ]
+}
