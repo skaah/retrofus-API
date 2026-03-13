@@ -1,6 +1,8 @@
-# 🎯 ROADMAP API Dofus Retro - Deadline 31/03/2026
+# 🎯 ROADMAP API Dofus Retro - Prêt pour le 31/03/2026
 
-> **Objectif** : API la plus complète du marché pour le lancement du nouveau serveur
+> **Projet** : Dofus Retro API (en cours depuis 2 jours)
+> **Événement** : Ouverture nouveau serveur Dofus Retro le 31 mars 2026
+> **Objectif** : API 100% opérationnelle et la plus complète pour le lancement
 > **Date butoir** : 31 mars 2026
 > **Jours restants** : ~18 jours
 
