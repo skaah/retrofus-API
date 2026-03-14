@@ -1,0 +1,4504 @@
+{
+  "url": "https://retro.dofusbook.net/fr/encyclopedie/armes",
+  "timestamp": "2026-03-14T19:21:28.841Z",
+  "items": [
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Armes 748"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Épée Maudite du Saigneur Guerrier",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6083-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Faux maudite du Saigneur Guerrier",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/22003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "L'Arc Adie",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2069-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Pandalache",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19059-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Pelle Emélaka",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8051-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Bâton Champmanique",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4080-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Couteaux à Champignons",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5069-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Arc à Lamelles",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2061-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Az'tech",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6079-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Rhizome du Tynril",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4077-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Arc Oleptik",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2060-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Épée Loponèze",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6085-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Baguetterelle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3066-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Lame Assacre",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5070-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.849Z",
+      "name": "Ougarteau",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7067-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Kukri Kura",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6080-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Marteau Minokers",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7062-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "L'Épée Nice",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6076-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Hache à Lamelles",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19051-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "la Bêche à Mel",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8048-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Rod Gerse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4059-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Dague Adou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5065-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Baguette du Chêne Mou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3042-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Dagues Eudin",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5066-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "L'Épée Rilleuse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6066-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Fuschia",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6078-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Hache Sueur Rance",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19049-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Hache Harnée",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19050-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Dagues Ruik",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5067-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Bâton du Maître Zoth",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4076-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Karnak",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6060-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Pelle Aigante",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8050-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Arc à Chon",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2059-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Sceptre du Minotot",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4067-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Marteau Bleuronne",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7053-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Dagues Lassay",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5044-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Épée en diamant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6103-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Épée en diamant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6103-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Épée en diamant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6103-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Épée en diamant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6103-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Kriss Toubal",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5068-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Griffe Pourpre",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6072-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "La Xyothine",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3053-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Racine de Floribonde",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4079-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Le Sabre Ayassalama",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6067-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.850Z",
+      "name": "Racine Cithi",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4053-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Arc Hisedaisange",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2048-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Marteau Lahre",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7047-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Dagues Réceuses",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5047-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Pelle Rhon",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8041-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Marteau Mawoque",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7056-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Hache du Guerrier Zoth",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19047-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Racine de Fécorce",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4078-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Baguette Iots",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3057-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Pelle Shattkitou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8049-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Poolache",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19048-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Les Dagues du Bouwin",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5056-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Glaive Icération",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6063-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Marteau Pinière",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7052-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "La Canne Bière",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4065-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Branche de l'Abrakleur clair",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3065-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Marteau de la Gamine Zoth",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7064-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Pelle à Gâteau",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8043-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Arc Lavoine",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2046-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Arc Chtelion",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2054-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Marteau Xiko",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7057-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Kelinobranche",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4038-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Dagues du Dragoeuf",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5058-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Le Fendoir Tichaud",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19041-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Baguette Gyver",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3056-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Pelle Dragoeuf",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8045-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Épée du Dragoeuf",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6068-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Sertisseur de Ramougre",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5049-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.851Z",
+      "name": "Baguette Ourderie",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3047-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Hache du Dragoeuf",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19043-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Baguette Houalle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3055-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Épée du Dark Vlad",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6061-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Marteau Hubohu",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7051-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Masse du Corailleur Magistral",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7063-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Bâton du Dragoeuf",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4066-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Baguette du Dragoeuf",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3060-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Jakchir Arc",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2050-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Arc Huledela",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2047-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Marteau Ksain",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7049-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Marteau du Dragoeuf",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7059-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Kask'Arc Go",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2058-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Arc du Dragoeuf",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2055-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Arc Rainier",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2053-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Pelle Hikule",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8036-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Dagues R'Hoh",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5041-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Arc Hanne",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2044-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Bâton de Sangroku",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4047-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Pelle du Mineur Sombre",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8034-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "La Racine Hagogue",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4040-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "La Racine Cinati",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4039-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Amrothiline",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3044-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Marteau Ridhe",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7042-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Marteau Kahr",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7041-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Marteau R'Ticolis",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7040-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Baguette d'Elya Wood",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3039-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Arc du Chafer Archer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2039-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Arc Chitecte",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2030-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Dague Régah",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5034-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Épée en or",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6102-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Épée en or",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6102-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Épée en or",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6102-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Épée en or",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6102-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "Tige du Brouture",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4075-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.852Z",
+      "name": "La Hache Menbien",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19039-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Pelle Moh",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8042-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Bâton des Caraïbes",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4064-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Dagues Rhumes",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5048-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Marteau Nairedeubrest",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7048-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Dagues de l'Apprenti Tueur de Bouftons",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5046-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "La Hache Ticot",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19040-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Baguette Houffe-Craitien",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3046-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Bâton de Marie Aigue",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4030-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Griffe de Grizmine",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6059-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Épée du Rat Blanc",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6071-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Hache du Minotoror",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19044-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Dagues du Rat Noir",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5059-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Le Bâton Cloutay",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4072-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Arc Assin",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2045-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Marteau Ronto",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7050-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Marteau M'Pouce",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7046-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Razoir du Soir",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6062-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Racine Sémilla",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4054-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "La Baguette des Limbes",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Baguette Rhon",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3049-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Baguette Nah",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3054-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Racine Hécure",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4057-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Racine Hécouanone",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4060-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Patte d'Ecaflip Parfaite",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6081-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Épée Doncule",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6073-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Dagues Maydhyn China",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5045-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Lame du Chef Bwork",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6048-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Marteau Réhadaure",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7037-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Griffe Rose",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6041-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Halle de Barde",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Hache du Yondanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19034-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Canne de Mamie Bonbon",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4048-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Branche de l'Abrakleur sombre",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3064-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Arc Anum",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2049-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Hache de Lookabeer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.853Z",
+      "name": "Épée Choh",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6077-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Épée qui Pète",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6075-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Baguette Velue",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3031-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Dague Rafeuse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5033-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Fausse Griffe de Ceangal",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6035-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Pelle Hébuse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Bâton du Féca",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4042-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Bâton du Yondanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4052-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Sabre Yondanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6058-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Fendeuse d'Abraknyde Ancestral",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Marteau de la Terps",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7038-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Arc du Sram Archer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2040-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Baguette Irréelle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3032-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Dague Lutination",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5035-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Hache de Dame Oise",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Épée en argent",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6101-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Épée en argent",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6101-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Épée en argent",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6101-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Épée en argent",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6101-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Racine Huzohide",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4055-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Pelle Mairhe",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8037-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Pelle Rinage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "La Pelle Hélabète",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8033-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Abraton Sombre",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4023-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Arc Chiduc",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Vouge à Poisson",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Racine Histre",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4056-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Racine Horodon",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4058-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Masse du Corailleur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7065-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "La Bastonneuze",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4073-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "La Migraine",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3045-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Baguette Molle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3033-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Bâton du Maître des Bouftous",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Pic à Glace",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.854Z",
+      "name": "Pelle Vaidaire",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8039-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Francique Basquaise",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Marteau Mato",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7061-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Hache Terrdala",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19032-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Hache du Sandanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19035-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Sabre Sandanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6057-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Daguette du Captain Chafer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5032-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "La Thor-Boyaux",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5031-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Marteau Nitruhant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7043-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Arc Ange",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2031-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Kaiser",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Marteau à Torts",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Geish'Arc",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2056-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Marteau du Craqueleur Légendaire",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7058-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Baguette Hincelle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3052-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Marteau Fantal",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7036-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Bâton d'Aga Dou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4031-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Hachette Savante",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Hache Eulouh",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19046-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Bâton de Shika",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4069-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Lames Sanglantes D'Ortimus Contrari",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Bâton du Sandanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4051-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Bâton de Farle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4043-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Baguette de Kouartz",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3041-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Dagues Hischantes",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5042-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Arc Boutant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Baguette Affeulante",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3024-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Neuf Queues",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "La Pelle du Large",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Kidorteau",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7066-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Marteau des Falistos",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "La Bidjiz",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3062-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Le Kikoularc",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2057-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Bardiche du Milicien",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Sabre Feudala",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6064-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Bâton du Koulosse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4062-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Baguette Helles",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Eventail Tranchant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6024-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.855Z",
+      "name": "Fendeuse d'Abraknyde",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19012-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Épée Zervatif",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6074-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Chakra Style",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Surpuissant Arc du Roi des Borins",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2023-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Bagdette Café",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3061-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Ares",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Excellente Baguette Meneuse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Pelle Gicque",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8035-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Bâton Lap'Louz'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4087-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Hache Per'Ge'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19056-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Baguette Euh'Laille'Fe'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3071-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Arc Ko'Neun'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2066-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Marteau Ni'Hok'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7073-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Pelle Hi'Sé'Moun'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8056-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Dague Ho'Rille'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5075-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Épée Cerp'Teurh'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6086-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Puissant marteau Pospodrol",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Pelle Minstère",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8046-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Lame du Chef Crocodaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6049-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Arc du Pêcheur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2032-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Épée Royale du Bouftou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6030-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Griffettes",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5062-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "La Griffe Aiguisée",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6034-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "God Rod",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Dagues Ruyère",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5061-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Hypnotique Dague Fourbesque",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Baguette en Racine d'Abraknyde Sombre",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3040-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Grande Baguette Meneuse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Elégant Arc du Roi des Borins",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2023-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Pelle Ripe",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8047-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Sabre Nidanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6056-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Trancheuse de Partie",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Coupeuse de Sifflet",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Ragnarok",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7055-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Grand Marteau Pospodrol",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Pieu Vampirique",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Imposante Pelle Woukuis",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Le Cutter Sanglant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6023-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.856Z",
+      "name": "Blessdags",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5055-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Superbe Dague Fourbesque",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Baguette Hylique",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3051-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Balgourde des Clairettes",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3043-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Hache Ebbah",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19045-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Dagues Aerdala",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5051-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Bâton du Nidanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4050-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Boulgourde des Clairières",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Baguette Meneuse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Arc du Koalak",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2052-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Découpeuse de Kralamoure",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Bâton Lav'Heur'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4086-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Hache Hev'Leu'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19053-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Baguette Ta'Lay'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3070-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Arc Heub'Huz'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2065-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Marteau Bo'Gan'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7070-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Pelle Rail'Zeur'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8055-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Dague Haih'Ri'Don'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5074-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Épée Rnoh'Hel'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6087-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Excellent Bâton des Rois",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Arc du Roi des Borins",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2023-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Marteau Pospodrol",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Bâton du Wobot",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4037-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Xaveur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Découpeuse de Yench",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "La Zulie Lame",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6015-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Pelle Sécutrice",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Grande Pelle Mechba",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Épée en bronze",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6100-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Épée en bronze",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6100-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Épée en bronze",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6100-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Épée en bronze",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6100-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Kryst O'Boul",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4063-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Grande Pelle Woukuis",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Baguette du Scarabosse Doré",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3059-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Hache du Nidanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19036-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Le Tison Fûté",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3012-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Dague Fourbesque",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Bâton du Bwork Mage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Le Grand Cutter",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6023-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Marteau Polpoulette",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7035-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Le Tronknydum",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2041-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Hache Darsson",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Petite Baguette Meneuse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.857Z",
+      "name": "Arc de Cristal Pur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Puissante lame de Fon",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Arc de Kuri",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2043-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Bâton du Maître des Tofus",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Hook",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Traumatisante Baguette d'Houvette",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Petit Marteau Pospodrol",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Hache du Mulou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19042-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Marteau Réfacteur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7044-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Pelle Zébuth",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8040-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Marteau Re'Thu",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Petit Arc du Roi des Borins",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2023-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Pelle Woukuis",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Racine Sauvageonne",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4041-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Hache de Brèche",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Bâton du Kanigrou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Le Matronome",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Cruelle Pelle-Truelle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8015-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Petite Dague Fourbesque",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Razielle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Grand Bâton des Rois",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Baguette des Cieux",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Imposante Baguette d'Eglise",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Grande Lame de Fon",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Pelle Musicale",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8038-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Pelle Doudesque",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8027-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Le Cutter",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6023-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Immortelle Etoile du soir",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Puissante Masse Aj Taye",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Hache de Pierre",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Bâton Boh'La'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4085-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Hache Pi'Veuh'Nin'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19055-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Baguette Han'Dar'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3069-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Arc Tar'Huss'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2064-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Marteau Reuh'Deuh'Piz'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7072-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Pelle Ag'Heuze'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8054-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Dague Hi'Mov'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5073-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Épée Dal'Douss'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6088-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Omnicient bâton-boule de voyante",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Grande Baguette d'Houvette",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Baguette Ni'Ninnin",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Arc de Cristal Translucide",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.858Z",
+      "name": "Puissante Pelle Melle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Marteau Pinambour",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7039-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Baguette Deuh-Pain",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Pelle Ikan",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "L'Arc à Hick",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Arc de Boo",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Petite Pelle Woukuis",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Marteau Tape Doigts",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7029-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Imposant Marteau Outar",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Lame de Fon",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Brillante Etoile du soir",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "L'Hyldegarde",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Arc dit Kéha, nouvelle version",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Grande Masse Aj Taye",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Elagueuse de Charme",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Bâton des Rois",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Lourde Baguette d'Eglise",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Grande Pelle Melle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Bâton du Shodanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4049-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Dagues Honies",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5050-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Arc des Rivages",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2038-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Dagues Eurfolles",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Le petit Cutter",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6023-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Le Twote en Carton",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Baguette d'Houvette",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Indispensable Baguette à Pans",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Lame d'Ogralimde",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6012-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Corbalame",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6032-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Abraton",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4023-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Pelle Mechba",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Arc de Cristal",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Grand Marteau Outar",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.859Z",
+      "name": "Petite Lame de Fon",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Etoile du Soir",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Dagues Aj'Deh'Là",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Arc dit Kéha, version spéciale",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Masse Aj Taye",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Redoutable Masse Tmosfer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Magnifique Pelle de Bois Dormant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Bâton Akwadala",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4061-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Baguette Cetera",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3050-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Baguette Sylvien",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3015-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Bâton Poupinateur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4082-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Grand Bâton-Boule de Voyante",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Pelle Melle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Elagueuse d'Oliviolet",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Dagues de Noké",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5076-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Simple Bâton des Rois",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Baguette d'Eglise",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Large Couteau à Stek",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Marteau du Boufcoul",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7054-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Kwaklame du Vent",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6050-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Kwaklame de Terre",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6053-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Kwaklame de Glace",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6051-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Kwaklame de Flammes",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6052-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Arc à Poulie Sciée",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Bâton Bouk'Tou'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4084-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Hache Pira'Teur'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19054-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Baguette Stror'Di'Ner'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3068-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Arc Hord'Eon'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2063-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Marteau Mah'Turj'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7071-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Pelle Ass'Tik'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8052-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Dague Hi'Bol'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5071-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Épée Hi'Zan'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6090-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Discrète Baguette d'Houvette",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Grande Baguette à Pans",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Scalpel de Bworknroll",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5060-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Marteau Outar",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Longue Masse Tmosfer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Grande Pelle de Bois Dormant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Dagues Cruelles d'Elorie Entuwan",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Sabre Shodanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6055-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Baguette Larvesque",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Rhizome Doré",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Bâton du Puissant Tabi",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Goultard",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Petite Etoile du Soir",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Dagues Eulasse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.860Z",
+      "name": "Bâton de Dina, dit 'le Mythe'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Bâton Tont'Ata",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Arc Hidsad",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2012-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Hache Téreau hache",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19057-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Arc dit Kéha, version standard",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Petite Masse Aj Taye",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Puissantes Dagues Eguisées",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Coupeuse de Bombu",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19015-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Abrarc",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2024-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Sabroh",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6091-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Arc de Cristal Opaque",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Arc Royal en Corne de Bouftou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Petite Pelle Melle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Grand couteau à Stek",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "La Chaplanne",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4088-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Enorme bâton Dakn",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Masse Tmosfer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Pelle de Bois Dormant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Lame du Craqueleur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6054-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Bâton du Grand Tabi",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Petite Baguette d'Eglise",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Petit marteau Outar",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Hache du Shodanwa",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19037-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Grandes Dagues Eguisées",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Corde d'Ivan Nowé",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Bâton-Boule de Voyante",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Véritable bâton de fausse magie",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Épée de Pym",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6084-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Baguette à Pans",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Arc dit Kéha, version soldée",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Arc Lourd en Corne de Bouftou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Épée Cassée du Chevalier Malchanceux",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5043-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Couteau à Stek",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "La Griffe",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6033-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Marteau Toh'Lo",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7015-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Le Scrounnchhh",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Hache Heuvante",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19015-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Daguette",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Petite Masse Tmosfer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Effrayante Pelle de Koutoulou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Petite Pelle de Bois Dormant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Dagues Ancestrales",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Abraknydi Vivitus",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Bâton du Maître des Tabis",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Bâton du Tabi",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Gros Bâton Dakn",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.861Z",
+      "name": "Célèbre Arc Ecologique",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Dagues Eguisées",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Baguette en Racine d'Abraknyde",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Tueuse de Chênes",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "La crinière de Badoul",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "La Corde de Yamato",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Les Lames en Table",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Pailleton",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4081-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Arc en Corne de Bouftou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Petit couteau à Stek",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Fourbasse-Ton",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4044-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Fendeuse de Merisier",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Bâton du Grand Pa Wabbit",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Gwosse Massue Wabbit",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7075-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Grande Pelle de Koutoulou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Puissante Pelle Teuze",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Bâton Bah'Pik'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4083-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Hache Hich'Ke'Bab'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19052-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Baguette Hoh'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3067-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Arc Plass'Tik'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2062-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Marteau Le'Stoye'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7069-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Pelle Rin'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8053-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Dague Hi'Don'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5072-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Épée Ta'Rad'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6089-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Petite Baguette à Pans",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Grand bâton de fausse magie",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Terrifiante Baguette Heure",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Imposant Marteau R'unique",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Petites Dagues Eguisées",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Bâton en Racine d'Abraknyde",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Bâton Carnivore",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4024-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Arc de Jeanne",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2015-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Arc de Triomphe",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Bâton du Petit Tabi",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Dagues O'Bert",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Petite Pelle Mechba",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Dagues Tylo",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5012-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Le Rasoir Infernal",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Bâton d'Oubli",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Arc du Xueluom",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2051-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Bâton Dakn",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Petit Arc en Corne de Bouftou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Puissante Baguette d'Intelligence",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Bâton Cornu",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Grande Pelle Teuze",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Puissante Pelle du craqueleur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "La Lance à un \"110\"",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Bashers",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Petit Bâton-Boule de Voyante",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Grand Arc Ecologique",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.862Z",
+      "name": "Pelle de Koutoulou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Arc en Racine d'Abraknyde",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Nomoon",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Francisque à Brêles",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Masse O'dard",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7068-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Grand Marteau R'unique",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Baguette Rangleuse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3048-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Puissantes Dagues Sylvestres",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Puissante Baguette de Sagesse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Grande Baguette d'Intelligence",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Agride",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Pelle Teuze",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Lame du Chafer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Sargasse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "La Trancheuse de Bambou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19033-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Lame du Puissant Bwork",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Épée du Puissant Chevalier",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Marteau de l'Aurore",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Grande Pelle du Craqueleur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Puissante Épée d'Alle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Bâton de fausse magie",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Grande Baguette Heure",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Petite Pelle de Koutoulou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Baguette du Tofu",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3058-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Queues de Chatons",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Bâton du Wa Wabbit",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4021-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Grandes Dagues Sylvestres",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Grande Baguette de Sagesse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Mangeuse d'Erable",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "La Klebik",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Petite Pelle Teuze",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Mauvaise Pioche",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/21001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Bonne Pioche",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/21001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Petit Bâton Dakn",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4019-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Puissant Arc Buse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Marteau R'unique",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Incassable Masse d'Ha",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Baguette d'Intelligence",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Lame du Grand Bwork",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Épée du Grand Chevalier",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Grande Épée d'Alle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Pelle à Thart'",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Arc Ecologique",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Dagues Sylvestres",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Baguette de Sagesse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.863Z",
+      "name": "Lame du Bwork",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Épée du Chevalier",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Pelle du Craqueleur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Barabas",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Marteau Tau",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Solide Masse d'Ha",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Le Tranchant Infernal",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Arc Hancihaile",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Épée d'Alle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Hache Huré",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Grand Arc Buse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Petit Marteau R'unique",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Trancheuse de Noyer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "La Queue Infernale",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Épée du Petit Chevalier",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Lame du Petit Bwork",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Le Marteau du Chafer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "La Triste Lame",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Pelle Houze",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Petite Épée d'Alle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Petite Baguette de Sagesse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Petite Baguette d'Intelligence",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Petit bâton de fausse magie",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Baguette Heure",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Masse d'Ha",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Petites Dagues Sylvestres",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Bâton de l'Homme Ours",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4046-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Arc du Bwork Archer",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Baguette de Liriel",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Petite Pelle du Craqueleur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Barbe Grise",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8011-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Baguette de Feu Follesque",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "L'Ergot Mina",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "La Canne Hête",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4068-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Puissant Arc Déroutant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Puissante Pelle de Rapage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Puissant Marteau d'Ivoire",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Petit Arc Ecologique",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2020-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Arc Buse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Petite Masse d'Ha",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Marteau Pickeur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7012-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Koupe-koupe",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Grand Arc Déroutant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Grand Marteau d'Ivoire",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Faux usée du Paysan",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/22002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Puissante Épée Sacrée",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Trancheuse d'If",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Puissante Épée d'Ha",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Grande Pelle de Rapage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.864Z",
+      "name": "Puissante Pelle de Crapouille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Impressionantes Dagues de Croclage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Bâton Spirituel",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Grande Épée Sacrée",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Lame du Chevaucheur de Karne",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Grande Épée d'Ha",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Arc Déroutant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Grande Pelle de Crapouille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Cerberus",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Puissante Épée de Fouraille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Puissant Bâton Feuillu",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Grand Bâton Feuillu",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Puissante Baguette de Glace",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petite Baguette Heure",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petit Arc Buse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Pelle des Champs",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Épée Sacrée",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Épée d'Ha",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Pelle de Rapage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Pelle de Crapouille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Marteau d'Ivoire",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Puissant Marteau de Raclage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Maillet Aclou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7012-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Hache Térophyle",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19014-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Arc Holic",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Grandes Dagues de Croclage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Bâton Kouyu",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Bâton Feuillu",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Grande Épée de Fouraille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Grande Baguette de Glace",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petit Arc Déroutant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Grand Marteau de Raclage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Puissantes Dagues de Fouraille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petit Bâton Feuillu",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Baguette de Glace",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petite Baguette de Glace",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Épée de Fouraille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petite Épée de Fouraille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Faux de Farle Ingalsse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/22001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "La Queue",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petite Épée Sacrée",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petite Épée d'Ha",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petite Pelle de Rapage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8005-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petite Pelle de Crapouille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petit Marteau d'Ivoire",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Marteau de Raclage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Petit Marteau de Raclage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Dagues de Croclage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Grandes Dagues de Fouraille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Épée du Chevalier de Glace",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6051-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Dagues du Bandit",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.865Z",
+      "name": "Hache Vôr'Om",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Leurnettes",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Bâton de Bouftier",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Dagues de Fouraille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Arc Sifflant",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2015-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Demi-Baguette",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3013-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Petites Dagues de Fouraille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5003-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Pelle en Mousse",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8044-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "La Plantouze des Champs",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4045-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Marteau du Bouftou",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7023-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Arc de Mulic Bere",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Arc de Mech Riorraw",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Petites Dagues de Croclage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5004-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Puissant Bâton de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "La Trancheuse d'Arakne",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19031-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Arc Hade",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Mangeuse de Frêne",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19009-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Mangeuse de Châtaignier",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Grand Bâton de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Puissante Épée de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Puissantes Dagues de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Puissante Pelle de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Puissant Marteau de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Grande Épée de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Grandes Dagues de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Hachette Hévlalav",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Puissante Baguette de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Grande Pelle de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Grand Marteau de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Grande Baguette de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Dagues de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Puissant Arc de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Grand Arc de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Épée de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Hachette de Bûcheron",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19006-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Pelle de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Marteau de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Bâton de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Baguette de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Petites Dagues de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Arc de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Petite Épée de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6007-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Hache de l'initié",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Tailladeuse de Manche",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Marteau de Forgeur de Grattoir",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Marteau Martel",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Faux de l'apprenti paysan",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/22001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Hache de l'apprenti bûcheron",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Baguette du Tournoi (MJ)",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Marteau du Bricoleur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Coupe Cuir du Cordomage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5053-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Sertisseur du Joaillomage",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5052-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Petite Pelle de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Marteau du Forgeur de Boucliers",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Marteau du Forgeur de Haches",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.866Z",
+      "name": "Petit Marteau de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Épée de Yanguru",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Épée de Yingnitié",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Pelle de l'Initié",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/8001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Marteau de l'initié",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Dagues de l'initié",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5010-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Arc de l'initié",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Bâton de l'initié",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Baguette de l'Initié",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/3008-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Épée de l'initié",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6096-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Bouquet de Roses démoniaques",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6047-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Coupe Cuir",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Faux du Paysan",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/22001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Tailladeuse d'Arc",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Tailladeuse de Baguette",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Tailladeuse de Bâton",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Pioche du Mineur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/21001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Marteau de Forgeur de Pelles",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Marteau de Forgeur de Dagues",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Marteau de Forgeur d'Épées",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Marteau de Forgeur de Marteaux",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7002-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Sertisseur",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5016-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Petit Arc de Boisaille",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Hache de Bûcheron",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19001-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Hache Hémal",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19018-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Tailladeuse de Bâtons Magiques",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Tailladeuse de Baguettes Magiques",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Tailladeuse d'Arcs Magiques",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/5017-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Marteau du Forgemage de Haches",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Marteau du Forgemage de Marteaux",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Marteau du Forgemage de Pelles",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Marteau du Forgemage d'Épées",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Marteau du Forgemage de Dagues",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7022-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "La Lame",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6104-70.webp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:21:28.867Z",
+      "name": "Stuff actif"
+    }
+  ]
+}

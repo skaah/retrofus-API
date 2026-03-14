@@ -78,8 +78,32 @@ class DofusAPIEnricher:
                 "imported_at": datetime.now().isoformat()
             }
             
-            # Traiter les items
-            if "items" in data:
+            # Détecter le format: liste complète ou item unique
+            # Format 1: {"items": [{"name": "...", "image_url": "..."}, ...]} - liste de la page /items
+            # Format 2: {"item": {...}} ou {"panoplie": {...}} - page détaillée
+            
+            if "items" in data and isinstance(data["items"], list):
+                # Format liste (page /items avec plusieurs items)
+                for item in data["items"]:
+                    if item.get("name") and item.get("name") != "Items":  # Skip header
+                        normalized = self.normalize_list_item(item)
+                        if normalized:
+                            imported["items"].append(normalized)
+                            
+            elif "item" in data:
+                # Format item unique détaillé
+                normalized = self.normalize_item(data["item"])
+                if normalized:
+                    imported["items"].append(normalized)
+                    
+            elif "panoplie" in data:
+                # Format panoplie unique détaillée
+                normalized = self.normalize_set(data["panoplie"])
+                if normalized:
+                    imported["panoplies"].append(normalized)
+                    
+            # Traiter les items au format détaillé (ancien format)
+            elif "items" in data and isinstance(data["items"], list):
                 for item in data["items"]:
                     normalized = self.normalize_item(item)
                     if normalized:
@@ -145,6 +169,30 @@ class DofusAPIEnricher:
             "bonuses": raw_set.get("bonuses", {}),
             "scraped_from": raw_set.get("dofusbook_url", ""),
             "scraped_at": datetime.now().isoformat()
+        }
+        
+        return normalized
+    
+    def normalize_list_item(self, raw_item: Dict) -> Optional[Dict]:
+        """Normalise un item de liste (format partiel depuis page /items)"""
+        if not raw_item.get("name"):
+            return None
+        
+        # Skip les headers comme "Items 1397"
+        name = raw_item.get("name", "").strip()
+        if not name or name.lower().startswith("items "):
+            return None
+        
+        normalized = {
+            "name": name,
+            "type": raw_item.get("item_type", "Inconnu"),
+            "level": 0,  # Niveau inconnu dans ce format
+            "description": "",
+            "image_url": raw_item.get("image_url", ""),
+            "stats": {},
+            "scraped_from": "https://retro.dofusbook.net/fr/encyclopedie/items",
+            "scraped_at": datetime.now().isoformat(),
+            "data_quality": "partial"  # Marquer comme données partielles
         }
         
         return normalized

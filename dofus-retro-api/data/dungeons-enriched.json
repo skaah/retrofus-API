@@ -3,733 +3,1126 @@
     {
       "name": "Donjon des Bouftous",
       "level": 20,
-      "location": "Amakna (5,-6)",
+      "location": "Tainéla (2,-34)",
       "key": "Clef du Donjon des Bouftous",
-      "rooms": 4,
+      "rooms": 10,
       "boss": "Bouftou Royal",
-      "monsters": ["Bouftou", "Boufton Blanc", "Boufton Noir", "Bouftou Royal"],
+      "monsters": ["Boufton Blanc", "Boufton Noir", "Bouftou", "Chef de Guerre Bouftou", "Bouftou Royal"],
       "rewards": {
         "items": ["Amulette du Bouftou", "Coiffe du Bouftou", "Cape du Bouftou", "Bottes du Bouftou", "Anneau du Bouftou"],
-        "resources": ["Poil de Bouftou", "Cuir de Bouftou", "Laine de Bouftou", "Oeil de Bouftou Royal"],
-        "xp": 8500
+        "resources": ["Poil de Bouftou", "Cuir de Bouftou", "Laine de Bouftou", "Graine de Sésame"],
+        "xp": 15000,
+        "special": "Don de Chacha"
       },
-      "strategy": "Éliminer d'abord les Bouftons Blancs et Noirs car ils boostent le Bouftou Royal. Le Royal invoque des petits Bouftous - prioriser leur élimination rapide. Distance recommandée.",
+      "strategy": "Tuer les Bouftons d'abord, le Royal invoque des renforts. Utiliser des sorts de zone sur les groupes de Bouftons. Le boss a beaucoup de PV mais peu de résistance.",
       "difficulty": "easy"
     },
     {
       "name": "Donjon de la Larve",
       "level": 15,
-      "location": "Incarnam (3,3)",
-      "key": "Clef du Donjon de la Larve",
-      "rooms": 3,
-      "boss": "Larve Bleue",
-      "monsters": ["Larve Verte", "Larve Orange", "Larve Bleue"],
+      "location": "Montagne des Craqueleurs (-2,-5)",
+      "key": "Oeuf de Larve Dorée",
+      "rooms": 8,
+      "boss": "Shin Larve",
+      "monsters": ["Larve Dorée", "Larve Émeraude", "Larve Rubis", "Larve Saphir", "Shin Larve"],
       "rewards": {
-        "items": ["Coiffe de la Larve", "Cape de la Larve", "Bottes de la Larve"],
-        "resources": ["Plume de Tofu", "Poil de Larve", "Ambre de Larve", "Sang de Larve"],
-        "xp": 3500
+        "items": ["Larvamulette", "Larvabottes", "Baguette Larvesque", "Larvasac", "Larvacoiffe"],
+        "resources": ["Peau de Shin Larve", "Dent de Larve Dorée", "Petite Perle Dorée"],
+        "xp": 25000
       },
-      "strategy": "Donjon d'initiation très simple. La Larve Bleue n'a pas de mécanique spéciale. Idéal pour débutants, possibilité de passer en moins de 5 minutes.",
+      "strategy": "Nécessite une équipe de 2+ joueurs pour activer les leviers. Se diviser en groupes pour ouvrir les portes. La Shin Larve invoque des larves, éliminer les invocations rapidement.",
       "difficulty": "easy"
     },
     {
       "name": "Donjon des Tofus",
-      "level": 25,
-      "location": "Amakna (-4,26)",
+      "level": 40,
+      "location": "Coin des Tofus (9,-13)",
       "key": "Clef du Donjon des Tofus",
-      "rooms": 4,
-      "boss": "Tofu Royal",
-      "monsters": ["Tofu", "Tofu Ventripotent", "Tofu Maléfique", "Batofu", "Tofu Royal"],
+      "rooms": 7,
+      "boss": "Batofu",
+      "monsters": ["Tofu", "Tofu Ventripotent", "Tofukaz", "Tofoune", "Batofu"],
       "rewards": {
-        "items": ["Amulette du Tofu", "Coiffe du Tofu", "Cape du Tofu", "Ceinture du Tofu"],
-        "resources": ["Plume de Tofu", "Oeil de Tofu", "Plume de Batofu", "Oeil de Tofu Royal"],
-        "xp": 12000
+        "items": ["Amulette Tofu", "Coiffe Tofu", "Cape Tofu", "Bottes Tofu", "Ceinture Tofu"],
+        "resources": ["Plume de Tofu", "Oeuf de Tofu", "Clef Secrète du Tofulailler Royal"],
+        "xp": 35000
       },
-      "strategy": "Le Tofu Royal invoque constamment des Tofus normaux. Utiliser des sorts de zone pour gérer les invocations. Attention à sa fuite qui peut ralentir le combat.",
+      "strategy": "Le Batofu a 10 PM et fuit. Utiliser des personnages distance. Éliminer d'abord le Tofukaz (invisible) et la Tofoune qui boostent les PA. Le Batofu invoque des Tofus.",
       "difficulty": "easy"
     },
     {
       "name": "Donjon des Araknes",
       "level": 30,
-      "location": "Astrub (3,-18)",
+      "location": "Souterrains d'Amakna (9,-18)",
       "key": "Clef du Donjon des Araknes",
-      "rooms": 5,
-      "boss": "Reine Arakne",
-      "monsters": ["Arakne", "Arakne Majeure", "Arakne Bleue", "Arakne Verte", "Reine Arakne"],
+      "rooms": 6,
+      "boss": "Reine des Araknes",
+      "monsters": ["Arakne", "Arakne des Égouts", "Arakne Malade", "Arakne Majeure", "Reine des Araknes"],
       "rewards": {
-        "items": ["Amulette de l'Arakne", "Anneau de l'Arakne", "Bottes de l'Arakne"],
-        "resources": ["Patte d'Arakne", "Oeil d'Arakne", "Toile d'Arakne", "Ficelle Magique"],
-        "xp": 18000
+        "items": ["Amulette de l'Arakne", "Coiffe de l'Arakne", "Cape de l'Arakne"],
+        "resources": ["Patte d'Arakne", "Oeuf d'Arakne", "Filet de l'Arakne", "Bave d'Arakne"],
+        "xp": 20000
       },
-      "strategy": "La Reine invoque des Araknes à chaque tour. Tuer rapidement les invocations pour éviter d'être submergé. La Reine retire des PA - prévoir des items PA.",
+      "strategy": "Les Araknes empoisonnent. La Reine invoque des Araknes et met des poisons. Privilégier les dégâts distance et éliminer les invocations.",
       "difficulty": "easy"
     },
     {
-      "name": "Donjon des Prespics",
-      "level": 35,
-      "location": "Amakna (-4,27)",
-      "key": "Clef du Donjon des Prespics",
+      "name": "Château Ensablé",
+      "level": 20,
+      "location": "Sufokia (13,-28)",
+      "key": "Clef du Château Ensablé",
       "rooms": 5,
-      "boss": "Maître Prespic",
-      "monsters": ["Prespic", "Prespic Mâture", "Prespic Vénérable", "Maître Prespic"],
+      "boss": "Mob l'Éponge",
+      "monsters": ["Éponge", "Kaskargo", "Kaskouille", "Mob l'Éponge"],
       "rewards": {
-        "items": ["Coiffe du Prespic", "Cape du Prespic", "Ceinture du Prespic"],
-        "resources": ["Poil de Prespic", "Oeil de Prespic", "Bois de Prespic", "Peau de Maître Prespic"],
-        "xp": 22000
+        "items": ["Amulette de l'Éponge", "Coiffe de l'Éponge", "Cape de l'Éponge"],
+        "resources": ["Écorce de l'Éponge", "Mousse", "Pétale de Délairo"],
+        "xp": 18000
       },
-      "strategy": "Les Prespics réfléchissent des dégâts (renvoie dommages). Ne pas utiliser de gros sorts mono-cible. Privilégier les dégâts faibles répétés ou les poisons.",
+      "strategy": "Les Éponges absorbent les dégâts. Utiliser des sorts multicibles. Mob l'Éponge se régénère, frapper fort et vite.",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Donjon des Forgerons",
+      "level": 35,
+      "location": "Sufokia (13,21)",
+      "key": "Clef du Donjon des Forgerons",
+      "rooms": 5,
+      "boss": "Coffre des Forgerons",
+      "monsters": ["Forgeron Sombre", "Roublard", "Coffre des Forgerons"],
+      "rewards": {
+        "items": ["Manuel du Tailleur", "Manuel du Cordonnier", "Pierre précieuse"],
+        "resources": ["Fer", "Cuivre", "Bronze", "Kobalte"],
+        "xp": 22000,
+        "special": "Emote Révérence"
+      },
+      "strategy": "Les Forgerons ont beaucoup de résistance. Utiliser des sorts élémentaires variés. Le Coffre drop des ressources de craft précieuses.",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Grange du Tournesol Affamé",
+      "level": 20,
+      "location": "Amakna (7,-24)",
+      "key": "Clef de la Grange",
+      "rooms": 4,
+      "boss": "Tournesol Affamé",
+      "monsters": ["Tournesol Sauvage", "Tournesol Affamé"],
+      "rewards": {
+        "items": ["Pépite", "Graine de Tournesol"],
+        "resources": ["Tige de Tournesol", "Pépite d'Or"],
+        "xp": 12000
+      },
+      "strategy": "Les Tournesols soignent leurs alliés. Éliminer les petits Tournesols avant le boss. Le boss a un sort de vol de vie puissant.",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Caverne des Bulbes",
+      "level": 40,
+      "location": "Astrub (19,22)",
+      "key": "Clef de la Caverne des Bulbes",
+      "rooms": 6,
+      "boss": "Bulbig Brozeur",
+      "monsters": ["Bulbiflore", "Bulbuisson", "Bulbambou", "Bulbig Brozeur"],
+      "rewards": {
+        "items": ["Bâton Bulbu", "Amulette Bulbu"],
+        "resources": ["Bourgeon d'Abraknyde", "Sève d'Abraknyde", "Racine d'Abraknyde"],
+        "xp": 30000
+      },
+      "strategy": "Les Bulbes ont des résistances élémentaires variables. Alterner les éléments. Le boss invoque des bulbes puissants.",
       "difficulty": "medium"
     },
     {
-      "name": "Donjon des Champignons",
+      "name": "Maison Fantôme",
       "level": 40,
-      "location": "Amakna (17,31)",
-      "key": "Clef du Donjon des Champignons",
+      "location": "Bord de la Forêt Maléfique (-13,-41)",
+      "key": "Clef de la Maison Fantôme",
       "rooms": 5,
-      "boss": "Champmane",
-      "monsters": ["Touthou", "Gobeur", "Champbis", "Cochon de lait", "Champmane"],
+      "boss": "Boostache",
+      "monsters": ["Tofu Maléfique", "Chafer", "Boo", "Boostache"],
       "rewards": {
-        "items": ["Amulette Champignon", "Coiffe Champignon", "Cape Champignon", "Bottes Champignon"],
-        "resources": ["Pied de Touthou", "Cuir de Gob'", "Sporangée", "Viande de Cochon de Lait"],
+        "items": ["Cape de Boostache", "Amulette de Boostache", "Bottes de Boostache"],
+        "resources": ["Poil de Boostache", "Tissu Sanguin", "Fil de Nylon"],
         "xp": 28000
       },
-      "strategy": "Champmane invoque des Champbis à chaque tour et se régénère quand ils meurent. Focus sur le boss directement avec des gros dégâts burst. Empêcher les invocations de mourir près de lui.",
+      "strategy": "Boostache invoque des fantômes et se rend invisible. Utiliser des sorts de zone et de révélation. Prévoir un débuff de PM.",
       "difficulty": "medium"
     },
     {
-      "name": "Donjon des Milimulfs",
-      "level": 45,
-      "location": "Bonta (-30,-57)",
-      "key": "Clef du Donjon des Milimulfs",
-      "rooms": 4,
-      "boss": "Milimuluf",
-      "monsters": ["Milimilou", "Milifnuit", "Miliskully", "Milimuluf"],
-      "rewards": {
-        "items": ["Masque Mulou", "Cape Mulou", "Bottes Mulou", "Ceinture Mulou"],
-        "resources": ["Griffe de Mulou", "Canine de Mulou", "Poil de Mulou"],
-        "xp": 35000
-      },
-      "strategy": "Le Milimuluf boost ses alliés avec des sorts de buff. Tuer les sbires d'abord pour réduire sa puissance. Il fuit souvent - utiliser des sorts d'entraînement.",
-      "difficulty": "medium"
-    },
-    {
-      "name": "Donjon des Kanigrous",
-      "level": 48,
-      "location": "Sidimote (-14,22)",
-      "key": "Clef du Donjon des Kanigrous",
-      "rooms": 5,
-      "boss": "Kanigroula",
-      "monsters": ["Kanigrou", "Kanigrou Mâture", "Kanigroulgar", "Kanigroula"],
-      "rewards": {
-        "items": ["Amulette Kanigrou", "Coiffe Kanigrou", "Cape Kanigrou"],
-        "resources": ["Poil de Kanigrou", "Croc de Kanigrou", "Griffe de Kanigrou"],
-        "xp": 42000
-      },
-      "strategy": "Kanigroula invoque des kanigrous et se soigne quand ils attaquent. Isoler le boss et tuer les invocations rapidement. Distance fortement recommandée.",
-      "difficulty": "medium"
-    },
-    {
-      "name": "Donjon des Bworks",
-      "level": 60,
-      "location": "Amakna (-5,10)",
-      "key": "Clef du Donjon des Bworks",
-      "rooms": 6,
-      "boss": "Bworkette",
-      "monsters": ["Bwork", "Bwork Archer", "Bwork Mage", "Bwork Elémental", "Bworkette"],
-      "rewards": {
-        "items": ["Amulette Bwork", "Coiffe Bwork", "Cape Bwork", "Ceinture Bwork", "Bottes Bwork"],
-        "resources": ["Bois de Bwork", "Cuir de Bwork", "Kole", "Sève de Bworkette"],
-        "xp": 65000
-      },
-      "strategy": "La Bworkette invoque des Bworks et lance des sorts de zone. Tuer les invocations à chaque tour. Attention à son sort de zone qui retire beaucoup de PV. Prévoir des résistances terre/air.",
-      "difficulty": "medium"
-    },
-    {
-      "name": "Donjon des Wabbits",
-      "level": 70,
-      "location": "Île de la Cawotte (23,-12)",
-      "key": "Clef du Donjon des Wabbits",
+      "name": "Scarafeuilles",
+      "level": 50,
+      "location": "Saharach (1,26)",
+      "key": "Clef du Donjon Scarafeuille",
       "rooms": 7,
-      "boss": "Wabbit GM",
-      "monsters": ["Wabbit", "Wabbit Céphale", "Wwitch", "Wabbit Gm"],
+      "boss": "Scarabosse Doré",
+      "monsters": ["Scarafeuille Blanc", "Scarafeuille Rouge", "Scarafeuille Bleu", "Scarafeuille Vert", "Scarabosse Doré"],
       "rewards": {
-        "items": ["Amulette Wabbit", "Coiffe Wabbit", "Cape Wabbit", "Ceinture Wabbit", "Bottes Wabbit"],
-        "resources": ["Carotte", "Poil de Wabbit", "Oreille de Wabbit", "Cawotte Maudite"],
-        "xp": 95000
+        "items": ["Amulette du Scarafeuille", "Coiffe du Scarafeuille", "Cape du Scarafeuille"],
+        "resources": ["Aile de Scarafeuille", "Carapace de Scarafeuille", "Cuir de Dragodinde"],
+        "xp": 40000
       },
-      "strategy": "Le Wabbit GM invoque des Wabbits et utilise des sorts de zone. Les Wabbits peuvent faire fuir les personnages. Focus sur le boss avec des dégâts burst. Sorts de zone très efficaces.",
+      "strategy": "Chaque couleur de Scarafeuille a des résistances différentes. Le boss invoque des scarafeuilles de toutes les couleurs.",
       "difficulty": "medium"
     },
     {
-      "name": "Donjon Blop",
-      "level": 80,
-      "location": "Bonta (-32,-8) et Brâkmar (-21,6)",
-      "key": "Clef du Donjon Blop",
-      "rooms": 5,
-      "boss": "Blop Multicolore Royal",
-      "monsters": ["Blop Coco", "Blop Griotte", "Blop Indigo", "Blop Reinette", "Blop Multicolore Royal"],
+      "name": "Nid du Kwakwa",
+      "level": 50,
+      "location": "Montagne des Craqueleurs (-4,-7)",
+      "key": "Clef du Nid du Kwakwa",
+      "rooms": 8,
+      "boss": "Kwakwa",
+      "monsters": ["Kwak de Feu", "Kwak de Terre", "Kwak d'Eau", "Kwak d'Air", "Kwakwa"],
       "rewards": {
-        "items": ["Amulette Blop", "Coiffe Blop", "Cape Blop", "Ceinture Blop", "Bottes Blop", "Anneau Blop"],
-        "resources": ["Bouboule de Blop", "Pétale de Blop", "Blopignon", "Tige de Blop"],
-        "xp": 120000
+        "items": ["Amulette du Kwakwa", "Coiffe du Kwakwa", "Cape du Kwakwa", "Bottes du Kwakwa"],
+        "resources": ["Plume de Kwak", "Bec de Kwak", "Oeuf de Tofu"],
+        "xp": 45000
       },
-      "strategy": "Le Blop Royal invoque un Blop de chaque couleur. Chaque Blop boost le boss selon son élément. Tuer les Blops d'abord ou focus directement le boss si DPS suffisant. Résistances dans tous les éléments recommandées.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Craqueleurs",
-      "level": 90,
-      "location": "Cratère des Craqueleurs (-4,-10)",
-      "key": "Clef du Donjon des Craqueleurs",
-      "rooms": 6,
-      "boss": "Craqueleur de Givrefoux",
-      "monsters": ["Craqueleur", "Craqueleur Mâture", "Craqueleur des Plaines", "Craqueleur de Givrefoux"],
-      "rewards": {
-        "items": ["Amulette du Craqueleur", "Coiffe du Craqueleur", "Cape du Craqueleur", "Ceinture du Craqueleur"],
-        "resources": ["Pierre du Craqueleur", "Minerai de Silex", "Fragment de Pierre", "Cristal de Givrefoux"],
-        "xp": 150000
-      },
-      "strategy": "Le boss a énormément de PV et de résistance. Combat long, prévoir des ressources de soin. Les Craqueleurs ont des attaques terre lourdes. Boost PM pour éviter les attaques de zone.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon du Dragon Cochon",
-      "level": 100,
-      "location": "Porcos (4,13)",
-      "key": "Clef du Donjon du Dragon Cochon",
-      "rooms": 7,
-      "boss": "Dragon Cochon",
-      "monsters": ["Porco", "Porco Amjad", "Porco Mag", "Porco Ross", "Dragon Cochon"],
-      "rewards": {
-        "items": ["Amulette du Dragon Cochon", "Coiffe du Dragon Cochon", "Cape du Dragon Cochon", "Bottes du Dragon Cochon"],
-        "resources": ["Peau de Porco", "Croc de Porco", "Bave du Dragon Cochon", "Écaille de Dragon Cochon"],
-        "xp": 200000
-      },
-      "strategy": "Le Dragon Cochon invoque des Porcos et utilise des sorts feu très puissants. Résistance feu obligatoire. Tuer les invocations rapidement car ils boostent le boss. Prévoir un Eni ou beaucoup de soins.",
-      "difficulty": "hard"
+      "strategy": "Le Kwakwa change d'élément selon les dommages reçus. Utiliser des dommages fixes ou alterner les éléments. Attention aux invocations de Kwaks.",
+      "difficulty": "medium"
     },
     {
       "name": "Donjon des Squelettes",
-      "level": 110,
-      "location": "Cimetière des Héros (10,17)",
+      "level": 40,
+      "location": "Cimetière d'Amakna (10,15)",
       "key": "Clef du Donjon des Squelettes",
-      "rooms": 6,
-      "boss": "Skeunk",
-      "monsters": ["Squelette", "Squelette Arakne", "Squelette Ténébreux", "Skeunk"],
-      "rewards": {
-        "items": ["Amulette Skeunk", "Coiffe Skeunk", "Cape Skeunk", "Ceinture Skeunk", "Bottes Skeunk"],
-        "resources": ["Os de Squelette", "Vertèbre de Squelette", "Crâne de Squelette", "Peau de Skeunk"],
-        "xp": 250000
-      },
-      "strategy": "Skeunk invoque des Squelettes et lance des sorts ténèbres de zone. Résistances ténèbres importantes. Les invocations peuvent réduire les PA. Focus boss ou gérer les adds selon la compo.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Kitsounes",
-      "level": 115,
-      "location": "Pandala Neutre (25,-35)",
-      "key": "Clef du Donjon des Kitsounes",
-      "rooms": 5,
-      "boss": "Kitsoune",
-      "monsters": ["Kitsou Nae", "Kitsou Nufeu", "Kitsou Nere", "Kitsou Nuf"],
-      "rewards": {
-        "items": ["Amulette Kitsou", "Masque Kitsou", "Cape Kitsou", "Ceinture Kitsou"],
-        "resources": ["Poil de Kitsou", "Griffe de Kitsou", "Dent de Kitsou"],
-        "xp": 280000
-      },
-      "strategy": "Les Kitsounes changent constamment de position et ont des sorts d'esquive. Réduire leurs PM pour les immobiliser. Boss invoque des clones - identifier le vrai par ses sorts.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Dragoeufs",
-      "level": 130,
-      "location": "Antre des Dragoeufs (-4,26)",
-      "key": "Clef du Donjon des Dragoeufs",
-      "rooms": 8,
-      "boss": "Crocabulia",
-      "monsters": ["Dragoeuf Blanc", "Dragoeuf Noir", "Dragoeuf Guerrier", "Dragoeuf Volant", "Crocabulia"],
-      "rewards": {
-        "items": ["Amulette Dragoeuf", "Coiffe Dragoeuf", "Cape Dragoeuf", "Ceinture Dragoeuf", "Bottes Dragoeuf", "Bouclier Dragoeuf"],
-        "resources": ["Écaille de Dragoeuf", "Croc de Dragoeuf", "Aile de Dragoeuf", "Œuf de Crocabulia"],
-        "xp": 350000
-      },
-      "strategy": "Crocabulia invoque des Dragoeufs à chaque tour et a des attaques de zone très puissantes. Combat en deux phases - à 50% PV il devient plus agressif. Prévoir résistances multi-éléments et beaucoup de soins.",
-      "difficulty": "very_hard"
-    },
-    {
-      "name": "Donjon du Kimbo",
-      "level": 155,
-      "location": "Île de Moon (28,-5)",
-      "key": "Clef du Donjon du Kimbo",
-      "rooms": 6,
-      "boss": "Kimbo",
-      "monsters": ["Warko Marron", "Warko Violet", "Warko Vert", "Kimbo"],
-      "rewards": {
-        "items": ["Amulette du Kimbo", "Coiffe du Kimbo", "Cape du Kimbo", "Ceinture du Kimbo", "Bottes du Kimbo", "Anneau du Kimbo"],
-        "resources": ["Poil de Warko", "Corne de Warko", "Peau de Kimbo", "Croc de Kimbo"],
-        "xp": 450000
-      },
-      "strategy": "Kimbo a des attaques terre extrêmement puissantes qui retirent aussi des PM. Résistance terre obligatoire (200+). Il invoque des Warkos qui boostent ses dégâts. Tuer les Warkos immédiatement ou focus Kimbo avec burst.",
-      "difficulty": "very_hard"
-    },
-    {
-      "name": "Donjon du Minotot",
-      "level": 160,
-      "location": "Labyrinthe du Minotoror (-38,-19)",
-      "key": "Clef du Donjon du Minotot",
       "rooms": 9,
-      "boss": "Minotot",
-      "monsters": ["Minotoror", "Minoskito", "Mandrine", "Minototte", "Minotot"],
+      "boss": "Chafer Rōnin",
+      "monsters": ["Chafer", "Chafer Fantassin", "Chafer Invisible", "Rib", "Chafer Draugr", "Chafer Rōnin"],
       "rewards": {
-        "items": ["Amulette du Minotot", "Coiffe du Minotot", "Cape du Minotot", "Ceinture du Minotot", "Bottes du Minotot", "Anneau du Minotot"],
-        "resources": ["Corne de Minotoror", "Peau de Minotoror", "Laine de Minotoror", "Sang du Minotot"],
-        "xp": 550000
+        "items": ["Fémur du Chafer Rōnin", "Colonne Vertébrale", "Os de Chafer"],
+        "resources": ["Casque Cassé", "Os Invisible", "Côtes de Rib", "Os de Chafer"],
+        "xp": 50000,
+        "special": "Sort Invocation de Chaferfu"
       },
-      "strategy": "Le Minotot est le boss le plus difficile de Dofus Retro. Combat en plusieurs phases avec des mécaniques complexes. Il invoque, boost ses stats, et a des attaques de zone dévastatrices. Nécessite une team optimisée avec Eni, Enutrof, et classes DPS. Résistances dans tous les éléments 250+ recommandées.",
-      "difficulty": "extreme"
-    },
-    {
-      "name": "Donjon de la Sphincter Cell",
-      "level": 180,
-      "location": "Village des Eleharets (-77,-72)",
-      "key": "Clef du Donjon de la Sphincter Cell",
-      "rooms": 5,
-      "boss": "Sphincter Cell",
-      "monsters": ["Cellule de Sphincter", "Cellule Mâture", "Sphincter Cell"],
-      "rewards": {
-        "items": ["Amulette Sphincter", "Coiffe Sphincter", "Cape Sphincter", "Ceinture Sphincter"],
-        "resources": ["Fragment de Cellule", "Membrane de Sphincter", "Noyau de Cellule"],
-        "xp": 600000
-      },
-      "strategy": "La Sphincter Cell se divise en plusieurs cellules plus petites quand elle perd des PV. Gérer les divisions pour ne pas être submergé. Sorts de zone très efficaces. La boss finale a des attaques eau/ténèbres.",
-      "difficulty": "very_hard"
-    },
-    {
-      "name": "Donjon du Glourmand",
-      "level": 185,
-      "location": "Sufokia (23,25)",
-      "key": "Clef du Donjon du Glourmand",
-      "rooms": 6,
-      "boss": "Glourmand",
-      "monsters": ["Glourser", "Glourson", "Glourmandin", "Glourmand"],
-      "rewards": {
-        "items": ["Amulette Glourmand", "Coiffe Glourmand", "Cape Glourmand", "Ceinture Glourmand", "Bottes Glourmand"],
-        "resources": ["Bave de Glourmand", "Dent de Glourmand", "Peau de Glourmand", "Œil de Glourmand"],
-        "xp": 680000
-      },
-      "strategy": "Le Glourmand dévore ses alliés pour récupérer des PV. Tuer les sbires rapidement pour l'empêcher de se soigner. Attaques eau très puissantes - résistance eau obligatoire. Combat long et éprouvant.",
-      "difficulty": "extreme"
-    },
-    {
-      "name": "Donjon du XLII",
-      "level": 195,
-      "location": "Dimension Divine (-5,-5)",
-      "key": "Clef du Donjon du XLII",
-      "rooms": 7,
-      "boss": "XLII",
-      "monsters": ["Cogito", "Sumoto", "Eratz", "XLII"],
-      "rewards": {
-        "items": ["Amulette du XLII", "Coiffe du XLII", "Cape du XLII", "Ceinture du XLII", "Bottes du XLII", "Anneau du XLII"],
-        "resources": ["Fragment de Dimension", "Essence Divine", "Cœur du XLII", "Principe Divin"],
-        "xp": 800000
-      },
-      "strategy": "Le XLII utilise des mécaniques complexes basées sur les nombres et positions. Chaque tour change ses résistances selon un pattern. Nécessite de comprendre le pattern pour maximiser les dégâts. Un des boss les plus techniques du jeu.",
-      "difficulty": "extreme"
-    },
-    {
-      "name": "Donjon des Korriandres",
-      "level": 125,
-      "location": "Forêt des Korriandres (-15,4)",
-      "key": "Clef du Donjon des Korriandres",
-      "rooms": 6,
-      "boss": "Korriandre",
-      "monsters": ["Korriandre Vénéneux", "Korriandre Épineux", "Korriandre Mystique", "Korriandre"],
-      "rewards": {
-        "items": ["Amulette Korriandre", "Coiffe Korriandre", "Cape Korriandre", "Ceinture Korriandre"],
-        "resources": ["Feuille de Korriandre", "Racine de Korriandre", "Sève de Korriandre", "Écorce de Korriandre"],
-        "xp": 380000
-      },
-      "strategy": "Korriandre invoque des plantes qui appliquent des poisons cumulatifs. Anticipoison recommandé. Le boss se régénère via ses invocations. Focus boss avec gros burst pour éviter un combat trop long.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Snappers",
-      "level": 135,
-      "location": "Rives de Sufokia (18,25)",
-      "key": "Clef du Donjon des Snappers",
-      "rooms": 5,
-      "boss": "Snapper Requin",
-      "monsters": ["Snapper des Profondeurs", "Snapper Agressif", "Snapper Requin"],
-      "rewards": {
-        "items": ["Amulette Snapper", "Coiffe Snapper", "Cape Snapper", "Bottes Snapper"],
-        "resources": ["Écaille de Snapper", "Dent de Requin", "Nageoire de Snapper"],
-        "xp": 400000
-      },
-      "strategy": "Le Snapper Requin a des attaques eau très puissantes et des sorts d'entraînement. Réduire ses PM essentiel. Les Snappers invoquent des Tourbillons qui attirent les joueurs - positionnement crucial.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Fungus",
-      "level": 140,
-      "location": "Souterrains de Sufokia (22,28)",
-      "key": "Clef du Donjon des Fungus",
-      "rooms": 5,
-      "boss": "Fungus Géant",
-      "monsters": ["Fungus Spore", "Fungus Venimeux", "Fungus Géant"],
-      "rewards": {
-        "items": ["Amulette Fungus", "Coiffe Fungus", "Cape Fungus", "Ceinture Fungus"],
-        "resources": ["Spore de Fungus", "Chapeau de Fungus", "Mycélium", "Poison de Fungus"],
-        "xp": 420000
-      },
-      "strategy": "Le Fungus Géant répand des spores qui explosent après quelques tours. Bouger constamment pour éviter les zones. Résistance air importante car les spores font des dégâts de zone air.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Ougah",
-      "level": 145,
-      "location": "Île d'Otomai (-50,15)",
-      "key": "Clef du Donjon des Ougah",
-      "rooms": 6,
-      "boss": "Ougah",
-      "monsters": ["Ouginak", "Ougah Mâture", "Ougah Vénérable", "Ougah"],
-      "rewards": {
-        "items": ["Amulette Ougah", "Coiffe Ougah", "Cape Ougah", "Ceinture Ougah", "Bottes Ougah"],
-        "resources": ["Poil d'Ouginak", "Croc d'Ouginak", "Peau d'Ougah", "Collier d'Ougah"],
-        "xp": 450000
-      },
-      "strategy": "Ougah a des attaques terre puissantes et des sorts de rage qui augmentent ses dégâts. Il devient plus dangereux quand il a peu de PV. Résistance terre et soins constants nécessaires.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Koalaks",
-      "level": 75,
-      "location": "Village des Koalaks (-19,-4)",
-      "key": "Clef du Donjon des Koalaks",
-      "rooms": 5,
-      "boss": "Maître Koalak",
-      "monsters": ["Koalak Faucheur", "Koalak Farouche", "Koalak Immature", "Maître Koalak"],
-      "rewards": {
-        "items": ["Amulette Koalak", "Coiffe Koalak", "Cape Koalak", "Ceinture Koalak"],
-        "resources": ["Poil de Koalak", "Griffe de Koalak", "Croc de Koalak", "Boomerang du Maître Koalak"],
-        "xp": 180000
-      },
-      "strategy": "Le Maître Koalak utilise des sorts air et terre. Il invoque des Koalaks qui peuvent le soigner. Focus sur le boss tout en gérant les invocations. Résistances air/terre recommandées.",
+      "strategy": "Le boss se duplique (5 copies, 1 vraie). Frapper une fausse la fait disparaître, toucher la vraie efface toutes les copies. Utiliser des sorts de zone pour trouver le vrai rapidement.",
       "difficulty": "medium"
     },
     {
-      "name": "Donjon des Scarafeuilles",
-      "level": 55,
-      "location": "Routes d'Astrub (5,-20)",
-      "key": "Clef du Donjon des Scarafeuilles",
-      "rooms": 4,
-      "boss": "Scarafeuille Royal",
-      "monsters": ["Scarafeuille Blanc", "Scarafeuille Rouge", "Scarafeuille Bleu", "Scarafeuille Vert", "Scarafeuille Royal"],
+      "name": "Donjon des Blops",
+      "level": 60,
+      "location": "Clairière des Blops (-7,-43)",
+      "key": "Clef du Donjon des Blops",
+      "rooms": 8,
+      "boss": "Blop Royal",
+      "monsters": ["Blop Coco", "Blop Griotte", "Blop Indigo", "Blop Reinette", "Blop Royal"],
       "rewards": {
-        "items": ["Amulette Scarafeuille", "Coiffe Scarafeuille", "Cape Scarafeuille"],
-        "resources": ["Aile de Scarafeuille", "Carapace de Scarafeuille", "Antenne de Scarafeuille"],
+        "items": ["Amulette du Blop", "Coiffe du Blop", "Cape du Blop", "Anneau du Blop", "Bottes du Blop"],
+        "resources": ["Pétale de Blop", "Bourgeon de Blop", "Feuille de Blop", "Sève de Blop"],
+        "xp": 60000
+      },
+      "strategy": "Chaque Blop a un élément différent. Le Royal invoque des Blops de tous les éléments. Éliminer les Blops avant le boss pour réduire les dégâts.",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Château du Wa Wabbit",
+      "level": 60,
+      "location": "Île de la Cawotte (24,-13)",
+      "key": "Clef du Château du Wa Wabbit",
+      "rooms": 10,
+      "boss": "Wa Wabbit",
+      "monsters": ["Wabbit", "Wabbit Gm", "Wabbit Céphale", "Wawabbit", "Wa Wabbit"],
+      "rewards": {
+        "items": ["Amulette du Wabbit", "Coiffe du Wabbit", "Cape du Wabbit", "Bottes du Wabbit"],
+        "resources": ["Carotte", "Poil de Wabbit", "Oreille de Wabbit", "Wukaku"],
+        "xp": 75000
+      },
+      "strategy": "Les Wabbits ont beaucoup de fuite. Utiliser des sorts de retrait de PM. Le Wa Wabbit invoque des Wabbits et tape fort au CAC.",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Fonderie des Waddicts",
+      "level": 60,
+      "location": "Île de Pwâk (-3,-4)",
+      "key": "Clef de la Fonderie des Waddicts",
+      "rooms": 7,
+      "boss": "Mawabouaino",
+      "monsters": ["Waddict", "Waddiktat", "Waddage", "Mawabouaino"],
+      "rewards": {
+        "items": ["Amulette Waddict", "Coiffe Waddict", "Cape Waddict"],
+        "resources": ["Cuir de Waddict", "Plume de Waddict", "Laine de Waddict"],
+        "xp": 65000
+      },
+      "strategy": "Les Waddicts ont des sorts de zone. Se disperser sur la carte. Le boss a un sort de boost de dommages qui cumule.",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Grotte Hesque",
+      "level": 60,
+      "location": "Île d'Otomaï (-59,15)",
+      "key": "Clef de la Grotte Hesque",
+      "rooms": 6,
+      "boss": "Corailleur Magistral",
+      "monsters": ["Corailleur", "Corailleur Saumon", "Corailleur Turquoise", "Corailleur Magistral"],
+      "rewards": {
+        "items": ["Amulette Corailleur", "Coiffe Corailleur", "Cape Corailleur"],
+        "resources": ["Coquille de Corailleur", "Perle", "Corail"],
+        "xp": 70000
+      },
+      "strategy": "Les Corailleurs ont des résistances élevées. Utiliser des dommages perçants ou fixés. Le boss invoque des coraux qui boostent ses caractéristiques.",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Pitons Rocheux des Craqueleurs",
+      "level": 70,
+      "location": "Montagne des Craqueleurs (-3,-7)",
+      "key": "Clef des Pitons Rocheux",
+      "rooms": 9,
+      "boss": "Craqueleur Légendaire",
+      "monsters": ["Craqueleur", "Craqueleur des Plaines", "Craqueleur Mature", "Craqueleur Légendaire"],
+      "rewards": {
+        "items": ["Amulette du Craqueleur", "Coiffe du Craqueleur", "Cape du Craqueleur", "Bottes du Craqueleur"],
+        "resources": ["Pierre du Craqueleur", "Minerai d'Or", "Minerai d'Argent", "Cristal"],
+        "xp": 85000
+      },
+      "strategy": "Les Craqueleurs ont énormément de résistance terre et très peu de vie. Utiliser des sorts de tous les autres éléments. Le boss a 5000+ PV.",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Laboratoire de Brumen Tinctorias",
+      "level": 80,
+      "location": "Pandala Eau (-27,17)",
+      "key": "Clef du Laboratoire",
+      "rooms": 8,
+      "boss": "Nelween",
+      "monsters": ["Skitte", "Skitte Lunatique", "Skitte Dément", "Nelween"],
+      "rewards": {
+        "items": ["Amulette Skitte", "Coiffe Skitte", "Cape Skitte"],
+        "resources": ["Poil de Skitte", "Aile de Skitte", "Sang de Skitte"],
         "xp": 90000
       },
-      "strategy": "Le Scarafeuille Royal invoque des scarafeuilles de toutes les couleurs. Chaque couleur a une faiblesse élémentaire différente. Le boss change de couleur et donc de résistance - adapter les attaques.",
+      "strategy": "Les Skittes ont des sorts de téléportation et de retrait de PO. Le boss invoque des Skittes et se soigne. Frapper fort et vite.",
       "difficulty": "medium"
     },
     {
-      "name": "Donjon des Pichons",
-      "level": 85,
-      "location": "Île d'Otomai (-55,8)",
-      "key": "Clef du Donjon des Pichons",
-      "rooms": 5,
-      "boss": "Pichon Géant",
-      "monsters": ["Pichon", "Pichon Mâture", "Pichon Énervé", "Pichon Géant"],
+      "name": "Repaire de Daïgoro",
+      "level": 80,
+      "location": "Pandala Feu (32,-31)",
+      "key": "Clef du Repaire de Daïgoro",
+      "rooms": 7,
+      "boss": "Daïgoro",
+      "monsters": ["Kitsou Nae", "Kitsou Nakwa", "Kitsou Nere", "Kitsou Nufeu", "Daïgoro"],
       "rewards": {
-        "items": ["Amulette Pichon", "Coiffe Pichon", "Cape Pichon"],
-        "resources": ["Plume de Pichon", "Bec de Pichon", "Œuf de Pichon"],
+        "items": ["Amulette Kitsou", "Coiffe Kitsou", "Cape Kitsou", "Bottes Kitsou"],
+        "resources": ["Poil de Kitsou", "Ongle de Kitsou", "Oreille de Kitsou"],
+        "xp": 95000
+      },
+      "strategy": "Les Kitsoues ont beaucoup de PM et fuient. Utiliser des retraits de PM. Daïgoro invoque des Kitsoues de tous types et a un poison puissant.",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Terrier du Wa Wabbit",
+      "level": 80,
+      "location": "Île de la Cawotte (28,-12)",
+      "key": "Clef du Terrier du Wa Wabbit",
+      "rooms": 8,
+      "boss": "Wa Wobot",
+      "monsters": ["Wobot", "Wobot Kiwi", "Wobot Citron", "Wa Wobot"],
+      "rewards": {
+        "items": ["Amulette Wobot", "Coiffe Wobot", "Cape Wobot"],
+        "resources": ["Pile", "Ressort", "Engrenage", "Clou"],
+        "xp": 100000
+      },
+      "strategy": "Les Wobots sont mécaniques, résistants aux sorts de terre. Utiliser des sorts de feu. Le Wa Wobot invoque des Wobots et met des boucliers.",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Antre du Dragon Cochon",
+      "level": 100,
+      "location": "Porco Territory (-17,8)",
+      "key": "Clef de l'Antre du Dragon Cochon",
+      "rooms": 10,
+      "boss": "Dragon Cochon",
+      "monsters": ["Porsalu", "Cochon de Farle", "Don Dorgan", "Duss Ang", "Dragon Cochon"],
+      "rewards": {
+        "items": ["Défense du Dragon Cochon", "Queue de Dragon Cochon", "Dofus Turquoise"],
+        "resources": ["Groin de Dragon Cochon", "Poil de Dragon Cochon", "Ivoire", "Dragolait"],
+        "xp": 150000
+      },
+      "strategy": "LE sort 'Étourderie Mortelle' tue en fonction des PA utilisés. Ne pas utiliser de PA quand le sort est actif (dure 1 tour, rechargement 5 tours). Le DC tape extrêmement fort au CAC (600+). Le tuer rapidement, il a peu de PV.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Tanière du Meulou",
+      "level": 100,
+      "location": "Landes de Sidimote (-23,0)",
+      "key": "Clef de la Tanière du Meulou",
+      "rooms": 8,
+      "boss": "Meulou",
+      "monsters": ["Mulou", "Mulou Faucheur", "Mulou Hector", "Meulou"],
+      "rewards": {
+        "items": ["Amulette du Meulou", "Coiffe du Meulou", "Cape du Meulou", "Bottes du Meulou", "Ceinture du Meulou"],
+        "resources": ["Poil de Mulou", "Croc de Mulou", "Peau de Mulou"],
         "xp": 140000
       },
-      "strategy": "Les Pichons attaquent en groupe et ont des sorts air. Le Pichon Géant invoque et boost ses alliés. Sorts de zone efficaces pour gérer les groupes.",
-      "difficulty": "medium"
+      "strategy": "Les Mulous enlèvent des PM et attirent. Le Meulou invoque des Mulous et a un sort de vol de vie puissant. Garder ses distances.",
+      "difficulty": "hard"
     },
     {
-      "name": "Donjon des Rats de Brâkmar",
-      "level": 95,
-      "location": "Égouts de Brâkmar (-24,37)",
-      "key": "Clef du Donjon des Rats",
-      "rooms": 6,
-      "boss": "Rat d'Égoutant",
-      "monsters": ["Rat d'Hyoactif", "Rat d'Haï", "Rat d'Ell", "Rat d'Égoutant"],
+      "name": "Potager d'Halouine",
+      "level": 100,
+      "location": "Amakna (-1,22)",
+      "key": "Clef du Potager d'Halouine",
+      "rooms": 7,
+      "boss": "Halouine",
+      "monsters": ["Citwouille", "Citwouille Égarée", "Citwouille Maudite", "Halouine"],
       "rewards": {
-        "items": ["Amulette du Rat", "Coiffe du Rat", "Cape du Rat", "Ceinture du Rat"],
-        "resources": ["Queue de Rat", "Moustache de Rat", "Griffe de Rat", "Dent de Rat"],
+        "items": ["Amulette d'Halouine", "Coiffe d'Halouine", "Cape d'Halouine"],
+        "resources": ["Graine de Citwouille", "Peau de Citwouille", "Confiseries"],
+        "xp": 130000
+      },
+      "strategy": "Donjon événementiel disponible pendant Halloween. Les Citwouilles explosent au contact. Halouine invoque des Citwouilles et met des poisons de zone.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Théâtre de Dramak",
+      "level": 100,
+      "location": "Bonta/Brakmar (21,7)",
+      "key": "Clef du Théâtre de Dramak",
+      "rooms": 6,
+      "boss": "Maître des Pantins",
+      "monsters": ["Pantin", "Pantin Chafer", "Pantin Arakne", "Pantin Tofu", "Maître des Pantins"],
+      "rewards": {
+        "items": ["Amulette du Pantin", "Coiffe du Pantin", "Cape du Pantin"],
+        "resources": ["Fil de Soie", "Bois d'Erable", "Tissu"],
+        "xp": 125000
+      },
+      "strategy": "Le Maître des Pantins contrôle les pantins. Éliminer le boss pour arrêter les invocations. Les pantins copient les sorts des monstres originaux.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Caverne du Koulosse",
+      "level": 100,
+      "location": "Landes de Sidimote (-17,8)",
+      "key": "Clef de la Caverne du Koulosse",
+      "rooms": 8,
+      "boss": "Koulosse",
+      "monsters": ["Kido", "Kilibriss", "Koalak", "Koulosse"],
+      "rewards": {
+        "items": ["Amulette du Koulosse", "Coiffe du Koulosse", "Cape du Koulosse"],
+        "resources": ["Poil de Koulosse", "Peau de Koulosse", "Os de Koulosse"],
+        "xp": 135000
+      },
+      "strategy": "Le Koulosse a énormément de PV (8000+) et tape très fort. Se protéger avec des boucliers et le taper en équipe. Il invoque des Koalaks.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Sanctuaire des Dragoeufs",
+      "level": 120,
+      "location": "Village des Dragoeufs (-3,24)",
+      "key": "Clef du Sanctuaire des Dragoeufs",
+      "rooms": 10,
+      "boss": "Crocabulia",
+      "monsters": ["Dragoeuf Blanc", "Dragoeuf Noir", "Dragoeuf Guerrier", "Crocabulia"],
+      "rewards": {
+        "items": ["Amulette Dragoeuf", "Coiffe Dragoeuf", "Cape Dragoeuf", "Bottes Dragoeuf"],
+        "resources": ["Écaille de Dragoeuf", "Oeuf de Dragoeuf", "Corne de Dragoeuf"],
+        "xp": 200000
+      },
+      "strategy": "Les Dragoeufs ont des résistances très élevées et des sorts de zone. Crocabulia invoque des Dragoeufs et a un sort de poison de zone très puissant.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Repaire de Skeunk",
+      "level": 120,
+      "location": "Forêt maléfique (-20,10)",
+      "key": "Clef du Repaire de Skeunk",
+      "rooms": 8,
+      "boss": "Skeunk",
+      "monsters": ["Rat d'Égout", "Rat de Château", "Rat Bontarien", "Rat Brâkmarien", "Skeunk"],
+      "rewards": {
+        "items": ["Amulette de Skeunk", "Coiffe de Skeunk", "Cape de Skeunk"],
+        "resources": ["Peau de Skeunk", "Queue de Skeunk", "Moustache de Skeunk"],
+        "xp": 180000
+      },
+      "strategy": "Skeunk invoque des rats de tous types. Il a un sort de poison qui cumule et des sorts de retrait de caractéristiques. Frapper fort et vite.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Repaire des Pandikazes",
+      "level": 120,
+      "location": "Pandala Air (18,-36)",
+      "key": "Clef du Repaire des Pandikazes",
+      "rooms": 9,
+      "boss": "Maître Pandore",
+      "monsters": ["Pandikaze", "Pandikaze Aérien", "Pandulkaze", "Pandikaze Vertige", "Maître Pandore"],
+      "rewards": {
+        "items": ["Amulette Pandikaze", "Coiffe Pandikaze", "Cape Pandikaze"],
+        "resources": ["Poil de Pandikaze", "Plume de Pandikaze", "Pandicouillons"],
+        "xp": 190000,
+        "special": "Emote Pointer du Doigt"
+      },
+      "strategy": "Les Pandikazes ont beaucoup de PM et repoussent. Le Maître Pandore invoque et boost ses alliés. Éliminer les Pandikazes avant le boss.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Minotoror",
+      "level": 120,
+      "location": "Labyrinthe du Minotoror (-42,-17)",
+      "key": "Clef du Labyrinthe du Minotoror",
+      "rooms": 12,
+      "boss": "Minotoror",
+      "monsters": ["Minoskito", "Minotot", "Mino", "Minotoror"],
+      "rewards": {
+        "items": ["Amulette du Minotoror", "Coiffe du Minotoror", "Cape du Minotoror", "Bottes du Minotoror", "Ceinture du Minotoror"],
+        "resources": ["Corne du Minotoror", "Peau du Minotoror", "Cuir de Minotoror"],
+        "xp": 250000
+      },
+      "strategy": "Donjon très long avec un labyrinthe. Le Minotoror a 10 000+ PV et tape extrêmement fort. Nécessite une équipe équilibrée avec soigneur.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Miausolée du Pounicheur",
+      "level": 110,
+      "location": "Bonta (3,-9)",
+      "key": "Clef du Miausolée",
+      "rooms": 7,
+      "boss": "Pounicheur",
+      "monsters": ["Chachat", "Chienchien", "Pwaton", "Pounicheur"],
+      "rewards": {
+        "items": ["Amulette du Pounicheur", "Coiffe du Pounicheur", "Cape du Pounicheur"],
+        "resources": ["Poil de Chachat", "Croc de Chienchien", "Collier de Pwaton"],
         "xp": 170000
       },
-      "strategy": "Les Rats ont des attaques eau et terre. Le boss invoque des rats supplémentaires. Attention aux poisons cumulatifs. Résistances eau/terre importantes.",
+      "strategy": "Les familiers invoquent et se boostent. Le Pounicheur a des sorts de protection de zone. Éliminer les invocations rapidement.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Hell Mina",
+      "level": 110,
+      "location": "Landes de Sidimote (-7,16)",
+      "key": "Clef de Hell Mina",
+      "rooms": 8,
+      "boss": "Hell Mina",
+      "monsters": ["Chafer", "Chafer Lancier", "Chafer Archer", "Hell Mina"],
+      "rewards": {
+        "items": ["Amulette d'Hell Mina", "Coiffe d'Hell Mina", "Cape d'Hell Mina"],
+        "resources": ["Os de Chafer", "Cendres", "Soufre"],
+        "xp": 175000
+      },
+      "strategy": "Hell Mina invoque des Chafers et a des sorts de feu puissants. Prévoir des résistances feu. Elle se régénère avec des sorts de vol de vie.",
       "difficulty": "hard"
     },
     {
       "name": "Donjon des Rats de Bonta",
-      "level": 95,
-      "location": "Égouts de Bonta (-33,-56)",
-      "key": "Clef du Donjon des Rats Bontariens",
-      "rooms": 6,
-      "boss": "Rat Bontarien",
-      "monsters": ["Rat Bontarien Mineur", "Rat Bontarien Vétéran", "Rat Bontarien Captain", "Rat Bontarien"],
+      "level": 110,
+      "location": "Égouts de Bonta (-34,-59)",
+      "key": "Clef des Rats de Bonta",
+      "rooms": 8,
+      "boss": "Rat Blanc",
+      "monsters": ["Rat", "Rat d'Égout", "Rat Bontarien", "Rat Blanc"],
       "rewards": {
-        "items": ["Amulette du Rat Bontarien", "Coiffe du Rat Bontarien", "Cape du Rat Bontarien"],
-        "resources": ["Queue de Rat Bontarien", "Insigne Bontarien", "Griffe de Rat Bontarien"],
-        "xp": 170000
-      },
-      "strategy": "Similaire aux rats de Brâkmar mais avec des attaques feu/air. Le boss a un sort de zone qui retire beaucoup de PV. Positionnement important.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Canidés",
-      "level": 105,
-      "location": "Landes de Sidimote (-10,18)",
-      "key": "Clef du Donjon des Canidés",
-      "rooms": 5,
-      "boss": "Chef de Meute",
-      "monsters": ["Louveteau", "Loup", "Loup Alpha", "Chef de Meute"],
-      "rewards": {
-        "items": ["Amulette Canidé", "Coiffe Canidé", "Cape Canidé", "Ceinture Canidé"],
-        "resources": ["Poil de Loup", "Croc de Loup", "Griffe de Loup Alpha"],
-        "xp": 220000
-      },
-      "strategy": "Le Chef de Meute boost tous les loups à chaque tour. Tuer les sbires rapidement ou focus le boss avec un burst important. Les loups ont des attaques terre.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Pandikazes",
-      "level": 120,
-      "location": "Pandala Feu (28,-49)",
-      "key": "Clef du Donjon des Pandikazes",
-      "rooms": 6,
-      "boss": "Pandikaze l'Impalpable",
-      "monsters": ["Pandikaze", "Pandikaze Légendaire", "Pandikaze l'Impalpable"],
-      "rewards": {
-        "items": ["Amulette Pandikaze", "Coiffe Pandikaze", "Cape Pandikaze", "Ceinture Pandikaze", "Bottes Pandikaze"],
-        "resources": ["Poil de Pandikaze", "Griffe de Pandikaze", "Essence de Pandikaze"],
-        "xp": 300000
-      },
-      "strategy": "Les Pandikazes ont énormément de fuite et d'esquive. Réduire leurs PM et PA pour les immobiliser. Le boss a des sorts feu très puissants.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Pandawas",
-      "level": 115,
-      "location": "Pandala Eau (22,-28)",
-      "key": "Clef du Donjon des Pandawas",
-      "rooms": 5,
-      "boss": "Pandawa Ivre",
-      "monsters": ["Pandawa Apprenti", "Pandawa Guerrier", "Pandawa Ivre"],
-      "rewards": {
-        "items": ["Amulette Pandawa", "Chapeau Pandawa", "Cape Pandawa", "Ceinture Pandawa"],
-        "resources": ["Poil de Pandawa", "Kamas"],
-        "xp": 280000
-      },
-      "strategy": "Les Pandawas lancent des sorts d'eau et peuvent souffrir des alliés. Le boss devient plus fort quand il a peu de PV (rage). Anticiper et finir rapidement.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Pandores",
-      "level": 118,
-      "location": "Pandala Terre (24,-35)",
-      "key": "Clef du Donjon des Pandores",
-      "rooms": 5,
-      "boss": "Pandore",
-      "monsters": ["Pandorelette", "Pandorite", "Pandore"],
-      "rewards": {
-        "items": ["Amulette Pandore", "Coiffe Pandore", "Cape Pandore"],
-        "resources": ["Fragment de Pandore", "Cœur de Pandore", "Essence de Pandore"],
-        "xp": 290000
-      },
-      "strategy": "Les Pandores invoquent des copies d'elles-mêmes. Identifier le vrai boss par ses sorts. Les copies disparaissent quand le vrai meurt.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Aerdalas",
-      "level": 122,
-      "location": "Pandala Air (20,-35)",
-      "key": "Clef du Donjon des Aerdalas",
-      "rooms": 5,
-      "boss": "Aerdala le Sylvestre",
-      "monsters": ["Aerdala", "Aerdala Mâture", "Aerdala le Sylvestre"],
-      "rewards": {
-        "items": ["Amulette Aerdala", "Coiffe Aerdala", "Cape Aerdala"],
-        "resources": ["Plume d'Aerdala", "Bec d'Aerdala", "Griffe d'Aerdala"],
-        "xp": 320000
-      },
-      "strategy": "Les Aerdalas ont des sorts air très rapides et beaucoup de PM. Les ralentir est essentiel. Le boss invoque des tornades qui repoussent.",
-      "difficulty": "hard"
-    },
-    {
-      "name": "Donjon des Abraknydes",
-      "level": 50,
-      "location": "Forêt d'Abraknyde (-13,18)",
-      "key": "Clef du Donjon des Abraknydes",
-      "rooms": 5,
-      "boss": "Abraknyde Vénérable",
-      "monsters": ["Abraknyde", "Abraknyde Mâture", "Abraknyde Sombre", "Abraknyde Vénérable"],
-      "rewards": {
-        "items": ["Amulette Abraknyde", "Coiffe Abraknyde", "Cape Abraknyde", "Bottes Abraknyde"],
-        "resources": ["Bois de Abraknyde", "Racine d'Abraknyde", "Écorce d'Abraknyde", "Sève d'Abraknyde"],
-        "xp": 75000
-      },
-      "strategy": "Les Abraknydes ont des sorts terre et peuvent invoquer des racines qui immobilisent. Le boss se régénère en sève. Focus burst pour éviter le combat de longue durée.",
-      "difficulty": "medium"
-    },
-    {
-      "name": "Donjon des Bandits",
-      "level": 65,
-      "location": "Terres Desolées (-15,25)",
-      "key": "Clef du Donjon des Bandits",
-      "rooms": 5,
-      "boss": "Maire Cantile",
-      "monsters": ["Bandit", "Bandit Manchot", "Bandit du Poli", "Maire Cantile"],
-      "rewards": {
-        "items": ["Amulette du Bandit", "Coiffe du Bandit", "Cape du Bandit", "Ceinture du Bandit"],
-        "resources": ["Masque de Bandit", "Couteau de Bandit", "Sac de Kamas"],
-        "xp": 110000
-      },
-      "strategy": "Les Bandits attaquent en groupe et volent des Kamas. Le Maire Cantile invoque des bandits et boost leurs dommages. Sorts de zone recommandés.",
-      "difficulty": "medium"
-    },
-    {
-      "name": "Donjon des Etoiles",
-      "level": 190,
-      "location": "Astrub (7,-15)",
-      "key": "Clef du Donjon des Etoiles",
-      "rooms": 6,
-      "boss": "Étoile Divine",
-      "monsters": ["Étoile Filante", "Étoile de Mer", "Étoile Noire", "Étoile Divine"],
-      "rewards": {
-        "items": ["Amulette Étoile", "Coiffe Étoile", "Cape Étoile", "Ceinture Étoile", "Bottes Étoile"],
-        "resources": ["Poussière d'Étoile", "Fragment d'Étoile", "Cœur d'Étoile"],
-        "xp": 750000
-      },
-      "strategy": "Donjon très spécial avec des mécaniques uniques. Les étoiles changent de forme et de faiblesse selon les tours. Observation et adaptation constante nécessaires.",
-      "difficulty": "extreme"
-    },
-    {
-      "name": "Donjon des Golems",
-      "level": 170,
-      "location": "Grotte des Golems (-5,10)",
-      "key": "Clef du Donjon des Golems",
-      "rooms": 6,
-      "boss": "Golem de Cristal",
-      "monsters": ["Golem de Pierre", "Golem de Fer", "Golem de Diamant", "Golem de Cristal"],
-      "rewards": {
-        "items": ["Amulette Golem", "Coiffe Golem", "Cape Golem", "Ceinture Golem"],
-        "resources": ["Pierre du Golem", "Minerai de Golem", "Cœur de Cristal"],
-        "xp": 620000
-      },
-      "strategy": "Les Golems ont énormément de résistance et de PV. Combat très long. Le Golem de Cristal change d'élément de résistance - observer et adapter les attaques.",
-      "difficulty": "very_hard"
-    },
-    {
-      "name": "Donjon des Spectres",
-      "level": 150,
-      "location": "Cimetière des Vilains (12,16)",
-      "key": "Clef du Donjon des Spectres",
-      "rooms": 6,
-      "boss": "Spectre du Comte",
-      "monsters": ["Spectre", "Spectre Vengeur", "Spectre Maudit", "Spectre du Comte"],
-      "rewards": {
-        "items": ["Amulette Spectre", "Coiffe Spectre", "Cape Spectre", "Ceinture Spectre"],
-        "resources": ["Essence de Spectre", "Linceul", "Âme du Comte"],
-        "xp": 520000
-      },
-      "strategy": "Les Spectres ont des sorts ténèbres et peuvent traverser les lignes de vue. Résistances ténèbres importantes. Le boss invoque des spectres qui drainent des PV.",
-      "difficulty": "very_hard"
-    },
-    {
-      "name": "Donjon des Momies",
-      "level": 165,
-      "location": "Pyramide (10,-15)",
-      "key": "Clef du Donjon des Momies",
-      "rooms": 7,
-      "boss": "Momie Reine",
-      "monsters": ["Momie", "Momie Sanguinaire", "Momie Élite", "Momie Reine"],
-      "rewards": {
-        "items": ["Amulette Momie", "Coiffe Momie", "Cape Momie", "Ceinture Momie", "Bottes Momie"],
-        "resources": ["Bandage de Momie", "Parchemin Antique", "Joyau de la Reine"],
-        "xp": 580000
-      },
-      "strategy": "Les Momies appliquent des maladies qui réduisent les stats. Antidote recommandé. La Momie Reine invoque des momies et se régénère grâce à elles.",
-      "difficulty": "very_hard"
-    },
-    {
-      "name": "Donjon des Vampires",
-      "level": 175,
-      "location": "Château des Vampires (-15,20)",
-      "key": "Clef du Donjon des Vampires",
-      "rooms": 7,
-      "boss": "Comte de la Nuit",
-      "monsters": ["Vampire", "Vampire Aguerri", "Vampire Ancien", "Comte de la Nuit"],
-      "rewards": {
-        "items": ["Amulette Vampire", "Cape du Vampire", "Ceinture Vampire", "Anneau Vampire"],
-        "resources": ["Croc de Vampire", "Sang de Vampire", "Cœur Immortel"],
-        "xp": 650000
-      },
-      "strategy": "Les Vampires drainent des PV avec leurs attaques. Le Comte se régénère massivement quand il touche. Sorts de zone pour empêcher les soins, ou burst extrême pour finir avant qu'il ne se régénère.",
-      "difficulty": "very_hard"
-    },
-    {
-      "name": "Donjon des Chevaliers",
-      "level": 185,
-      "location": "Château des Chevaliers (5,-10)",
-      "key": "Clef du Donjon des Chevaliers",
-      "rooms": 7,
-      "boss": "Chevalier Noir",
-      "monsters": ["Écuyer", "Chevalier", "Paladin Déchu", "Chevalier Noir"],
-      "rewards": {
-        "items": ["Amulette du Chevalier", "Casque du Chevalier", "Cape du Chevalier", "Armure du Chevalier", "Bottes du Chevalier"],
-        "resources": ["Épée du Chevalier", "Armure Brisée", "Écusson", "Bouclier du Chevalier Noir"],
-        "xp": 720000
-      },
-      "strategy": "Les Chevaliers ont des attaques très puissantes en mêlée et beaucoup de résistance. Le boss invoque des chevaliers et boost leurs dommages. Distance recommandée, sorts de retrait PA efficaces.",
-      "difficulty": "extreme"
-    },
-    {
-      "name": "Donjon des Marais",
-      "level": 52,
-      "location": "Marais (-15,10)",
-      "key": "Clef du Donjon des Marais",
-      "rooms": 4,
-      "boss": "Trousseau",
-      "monsters": ["Kaskargo", "Kaskouette", "Kaskarde", "Trousseau"],
-      "rewards": {
-        "items": ["Amulette du Marais", "Coiffe du Marais", "Cape du Marais"],
-        "resources": ["Bave de Kaskargo", "Carapace de Kaskargo", "Mandibule de Trousseau"],
-        "xp": 65000
-      },
-      "strategy": "Les Kaskargos ont des attaques eau et terre. Trousseau invoque des Kaskargos et peut se cacher dans le terrain. Prévoir des sorts de révélation.",
-      "difficulty": "medium"
-    },
-    {
-      "name": "Donjon des Nids",
-      "level": 92,
-      "location": "Montagnes des Nids (-20,-5)",
-      "key": "Clef du Donjon des Nids",
-      "rooms": 5,
-      "boss": "Mère des Nids",
-      "monsters": ["Oiseau des Nids", "Oiseau des Nids Agressif", "Oiseau des Nids Protecteur", "Mère des Nids"],
-      "rewards": {
-        "items": ["Amulette du Nid", "Coiffe du Nid", "Cape du Nid", "Ceinture du Nid"],
-        "resources": ["Plume du Nid", "Œuf de Nid", "Bec Aiguisé"],
+        "items": ["Amulette du Rat Blanc", "Coiffe du Rat Blanc", "Cape du Rat Blanc"],
+        "resources": ["Peau de Rat", "Queue de Rat", "Moustache de Rat"],
         "xp": 160000
       },
-      "strategy": "La Mère des Nids invoque constamment des oiseaux qui la protègent. Tuer les invocations pour réduire sa défense. Attaques air principalement.",
+      "strategy": "Les rats empoisonnent et volent des PA. Le Rat Blanc invoque et a un poison qui cumule beaucoup. Prévoir un Eniripsa ou des désenvoûtements.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Donjon des Rats de Brakmar",
+      "level": 110,
+      "location": "Égouts de Brakmar (-23,31)",
+      "key": "Clef des Rats de Brakmar",
+      "rooms": 8,
+      "boss": "Rat Noir",
+      "monsters": ["Rat", "Rat d'Égout", "Rat Brâkmarien", "Rat Noir"],
+      "rewards": {
+        "items": ["Amulette du Rat Noir", "Coiffe du Rat Noir", "Cape du Rat Noir"],
+        "resources": ["Peau de Rat", "Queue de Rat", "Griffe de Rat"],
+        "xp": 160000
+      },
+      "strategy": "Similaire au donjon de Bonta mais avec des sorts de retrait de PM. Le Rat Noir a plus de PV et invoque plus de rats.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Goulet du Rasboul",
+      "level": 110,
+      "location": "Village des Eleveurs (-51,9)",
+      "key": "Clef du Goulet du Rasboul",
+      "rooms": 7,
+      "boss": "Rasboul Majeur",
+      "monsters": ["Rasboul", "Rasboul Diaphane", "Rasboul Ombre", "Rasboul Majeur"],
+      "rewards": {
+        "items": ["Amulette Rasboul", "Coiffe Rasboul", "Cape Rasboul"],
+        "resources": ["Pierre de Rasboul", "Cristal", "Minerai"],
+        "xp": 185000
+      },
+      "strategy": "Les Rasbouls ont des résistances variables selon leur forme. Le Majeur change de forme et invoque des Rasbouls. S'adapter à ses changements.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Donjon des Kitsounes",
+      "level": 150,
+      "location": "Pandala Feu (32,-38)",
+      "key": "Clef du Donjon des Kitsounes",
+      "rooms": 7,
+      "boss": "Tanukouï San",
+      "monsters": ["Kitsou Nae", "Kitsou Nakwa", "Kitsou Nere", "Kitsou Nufeu", "Tanukouï San"],
+      "rewards": {
+        "items": ["Amulette Tanukouï", "Coiffe Tanukouï", "Cape Tanukouï", "Bottes Tanukouï"],
+        "resources": ["Poil de Tanukouï", "Ongle de Tanukouï", "Croc de Tanukouï"],
+        "xp": 300000
+      },
+      "strategy": "Donjon avec mécanique de séparation en groupes. Tanukouï San invoque des Kitsoues de tous types et a des poisons très puissants.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Donjon Firefoux",
+      "level": 180,
+      "location": "Pandala Feu - Feudala",
+      "key": "Clef du Donjon Firefoux",
+      "rooms": 8,
+      "boss": "Péki Péki",
+      "monsters": ["Firefoux", "Firefoux Doré", "Firefoux Blanc", "Firefoux Argentin", "Péki Péki"],
+      "rewards": {
+        "items": ["Amulette Firefoux", "Coiffe Firefoux", "Cape Firefoux", "Bottes Firefoux"],
+        "resources": ["Poil de Firefoux", "Ongle de Firefoux", "Croc de Firefoux"],
+        "xp": 350000
+      },
+      "strategy": "Les Firefoux ont des sorts de feu très puissants. Prévoir 70%+ de résistance feu. Péki Péki invoque des Firefoux et a un sort de zone qui tape très fort.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Minotot",
+      "level": 180,
+      "location": "Labyrinthe du Minotoror (-37,-11)",
+      "key": "Clef du Minotot",
+      "rooms": 10,
+      "boss": "Minotot",
+      "monsters": ["Minoskito", "Mino", "Minotoror", "Minotot"],
+      "rewards": {
+        "items": ["Amulette du Minotot", "Coiffe du Minotot", "Cape du Minotot", "Bottes du Minotot", "Ceinture du Minotot"],
+        "resources": ["Corne du Minotot", "Peau du Minotot", "Cuir du Minotot"],
+        "xp": 400000
+      },
+      "strategy": "Le Minotot est plus fort que le Minotoror avec 12 000+ PV. Il invoque des Minos et a des sorts de retrait de PA/PM très puissants.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Donjon des Rats du Château d'Amakna",
+      "level": 160,
+      "location": "Château d'Amakna (5,-8)",
+      "key": "Clef des Rats du Château",
+      "rooms": 9,
+      "boss": "Sphincter Cell",
+      "monsters": ["Rat", "Rat d'Égout", "Rat de Château", "Rat Sanguin", "Sphincter Cell"],
+      "rewards": {
+        "items": ["Amulette Sphincter", "Coiffe Sphincter", "Cape Sphincter"],
+        "resources": ["Peau de Rat", "Queue de Rat", "Griffe de Rat Sanguin"],
+        "xp": 320000
+      },
+      "strategy": "Sphincter Cell invoque énormément de rats et a des sorts de poison cumulatifs. Éliminer les invocations constamment.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Excavation du Mansot Royal",
+      "level": 150,
+      "location": "Frigost (-64,-55)",
+      "key": "Clef de l'Excavation",
+      "rooms": 8,
+      "boss": "Mansot Royal",
+      "monsters": ["Mansot", "Mansot Velu", "Mansot Agressif", "Mansot Royal"],
+      "rewards": {
+        "items": ["Amulette Mansot", "Coiffe Mansot", "Cape Mansot"],
+        "resources": ["Peau de Mansot", "Poil de Mansot", "Griffe de Mansot"],
+        "xp": 280000
+      },
+      "strategy": "Les Mansots ont des résistances eau élevées. Le Royal invoque des mansots et a un sort de gel qui retire des PM.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Fabrique Mallefisk",
+      "level": 150,
+      "location": "Frigost (-6,-2)",
+      "key": "Clef de la Fabrique Mallefisk",
+      "rooms": 7,
+      "boss": "Mallefisk",
+      "monsters": ["Fisk", "Fisk Arc-en-ciel", "Fisk Cristal", "Mallefisk"],
+      "rewards": {
+        "items": ["Amulette Fisk", "Coiffe Fisk", "Cape Fisk"],
+        "resources": ["Écaille de Fisk", "Nacre", "Perle"],
+        "xp": 290000
+      },
+      "strategy": "Les Fisks ont des résistances variables. Mallefisk invoque des Fisks de tous types et a des sorts de zone.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Ring du Capitaine Ekarlatte",
+      "level": 160,
+      "location": "Mer (6,3)",
+      "key": "Clef du Ring",
+      "rooms": 6,
+      "boss": "Capitaine Ekarlatte",
+      "monsters": ["Pirate", "Pirate Mousse", "Pirate Fantôme", "Capitaine Ekarlatte"],
+      "rewards": {
+        "items": ["Amulette du Capitaine", "Coiffe du Capitaine", "Cape du Capitaine"],
+        "resources": ["Bandana de Pirate", "Croc de Pirate", "Carte au Trésor"],
+        "xp": 310000
+      },
+      "strategy": "Les pirates attirent et repoussent. Le Capitaine invoque et a des sorts de vol de vie. Prévoir des résistances eau.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Clairière du Chêne Mou",
+      "level": 160,
+      "location": "Forêt des Abraknydes (-14,-13)",
+      "key": "Clef de la Clairière",
+      "rooms": 8,
+      "boss": "Chêne Mou",
+      "monsters": ["Abraknyde", "Abraknyde Vénérable", "Abraknyde Ancestral", "Chêne Mou"],
+      "rewards": {
+        "items": ["Amulette du Chêne Mou", "Coiffe du Chêne Mou", "Cape du Chêne Mou"],
+        "resources": ["Bourgeon d'Abraknyde", "Sève", "Écorce d'Abraknyde"],
+        "xp": 330000
+      },
+      "strategy": "Les Abraknydes ont énormément de résistance terre. Utiliser d'autres éléments. Le Chêne Mou invoque des arbres et a des sorts de protection.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Plateau de Ush",
+      "level": 160,
+      "location": "Pandala Terre (7,-3)",
+      "key": "Clef du Plateau de Ush",
+      "rooms": 7,
+      "boss": "Ush Galesh",
+      "monsters": ["Galets", "Galets Jaloux", "Galets Muet", "Ush Galesh"],
+      "rewards": {
+        "items": ["Amulette Ush", "Coiffe Ush", "Cape Ush"],
+        "resources": ["Minerai", "Cristal", "Pierre"],
+        "xp": 340000
+      },
+      "strategy": "Les Galets ont beaucoup de PV et résistance terre. Ush Galesh invoque des galets et a des sorts de zone très puissants.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Epave du Grolandais violent",
+      "level": 160,
+      "location": "Frigost (-60,-84)",
+      "key": "Clef de l'Epave",
+      "rooms": 8,
+      "boss": "Ben le Ripate",
+      "monsters": ["Grolandais", "Grolandais Vétéran", "Grolandais Sous-marin", "Ben le Ripate"],
+      "rewards": {
+        "items": ["Amulette Grolandais", "Coiffe Grolandais", "Cape Grolandais"],
+        "resources": ["Cuir de Grolandais", "Métal", "Bois"],
+        "xp": 315000
+      },
+      "strategy": "Les Grolandais ont des sorts de retrait de PA. Ben le Ripate invoque et a un poison qui empêche de bouger.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Tanière Givrefoux",
+      "level": 170,
+      "location": "Frigost (-80,-75)",
+      "key": "Clef de la Tanière Givrefoux",
+      "rooms": 9,
+      "boss": "Tengu Givrefoux",
+      "monsters": ["Givrefoux", "Givrefoux Hurleur", "Givrefoux Guerrier", "Tengu Givrefoux"],
+      "rewards": {
+        "items": ["Amulette Givrefoux", "Coiffe Givrefoux", "Cape Givrefoux", "Bottes Givrefoux"],
+        "resources": ["Poil de Givrefoux", "Croc de Givrefoux", "Plume de Tengu"],
+        "xp": 380000
+      },
+      "strategy": "Les Givrefoux ont des résistances air élevées. Le Tengu invoque des Givrefoux et a des sorts de gel très puissants.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Mégalithe de Fraktale",
+      "level": 170,
+      "location": "Pandala Eau (7,3)",
+      "key": "Clef du Mégalithe",
+      "rooms": 8,
+      "boss": "Fraktale",
+      "monsters": ["Tynril", "Tynril Potion", "Tynril Consterné", "Fraktale"],
+      "rewards": {
+        "items": ["Amulette Fraktale", "Coiffe Fraktale", "Cape Fraktale"],
+        "resources": ["Écaille de Tynril", "Nacre", "Perle"],
+        "xp": 370000
+      },
+      "strategy": "Les Tynrils ont des mécaniques complexes (changements d'état). Fraktale invoque des Tynrils et a des sorts de zone très puissants.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Demeure des Esprits",
+      "level": 170,
+      "location": "Pandala Eau (39,-44)",
+      "key": "Clef de la Demeure",
+      "rooms": 9,
+      "boss": "Koumiho",
+      "monsters": ["Esprit", "Esprit Démoniaque", "Esprit Vengeur", "Koumiho"],
+      "rewards": {
+        "items": ["Amulette Koumiho", "Coiffe Koumiho", "Cape Koumiho"],
+        "resources": ["Essence d'Esprit", "Âme", "Fragment d'Étoile"],
+        "xp": 375000
+      },
+      "strategy": "Les Esprits sont intangibles la moitié du temps. Koumiho invoque des esprits et a des sorts de vol de vie très puissants.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Hypogée de l'Obsidiantre",
+      "level": 170,
+      "location": "Frigost (-71,-83)",
+      "key": "Clef de l'Hypogée",
+      "rooms": 8,
+      "boss": "Obsidiantre",
+      "monsters": ["Obsidien", "Obsidien Poli", "Obsidien Brut", "Obsidiantre"],
+      "rewards": {
+        "items": ["Amulette Obsidien", "Coiffe Obsidien", "Cape Obsidien"],
+        "resources": ["Obsidienne", "Cristal Noir", "Pierre Noire"],
+        "xp": 360000
+      },
+      "strategy": "Les Obsidiens ont énormément de résistance terre. L'Obsidiantre invoque et a des sorts de zone de pierre.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Cavernes du Kolosso",
+      "level": 170,
+      "location": "Frigost (-61,-69)",
+      "key": "Clef des Cavernes du Kolosso",
+      "rooms": 10,
+      "boss": "Kolosso",
+      "monsters": ["Gelée", "Gelée Menthe", "Gelée Fraise", "Kolosso"],
+      "rewards": {
+        "items": ["Amulette Kolosso", "Coiffe Kolosso", "Cape Kolosso"],
+        "resources": ["Gelée", "Menthe", "Fraise", "Citron"],
+        "xp": 365000
+      },
+      "strategy": "Les Gélées ont des résistances variables selon leur couleur. Kolosso invoque des gelées et a des sorts de zone très larges.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Maison du Papa Nowel",
+      "level": 180,
+      "location": "Île de Nowel (-34,-89)",
+      "key": "Clef de la Maison de Nowel",
+      "rooms": 6,
+      "boss": "Père Fwetar",
+      "monsters": ["Nowel", "Nowel Gourmand", "Nowel Farceur", "Père Fwetar"],
+      "rewards": {
+        "items": ["Amulette Nowel", "Coiffe Nowel", "Cape Nowel"],
+        "resources": ["Cadeau", "Ruban", "Papier Cadeau"],
+        "xp": 340000
+      },
+      "strategy": "Donjon événementiel de Noël. Le Père Fwetar invoque des Nowels et a des sorts de cadeaux piégés.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Grotte du Bworker",
+      "level": 180,
+      "location": "Bwork (-15,14)",
+      "key": "Clef de la Grotte du Bworker",
+      "rooms": 10,
+      "boss": "Bworker",
+      "monsters": ["Bwork", "Bwork Archer", "Bwork Mage", "Bworker"],
+      "rewards": {
+        "items": ["Amulette Bworker", "Coiffe Bworker", "Cape Bworker", "Bottes Bworker", "Ceinture Bworker"],
+        "resources": ["Peau de Bwork", "Cuir de Bwork", "Corne de Bwork"],
+        "xp": 420000
+      },
+      "strategy": "Les Bworks ont des sorts de zone et de retrait de PA. Bworker invoque des Bworks et a un sort de berserk qui augmente ses dégâts quand il a peu de PV.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Grotte de Kanigroula",
+      "level": 190,
+      "location": "Cania (-5,-54)",
+      "key": "Clef de la Grotte de Kanigroula",
+      "rooms": 9,
+      "boss": "Kanigroula",
+      "monsters": ["Kanigrou", "Kanigrou Mâle", "Kanigrou Femelle", "Kanigroula"],
+      "rewards": {
+        "items": ["Amulette Kanigrou", "Coiffe Kanigrou", "Cape Kanigrou"],
+        "resources": ["Peau de Kanigrou", "Croc de Kanigrou", "Poil de Kanigrou"],
+        "xp": 450000
+      },
+      "strategy": "Les Kanigrous attirent et repoussent. Kanigroula invoque et a des sorts de morsure qui retirent des PA.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Galerie du Phossile",
+      "level": 180,
+      "location": "Landes de Sidimote (-2,-3)",
+      "key": "Clef de la Galerie",
+      "rooms": 8,
+      "boss": "Phossile",
+      "monsters": ["Fossile", "Fossile Vivant", "Fossile Ambulant", "Phossile"],
+      "rewards": {
+        "items": ["Amulette Fossile", "Coiffe Fossile", "Cape Fossile"],
+        "resources": ["Os Fossile", "Pierre Ancienne", "Silex"],
+        "xp": 400000
+      },
+      "strategy": "Les Fossiles ressuscitent après 3 tours. Phossile invoque des fossiles et a des sorts de zone de terre.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Horologium de XLII",
+      "level": 190,
+      "location": "Pandala Terre (7,3)",
+      "key": "Clef de l'Horologium",
+      "rooms": 9,
+      "boss": "XLII",
+      "monsters": ["Horloge", "Horloge Vivante", "Horloge Cassée", "XLII"],
+      "rewards": {
+        "items": ["Amulette Horloge", "Coiffe Horloge", "Cape Horloge"],
+        "resources": ["Engrenage", "Ressort", "Mécanisme"],
+        "xp": 430000
+      },
+      "strategy": "Les Horloges ont des sorts basés sur le temps (retardement). XLII invoque et a un sort qui accélère ou ralentit le temps.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Pyramide d'Ombre",
+      "level": 190,
+      "location": "Pandala Terre (6,13)",
+      "key": "Clef de la Pyramide",
+      "rooms": 10,
+      "boss": "Ombre",
+      "monsters": ["Ombre", "Ombre Assassine", "Ombre Spectrale", "Ombre Suprême"],
+      "rewards": {
+        "items": ["Amulette de l'Ombre", "Coiffe de l'Ombre", "Cape de l'Ombre"],
+        "resources": ["Essence d'Ombre", "Fragment d'Ombre", "Ténèbres"],
+        "xp": 440000
+      },
+      "strategy": "Les Ombres sont invisibles et ont des sorts de poison. L'Ombre invoque des ombres et a des sorts de vol de vie très puissants.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Temple du Grand Ougah",
+      "level": 190,
+      "location": "Île d'Otomaï (-18,28)",
+      "key": "Clef du Temple d'Ougah",
+      "rooms": 10,
+      "boss": "Ougah",
+      "monsters": ["Ouginak", "Ouginak Sauvage", "Ouginak Alpha", "Ougah"],
+      "rewards": {
+        "items": ["Amulette Ougah", "Coiffe Ougah", "Cape Ougah", "Bottes Ougah"],
+        "resources": ["Poil d'Ouginak", "Croc d'Ouginak", "Peau d'Ouginak"],
+        "xp": 460000
+      },
+      "strategy": "Les Ouginaks ont des sorts de morsure et de traque. Ougah invoque des Ouginaks et a un sort de transformation très puissant.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Chambre de Tal Kasha",
+      "level": 200,
+      "location": "Pandala Air (12,-77)",
+      "key": "Clef de la Chambre de Tal Kasha",
+      "rooms": 10,
+      "boss": "Tal Kasha",
+      "monsters": ["Momie", "Momie Faraon", "Momie Sacerdotale", "Tal Kasha"],
+      "rewards": {
+        "items": ["Amulette Tal Kasha", "Coiffe Tal Kasha", "Cape Tal Kasha", "Bottes Tal Kasha"],
+        "resources": ["Bandelettes", "Or", "Pierre Précieuse"],
+        "xp": 500000
+      },
+      "strategy": "Les Momies maudissent et empoisonnent. Tal Kasha invoque des momies et a des sorts de malédiction très puissants qui réduisent les stats.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Comte Harebourg",
+      "level": 199,
+      "location": "Frigost (-61,-79)",
+      "key": "Clef du Comte Harebourg",
+      "rooms": 12,
+      "boss": "Comte Harebourg",
+      "monsters": ["Sinistre", "Sinistre Flocon", "Sinistre Givré", "Comte Harebourg"],
+      "rewards": {
+        "items": ["Amulette Harebourg", "Coiffe Harebourg", "Cape Harebourg", "Bottes Harebourg"],
+        "resources": ["Glace", "Cristal de Glace", "Eau Gelée"],
+        "xp": 550000
+      },
+      "strategy": "Donjon très difficile avec de nombreuses mécaniques. Le Comte invoque des Sinistres et a des sorts de gel qui paralysent. Prévoir des résistances eau et des désenvoûtements.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Palais du Roi Nidas",
+      "level": 199,
+      "location": "Pandala Terre (-5,-5)",
+      "key": "Clef du Palais de Nidas",
+      "rooms": 11,
+      "boss": "Roi Nidas",
+      "monsters": ["Trésor", "Trésor Gardé", "Trésor Maudit", "Roi Nidas"],
+      "rewards": {
+        "items": ["Amulette Nidas", "Coiffe Nidas", "Cape Nidas", "Bottes Nidas"],
+        "resources": ["Or", "Gemme", "Joyau"],
+        "xp": 530000
+      },
+      "strategy": "Les Trésors attirent et ont des sorts de protection. Le Roi Nidas invoque des trésors et a des sorts qui transforment les joueurs en pièces d'or (état inactif).",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Laboratoire de Nileza",
+      "level": 199,
+      "location": "Frigost (-61,-74)",
+      "key": "Clef du Laboratoire de Nileza",
+      "rooms": 10,
+      "boss": "Nileza",
+      "monsters": ["Gelée", "Gelée Citron", "Gelée Menthe", "Nileza"],
+      "rewards": {
+        "items": ["Amulette Nileza", "Coiffe Nileza", "Cape Nileza"],
+        "resources": ["Gelée", "Menthe", "Citron"],
+        "xp": 520000
+      },
+      "strategy": "Nileza a des sorts de poison très puissants qui cumulent. Elle invoque des gelées et a un sort de zone qui empoisonne toute la map.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Forgefroide de Missiz Frizz",
+      "level": 199,
+      "location": "Frigost (-70,-81)",
+      "key": "Clef de la Forgefroide",
+      "rooms": 11,
+      "boss": "Missiz Frizz",
+      "monsters": ["Armutin", "Armutin Givré", "Armutin de Fer", "Missiz Frizz"],
+      "rewards": {
+        "items": ["Amulette Missiz", "Coiffe Missiz", "Cape Missiz"],
+        "resources": ["Fer", "Acier", "Cristal de Glace"],
+        "xp": 540000
+      },
+      "strategy": "Missiz Frizz invoque des Armutins et a des sorts de gel très puissants. Elle a aussi des boucliers qui absorbent les dégâts. Frapper fort pour percer les boucliers.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Salons Privés de Klime",
+      "level": 199,
+      "location": "Frigost (-63,-86)",
+      "key": "Clef des Salons Privés de Klime",
+      "rooms": 10,
+      "boss": "Klime",
+      "monsters": ["Serviteur", "Serviteur Dévoué", "Serviteur Fanatique", "Klime"],
+      "rewards": {
+        "items": ["Amulette Klime", "Coiffe Klime", "Cape Klime"],
+        "resources": ["Soie", "Velours", "Fil d'Or"],
+        "xp": 535000
+      },
+      "strategy": "Klime invoque des serviteurs et a des sorts de charme qui font changer d'équipe les joueurs. Prévoir des désenvoûtements rapides.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Manoir des Katrepat",
+      "level": 200,
+      "location": "Astrub (-14,25)",
+      "key": "Clef du Manoir des Katrepat",
+      "rooms": 12,
+      "boss": "Anerice la Shushess",
+      "monsters": ["Katrepat", "Katrepat Sombre", "Katrepat Royal", "Anerice la Shushess"],
+      "rewards": {
+        "items": ["Amulette Katrepat", "Coiffe Katrepat", "Cape Katrepat"],
+        "resources": ["Poil de Katrepat", "Croc de Katrepat", "Griffe de Katrepat"],
+        "xp": 600000
+      },
+      "strategy": "Les Katrepats ont des sorts de retrait de PA/PM et de poison. Anerice invoque des Katrepats et a des sorts de sommeil très puissants.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Temple de Koutoulou",
+      "level": 200,
+      "location": "Pandala Eau (27,26)",
+      "key": "Clef du Temple de Koutoulou",
+      "rooms": 12,
+      "boss": "Larve de Koutoulou",
+      "monsters": ["Cultiste", "Cultiste Endoctriné", "Cultiste Fanatique", "Larve de Koutoulou"],
+      "rewards": {
+        "items": ["Amulette Koutoulou", "Coiffe Koutoulou", "Cape Koutoulou"],
+        "resources": ["Essence de Cultiste", "Relique", "Idole"],
+        "xp": 650000
+      },
+      "strategy": "Un des donjons les plus difficiles. La Larve de Koutoulou invoque énormément de cultistes et a des sorts de malédiction de zone. Nécessite une équipe très optimisée avec soigneur et tank.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Sanctuaire de Torkélonia",
+      "level": 200,
+      "location": "Pandala Air (-84,-16)",
+      "key": "Clef du Sanctuaire de Torkélonia",
+      "rooms": 11,
+      "boss": "Torkélonia",
+      "monsters": ["Serpent", "Serpent Venimeux", "Serpent Royal", "Torkélonia"],
+      "rewards": {
+        "items": ["Amulette Torkélonia", "Coiffe Torkélonia", "Cape Torkélonia"],
+        "resources": ["Écaille de Serpent", "Venin", "Croc de Serpent"],
+        "xp": 620000
+      },
+      "strategy": "Torkélonia est un serpent géant avec des sorts de poison cumulatifs très puissants. Elle invoque des serpents et a des sorts d'hypnose qui endorment les joueurs.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Défi du Chalœil",
+      "level": 200,
+      "location": "Amakna (-9,-22)",
+      "key": "Clef du Défi du Chalœil",
+      "rooms": 10,
+      "boss": "Chalœil",
+      "monsters": ["Œil", "Œil de Feu", "Œil de Glace", "Chalœil"],
+      "rewards": {
+        "items": ["Amulette du Chalœil", "Coiffe du Chalœil", "Cape du Chalœil"],
+        "resources": ["Globe Oculaire", "Humour Vitré", "Nerf Optique"],
+        "xp": 580000
+      },
+      "strategy": "Les Yeux ont des sorts de rayons laser qui traversent toute la map. Chalœil invoque des yeux et a des sorts de regard qui paralysent ou maudissent.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Souvenir d'Imagiro",
+      "level": 200,
+      "location": "Pandala Terre (2,0)",
+      "key": "Clef du Souvenir d'Imagiro",
+      "rooms": 11,
+      "boss": "Reine Amirukam",
+      "monsters": ["Fantôme", "Fantôme Errant", "Fantôme Vengeur", "Reine Amirukam"],
+      "rewards": {
+        "items": ["Amulette Amirukam", "Coiffe Amirukam", "Cape Amirukam"],
+        "resources": ["Essence de Fantôme", "Âme Errante", "Larme de Spectre"],
+        "xp": 610000
+      },
+      "strategy": "Les Fantômes sont intangibles un tour sur deux. La Reine Amirukam invoque des fantômes et a des sorts de possession qui font attaquer les alliés entre eux.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Mémoire d'Orukam",
+      "level": 200,
+      "location": "Amakna (-3,-1)",
+      "key": "Clef de la Mémoire d'Orukam",
+      "rooms": 12,
+      "boss": "Roi Imagami",
+      "monsters": ["Origami", "Origami Dragon", "Origami Phénix", "Roi Imagami"],
+      "rewards": {
+        "items": ["Amulette Imagami", "Coiffe Imagami", "Cape Imagami"],
+        "resources": ["Papier Magique", "Encre", "Pinceau de Calligraphie"],
+        "xp": 590000
+      },
+      "strategy": "Les Origamis ont des sorts de papier coupant. Le Roi Imagami invoque des origamis et peut transformer les joueurs en papier (immobilise).",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Palais de Dantinéa",
+      "level": 200,
+      "location": "Pandala Eau (19,26)",
+      "key": "Clef du Palais de Dantinéa",
+      "rooms": 13,
+      "boss": "Dantinéa",
+      "monsters": ["Sirène", "Triton", "Néréide", "Dantinéa"],
+      "rewards": {
+        "items": ["Amulette Dantinéa", "Coiffe Dantinéa", "Cape Dantinéa", "Bottes Dantinéa"],
+        "resources": ["Écaille de Sirène", "Perle", "Corail"],
+        "xp": 700000
+      },
+      "strategy": "Dantinéa a des sorts de charme qui font changer d'équipe les joueurs et des sorts de chant qui endorment. Elle invoque des sirènes et a énormément de PV.",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Temple du dieu Kao",
+      "level": 200,
+      "location": "Pandala Air (-1,-10)",
+      "key": "Clef du Temple de Kao",
+      "rooms": 12,
+      "boss": "Prêtresse de Kao",
+      "monsters": ["Disciple", "Disciple Éclairé", "Disciple Illuminé", "Prêtresse de Kao"],
+      "rewards": {
+        "items": ["Amulette de Kao", "Coiffe de Kao", "Cape de Kao"],
+        "resources": ["Relique de Kao", "Manuscrit Sacré", "Encens"],
+        "xp": 630000
+      },
+      "strategy": "La Prêtresse de Kao a des sorts de lumière très puissants et des boucliers qui reflètent les dégâts. Elle invoque des disciples et a des sorts de purification qui retirent les états.",
       "difficulty": "hard"
     }
-  ],
-  "meta": {
-    "version": "1.0",
-    "total_dungeons": 40,
-    "date_created": "2026-03-14",
-    "source": "Dofus Retro Community Knowledge",
-    "levels": {
-      "low": "1-50",
-      "medium": "51-120",
-      "high": "121-200"
-    }
-  }
+  ]
 }

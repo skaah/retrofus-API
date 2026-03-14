@@ -1,0 +1,881 @@
+{
+  "url": "https://retro.dofusbook.net/fr/encyclopedie/panoplies",
+  "timestamp": "2026-03-14T19:23:14.068Z",
+  "items": [
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplies 173"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Ventouse"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Grobe"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie de Qu'Tan"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie d'Ilyzaelle"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Tue-Mouche"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Bworker Gladiateur"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplignon"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Ougah"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Bworker Berserker"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplycélium"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie des Sous-bois"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Souveraine"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Minotot"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Zothuliste"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie d'agilité en diamant"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie de chance en diamant"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie d'intelligence en diamant"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie de force en diamant"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Ethylique"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Indestructible"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Sauvage"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Criminelle"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie de Gouttière"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Exsangue"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Intemporelle"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Vénérable"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie de l'Innombrable"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Altruiste"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Prince des voleurs"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Témeraire"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Chêne Mou"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Meulou"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Zothicien"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Claire"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie d'Elya Wood"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Cérémoniale"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Zoth Zotheur"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Dragoeuf"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Baveuse"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie d'agilité en or"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie de chance en or"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie d'intelligence en or"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie de force en or"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Ancestrale"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Minotoror"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Mominotor"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Rat Blanc"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Rat Noir"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Dragon Cochon"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Vassale"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie du Chef Bwork"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Feudala"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.070Z",
+      "name": "Panoplie Sombre"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie d'agilité en argent"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de chance en argent"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie d'intelligence en argent"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de force en argent"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Blop Multicolore Royale"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Craqueleur Légendaire"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Terrdala"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Koulosse"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Blop Indigo Royale"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Blop Coco Royale"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Blop Reinette Royale"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Blop Griotte Royale"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Shika Ingalsse"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Farle Ingalsse"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie O'Boul"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Aerdala"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Chef Crocodaille"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Bouftou Royal"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Mulou"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Kitsou"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Koalak"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie d'agilité en bronze"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de chance en bronze"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie d'intelligence en bronze"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de force en bronze"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Wabbit"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Tortue"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Gelax"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Scarabosse Doré"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Végétatif"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Boufcool"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Klüme"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Roks Or"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Kloug"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie d'Hulkrap"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Scarafeuille Noir"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Blop Indigo"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Blop Coco"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Blop Reinette"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Blop Griotte"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Dindo"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Papayou"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Slait"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Black Wab"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Parrain"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Cristaline"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Craqueleur"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Vioutifoule"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Scarafeuille Bleu"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Scarafeuille Blanc"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Scarafeuille Rouge"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Scarafeuille Vert"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Tétounik"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Vampyre maudit"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Posh"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Paupayahn"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Gato"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Mégaman"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Corbac"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de l'Abraknyde"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Gobeuf"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Grüt"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Goldobrak"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Chisp"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Gadjète"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Grizou"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Laikteur"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie des Bouftons Rouges"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Real Boitar"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Sleump"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Yug"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de la Denrée"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Charlie"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Akwadala"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Kocksis"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Mace"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Solaire"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Noké"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Mystère"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Kwak du Vent"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Kwak de Terre"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Kwak de Glace"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Kwak de Flammes"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Rekto Topi"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Bois de l'Est"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Peggy la Porkass"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Larvesque"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Corbeau Noir"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de l'empire"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Prespic"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Bzz"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Grilliane"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Fourbasse"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Pompanoplie"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Cigale"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Citronoplie"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Wa"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de Toady"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Tofu"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Sanglier"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Moskito"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Paysan"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie de l'Homme Ours"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Bouftou"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Bandit"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie en Mousse"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Champêtre"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Champ Champ"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Arakne"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du débutant"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie Ananas"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Piou Jaune"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Piou Vert"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Piou Rose"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Boune"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Piou Violet"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Piou Bleu"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Piou Rouge"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Champion"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.071Z",
+      "name": "Panoplie du Jeune Aventurier"
+    },
+    {
+      "type": "item",
+      "scraped_at": "2026-03-14T19:23:14.072Z",
+      "name": "Stuff actif"
+    }
+  ]
+}
