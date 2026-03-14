@@ -90,7 +90,7 @@
       "monsters": ["Touthou", "Gobeur", "Champbis", "Cochon de lait", "Champmane"],
       "rewards": {
         "items": ["Amulette Champignon", "Coiffe Champignon", "Cape Champignon", "Bottes Champignon"],
-        "resources": ["Pied de Touthou", "Cuir de Gob', "Sporangée", "Viande de Cochon de Lait"],
+        "resources": ["Pied de Touthou", "Cuir de Gob'", "Sporangée", "Viande de Cochon de Lait"],
         "xp": 28000
       },
       "strategy": "Champmane invoque des Champbis à chaque tour et se régénère quand ils meurent. Focus sur le boss directement avec des gros dégâts burst. Empêcher les invocations de mourir près de lui.",

@@ -2,890 +2,302 @@
   "classes": [
     {
       "name": "Feca",
-      "description": "Protecteurs maîtrisant les glyphes et les boucliers magiques. Les Fecas sont des défenseurs naturels qui protègent leurs alliés avec des armures élémentaires et des glyphes de protection.",
+      "description": "Protecteurs maîtrisant les glyphes défensifs. Les Fecas sont des gardiens loyaux qui utilisent des armures magiques et des glyphes pour protéger leurs alliés.",
       "base_stats": {
         "vitalite": 50,
-        "sagesse": 30,
-        "force": 10,
+        "sagesse": 20,
+        "force": 20,
         "intelligence": 20,
-        "chance": 10,
-        "agilite": 10
+        "chance": 20,
+        "agilite": 20
       },
       "spell_stats": {
         "intelligence": 3,
         "sagesse": 3
       },
       "spells": [
-        {
-          "name": "Glyphe Agressif",
-          "level": 1,
-          "pa": 4,
-          "po": 1,
-          "effects": "Pose un glyphe qui inflige des dommages Feu aux ennemis qui marchent dessus"
-        },
-        {
-          "name": "Armure Incandescente",
-          "level": 1,
-          "pa": 3,
-          "po": 3,
-          "effects": "Augmente la résistance Feu de l'allié ciblé"
-        },
-        {
-          "name": "Bouclier Feca",
-          "level": 3,
-          "pa": 4,
-          "po": 3,
-          "effects": "Réduit les dommages subis par l'allié ciblé"
-        },
-        {
-          "name": "Attaque Naturelle",
-          "level": 6,
-          "pa": 3,
-          "po": 4,
-          "effects": "Inflige des dommages Neutre à l'ennemi ciblé"
-        },
-        {
-          "name": "Glyphe de Silence",
-          "level": 10,
-          "pa": 4,
-          "po": 1,
-          "effects": "Pose un glyphe qui retire des PA aux ennemis qui marchent dessus"
-        },
-        {
-          "name": "Bulle",
-          "level": 15,
-          "pa": 5,
-          "po": 4,
-          "effects": "Protège l'allié ciblé de tout dommage pendant 1 tour"
-        },
-        {
-          "name": "Météore",
-          "level": 20,
-          "pa": 6,
-          "po": 2,
-          "effects": "Inflige de gros dommages Feu en zone"
-        },
-        {
-          "name": "Armure Terrestre",
-          "level": 25,
-          "pa": 3,
-          "po": 3,
-          "effects": "Augmente la résistance Terre de l'allié ciblé"
-        }
+        {"name": "Glyphe Agressif", "level": 1, "pa": 4, "po": 1, "effects": "Pose un glyphe qui inflige des dégâts de Terre aux ennemis"},
+        {"name": "Bouclier Feca", "level": 1, "pa": 3, "po": 0, "effects": "Augmente la résistance de lanceur pendant 3 tours"},
+        {"name": "Glyphe Enflammé", "level": 3, "pa": 4, "po": 1, "effects": "Pose un glyphe qui inflige des dégâts de Feu"},
+        {"name": "Téléportation", "level": 6, "pa": 4, "po": 4, "effects": "Échange de place avec une cible alliée ou ennemie"},
+        {"name": "Glyphe Aveuglant", "level": 9, "pa": 4, "po": 1, "effects": "Pose un glyphe qui réduit la portée des ennemis"},
+        {"name": "Armure Terrestre", "level": 13, "pa": 3, "po": 0, "effects": "Réduit les dégâts de Terre reçus"},
+        {"name": "Bastion", "level": 17, "pa": 5, "po": 0, "effects": "Augmente la résistance de tous les alliés proches"}
       ]
     },
     {
       "name": "Osamodas",
-      "description": "Invocateurs maîtrisant les familiers et la magie animale. Les Osamodas peuvent invoquer des créatures et partager leurs pouvoirs avec leurs invocations.",
+      "description": "Invocateurs maîtres des familiers et créatures. Les Osamodas peuvent invoquer des monstres pour combattre à leurs côtés.",
       "base_stats": {
-        "vitalite": 45,
-        "sagesse": 35,
-        "force": 15,
-        "intelligence": 15,
-        "chance": 15,
-        "agilite": 15
+        "vitalite": 50,
+        "sagesse": 20,
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 20
       },
       "spell_stats": {
-        "intelligence": 3,
-        "sagesse": 3
+        "sagesse": 3,
+        "force": 2
       },
       "spells": [
-        {
-          "name": "Invocation de Tofu",
-          "level": 1,
-          "pa": 4,
-          "po": 1,
-          "effects": "Invoque un Tofu qui attaque les ennemis"
-        },
-        {
-          "name": "Griffe Invocatrice",
-          "level": 1,
-          "pa": 3,
-          "po": 3,
-          "effects": "Inflige des dommages Feu à l'ennemi ciblé"
-        },
-        {
-          "name": "Invocation de Bouftou",
-          "level": 3,
-          "pa": 5,
-          "po": 1,
-          "effects": "Invoque un Bouftou qui attaque au corps à corps"
-        },
-        {
-          "name": "Fouet",
-          "level": 6,
-          "pa": 3,
-          "po": 1,
-          "effects": "Inflige des dommages Feu et pousse l'ennemi"
-        },
-        {
-          "name": "Invocation de Prespic",
-          "level": 10,
-          "pa": 5,
-          "po": 1,
-          "effects": "Invoque un Prespic qui réfléchit les dommages"
-        },
-        {
-          "name": "Bénédiction Animale",
-          "level": 15,
-          "pa": 4,
-          "po": 0,
-          "effects": "Augmente les caractéristiques de vos invocations"
-        },
-        {
-          "name": "Invocation de Sanglier",
-          "level": 20,
-          "pa": 6,
-          "po": 1,
-          "effects": "Invoque un Sanglier puissant au corps à corps"
-        },
-        {
-          "name": "Sacrifice Animale",
-          "level": 25,
-          "pa": 4,
-          "po": 5,
-          "effects": "Sacrifie une invocation pour soigner l'Osamodas"
-        }
+        {"name": "Invocation de Tofu", "level": 1, "pa": 4, "po": 1, "effects": "Invoque un Tofu qui attaque les ennemis"},
+        {"name": "Invocation de Bouftou", "level": 1, "pa": 4, "po": 1, "effects": "Invoque un Bouftou qui peut attaquer en mêlée"},
+        {"name": "Piqûre Motivante", "level": 3, "pa": 3, "po": 3, "effects": "Booste les caractéristiques d'une invocation"},
+        {"name": "Invocation de Prespic", "level": 6, "pa": 4, "po": 1, "effects": "Invoque un Prespic avec des dégâts de Terre"},
+        {"name": "Fossile", "level": 9, "pa": 4, "po": 3, "effects": "Paralyse une invocation ennemie"},
+        {"name": "Invocation de Craqueleur", "level": 13, "pa": 5, "po": 1, "effects": "Invoque un Craqueleur résistant"},
+        {"name": "Bénédiction Animale", "level": 17, "pa": 3, "po": 4, "effects": "Soigne toutes les invocations alliées"}
       ]
     },
     {
       "name": "Enutrof",
-      "description": "Chasseurs de trésors maîtrisant la Chance et la Prospection. Les Enutrofs excellent dans la fouille et peuvent transformer leurs ennemis en coffres vivants.",
+      "description": "Maîtres de la Chance et de la Prospection. Les Enutrofs cherchent la fortune et réduisent les ressources de leurs ennemis.",
       "base_stats": {
-        "vitalite": 45,
-        "sagesse": 25,
-        "force": 10,
-        "intelligence": 10,
-        "chance": 40,
-        "agilite": 10
+        "vitalite": 50,
+        "sagesse": 20,
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 20
       },
       "spell_stats": {
         "chance": 3,
-        "sagesse": 3
+        "sagesse": 2
       },
       "spells": [
-        {
-          "name": "Lancer de Pièces",
-          "level": 1,
-          "pa": 3,
-          "po": 3,
-          "effects": "Inflige des dommages Eau et retire des kamas"
-        },
-        {
-          "name": "Coffre Ancestral",
-          "level": 1,
-          "pa": 2,
-          "po": 1,
-          "effects": "Invoque un coffre qui attire les ressources"
-        },
-        {
-          "name": "Masse",
-          "level": 3,
-          "pa": 4,
-          "po": 1,
-          "effects": "Inflige des dommages Eau et réduit la Chance"
-        },
-        {
-          "name": "Maladresse",
-          "level": 6,
-          "pa": 3,
-          "po": 3,
-          "effects": "Retire des PA à l'ennemi ciblé"
-        },
-        {
-          "name": "Lancer de Kamas",
-          "level": 10,
-          "pa": 4,
-          "po": 5,
-          "effects": "Inflige des dommages Eau en fonction des kamas possédés"
-        },
-        {
-          "name": "Corruption",
-          "level": 15,
-          "pa": 5,
-          "po": 3,
-          "effects": "Transforme l'ennemi en coffre lorsqu'il meurt"
-        },
-        {
-          "name": "Griffe de Ceangal",
-          "level": 20,
-          "pa": 3,
-          "po": 4,
-          "effects": "Inflige des dommages Eau et vole de la Chance"
-        },
-        {
-          "name": "Chance",
-          "level": 25,
-          "pa": 4,
-          "po": 0,
-          "effects": "Augmente la Prospection et la Chance du lanceur"
-        }
+        {"name": "Lancer de Pièces", "level": 1, "pa": 3, "po": 3, "effects": "Inflige des dégâts d'Eau selon la Chance"},
+        {"name": "Sac Animé", "level": 1, "pa": 4, "po": 1, "effects": "Invoque un sac qui attire les ennemis"},
+        {"name": "Roulage de Pelle", "level": 3, "pa": 3, "po": 1, "effects": "Attaque en mêlée avec dégâts de Terre"},
+        {"name": "Maladresse", "level": 6, "pa": 3, "po": 3, "effects": "Réduit la Chance de la cible"},
+        {"name": "Coffre Ancestral", "level": 9, "pa": 2, "po": 1, "effects": "Invoque un coffre qui booste la prospection"},
+        {"name": "Griffe Joueuse", "level": 13, "pa": 5, "po": 1, "effects": "Attaque puissante avec vol de vie"},
+        {"name": "Chance", "level": 17, "pa": 2, "po": 0, "effects": "Augmente la Chance du lanceur"}
       ]
     },
     {
       "name": "Sram",
-      "description": "Assassins de l'ombre maîtrisant l'Agilité et les pièges. Les Srams peuvent devenir invisibles et poser des pièges mortels pour leurs ennemis.",
+      "description": "Maîtres des Pièges et de l'Agilité. Les Srams utilisent l'invisibilité et des pièges mortels pour éliminer leurs ennemis.",
       "base_stats": {
-        "vitalite": 45,
+        "vitalite": 50,
         "sagesse": 20,
-        "force": 10,
-        "intelligence": 10,
-        "chance": 15,
-        "agilite": 40
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 20
       },
       "spell_stats": {
         "agilite": 3,
-        "sagesse": 3
+        "force": 2
       },
       "spells": [
-        {
-          "name": "Piège Sournois",
-          "level": 1,
-          "pa": 3,
-          "po": 3,
-          "effects": "Pose un piège invisible infligeant des dommages Air"
-        },
-        {
-          "name": "Attaque Sournoise",
-          "level": 1,
-          "pa": 3,
-          "po": 1,
-          "effects": "Inflige des dommages Air au corps à corps"
-        },
-        {
-          "name": "Invisibilité",
-          "level": 3,
-          "pa": 4,
-          "po": 0,
-          "effects": "Rend le lanceur invisible pendant 2 tours"
-        },
-        {
-          "name": "Piège de Silence",
-          "level": 6,
-          "pa": 3,
-          "po": 3,
-          "effects": "Pose un piège retirant des PA"
-        },
-        {
-          "name": "Fourvoiement",
-          "level": 10,
-          "pa": 3,
-          "po": 2,
-          "effects": "Téléporte l'ennemi et inflige des dommages"
-        },
-        {
-          "name": "Piège Empoisonné",
-          "level": 15,
-          "pa": 3,
-          "po": 3,
-          "effects": "Pose un piège empoisonnant les ennemis"
-        },
-        {
-          "name": "Doubles",
-          "level": 20,
-          "pa": 5,
-          "po": 1,
-          "effects": "Invoque un double qui copie vos actions"
-        },
-        {
-          "name": "Piège Massacre",
-          "level": 25,
-          "pa": 5,
-          "po": 3,
-          "effects": "Pose un piège infligeant de gros dommages Air"
-        }
+        {"name": "Piège de Masse", "level": 1, "pa": 3, "po": 3, "effects": "Pose un piège qui pousse les ennemis"},
+        {"name": "Invisibilité", "level": 1, "pa": 3, "po": 0, "effects": "Rend le lanceur invisible pendant 4 tours"},
+        {"name": "Attaque Sournoise", "level": 3, "pa": 4, "po": 1, "effects": "Attaque puissante si le lanceur est invisible"},
+        {"name": "Piège Empoisonné", "level": 6, "pa": 3, "po": 3, "effects": "Pose un piège qui empoisonne les ennemis"},
+        {"name": "Double", "level": 9, "pa": 4, "po": 1, "effects": "Invoque un double qui attire les attaques"},
+        {"name": "Piège Mortel", "level": 13, "pa": 4, "po": 3, "effects": "Pose un piège infligeant de lourds dégâts"},
+        {"name": "Déluge", "level": 17, "pa": 5, "po": 1, "effects": "Attaque de zone avec dégâts d'Air"}
       ]
     },
     {
       "name": "Xelor",
-      "description": "Mages du Temps maîtrisant l'Intelligence et la téléportation. Les Xelors manipulent les PA de leurs ennemis et peuvent se téléporter sur la carte.",
+      "description": "Maîtres du Temps et de l'Intelligence. Les Xelors manipulent les PA et se téléportent pour contrôler le combat.",
       "base_stats": {
-        "vitalite": 40,
-        "sagesse": 40,
-        "force": 10,
-        "intelligence": 35,
-        "chance": 10,
-        "agilite": 15
+        "vitalite": 50,
+        "sagesse": 20,
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 20
       },
       "spell_stats": {
         "intelligence": 3,
         "sagesse": 3
       },
       "spells": [
-        {
-          "name": "Aiguille",
-          "level": 1,
-          "pa": 3,
-          "po": 5,
-          "effects": "Inflige des dommages Feu à distance"
-        },
-        {
-          "name": "Ralentissement",
-          "level": 1,
-          "pa": 3,
-          "po": 4,
-          "effects": "Retire des PA à l'ennemi ciblé"
-        },
-        {
-          "name": "Cadran de Xelor",
-          "level": 3,
-          "pa": 4,
-          "po": 3,
-          "effects": "Invoque une glyphe boostant les alliés"
-        },
-        {
-          "name": "Téléportation",
-          "level": 6,
-          "pa": 4,
-          "po": 4,
-          "effects": "Téléporte le lanceur sur une case ciblée"
-        },
-        {
-          "name": "Frappe de Xelor",
-          "level": 10,
-          "pa": 3,
-          "po": 3,
-          "effects": "Inflige des dommages Feu et retire des PA"
-        },
-        {
-          "name": "Rayon Obscur",
-          "level": 15,
-          "pa": 4,
-          "po": 4,
-          "effects": "Inflige des dommages Feu en ligne"
-        },
-        {
-          "name": "Flou",
-          "level": 20,
-          "pa": 2,
-          "po": 4,
-          "effects": "Échange les positions de deux entités"
-        },
-        {
-          "name": "Horloge",
-          "level": 25,
-          "pa": 5,
-          "po": 4,
-          "effects": "Inflige des dommages Feu en zone et retire des PA"
-        }
+        {"name": "Aiguille", "level": 1, "pa": 3, "po": 3, "effects": "Inflige des dégâts de Feu et retire 1 PA"},
+        {"name": "Ralentissement", "level": 1, "pa": 3, "po": 4, "effects": "Réduit les PA de la cible pour le tour suivant"},
+        {"name": "Contre", "level": 3, "pa": 3, "po": 3, "effects": "Retire des PA et augmente les dommages du Xelor"},
+        {"name": "Aiguille Chercheuse", "level": 6, "pa": 4, "po": 3, "effects": "Attaque de Feu à dégâts croissants"},
+        {"name": "Téléportation", "level": 9, "pa": 4, "po": 4, "effects": "Téléporte le lanceur sur une case libre"},
+        {"name": "Fuite", "level": 13, "pa": 2, "po": 0, "effects": "Téléporte le lanceur et pousse les ennemis adjacents"},
+        {"name": "Cadran de Xelor", "level": 17, "pa": 4, "po": 0, "effects": "Invoque un cadran qui booste les alliés proches"}
       ]
     },
     {
       "name": "Ecaflip",
-      "description": "Joueurs invétérés maîtrisant la Chance et les critiques. Les Ecaflips misent sur la chance et peuvent infliger des coups critiques dévastateurs.",
+      "description": "Maîtres de la Chance et du Critique. Les Ecaflips jouent avec la chance, leurs sorts ayant des effets aléatoires mais puissants.",
       "base_stats": {
         "vitalite": 50,
         "sagesse": 20,
-        "force": 15,
-        "intelligence": 10,
-        "chance": 35,
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
         "agilite": 20
       },
       "spell_stats": {
         "chance": 3,
-        "sagesse": 3
+        "agilite": 2
       },
       "spells": [
-        {
-          "name": "Pile ou Face",
-          "level": 1,
-          "pa": 3,
-          "po": 4,
-          "effects": "Inflige des dommages Eau ou soigne selon la chance"
-        },
-        {
-          "name": "Griffe de Ceangal",
-          "level": 1,
-          "pa": 3,
-          "po": 1,
-          "effects": "Inflige des dommages Air au corps à corps"
-        },
-        {
-          "name": "Destin Ecaflip",
-          "level": 3,
-          "pa": 3,
-          "po": 4,
-          "effects": "Booste les coups critiques de l'allié"
-        },
-        {
-          "name": "Roulette",
-          "level": 6,
-          "pa": 2,
-          "po": 0,
-          "effects": "Lance un effet aléatoire sur le lanceur"
-        },
-        {
-          "name": "Langue Râpeuse",
-          "level": 10,
-          "pa": 4,
-          "po": 1,
-          "effects": "Inflige des dommages Eau et vole de la vie"
-        },
-        {
-          "name": "Contrecoup",
-          "level": 15,
-          "pa": 4,
-          "po": 1,
-          "effects": "Inflige des dommages et repousse l'ennemi"
-        },
-        {
-          "name": "Topkaj",
-          "level": 20,
-          "pa": 5,
-          "po": 3,
-          "effects": "Inflige de gros dommages Eau"
-        },
-        {
-          "name": "Bluff",
-          "level": 25,
-          "pa": 3,
-          "po": 1,
-          "effects": "Inflige des dommages élémentaires aléatoires"
-        }
+        {"name": "Pile ou Face", "level": 1, "pa": 3, "po": 3, "effects": "Attaque avec dégâts aléatoires (bonus ou malus)"},
+        {"name": "Langue Râpeuse", "level": 1, "pa": 3, "po": 1, "effects": "Attaque de mêlée avec vol de vie"},
+        {"name": "Trèfle", "level": 3, "pa": 2, "po": 0, "effects": "Augmente la Chance du lanceur"},
+        {"name": "Roulette", "level": 6, "pa": 3, "po": 0, "effects": "Effet aléatoire bénéfique sur le lanceur"},
+        {"name": "Dé Roublard", "level": 9, "pa": 4, "po": 3, "effects": "Lance un dé avec effet variable sur la cible"},
+        {"name": "Bluff", "level": 13, "pa": 4, "po": 1, "effects": "Attaque de mêlée avec critique élevé"},
+        {"name": "Topkaj", "level": 17, "pa": 3, "po": 3, "effects": "Attaque de Feu avec chance d'étourdir"}
       ]
     },
     {
       "name": "Eniripsa",
-      "description": "Soigneurs dévoués maîtrisant l'Intelligence et les soins. Les Eniripsas sont les meilleurs soigneurs du jeu et peuvent également infliger des dommages.",
+      "description": "Maîtres des Soins et de l'Intelligence. Les Eniripsas sont des guérisseurs indispensables qui maintiennent leurs alliés en vie.",
       "base_stats": {
-        "vitalite": 45,
-        "sagesse": 30,
-        "force": 10,
-        "intelligence": 35,
-        "chance": 10,
+        "vitalite": 50,
+        "sagesse": 20,
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
         "agilite": 20
       },
       "spell_stats": {
         "intelligence": 3,
-        "sagesse": 3
+        "sagesse": 2
       },
       "spells": [
-        {
-          "name": "Mot Curatif",
-          "level": 1,
-          "pa": 3,
-          "po": 4,
-          "effects": "Soigne l'allié ciblé"
-        },
-        {
-          "name": "Mot Stimulant",
-          "level": 1,
-          "pa": 3,
-          "po": 3,
-          "effects": "Booste les dommages de l'allié"
-        },
-        {
-          "name": "Mot Blessant",
-          "level": 3,
-          "pa": 3,
-          "po": 4,
-          "effects": "Inflige des dommages Feu à l'ennemi"
-        },
-        {
-          "name": "Mot Interdit",
-          "level": 6,
-          "pa": 4,
-          "po": 4,
-          "effects": "Inflige des dommages Feu et retire des PA"
-        },
-        {
-          "name": "Mot Empêchant",
-          "level": 10,
-          "pa": 3,
-          "po": 3,
-          "effects": "Empêche l'ennemi d'approcher"
-        },
-        {
-          "name": "Mot Revigorant",
-          "level": 15,
-          "pa": 4,
-          "po": 4,
-          "effects": "Soigne l'allié et augmente ses résistances"
-        },
-        {
-          "name": "Mot de Frayeur",
-          "level": 20,
-          "pa": 3,
-          "po": 3,
-          "effects": "Repousse l'ennemi et inflige des dommages"
-        },
-        {
-          "name": "Mot de Régénération",
-          "level": 25,
-          "pa": 4,
-          "po": 4,
-          "effects": "Soigne l'allié sur plusieurs tours"
-        }
+        {"name": "Mot Curatif", "level": 1, "pa": 3, "po": 3, "effects": "Soigne un allié"},
+        {"name": "Mot Blessant", "level": 1, "pa": 3, "po": 3, "effects": "Inflige des dégâts de Feu"},
+        {"name": "Mot Stimulant", "level": 3, "pa": 2, "po": 3, "effects": "Augmente les dégâts d'un allié"},
+        {"name": "Mot Interdit", "level": 6, "pa": 4, "po": 3, "effects": "Soigne massivement un allié proche"},
+        {"name": "Mot de Frénésie", "level": 9, "pa": 3, "po": 0, "effects": "Augmente les dégâts du lanceur mais réduit ses résistances"},
+        {"name": "Mot Revigorant", "level": 13, "pa": 3, "po": 3, "effects": "Soigne et augmente la vitalité max temporairement"},
+        {"name": "Mot de Régénération", "level": 17, "pa": 3, "po": 3, "effects": "Soigne sur plusieurs tours"}
       ]
     },
     {
       "name": "Iop",
-      "description": "Guerriers impitoyables maîtrisant la Force et le corps à corps. Les Iops sont des combattants au front qui infligent d'énormes dégâts de mêlée.",
+      "description": "Maîtres de la Force et du Combat au corps à corps. Les Iops sont des guerriers puissants qui excellent en mêlée.",
       "base_stats": {
         "vitalite": 55,
         "sagesse": 20,
-        "force": 40,
-        "intelligence": 10,
-        "chance": 10,
-        "agilite": 15
-      },
-      "spell_stats": {
-        "force": 3,
-        "sagesse": 3
-      },
-      "spells": [
-        {
-          "name": "Pression",
-          "level": 1,
-          "pa": 4,
-          "po": 1,
-          "effects": "Inflige des dommages Terre au corps à corps"
-        },
-        {
-          "name": "Bond",
-          "level": 1,
-          "pa": 3,
-          "po": 4,
-          "effects": "Téléporte l'Iop vers l'ennemi"
-        },
-        {
-          "name": "Intimidation",
-          "level": 3,
-          "pa": 4,
-          "po": 1,
-          "effects": "Inflige des dommages et repousse l'ennemi"
-        },
-        {
-          "name": "Concentration",
-          "level": 6,
-          "pa": 3,
-          "po": 0,
-          "effects": "Augmente la Force du lanceur"
-        },
-        {
-          "name": "Epee Divine",
-          "level": 10,
-          "pa": 5,
-          "po": 1,
-          "effects": "Inflige de gros dommages Terre"
-        },
-        {
-          "name": "Souffle",
-          "level": 15,
-          "pa": 4,
-          "po": 2,
-          "effects": "Inflige des dommages Terre en zone"
-        },
-        {
-          "name": "Colère de Iop",
-          "level": 20,
-          "pa": 6,
-          "po": 1,
-          "effects": "Inflige d'énormes dommages Terre"
-        },
-        {
-          "name": "Mutilation",
-          "level": 25,
-          "pa": 4,
-          "po": 1,
-          "effects": "Inflige des dommages et retire des PM"
-        }
-      ]
-    },
-    {
-      "name": "Cra",
-      "description": "Archers précis maîtrisant l'Agilité et les attaques à distance. Les Cras peuvent frapper de très loin et poser des glyphes de ralentissement.",
-      "base_stats": {
-        "vitalite": 45,
-        "sagesse": 25,
-        "force": 10,
-        "intelligence": 10,
-        "chance": 10,
-        "agilite": 50
-      },
-      "spell_stats": {
-        "agilite": 3,
-        "sagesse": 3
-      },
-      "spells": [
-        {
-          "name": "Flèche Magique",
-          "level": 1,
-          "pa": 3,
-          "po": 8,
-          "effects": "Inflige des dommages Air à distance"
-        },
-        {
-          "name": "Flèche de Recul",
-          "level": 1,
-          "pa": 3,
-          "po": 6,
-          "effects": "Inflige des dommages Air et repousse l'ennemi"
-        },
-        {
-          "name": "Flèche Empoisonnée",
-          "level": 3,
-          "pa": 3,
-          "po": 6,
-          "effects": "Inflige des dommages et empoisonne l'ennemi"
-        },
-        {
-          "name": "Flèche Enflammée",
-          "level": 6,
-          "pa": 3,
-          "po": 7,
-          "effects": "Inflige des dommages Feu à distance"
-        },
-        {
-          "name": "Flèche Ralentissante",
-          "level": 10,
-          "pa": 4,
-          "po": 6,
-          "effects": "Inflige des dommages et retire des PM"
-        },
-        {
-          "name": "Flèche Harcelante",
-          "level": 15,
-          "pa": 3,
-          "po": 7,
-          "effects": "Inflige des dommages Air faibles mais précis"
-        },
-        {
-          "name": "Flèche Explosive",
-          "level": 20,
-          "pa": 4,
-          "po": 6,
-          "effects": "Inflige des dommages Air en zone"
-        },
-        {
-          "name": "Maîtrise de l'Arc",
-          "level": 25,
-          "pa": 3,
-          "po": 0,
-          "effects": "Augmente les dommages des flèches"
-        }
-      ]
-    },
-    {
-      "name": "Sadida",
-      "description": "Invocateurs végétaux maîtrisant la Force et les poupées. Les Sadidas peuvent invoquer des poupées et manipuler la végétation.",
-      "base_stats": {
-        "vitalite": 50,
-        "sagesse": 25,
-        "force": 35,
-        "intelligence": 15,
-        "chance": 10,
-        "agilite": 15
-      },
-      "spell_stats": {
-        "force": 3,
-        "sagesse": 3
-      },
-      "spells": [
-        {
-          "name": "Ronce",
-          "level": 1,
-          "pa": 3,
-          "po": 4,
-          "effects": "Inflige des dommages Terre et empoisonne"
-        },
-        {
-          "name": "Poupée Ardente",
-          "level": 1,
-          "pa": 4,
-          "po": 1,
-          "effects": "Invoque une poupée qui explose au contact"
-        },
-        {
-          "name": "Poupée de Soin",
-          "level": 3,
-          "pa": 5,
-          "po": 1,
-          "effects": "Invoque une poupée qui soigne les alliés"
-        },
-        {
-          "name": "La Sacrifiée",
-          "level": 6,
-          "pa": 4,
-          "po": 4,
-          "effects": "Sacrifie une poupée pour infliger des dommages"
-        },
-        {
-          "name": "Poupée Enivrante",
-          "level": 10,
-          "pa": 4,
-          "po": 1,
-          "effects": "Invoque une poupée qui rend ivre les ennemis"
-        },
-        {
-          "name": "Poupée Constrictrice",
-          "level": 15,
-          "pa": 5,
-          "po": 1,
-          "effects": "Invoque une poupée qui immobilise les ennemis"
-        },
-        {
-          "name": "Ronce Multiples",
-          "level": 20,
-          "pa": 5,
-          "po": 4,
-          "effects": "Inflige des dommages Terre en zone"
-        },
-        {
-          "name": "Poupée Folle",
-          "level": 25,
-          "pa": 6,
-          "po": 1,
-          "effects": "Invoque une poupée qui attaque aléatoirement"
-        }
-      ]
-    },
-    {
-      "name": "Sacrieur",
-      "description": "Berserkers fanatiques maîtrisant la Force et la Vitalité. Les Sacrieurs gagnent en puissance quand ils perdent des PV et peuvent attirer leurs ennemis.",
-      "base_stats": {
-        "vitalite": 60,
-        "sagesse": 20,
-        "force": 35,
-        "intelligence": 10,
-        "chance": 10,
-        "agilite": 15
-      },
-      "spell_stats": {
-        "force": 3,
-        "vitalite": 3
-      },
-      "spells": [
-        {
-          "name": "Pied du Sacrieur",
-          "level": 1,
-          "pa": 3,
-          "po": 1,
-          "effects": "Inflige des dommages Terre et attire l'ennemi"
-        },
-        {
-          "name": "Attaque Nuageuse",
-          "level": 1,
-          "pa": 3,
-          "po": 1,
-          "effects": "Inflige des dommages Feu au corps à corps"
-        },
-        {
-          "name": "Transfert de Vie",
-          "level": 3,
-          "pa": 4,
-          "po": 3,
-          "effects": "Vole des PV à l'ennemi"
-        },
-        {
-          "name": "Dérobade",
-          "level": 6,
-          "pa": 3,
-          "po": 0,
-          "effects": "Échange de position avec un ennemi"
-        },
-        {
-          "name": "Furie",
-          "level": 10,
-          "pa": 3,
-          "po": 0,
-          "effects": "Augmente les dommages quand les PV sont bas"
-        },
-        {
-          "name": "Sang Maudit",
-          "level": 15,
-          "pa": 4,
-          "po": 1,
-          "effects": "Inflige des dommages et vole des PA"
-        },
-        {
-          "name": "Assaut",
-          "level": 20,
-          "pa": 5,
-          "po": 1,
-          "effects": "Inflige de gros dommages Terre et attire"
-        },
-        {
-          "name": "Punition",
-          "level": 25,
-          "pa": 6,
-          "po": 1,
-          "effects": "Inflige des dommages basés sur les PV perdus"
-        }
-      ]
-    },
-    {
-      "name": "Pandawa",
-      "description": "Guerriers ivres maîtrisant la Force et la résistance. Les Pandawas peuvent porter des alliés ou ennemis et deviennent plus forts en état d'ivresse.",
-      "base_stats": {
-        "vitalite": 50,
-        "sagesse": 20,
-        "force": 40,
-        "intelligence": 10,
-        "chance": 10,
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
         "agilite": 20
       },
       "spell_stats": {
         "force": 3,
-        "sagesse": 3
+        "intelligence": 1
       },
       "spells": [
-        {
-          "name": "Picole",
-          "level": 1,
-          "pa": 2,
-          "po": 0,
-          "effects": "Rend le Pandawa ivre, boostant ses stats"
-        },
-        {
-          "name": "Houx",
-          "level": 1,
-          "pa": 3,
-          "po": 1,
-          "effects": "Inflige des dommages Terre au corps à corps"
-        },
-        {
-          "name": "Souffle Alcoolisé",
-          "level": 3,
-          "pa": 4,
-          "po": 2,
-          "effects": "Inflige des dommages Feu en cône"
-        },
-        {
-          "name": "Gueule de Bois",
-          "level": 6,
-          "pa": 3,
-          "po": 4,
-          "effects": "Retire l'ivresse et inflige des dommages"
-        },
-        {
-          "name": "Lancer de Poing",
-          "level": 10,
-          "pa": 4,
-          "po": 1,
-          "effects": "Attire l'ennemi et inflige des dommages"
-        },
-        {
-          "name": "Raz du Marin",
-          "level": 15,
-          "pa": 4,
-          "po": 1,
-          "effects": "Repousse l'ennemi et inflige des dommages"
-        },
-        {
-          "name": "Pandatak",
-          "level": 20,
-          "pa": 5,
-          "po": 1,
-          "effects": "Inflige de gros dommages Terre"
-        },
-        {
-          "name": "Karcham",
-          "level": 25,
-          "pa": 3,
-          "po": 1,
-          "effects": "Porte une entité (allié ou ennemi) sur le dos"
-        }
+        {"name": "Pression", "level": 1, "pa": 4, "po": 1, "effects": "Attaque de mêlée avec dégâts de Terre"},
+        {"name": "Bond", "level": 1, "pa": 3, "po": 3, "effects": "Saut vers une case et pousse les ennemis adjacents"},
+        {"name": "Intimidation", "level": 3, "pa": 4, "po": 1, "effects": "Attaque et réduit la Force de la cible"},
+        {"name": "Épée du Destin", "level": 6, "pa": 5, "po": 1, "effects": "Attaque puissante avec coup critique élevé"},
+        {"name": "Souffle", "level": 9, "pa": 4, "po": 1, "effects": "Attaque de zone en cône"},
+        {"name": "Vitalité", "level": 13, "pa": 2, "po": 0, "effects": "Augmente la Vitalité du lanceur"},
+        {"name": "Épée Céleste", "level": 17, "pa": 5, "po": 1, "effects": "Attaque massive avec dégâts de Feu"}
+      ]
+    },
+    {
+      "name": "Cra",
+      "description": "Maîtres de l'Agilité et du Combat à distance. Les Cras excellent dans l'archerie et les attaques de portée.",
+      "base_stats": {
+        "vitalite": 50,
+        "sagesse": 20,
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 20
+      },
+      "spell_stats": {
+        "agilite": 3,
+        "force": 1
+      },
+      "spells": [
+        {"name": "Flèche Magique", "level": 1, "pa": 3, "po": 7, "effects": "Tir à distance avec dégâts d'Air"},
+        {"name": "Flèche de Recul", "level": 1, "pa": 3, "po": 7, "effects": "Tir qui pousse la cible"},
+        {"name": "Flèche Explosive", "level": 3, "pa": 4, "po": 6, "effects": "Tir explosif avec dégâts de zone"},
+        {"name": "Flèche Glacée", "level": 6, "pa": 3, "po": 7, "effects": "Tir qui réduit les PM de la cible"},
+        {"name": "Tir Puissant", "level": 9, "pa": 4, "po": 8, "effects": "Tir à longue portée avec dégâts élevés"},
+        {"name": "Flèche Enflammée", "level": 13, "pa": 3, "po": 7, "effects": "Tir avec dégâts de Feu"},
+        {"name": "Maîtrise de l'Arc", "level": 17, "pa": 2, "po": 0, "effects": "Augmente les dégâts à distance"}
+      ]
+    },
+    {
+      "name": "Sadida",
+      "description": "Maîtres de la Force et des Invocations végétales. Les Sadidas invoquent des arbres et des poupées pour combattre.",
+      "base_stats": {
+        "vitalite": 50,
+        "sagesse": 20,
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 20
+      },
+      "spell_stats": {
+        "force": 3,
+        "sagesse": 2
+      },
+      "spells": [
+        {"name": "Ronce", "level": 1, "pa": 3, "po": 3, "effects": "Attaque avec dégâts de Terre"},
+        {"name": "Poupée Écorcée", "level": 1, "pa": 4, "po": 1, "effects": "Invoque une poupée qui soigne les alliés"},
+        {"name": "Poison Paralysant", "level": 3, "pa": 3, "po": 3, "effects": "Empoisonne la cible et réduit ses PM"},
+        {"name": "Poupée Sacrifiée", "level": 6, "pa": 4, "po": 1, "effects": "Invoque une poupée qui explose au contact"},
+        {"name": "Arbre", "level": 9, "pa": 4, "po": 1, "effects": "Invoque un arbre qui bloque les lignes de vue"},
+        {"name": "Poupée Gonflable", "level": 13, "pa": 4, "po": 1, "effects": "Invoque une poupée qui attire les ennemis"},
+        {"name": "Ronce Multiple", "level": 17, "pa": 5, "po": 4, "effects": "Attaque de zone avec dégâts de Terre"}
+      ]
+    },
+    {
+      "name": "Sacrieur",
+      "description": "Maîtres de la Force et de la Vitalité. Les Sacrieurs deviennent plus puissants quand ils subissent des dégâts.",
+      "base_stats": {
+        "vitalite": 55,
+        "sagesse": 20,
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 20
+      },
+      "spell_stats": {
+        "force": 3,
+        "vitalite": 2
+      },
+      "spells": [
+        {"name": "Pied du Sacrieur", "level": 1, "pa": 3, "po": 1, "effects": "Attaque de mêlée avec dégâts de Terre"},
+        {"name": "Dérobade", "level": 1, "pa": 3, "po": 2, "effects": "Attire la cible et inflige des dégâts"},
+        {"name": "Transfert de Vie", "level": 3, "pa": 4, "po": 1, "effects": "Échange de vitalité avec un allié"},
+        {"name": "Assaut", "level": 6, "pa": 4, "po": 1, "effects": "Attaque puissante, plus efficace avec moins de PV"},
+        {"name": "Punition", "level": 9, "pa": 5, "po": 1, "effects": "Attaque dont les dégâts augmentent avec les PV perdus"},
+        {"name": "Furie", "level": 13, "pa": 3, "po": 0, "effects": "Augmente les dégâts mais réduit les résistances"},
+        {"name": "Coagulation", "level": 17, "pa": 2, "po": 0, "effects": "Augmente la vitalité et les résistances"}
+      ]
+    },
+    {
+      "name": "Pandawa",
+      "description": "Maîtres de la Force et de la Résistance. Les Pandawas utilisent leurs capacités de portage et leur endurance au combat.",
+      "base_stats": {
+        "vitalite": 50,
+        "sagesse": 20,
+        "force": 20,
+        "intelligence": 20,
+        "chance": 20,
+        "agilite": 20
+      },
+      "spell_stats": {
+        "force": 3,
+        "vitalite": 2
+      },
+      "spells": [
+        {"name": "Gueule de Bois", "level": 1, "pa": 3, "po": 1, "effects": "Attaque de mêlée avec dégâts de Terre"},
+        {"name": "Poing Enflammé", "level": 1, "pa": 4, "po": 1, "effects": "Attaque avec dégâts de Feu"},
+        {"name": "Hébétement", "level": 3, "pa": 3, "po": 3, "effects": "Réduit la Force et la Chance de la cible"},
+        {"name": "Tannée", "level": 6, "pa": 4, "po": 1, "effects": "Attaque en mêlée à dégâts croissants"},
+        {"name": "Portage", "level": 9, "pa": 3, "po": 1, "effects": "Prend une cible sur les épaules"},
+        {"name": "Lait de Bambou", "level": 13, "pa": 3, "po": 0, "effects": "Soigne le lanceur"},
+        {"name": "Colère de Zatoishwan", "level": 17, "pa": 5, "po": 1, "effects": "Attaque puissante de zone en mêlée"}
       ]
     }
   ]
