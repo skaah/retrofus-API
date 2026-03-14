@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-03-14T17:48:10.889916",
+  "total_items": 167,
+  "total_sets": 35,
+  "stats_coverage": {
+    "agilite": 74,
+    "intelligence": 72,
+    "vitalite": 166,
+    "force": 116,
+    "pm": 20,
+    "chance": 40,
+    "sagesse": 99
+  },
+  "items_by_level": {
+    "0-19": 30,
+    "20-39": 31,
+    "40-59": 24,
+    "80-99": 19,
+    "100-119": 6,
+    "140-159": 12,
+    "180-199": 7,
+    "200-219": 6,
+    "60-79": 8,
+    "120-139": 12,
+    "160-179": 12
+  },
+  "items_by_type": {
+    "Amulette": 30,
+    "Anneau": 31,
+    "Bottes": 28,
+    "Cape": 26,
+    "Ceinture": 26,
+    "Chapeau": 26
+  },
+  "missing_images": [],
+  "items_with_recipe": 0
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://retro.dofusbook.net/fr/encyclopedie/items/gelano",
+  "timestamp": "2026-03-14T10:30:00.000Z",
+  "items": [
+    {
+      "type": "item",
+      "name": "Gelano",
+      "level": 60,
+      "item_type": "Anneau",
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9488-70.webp",
+      "stats": {
+        "vitalite": { "min": 40, "max": 60 },
+        "sagesse": { "min": 20, "max": 30 },
+        "pm": 1,
+        "force": { "min": 16, "max": 20 },
+        "intelligence": { "min": 16, "max": 20 },
+        "chance": { "min": 16, "max": 20 },
+        "agilite": { "min": 16, "max": 20 }
+      },
+      "recipe": [
+        { "name": "Or", "quantity": 10 },
+        { "name": "Argent", "quantity": 10 },
+        { "name": "Bague en Or", "quantity": 1 }
+      ],
+      "dofusbook_url": "https://retro.dofusbook.net/fr/encyclopedie/items/gelano",
+      "scraped_at": "2026-03-14T10:30:00.000Z"
+    }
+  ]
+}

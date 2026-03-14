@@ -1,0 +1,408 @@
+{
+  "timestamp": "2026-03-14",
+  "summary": {
+    "total_gaps": 29,
+    "critical": 0,
+    "high": 12,
+    "medium": 17,
+    "missing_items": 27,
+    "wrong_levels": 1,
+    "missing_sets": 1
+  },
+  "items_to_create": [
+    {
+      "name": "Kralano",
+      "level": 198,
+      "type": "Chapeau",
+      "priority": "high",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Le Kumokan",
+      "level": 196,
+      "type": "Chapeau",
+      "priority": "high",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Coiffe de Bill de Grobe",
+      "level": 195,
+      "type": "Chapeau",
+      "priority": "high",
+      "source": "dofusbook"
+    },
+    {
+      "name": "L'amulette Grobe Bambou",
+      "level": 194,
+      "type": "Amulette",
+      "priority": "high",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Cape Ilyza'aile",
+      "level": 194,
+      "type": "Cape",
+      "priority": "high",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Sandales Circulaires du Kimbo",
+      "level": 193,
+      "type": "Bottes",
+      "priority": "high",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Kralamansion",
+      "level": 192,
+      "type": "Amulette",
+      "priority": "high",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Le Kim",
+      "level": 135,
+      "type": "Chapeau",
+      "priority": "high",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Coiffe du Mulou",
+      "level": 77,
+      "type": "Chapeau",
+      "priority": "high",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Ceinture du Mulou",
+      "level": 74,
+      "type": "Ceinture",
+      "priority": "high",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Anneau du Mulou",
+      "level": 74,
+      "type": "Anneau",
+      "priority": "high",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Ilyzanneau",
+      "level": 191,
+      "type": "Anneau",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Qu'Tanneau",
+      "level": 191,
+      "type": "Anneau",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Voile d'encre",
+      "level": 191,
+      "type": "Cape",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Bottes Qu'Tanées",
+      "level": 190,
+      "type": "Bottes",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Amunite",
+      "level": 189,
+      "type": "Amulette",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Casque Harnage",
+      "level": 188,
+      "type": "Chapeau",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Ceinture Rasboulaire du Rasboul",
+      "level": 182,
+      "type": "Ceinture",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Ceinture Toré",
+      "level": 182,
+      "type": "Ceinture",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Chaussons Pignons",
+      "level": 180,
+      "type": "Bottes",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Ougamulette",
+      "level": 180,
+      "type": "Amulette",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Coiffe du Tynril",
+      "level": 164,
+      "type": "Chapeau",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Goldoture",
+      "level": 164,
+      "type": "Ceinture",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Sandales du Minotot",
+      "level": 163,
+      "type": "Bottes",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Zothulette",
+      "level": 162,
+      "type": "Amulette",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Blopronne Royale",
+      "level": 161,
+      "type": "Chapeau",
+      "priority": "medium",
+      "source": "dofusbook"
+    },
+    {
+      "name": "Le Nahitse",
+      "level": 160,
+      "type": "Chapeau",
+      "priority": "medium",
+      "source": "dofusbook"
+    }
+  ],
+  "all_gaps": [
+    {
+      "name": "Kralano",
+      "level": 198,
+      "type": "Chapeau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 198)"
+    },
+    {
+      "name": "Le Kumokan",
+      "level": 196,
+      "type": "Chapeau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 196)"
+    },
+    {
+      "name": "Le Kim",
+      "level": 135,
+      "type": "Chapeau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 135)"
+    },
+    {
+      "name": "Coiffe de Bill de Grobe",
+      "level": 195,
+      "type": "Chapeau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 195)"
+    },
+    {
+      "name": "L'amulette Grobe Bambou",
+      "level": 194,
+      "type": "Amulette",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 194)"
+    },
+    {
+      "name": "Cape Ilyza'aile",
+      "level": 194,
+      "type": "Cape",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 194)"
+    },
+    {
+      "name": "Sandales Circulaires du Kimbo",
+      "level": 193,
+      "type": "Bottes",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 193)"
+    },
+    {
+      "name": "Kralamansion",
+      "level": 192,
+      "type": "Amulette",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 192)"
+    },
+    {
+      "name": "Ilyzanneau",
+      "level": 191,
+      "type": "Anneau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 191)"
+    },
+    {
+      "name": "Qu'Tanneau",
+      "level": 191,
+      "type": "Anneau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 191)"
+    },
+    {
+      "name": "Bottes Qu'Tanées",
+      "level": 190,
+      "type": "Bottes",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 190)"
+    },
+    {
+      "name": "Voile d'encre",
+      "level": 191,
+      "type": "Cape",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 191)"
+    },
+    {
+      "name": "Amunite",
+      "level": 189,
+      "type": "Amulette",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 189)"
+    },
+    {
+      "name": "Casque Harnage",
+      "level": 188,
+      "type": "Chapeau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 188)"
+    },
+    {
+      "name": "Ceinture Rasboulaire du Rasboul",
+      "level": 182,
+      "type": "Ceinture",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 182)"
+    },
+    {
+      "name": "Ceinture Toré",
+      "level": 182,
+      "type": "Ceinture",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 182)"
+    },
+    {
+      "name": "Chaussons Pignons",
+      "level": 180,
+      "type": "Bottes",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 180)"
+    },
+    {
+      "name": "Ougamulette",
+      "level": 180,
+      "type": "Amulette",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 180)"
+    },
+    {
+      "name": "Coiffe du Tynril",
+      "level": 164,
+      "type": "Chapeau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 164)"
+    },
+    {
+      "name": "Goldoture",
+      "level": 164,
+      "type": "Ceinture",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 164)"
+    },
+    {
+      "name": "Sandales du Minotot",
+      "level": 163,
+      "type": "Bottes",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 163)"
+    },
+    {
+      "name": "Zothulette",
+      "level": 162,
+      "type": "Amulette",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 162)"
+    },
+    {
+      "name": "Blopronne Royale",
+      "level": 161,
+      "type": "Chapeau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 161)"
+    },
+    {
+      "name": "Le Nahitse",
+      "level": 160,
+      "type": "Chapeau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 160)"
+    },
+    {
+      "name": "Bottes de Klim",
+      "level": 45,
+      "type": "Bottes",
+      "gap_type": "level_wrong",
+      "details": "Niveau incorrect: API=45, Référence=51"
+    },
+    {
+      "name": "Ceinture du Mulou",
+      "level": 74,
+      "type": "Ceinture",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 74)"
+    },
+    {
+      "name": "Anneau du Mulou",
+      "level": 74,
+      "type": "Anneau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 74)"
+    },
+    {
+      "name": "Coiffe du Mulou",
+      "level": 77,
+      "type": "Chapeau",
+      "gap_type": "missing",
+      "details": "Item manquant de l'API (niveau 77)"
+    },
+    {
+      "name": "Panoplie Blop",
+      "level": 0,
+      "type": "Panoplie",
+      "gap_type": "missing_set",
+      "details": "Panoplie manquante (4 pièces)"
+    }
+  ]
+}
