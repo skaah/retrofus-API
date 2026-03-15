@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "name": "Amulette",
+    "name_en": "Amulet",
+    "category_id": 1,
+    "category_name": "Équipement",
+    "is_weapon": 0,
+    "is_equipment": 1,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 2,
+    "name": "Anneau",
+    "name_en": "Ring",
+    "category_id": 1,
+    "category_name": "Équipement",
+    "is_weapon": 0,
+    "is_equipment": 1,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 3,
+    "name": "Ceinture",
+    "name_en": "Belt",
+    "category_id": 1,
+    "category_name": "Équipement",
+    "is_weapon": 0,
+    "is_equipment": 1,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 4,
+    "name": "Bottes",
+    "name_en": "Boots",
+    "category_id": 1,
+    "category_name": "Équipement",
+    "is_weapon": 0,
+    "is_equipment": 1,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 5,
+    "name": "Chapeau",
+    "name_en": "Hat",
+    "category_id": 1,
+    "category_name": "Équipement",
+    "is_weapon": 0,
+    "is_equipment": 1,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 6,
+    "name": "Cape",
+    "name_en": "Cloak",
+    "category_id": 1,
+    "category_name": "Équipement",
+    "is_weapon": 0,
+    "is_equipment": 1,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 7,
+    "name": "Bouclier",
+    "name_en": "Shield",
+    "category_id": 1,
+    "category_name": "Équipement",
+    "is_weapon": 0,
+    "is_equipment": 1,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 8,
+    "name": "Sac",
+    "name_en": "Bag",
+    "category_id": 1,
+    "category_name": "Équipement",
+    "is_weapon": 0,
+    "is_equipment": 1,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 9,
+    "name": "Dofus",
+    "name_en": "Dofus",
+    "category_id": 1,
+    "category_name": "Équipement",
+    "is_weapon": 0,
+    "is_equipment": 1,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 10,
+    "name": "Trophée",
+    "name_en": "Trophy",
+    "category_id": 1,
+    "category_name": "Équipement",
+    "is_weapon": 0,
+    "is_equipment": 1,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 11,
+    "name": "Épée",
+    "name_en": "Sword",
+    "category_id": 2,
+    "category_name": "Arme",
+    "is_weapon": 1,
+    "is_equipment": 0,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 12,
+    "name": "Dague",
+    "name_en": "Dagger",
+    "category_id": 2,
+    "category_name": "Arme",
+    "is_weapon": 1,
+    "is_equipment": 0,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 13,
+    "name": "Bâton",
+    "name_en": "Staff",
+    "category_id": 2,
+    "category_name": "Arme",
+    "is_weapon": 1,
+    "is_equipment": 0,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 14,
+    "name": "Marteau",
+    "name_en": "Hammer",
+    "category_id": 2,
+    "category_name": "Arme",
+    "is_weapon": 1,
+    "is_equipment": 0,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 15,
+    "name": "Pelle",
+    "name_en": "Shovel",
+    "category_id": 2,
+    "category_name": "Arme",
+    "is_weapon": 1,
+    "is_equipment": 0,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 16,
+    "name": "Hache",
+    "name_en": "Axe",
+    "category_id": 2,
+    "category_name": "Arme",
+    "is_weapon": 1,
+    "is_equipment": 0,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 17,
+    "name": "Arc",
+    "name_en": "Bow",
+    "category_id": 2,
+    "category_name": "Arme",
+    "is_weapon": 1,
+    "is_equipment": 0,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 18,
+    "name": "Baguette",
+    "name_en": "Wand",
+    "category_id": 2,
+    "category_name": "Arme",
+    "is_weapon": 1,
+    "is_equipment": 0,
+    "is_consumable": 0,
+    "is_resource": 0
+  },
+  {
+    "id": 19,
+    "name": "Faux",
+    "name_en": "Scythe",
+    "category_id": 2,
+    "category_name": "Arme",
+    "is_weapon": 1,
+    "is_equipment": 0,
+    "is_consumable": 0,
+    "is_resource": 0
+  }
+]

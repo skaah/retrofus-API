@@ -1,0 +1,4029 @@
+{
+  "sets": [
+    {
+      "name": "Panoplie Indestructible",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16182-50.webp"
+    },
+    {
+      "name": "Panoplie Tue-Mouche",
+      "level": 192,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 2
+        },
+        "4_items": {
+          "vitalite": 40,
+          "sagesse": 1,
+          "intelligence": 20,
+          "pa": 2
+        },
+        "6_items": {
+          "vitalite": 80,
+          "sagesse": 2,
+          "intelligence": 40,
+          "pa": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9148-50.webp"
+    },
+    {
+      "name": "Panoplie Claire",
+      "level": 136,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 5,
+          "pa": 2,
+          "pm": 6
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 5,
+          "force": 26,
+          "pa": 2,
+          "pm": 6
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 10,
+          "force": 52,
+          "pa": 4,
+          "pm": 12
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16193-50.webp"
+    },
+    {
+      "name": "Panoplie Ethylique",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16176-50.webp"
+    },
+    {
+      "name": "Panoplie Cristaline",
+      "level": 48,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 1,
+          "sagesse": 2,
+          "chance": 11
+        },
+        "4_items": {
+          "vitalite": 1,
+          "sagesse": 2,
+          "chance": 11
+        },
+        "6_items": {
+          "vitalite": 2,
+          "sagesse": 4,
+          "chance": 22
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16228-50.webp"
+    },
+    {
+      "name": "Panoplie Intemporelle",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16177-50.webp"
+    },
+    {
+      "name": "Panoplie de Gobeuf",
+      "level": 44,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 30,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 60,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4090-50.webp"
+    },
+    {
+      "name": "Panoplie Scarabosse Doré",
+      "level": 59,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 10,
+          "intelligence": 6,
+          "pa": 2,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 10,
+          "intelligence": 6,
+          "pa": 2,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 20,
+          "intelligence": 12,
+          "pa": 4,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16129-50.webp"
+    },
+    {
+      "name": "Panoplie du Sanglier",
+      "level": 22,
+      "items": [],
+      "bonus": {
+        "2_items": {},
+        "4_items": {
+          "vitalite": 50
+        },
+        "6_items": {
+          "vitalite": 100
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/10075-50.webp"
+    },
+    {
+      "name": "Panoplie Blop Reinette",
+      "level": 50,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 4,
+          "force": 1,
+          "pa": 15
+        },
+        "4_items": {
+          "vitalite": 50,
+          "sagesse": 4,
+          "force": 1,
+          "pa": 15
+        },
+        "6_items": {
+          "vitalite": 100,
+          "sagesse": 8,
+          "force": 2,
+          "pa": 30
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9150-50.webp"
+    },
+    {
+      "name": "Panoplie Vassale",
+      "level": 105,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 4,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 26,
+          "sagesse": 1,
+          "intelligence": 20,
+          "pa": 4,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 52,
+          "sagesse": 2,
+          "intelligence": 40,
+          "pa": 8,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/17144-50.webp"
+    },
+    {
+      "name": "Panoplie de chance en diamant",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "pa": 1,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 35,
+          "sagesse": 20,
+          "force": 35,
+          "intelligence": 35,
+          "chance": 175,
+          "pa": 1,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 70,
+          "sagesse": 40,
+          "force": 70,
+          "intelligence": 70,
+          "chance": 350,
+          "pa": 2,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1173-50.webp"
+    },
+    {
+      "name": "Panoplie Solaire",
+      "level": 42,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 6,
+          "chance": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 6,
+          "chance": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 12,
+          "chance": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1149-50.webp"
+    },
+    {
+      "name": "Panoplie du Chef Bwork",
+      "level": 100,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "chance": 16,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 80,
+          "sagesse": 1,
+          "force": 60,
+          "intelligence": 21,
+          "chance": 16,
+          "pa": 1,
+          "pm": 200
+        },
+        "6_items": {
+          "vitalite": 160,
+          "sagesse": 2,
+          "force": 120,
+          "intelligence": 42,
+          "chance": 32,
+          "pa": 2,
+          "pm": 400
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6048-50.webp"
+    },
+    {
+      "name": "Panoplie d'intelligence en diamant",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "pa": 1,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 35,
+          "sagesse": 20,
+          "force": 175,
+          "intelligence": 35,
+          "chance": 35,
+          "pa": 1,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 70,
+          "sagesse": 40,
+          "force": 350,
+          "intelligence": 70,
+          "chance": 70,
+          "pa": 2,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1173-50.webp"
+    },
+    {
+      "name": "Panoplie Blop Griotte Royale",
+      "level": 80,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 16,
+          "sagesse": 6,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 16,
+          "sagesse": 6,
+          "intelligence": 30,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 32,
+          "sagesse": 12,
+          "intelligence": 60,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9153-50.webp"
+    },
+    {
+      "name": "Panoplie Ancestrale",
+      "level": 114,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 6,
+          "pa": 4,
+          "pm": 4
+        },
+        "4_items": {
+          "vitalite": 26,
+          "sagesse": 6,
+          "force": 31,
+          "chance": 26,
+          "pa": 4,
+          "pm": 4
+        },
+        "6_items": {
+          "vitalite": 52,
+          "sagesse": 12,
+          "force": 62,
+          "chance": 52,
+          "pa": 8,
+          "pm": 8
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16174-50.webp"
+    },
+    {
+      "name": "Panoplie du Piou Rouge",
+      "level": 1,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "intelligence": 1
+        },
+        "4_items": {
+          "intelligence": 1
+        },
+        "6_items": {
+          "intelligence": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1100-50.webp"
+    },
+    {
+      "name": "Panoplie du Black Wab",
+      "level": 49,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 2
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 2
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16235-50.webp"
+    },
+    {
+      "name": "Panoplie de chance en argent",
+      "level": 90,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 10,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 25,
+          "sagesse": 10,
+          "force": 25,
+          "intelligence": 125,
+          "chance": 25,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 50,
+          "sagesse": 20,
+          "force": 50,
+          "intelligence": 250,
+          "chance": 50,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1171-50.webp"
+    },
+    {
+      "name": "Panoplie Papayou",
+      "level": 49,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 10,
+          "sagesse": 2,
+          "chance": 3
+        },
+        "4_items": {
+          "vitalite": 10,
+          "sagesse": 2,
+          "chance": 3
+        },
+        "6_items": {
+          "vitalite": 20,
+          "sagesse": 4,
+          "chance": 6
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16236-50.webp"
+    },
+    {
+      "name": "Panoplie de l'Innombrable",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 3
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 3
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 6
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16181-50.webp"
+    },
+    {
+      "name": "Panoplie du Chêne Mou",
+      "level": 145,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "intelligence": 16,
+          "pa": 6,
+          "pm": 4
+        },
+        "4_items": {
+          "vitalite": 30,
+          "sagesse": 20,
+          "force": 26,
+          "intelligence": 16,
+          "pa": 6,
+          "pm": 4
+        },
+        "6_items": {
+          "vitalite": 60,
+          "sagesse": 40,
+          "force": 52,
+          "intelligence": 32,
+          "pa": 12,
+          "pm": 8
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1119-50.webp"
+    },
+    {
+      "name": "Panoplie Paupayahn",
+      "level": 45,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/17153-50.webp"
+    },
+    {
+      "name": "Panoplie du Parrain",
+      "level": 48,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "intelligence": 16,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 40,
+          "sagesse": 1,
+          "intelligence": 16,
+          "chance": 40,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 80,
+          "sagesse": 2,
+          "intelligence": 32,
+          "chance": 80,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/17163-50.webp"
+    },
+    {
+      "name": "Panoplie du Piou Violet",
+      "level": 1,
+      "items": [],
+      "bonus": {
+        "2_items": {},
+        "4_items": {
+          "sagesse": 60
+        },
+        "6_items": {
+          "sagesse": 120
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1102-50.webp"
+    },
+    {
+      "name": "Panoplie Ventouse",
+      "level": 199,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 2
+        },
+        "4_items": {
+          "vitalite": 31,
+          "sagesse": 1,
+          "force": 31,
+          "intelligence": 31,
+          "chance": 31,
+          "pa": 2
+        },
+        "6_items": {
+          "vitalite": 62,
+          "sagesse": 2,
+          "force": 62,
+          "intelligence": 62,
+          "chance": 62,
+          "pa": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9142-50.webp"
+    },
+    {
+      "name": "Panoplie du Champion",
+      "level": 1,
+      "items": [],
+      "bonus": {
+        "2_items": {},
+        "4_items": {
+          "vitalite": 100,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100
+        },
+        "6_items": {
+          "vitalite": 200,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/11072-50.webp"
+    },
+    {
+      "name": "Panoplie Feudala",
+      "level": 98,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "chance": 1,
+          "pa": 4,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 80,
+          "sagesse": 1,
+          "intelligence": 40,
+          "chance": 1,
+          "pa": 4,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 160,
+          "sagesse": 2,
+          "intelligence": 80,
+          "chance": 2,
+          "pa": 8,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16145-50.webp"
+    },
+    {
+      "name": "Panoplie du Corbac",
+      "level": 45,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "sagesse": 1,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "sagesse": 2,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6032-50.webp"
+    },
+    {
+      "name": "Panoplie du Bouftou Royal",
+      "level": 70,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 4,
+          "intelligence": 1,
+          "pa": 6
+        },
+        "4_items": {
+          "vitalite": 70,
+          "sagesse": 4,
+          "force": 70,
+          "intelligence": 1,
+          "pa": 6
+        },
+        "6_items": {
+          "vitalite": 140,
+          "sagesse": 8,
+          "force": 140,
+          "intelligence": 2,
+          "pa": 12
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16042-50.webp"
+    },
+    {
+      "name": "Panoplie du Boufcool",
+      "level": 55,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 7
+        },
+        "4_items": {
+          "vitalite": 70,
+          "sagesse": 1,
+          "chance": 70,
+          "pa": 7
+        },
+        "6_items": {
+          "vitalite": 140,
+          "sagesse": 2,
+          "chance": 140,
+          "pa": 14
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1093-50.webp"
+    },
+    {
+      "name": "Panoplie du Scarafeuille Bleu",
+      "level": 46,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1,
+          "chance": 20
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2,
+          "chance": 40
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16076-50.webp"
+    },
+    {
+      "name": "Panoplie de force en bronze",
+      "level": 60,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 5,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 5,
+          "force": 20,
+          "intelligence": 20,
+          "chance": 20,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 10,
+          "force": 40,
+          "intelligence": 40,
+          "chance": 40,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1170-50.webp"
+    },
+    {
+      "name": "Panoplie Real Boitar",
+      "level": 43,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "force": 16,
+          "chance": 2
+        },
+        "4_items": {
+          "vitalite": 30,
+          "sagesse": 1,
+          "force": 16,
+          "chance": 2
+        },
+        "6_items": {
+          "vitalite": 60,
+          "sagesse": 2,
+          "force": 32,
+          "chance": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16252-50.webp"
+    },
+    {
+      "name": "Panoplie du Jeune Aventurier",
+      "level": 1,
+      "items": [],
+      "bonus": {
+        "2_items": {},
+        "4_items": {
+          "vitalite": 40,
+          "force": 40,
+          "intelligence": 40,
+          "chance": 40
+        },
+        "6_items": {
+          "vitalite": 80,
+          "force": 80,
+          "intelligence": 80,
+          "chance": 80
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/17048-50.webp"
+    },
+    {
+      "name": "Panoplie de Laikteur",
+      "level": 43,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 5,
+          "sagesse": 2,
+          "chance": 6,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 5,
+          "sagesse": 2,
+          "chance": 6,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 10,
+          "sagesse": 4,
+          "chance": 12,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/2068-50.webp"
+    },
+    {
+      "name": "Panoplie d'intelligence en bronze",
+      "level": 60,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 5,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 5,
+          "force": 100,
+          "intelligence": 20,
+          "chance": 20,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 10,
+          "force": 200,
+          "intelligence": 40,
+          "chance": 40,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1170-50.webp"
+    },
+    {
+      "name": "Panoplie Gelax",
+      "level": 60,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 6,
+          "pm": 1
+        },
+        "4_items": {
+          "sagesse": 6,
+          "intelligence": 20,
+          "pm": 1
+        },
+        "6_items": {
+          "sagesse": 12,
+          "intelligence": 40,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/17047-50.webp"
+    },
+    {
+      "name": "Panoplie des Sous-bois",
+      "level": 179,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 3,
+          "chance": 4,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 41,
+          "sagesse": 3,
+          "chance": 4,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 82,
+          "sagesse": 6,
+          "chance": 8,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19051-50.webp"
+    },
+    {
+      "name": "Panoplie de Shika Ingalsse",
+      "level": 80,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1,
+          "pm": 10
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1,
+          "intelligence": 50,
+          "chance": 30,
+          "pa": 1,
+          "pm": 10
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2,
+          "intelligence": 100,
+          "chance": 60,
+          "pa": 2,
+          "pm": 20
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1113-50.webp"
+    },
+    {
+      "name": "Panoplie Sauvage",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 3
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 3
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 6
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16178-50.webp"
+    },
+    {
+      "name": "Panoplie Moskito",
+      "level": 21,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "force": 11,
+          "intelligence": 1,
+          "chance": 1
+        },
+        "4_items": {
+          "vitalite": 40,
+          "force": 11,
+          "intelligence": 1,
+          "chance": 1
+        },
+        "6_items": {
+          "vitalite": 80,
+          "force": 22,
+          "intelligence": 2,
+          "chance": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9071-50.webp"
+    },
+    {
+      "name": "Panoplie Yug",
+      "level": 43,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 1
+        },
+        "4_items": {
+          "vitalite": 1
+        },
+        "6_items": {
+          "vitalite": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1147-50.webp"
+    },
+    {
+      "name": "Panoplie Blop Coco Royale",
+      "level": 80,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 16,
+          "sagesse": 6,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 16,
+          "sagesse": 6,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 32,
+          "sagesse": 12,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9155-50.webp"
+    },
+    {
+      "name": "Panoplie Dindo",
+      "level": 50,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "force": 1,
+          "intelligence": 1,
+          "chance": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1,
+          "force": 1,
+          "intelligence": 1,
+          "chance": 1,
+          "pm": 20
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2,
+          "force": 2,
+          "intelligence": 2,
+          "chance": 2,
+          "pm": 40
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/17090-50.webp"
+    },
+    {
+      "name": "Panoplie du Wa",
+      "level": 30,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 5,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 5,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 10,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16021-50.webp"
+    },
+    {
+      "name": "Panoplie du Craqueleur Légendaire",
+      "level": 86,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 8,
+          "intelligence": 16,
+          "pm": 4
+        },
+        "4_items": {
+          "vitalite": 26,
+          "sagesse": 8,
+          "intelligence": 16,
+          "pa": 100,
+          "pm": 4
+        },
+        "6_items": {
+          "vitalite": 52,
+          "sagesse": 16,
+          "intelligence": 32,
+          "pa": 200,
+          "pm": 8
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/11077-50.webp"
+    },
+    {
+      "name": "Panoplie en Mousse",
+      "level": 11,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "chance": 5,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 30,
+          "sagesse": 1,
+          "chance": 5,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 60,
+          "sagesse": 2,
+          "chance": 10,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/82010-50.webp"
+    },
+    {
+      "name": "Panoplie du Rat Blanc",
+      "level": 109,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 6,
+          "pa": 10,
+          "pm": 6
+        },
+        "4_items": {
+          "vitalite": 40,
+          "sagesse": 6,
+          "force": 40,
+          "pa": 10,
+          "pm": 6
+        },
+        "6_items": {
+          "vitalite": 80,
+          "sagesse": 12,
+          "force": 80,
+          "pa": 20,
+          "pm": 12
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6071-50.webp"
+    },
+    {
+      "name": "Panoplie Blop Multicolore Royale",
+      "level": 90,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 1,
+          "sagesse": 16,
+          "pa": 4,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 1,
+          "sagesse": 16,
+          "pa": 4,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 2,
+          "sagesse": 32,
+          "pa": 8,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9157-50.webp"
+    },
+    {
+      "name": "Panoplie du Kwak du Vent",
+      "level": 42,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 35,
+          "sagesse": 1,
+          "force": 55,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 70,
+          "sagesse": 2,
+          "force": 110,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/18004-50.webp"
+    },
+    {
+      "name": "Panoplie du Scarafeuille Rouge",
+      "level": 46,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1,
+          "intelligence": 20
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2,
+          "intelligence": 40
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16077-50.webp"
+    },
+    {
+      "name": "Citronoplie",
+      "level": 32,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "chance": 3,
+          "pa": 1
+        },
+        "4_items": {
+          "intelligence": 30,
+          "chance": 3,
+          "pa": 1
+        },
+        "6_items": {
+          "intelligence": 60,
+          "chance": 6,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16227-50.webp"
+    },
+    {
+      "name": "Panoplie Vénérable",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16183-50.webp"
+    },
+    {
+      "name": "Panoplie d'Hulkrap",
+      "level": 53,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "intelligence": 2,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "intelligence": 2,
+          "pa": 101,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "intelligence": 4,
+          "pa": 202,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/11151-50.webp"
+    },
+    {
+      "name": "Panoplie du Scarafeuille Vert",
+      "level": 46,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1,
+          "force": 20
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2,
+          "force": 40
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16078-50.webp"
+    },
+    {
+      "name": "Panoplie de l'empire",
+      "level": 38,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "force": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 30,
+          "sagesse": 1,
+          "force": 1,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 60,
+          "sagesse": 2,
+          "force": 2,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16242-50.webp"
+    },
+    {
+      "name": "Panoplie Cigale",
+      "level": 33,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 10,
+          "chance": 1
+        },
+        "4_items": {
+          "vitalite": 10,
+          "chance": 1
+        },
+        "6_items": {
+          "vitalite": 20,
+          "chance": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/82037-50.webp"
+    },
+    {
+      "name": "Panoplie Gato",
+      "level": 45,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1,
+          "force": 20
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2,
+          "force": 40
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/10147-50.webp"
+    },
+    {
+      "name": "Panoplie Akwadala",
+      "level": 43,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1,
+          "chance": 30,
+          "pa": 1,
+          "pm": 30
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2,
+          "chance": 60,
+          "pa": 2,
+          "pm": 60
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16146-50.webp"
+    },
+    {
+      "name": "Panoplie d'agilité en or",
+      "level": 120,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 15,
+          "pa": 1,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 30,
+          "sagesse": 15,
+          "force": 30,
+          "intelligence": 30,
+          "chance": 150,
+          "pa": 1,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 60,
+          "sagesse": 30,
+          "force": 60,
+          "intelligence": 60,
+          "chance": 300,
+          "pa": 2,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1172-50.webp"
+    },
+    {
+      "name": "Panoplie Tortue",
+      "level": 60,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 1,
+          "sagesse": 1,
+          "chance": 1
+        },
+        "4_items": {
+          "vitalite": 1,
+          "sagesse": 1,
+          "chance": 1
+        },
+        "6_items": {
+          "vitalite": 2,
+          "sagesse": 2,
+          "chance": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/11035-50.webp"
+    },
+    {
+      "name": "Panoplie du Meulou",
+      "level": 143,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 1,
+          "sagesse": 6,
+          "intelligence": 16,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 1,
+          "sagesse": 6,
+          "force": 21,
+          "intelligence": 16,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 2,
+          "sagesse": 12,
+          "force": 42,
+          "intelligence": 32,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1107-50.webp"
+    },
+    {
+      "name": "Panoplie du Prince des voleurs",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16186-50.webp"
+    },
+    {
+      "name": "Panoplie Posh",
+      "level": 45,
+      "items": [],
+      "bonus": {},
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16232-50.webp"
+    },
+    {
+      "name": "Panoplie du Piou Jaune",
+      "level": 1,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "force": 1
+        },
+        "4_items": {
+          "force": 1
+        },
+        "6_items": {
+          "force": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1104-50.webp"
+    },
+    {
+      "name": "Panoplie de force en or",
+      "level": 120,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 15,
+          "pa": 1,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 150,
+          "sagesse": 15,
+          "force": 30,
+          "intelligence": 30,
+          "chance": 30,
+          "pa": 1,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 300,
+          "sagesse": 30,
+          "force": 60,
+          "intelligence": 60,
+          "chance": 60,
+          "pa": 2,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1172-50.webp"
+    },
+    {
+      "name": "Panoplie de Rekto Topi",
+      "level": 41,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "intelligence": 10,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 1,
+          "intelligence": 10,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 2,
+          "intelligence": 20,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6093-50.webp"
+    },
+    {
+      "name": "Panoplie Arakne",
+      "level": 8,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": -2,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 30,
+          "sagesse": -2,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 60,
+          "sagesse": -4,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9076-50.webp"
+    },
+    {
+      "name": "Panoplignon",
+      "level": 188,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 31,
+          "sagesse": 1,
+          "pa": 80
+        },
+        "6_items": {
+          "vitalite": 62,
+          "sagesse": 2,
+          "pa": 160
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9146-50.webp"
+    },
+    {
+      "name": "Panoplie de l'Homme Ours",
+      "level": 20,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "pa": 2
+        },
+        "4_items": {
+          "vitalite": 30,
+          "pa": 2
+        },
+        "6_items": {
+          "vitalite": 60,
+          "pa": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16064-50.webp"
+    },
+    {
+      "name": "Panoplie de chance en bronze",
+      "level": 60,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 5,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 5,
+          "force": 20,
+          "intelligence": 100,
+          "chance": 20,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 10,
+          "force": 40,
+          "intelligence": 200,
+          "chance": 40,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1170-50.webp"
+    },
+    {
+      "name": "Panoplie du Roks Or",
+      "level": 54,
+      "items": [],
+      "bonus": {
+        "2_items": {},
+        "4_items": {
+          "vitalite": 40,
+          "sagesse": 40
+        },
+        "6_items": {
+          "vitalite": 80,
+          "sagesse": 80
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16254-50.webp"
+    },
+    {
+      "name": "Panoplie d'intelligence en argent",
+      "level": 90,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 10,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 25,
+          "sagesse": 10,
+          "force": 125,
+          "intelligence": 25,
+          "chance": 25,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 50,
+          "sagesse": 20,
+          "force": 250,
+          "intelligence": 50,
+          "chance": 50,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1171-50.webp"
+    },
+    {
+      "name": "Panoplie d'agilité en bronze",
+      "level": 60,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 5,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 5,
+          "force": 20,
+          "intelligence": 20,
+          "chance": 100,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 10,
+          "force": 40,
+          "intelligence": 40,
+          "chance": 200,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1170-50.webp"
+    },
+    {
+      "name": "Panoplie du Kwak de Terre",
+      "level": 42,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 55,
+          "sagesse": 1,
+          "force": 35,
+          "chance": 25,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 110,
+          "sagesse": 2,
+          "force": 70,
+          "chance": 50,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/18005-50.webp"
+    },
+    {
+      "name": "Panoplie Exsangue",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16180-50.webp"
+    },
+    {
+      "name": "Panoplie Fourbasse",
+      "level": 34,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 10,
+          "sagesse": 1,
+          "pa": 1,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 10,
+          "sagesse": 1,
+          "pa": 1,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 20,
+          "sagesse": 2,
+          "pa": 2,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1069-50.webp"
+    },
+    {
+      "name": "Panoplie du Piou Rose",
+      "level": 1,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 6
+        },
+        "4_items": {
+          "vitalite": 6
+        },
+        "6_items": {
+          "vitalite": 12
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1105-50.webp"
+    },
+    {
+      "name": "Panoplie Aerdala",
+      "level": 70,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 2,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 80,
+          "sagesse": 1,
+          "pa": 2,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 160,
+          "sagesse": 2,
+          "pa": 4,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16148-50.webp"
+    },
+    {
+      "name": "Panoplie Mace",
+      "level": 42,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "intelligence": 15
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 51,
+          "intelligence": 15
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 102,
+          "intelligence": 30
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1148-50.webp"
+    },
+    {
+      "name": "Panoplie Mystère",
+      "level": 42,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 4,
+          "sagesse": 11
+        },
+        "4_items": {
+          "vitalite": 4,
+          "sagesse": 11
+        },
+        "6_items": {
+          "vitalite": 8,
+          "sagesse": 22
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/11137-50.webp"
+    },
+    {
+      "name": "Panoplie de Gouttière",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16185-50.webp"
+    },
+    {
+      "name": "Panoplie du Koulosse",
+      "level": 82,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": -1,
+          "force": -1,
+          "intelligence": -1,
+          "chance": -1,
+          "pa": 1,
+          "pm": 5
+        },
+        "4_items": {
+          "vitalite": -1,
+          "force": -1,
+          "intelligence": -1,
+          "chance": -1,
+          "pa": 1,
+          "pm": 5
+        },
+        "6_items": {
+          "vitalite": -2,
+          "force": -2,
+          "intelligence": -2,
+          "chance": -2,
+          "pa": 2,
+          "pm": 10
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16122-50.webp"
+    },
+    {
+      "name": "Panoplie d'agilité en diamant",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "pa": 1,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 35,
+          "sagesse": 20,
+          "force": 35,
+          "intelligence": 175,
+          "chance": 35,
+          "pa": 1,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 70,
+          "sagesse": 40,
+          "force": 70,
+          "intelligence": 350,
+          "chance": 70,
+          "pa": 2,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1173-50.webp"
+    },
+    {
+      "name": "Panoplie Chisp",
+      "level": 44,
+      "items": [],
+      "bonus": {
+        "2_items": {},
+        "4_items": {
+          "vitalite": 20
+        },
+        "6_items": {
+          "vitalite": 40
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/11141-50.webp"
+    },
+    {
+      "name": "Panoplie du Kwak de Glace",
+      "level": 42,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 35,
+          "sagesse": 1,
+          "intelligence": 55,
+          "chance": 25,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 70,
+          "sagesse": 2,
+          "intelligence": 110,
+          "chance": 50,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/18002-50.webp"
+    },
+    {
+      "name": "Panoplie du Piou Vert",
+      "level": 1,
+      "items": [],
+      "bonus": {},
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1103-50.webp"
+    },
+    {
+      "name": "Panoplie Larvesque",
+      "level": 40,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 2,
+          "intelligence": 10,
+          "pa": 2
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 2,
+          "intelligence": 10,
+          "pa": 2
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 4,
+          "intelligence": 20,
+          "pa": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1088-50.webp"
+    },
+    {
+      "name": "Panoplie Criminelle",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16179-50.webp"
+    },
+    {
+      "name": "Panoplie du Boune",
+      "level": 1,
+      "items": [],
+      "bonus": {
+        "2_items": {},
+        "4_items": {
+          "vitalite": 25,
+          "force": 25,
+          "intelligence": 25,
+          "chance": 25
+        },
+        "6_items": {
+          "vitalite": 50,
+          "force": 50,
+          "intelligence": 50,
+          "chance": 50
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16169-50.webp"
+    },
+    {
+      "name": "Panoplie Terrdala",
+      "level": 83,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "force": 1,
+          "pa": 12,
+          "pm": 4
+        },
+        "4_items": {
+          "vitalite": 80,
+          "sagesse": 1,
+          "force": 1,
+          "pa": 12,
+          "pm": 4
+        },
+        "6_items": {
+          "vitalite": 160,
+          "sagesse": 2,
+          "force": 2,
+          "pa": 24,
+          "pm": 8
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16147-50.webp"
+    },
+    {
+      "name": "Panoplie du Koalak",
+      "level": 61,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 150,
+          "sagesse": 20,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 300,
+          "sagesse": 40,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/18030-50.webp"
+    },
+    {
+      "name": "Panoplie du Rat Noir",
+      "level": 108,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 6,
+          "pa": 1,
+          "pm": 16
+        },
+        "4_items": {
+          "vitalite": 40,
+          "sagesse": 6,
+          "pa": 1,
+          "pm": 16
+        },
+        "6_items": {
+          "vitalite": 80,
+          "sagesse": 12,
+          "pa": 2,
+          "pm": 32
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16158-50.webp"
+    },
+    {
+      "name": "Panoplie Bzz",
+      "level": 37,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 1,
+          "sagesse": 1,
+          "chance": 4,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 1,
+          "sagesse": 1,
+          "force": 21,
+          "chance": 4,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 2,
+          "sagesse": 2,
+          "force": 42,
+          "chance": 8,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/11128-50.webp"
+    },
+    {
+      "name": "Panoplie Ougah",
+      "level": 185,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 41,
+          "sagesse": 1,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 82,
+          "sagesse": 2,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16120-50.webp"
+    },
+    {
+      "name": "Panoplie du Minotoror",
+      "level": 113,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "force": 11,
+          "pa": 8,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 40,
+          "sagesse": 1,
+          "force": 11,
+          "pa": 8,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 80,
+          "sagesse": 2,
+          "force": 22,
+          "pa": 16,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16013-50.webp"
+    },
+    {
+      "name": "Panoplie d'agilité en argent",
+      "level": 90,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 10,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 25,
+          "sagesse": 10,
+          "force": 25,
+          "intelligence": 25,
+          "chance": 125,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 50,
+          "sagesse": 20,
+          "force": 50,
+          "intelligence": 50,
+          "chance": 250,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1171-50.webp"
+    },
+    {
+      "name": "Panoplie Blop Coco",
+      "level": 50,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 4,
+          "pa": 15
+        },
+        "4_items": {
+          "vitalite": 50,
+          "sagesse": 4,
+          "pa": 15
+        },
+        "6_items": {
+          "vitalite": 100,
+          "sagesse": 8,
+          "pa": 30
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9151-50.webp"
+    },
+    {
+      "name": "Panoplie Ananas",
+      "level": 1,
+      "items": [],
+      "bonus": {},
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16117-50.webp"
+    },
+    {
+      "name": "Panoplie du Vampyre maudit",
+      "level": 45,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 1,
+          "sagesse": 2,
+          "force": 11,
+          "intelligence": 1,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 1,
+          "sagesse": 2,
+          "force": 11,
+          "intelligence": 1,
+          "chance": 201,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 2,
+          "sagesse": 4,
+          "force": 22,
+          "intelligence": 2,
+          "chance": 402,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9171-50.webp"
+    },
+    {
+      "name": "Panoplie de Kocksis",
+      "level": 42,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 5,
+          "force": 6,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 5,
+          "force": 6,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 10,
+          "force": 12,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6095-50.webp"
+    },
+    {
+      "name": "Panoplie Blop Indigo Royale",
+      "level": 80,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 16,
+          "sagesse": 6,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 16,
+          "sagesse": 6,
+          "chance": 30,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 32,
+          "sagesse": 12,
+          "chance": 60,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9156-50.webp"
+    },
+    {
+      "name": "Panoplie d'intelligence en or",
+      "level": 120,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 15,
+          "pa": 1,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 30,
+          "sagesse": 15,
+          "force": 150,
+          "intelligence": 30,
+          "chance": 30,
+          "pa": 1,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 60,
+          "sagesse": 30,
+          "force": 300,
+          "intelligence": 60,
+          "chance": 60,
+          "pa": 2,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1172-50.webp"
+    },
+    {
+      "name": "Panoplie du Kwak de Flammes",
+      "level": 42,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 55,
+          "sagesse": 1,
+          "intelligence": 35,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 110,
+          "sagesse": 2,
+          "intelligence": 70,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/18003-50.webp"
+    },
+    {
+      "name": "Panoplie de force en argent",
+      "level": 90,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 10,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 125,
+          "sagesse": 10,
+          "force": 25,
+          "intelligence": 25,
+          "chance": 25,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 250,
+          "sagesse": 20,
+          "force": 50,
+          "intelligence": 50,
+          "chance": 50,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1171-50.webp"
+    },
+    {
+      "name": "Panoplie du Bois de l'Est",
+      "level": 40,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "force": 6,
+          "intelligence": 6,
+          "chance": 6
+        },
+        "4_items": {
+          "vitalite": 30,
+          "force": 6,
+          "intelligence": 6,
+          "chance": 6
+        },
+        "6_items": {
+          "vitalite": 60,
+          "force": 12,
+          "intelligence": 12,
+          "chance": 12
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16226-50.webp"
+    },
+    {
+      "name": "Panoplie de Charlie",
+      "level": 43,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "chance": 11,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 30,
+          "sagesse": 1,
+          "chance": 11,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 60,
+          "sagesse": 2,
+          "chance": 22,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16243-50.webp"
+    },
+    {
+      "name": "Panoplie de Klüme",
+      "level": 54,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "force": 2,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 1,
+          "force": 2,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 2,
+          "force": 4,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/11152-50.webp"
+    },
+    {
+      "name": "Panoplie de chance en or",
+      "level": 120,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 15,
+          "pa": 1,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 30,
+          "sagesse": 15,
+          "force": 30,
+          "intelligence": 150,
+          "chance": 30,
+          "pa": 1,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 60,
+          "sagesse": 30,
+          "force": 60,
+          "intelligence": 300,
+          "chance": 60,
+          "pa": 2,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1172-50.webp"
+    },
+    {
+      "name": "Panoplie du Zothicien",
+      "level": 139,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "force": 6,
+          "pa": 3
+        },
+        "4_items": {
+          "vitalite": 26,
+          "sagesse": 1,
+          "force": 6,
+          "pa": 3
+        },
+        "6_items": {
+          "vitalite": 52,
+          "sagesse": 2,
+          "force": 12,
+          "pa": 6
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/19047-50.webp"
+    },
+    {
+      "name": "Panoplie Blop Griotte",
+      "level": 50,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 4,
+          "intelligence": 1,
+          "pa": 15
+        },
+        "4_items": {
+          "vitalite": 50,
+          "sagesse": 4,
+          "intelligence": 1,
+          "pa": 15
+        },
+        "6_items": {
+          "vitalite": 100,
+          "sagesse": 8,
+          "intelligence": 2,
+          "pa": 30
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9149-50.webp"
+    },
+    {
+      "name": "Panoplie Végétatif",
+      "level": 58,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 1,
+          "intelligence": -1,
+          "chance": 1,
+          "pa": 15
+        },
+        "4_items": {
+          "vitalite": 1,
+          "intelligence": -1,
+          "chance": 1,
+          "pa": 15
+        },
+        "6_items": {
+          "vitalite": 2,
+          "intelligence": -2,
+          "chance": 2,
+          "pa": 30
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16045-50.webp"
+    },
+    {
+      "name": "Panoplie de la Denrée",
+      "level": 43,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 5
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 5
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 10
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16250-50.webp"
+    },
+    {
+      "name": "Panoplie de Noké",
+      "level": 42,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 2,
+          "force": 6,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 2,
+          "force": 6,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 4,
+          "force": 12,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16249-50.webp"
+    },
+    {
+      "name": "Panoplie du Paysan",
+      "level": 20,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 7,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 30,
+          "sagesse": 7,
+          "chance": 40,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 60,
+          "sagesse": 14,
+          "chance": 80,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1097-50.webp"
+    },
+    {
+      "name": "Panoplie Cérémoniale",
+      "level": 134,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 6,
+          "pm": 5
+        },
+        "4_items": {
+          "vitalite": 50,
+          "sagesse": 1,
+          "intelligence": 50,
+          "pa": 6,
+          "pm": 5
+        },
+        "6_items": {
+          "vitalite": 100,
+          "sagesse": 2,
+          "intelligence": 100,
+          "pa": 12,
+          "pm": 10
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16173-50.webp"
+    },
+    {
+      "name": "Panoplie Sombre",
+      "level": 97,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 6,
+          "sagesse": 4,
+          "intelligence": 16,
+          "pa": 2
+        },
+        "4_items": {
+          "vitalite": 6,
+          "sagesse": 4,
+          "force": 26,
+          "intelligence": 16,
+          "pa": 2
+        },
+        "6_items": {
+          "vitalite": 12,
+          "sagesse": 8,
+          "force": 52,
+          "intelligence": 32,
+          "pa": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16194-50.webp"
+    },
+    {
+      "name": "Panoplie de Slait",
+      "level": 49,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "intelligence": 16
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 1,
+          "intelligence": 16
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 2,
+          "intelligence": 32
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/17166-50.webp"
+    },
+    {
+      "name": "Panoplie de l'Abraknyde",
+      "level": 45,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "force": 1,
+          "pa": 4
+        },
+        "4_items": {
+          "vitalite": 50,
+          "force": 1,
+          "pa": 4
+        },
+        "6_items": {
+          "vitalite": 100,
+          "force": 2,
+          "pa": 8
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16040-50.webp"
+    },
+    {
+      "name": "Pompanoplie",
+      "level": 33,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 2,
+          "intelligence": 11
+        },
+        "4_items": {
+          "vitalite": 2,
+          "intelligence": 11
+        },
+        "6_items": {
+          "vitalite": 4,
+          "intelligence": 22
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1140-50.webp"
+    },
+    {
+      "name": "Panoplie du Zothuliste",
+      "level": 158,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 6,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 26,
+          "sagesse": 6,
+          "force": 25,
+          "intelligence": 26,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 52,
+          "sagesse": 12,
+          "force": 50,
+          "intelligence": 52,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4076-50.webp"
+    },
+    {
+      "name": "Panoplie Altruiste",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16184-50.webp"
+    },
+    {
+      "name": "Panoplie Témeraire",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "force": 100,
+          "intelligence": 100,
+          "chance": 100,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "force": 200,
+          "intelligence": 200,
+          "chance": 200,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16175-50.webp"
+    },
+    {
+      "name": "Panoplie de Farle Ingalsse",
+      "level": 80,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "intelligence": 16,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1,
+          "force": 50,
+          "intelligence": 16,
+          "pa": 1,
+          "pm": 20
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2,
+          "force": 100,
+          "intelligence": 32,
+          "pa": 2,
+          "pm": 40
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1068-50.webp"
+    },
+    {
+      "name": "Panoplie Goldobrak",
+      "level": 44,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 5,
+          "chance": 2,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 5,
+          "chance": 2,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 10,
+          "chance": 4,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16239-50.webp"
+    },
+    {
+      "name": "Panoplie Champêtre",
+      "level": 10,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 25,
+          "intelligence": 30,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 50,
+          "intelligence": 60,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1073-50.webp"
+    },
+    {
+      "name": "Panoplie d'Ilyzaelle",
+      "level": 196,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 2,
+          "pa": 2
+        },
+        "4_items": {
+          "vitalite": 31,
+          "sagesse": 2,
+          "force": 31,
+          "intelligence": 50,
+          "chance": 21,
+          "pa": 2
+        },
+        "6_items": {
+          "vitalite": 62,
+          "sagesse": 4,
+          "force": 62,
+          "intelligence": 100,
+          "chance": 42,
+          "pa": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/10008-50.webp"
+    },
+    {
+      "name": "Panoplie Blop Indigo",
+      "level": 50,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 4,
+          "chance": 1,
+          "pa": 15
+        },
+        "4_items": {
+          "vitalite": 50,
+          "sagesse": 4,
+          "chance": 1,
+          "pa": 15
+        },
+        "6_items": {
+          "vitalite": 100,
+          "sagesse": 8,
+          "chance": 2,
+          "pa": 30
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9152-50.webp"
+    },
+    {
+      "name": "Panoplie du Piou Bleu",
+      "level": 1,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "chance": 1
+        },
+        "4_items": {
+          "chance": 1
+        },
+        "6_items": {
+          "chance": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1101-50.webp"
+    },
+    {
+      "name": "Panoplie Vioutifoule",
+      "level": 46,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1,
+          "intelligence": 20
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2,
+          "intelligence": 40
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/17051-50.webp"
+    },
+    {
+      "name": "Panoplie de Toady",
+      "level": 30,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "pa": 1
+        },
+        "4_items": {
+          "pa": 1
+        },
+        "6_items": {
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4024-50.webp"
+    },
+    {
+      "name": "Panoplie Baveuse",
+      "level": 123,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 6
+        },
+        "4_items": {
+          "vitalite": 31,
+          "sagesse": 1,
+          "force": 30,
+          "chance": 20,
+          "pa": 6
+        },
+        "6_items": {
+          "vitalite": 62,
+          "sagesse": 2,
+          "force": 60,
+          "chance": 40,
+          "pa": 12
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16195-50.webp"
+    },
+    {
+      "name": "Panoplie du Scarafeuille Noir",
+      "level": 53,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/10093-50.webp"
+    },
+    {
+      "name": "Panoplie du Kitsou",
+      "level": 62,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16097-50.webp"
+    },
+    {
+      "name": "Panoplie Sleump",
+      "level": 43,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 2,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 2,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 4,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16237-50.webp"
+    },
+    {
+      "name": "Panoplie des Bouftons Rouges",
+      "level": 43,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "intelligence": 16
+        },
+        "4_items": {
+          "vitalite": 30,
+          "sagesse": 1,
+          "intelligence": 16
+        },
+        "6_items": {
+          "vitalite": 60,
+          "sagesse": 2,
+          "intelligence": 32
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16253-50.webp"
+    },
+    {
+      "name": "Panoplie de Qu'Tan",
+      "level": 196,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 2,
+          "chance": 4,
+          "pa": 1,
+          "pm": 6
+        },
+        "4_items": {
+          "vitalite": 41,
+          "sagesse": 2,
+          "force": 50,
+          "intelligence": 41,
+          "chance": 4,
+          "pa": 1,
+          "pm": 6
+        },
+        "6_items": {
+          "vitalite": 82,
+          "sagesse": 4,
+          "force": 100,
+          "intelligence": 82,
+          "chance": 8,
+          "pa": 2,
+          "pm": 12
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16282-50.webp"
+    },
+    {
+      "name": "Panoplie de Kloug",
+      "level": 53,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 6,
+          "chance": 2,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 6,
+          "chance": 2,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 12,
+          "chance": 4,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/10168-50.webp"
+    },
+    {
+      "name": "Panoplycélium",
+      "level": 181,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 3,
+          "force": 1,
+          "pm": 6
+        },
+        "4_items": {
+          "vitalite": 31,
+          "sagesse": 3,
+          "force": 1,
+          "pm": 6
+        },
+        "6_items": {
+          "vitalite": 62,
+          "sagesse": 6,
+          "force": 2,
+          "pm": 12
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9147-50.webp"
+    },
+    {
+      "name": "Panoplie Blop Reinette Royale",
+      "level": 80,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 16,
+          "sagesse": 6,
+          "pa": 1,
+          "pm": 1
+        },
+        "4_items": {
+          "vitalite": 16,
+          "sagesse": 6,
+          "force": 30,
+          "pa": 1,
+          "pm": 1
+        },
+        "6_items": {
+          "vitalite": 32,
+          "sagesse": 12,
+          "force": 60,
+          "pa": 2,
+          "pm": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9154-50.webp"
+    },
+    {
+      "name": "Panoplie de Grüt",
+      "level": 44,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "force": 6,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 1,
+          "force": 6,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 2,
+          "force": 12,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/6094-50.webp"
+    },
+    {
+      "name": "Panoplie du Scarafeuille Blanc",
+      "level": 46,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16079-50.webp"
+    },
+    {
+      "name": "Panoplie Grobe",
+      "level": 196,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 2,
+          "pa": 15,
+          "pm": 6
+        },
+        "4_items": {
+          "vitalite": 45,
+          "sagesse": 2,
+          "force": 31,
+          "pa": 15,
+          "pm": 6
+        },
+        "6_items": {
+          "vitalite": 90,
+          "sagesse": 4,
+          "force": 62,
+          "pa": 30,
+          "pm": 12
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/11164-50.webp"
+    },
+    {
+      "name": "Panoplie de force en diamant",
+      "level": 150,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "pa": 1,
+          "pm": 2
+        },
+        "4_items": {
+          "vitalite": 175,
+          "sagesse": 20,
+          "force": 35,
+          "intelligence": 35,
+          "chance": 35,
+          "pa": 1,
+          "pm": 2
+        },
+        "6_items": {
+          "vitalite": 350,
+          "sagesse": 40,
+          "force": 70,
+          "intelligence": 70,
+          "chance": 70,
+          "pa": 2,
+          "pm": 4
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/1173-50.webp"
+    },
+    {
+      "name": "Panoplie du Zoth Zotheur",
+      "level": 132,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 100,
+          "sagesse": 1,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 200,
+          "sagesse": 2,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/7064-50.webp"
+    },
+    {
+      "name": "Panoplie O'Boul",
+      "level": 77,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 8,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 40,
+          "sagesse": 8,
+          "intelligence": 20,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 80,
+          "sagesse": 16,
+          "intelligence": 40,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/4063-50.webp"
+    },
+    {
+      "name": "Panoplie Mégaman",
+      "level": 45,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 60,
+          "sagesse": 1,
+          "chance": 20
+        },
+        "6_items": {
+          "vitalite": 120,
+          "sagesse": 2,
+          "chance": 40
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/17050-50.webp"
+    },
+    {
+      "name": "Panoplie Tétounik",
+      "level": 45,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "intelligence": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "intelligence": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "intelligence": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9168-50.webp"
+    },
+    {
+      "name": "Panoplie de Peggy la Porkass",
+      "level": 40,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "vitalite": 10,
+          "sagesse": 6,
+          "force": 16
+        },
+        "4_items": {
+          "vitalite": 10,
+          "sagesse": 6,
+          "force": 16
+        },
+        "6_items": {
+          "vitalite": 20,
+          "sagesse": 12,
+          "force": 32
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/16225-50.webp"
+    },
+    {
+      "name": "Panoplie Champ Champ",
+      "level": 9,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1,
+          "force": -1,
+          "chance": 1
+        },
+        "4_items": {
+          "sagesse": 1,
+          "force": -1,
+          "intelligence": 30,
+          "chance": 1
+        },
+        "6_items": {
+          "sagesse": 2,
+          "force": -2,
+          "intelligence": 60,
+          "chance": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/9074-50.webp"
+    },
+    {
+      "name": "Panoplie de Grizou",
+      "level": 43,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "chance": 1,
+          "pa": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "chance": 1,
+          "pa": 1
+        },
+        "6_items": {
+          "vitalite": 40,
+          "chance": 2,
+          "pa": 2
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/21002-50.webp"
+    },
+    {
+      "name": "Panoplie Souveraine",
+      "level": 168,
+      "items": [],
+      "bonus": {
+        "2_items": {
+          "sagesse": 1
+        },
+        "4_items": {
+          "vitalite": 20,
+          "sagesse": 1,
+          "intelligence": 41,
+          "chance": 41
+        },
+        "6_items": {
+          "vitalite": 40,
+          "sagesse": 2,
+          "intelligence": 82,
+          "chance": 82
+        }
+      },
+      "image_url": "https://retro.dofusbook.net/static/dist/items/17143-50.webp"
+    },
+    {
+      "name": "Panoplie du Bouftou",
+      "level": 10,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Prespic",
+      "level": 18,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Tofu",
+      "level": 12,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Champ Champ",
+      "level": 22,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Piou",
+      "level": 1,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Bandit",
+      "level": 65,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Bwork",
+      "level": 70,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Wabbit",
+      "level": 80,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Dragon Cochon",
+      "level": 95,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Blop Reinette",
+      "level": 60,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Blop Griotte",
+      "level": 60,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Blop Indigo",
+      "level": 60,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Blop Coco",
+      "level": 60,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Craqueleur",
+      "level": 55,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Moskito",
+      "level": 45,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Dragoeuf",
+      "level": 140,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Minotot",
+      "level": 160,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Silf",
+      "level": 130,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Tanukouï San",
+      "level": 145,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Ougah",
+      "level": 175,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Kimbo",
+      "level": 155,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Glourmand",
+      "level": 185,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Tynril",
+      "level": 165,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du XLII",
+      "level": 195,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Rasboul",
+      "level": 190,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie de la Larve",
+      "level": 6,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie de l'Arakne",
+      "level": 14,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Chafer",
+      "level": 38,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Boufton Royal",
+      "level": 35,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Mulou",
+      "level": 75,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Kanniboul",
+      "level": 85,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Scarafeuille",
+      "level": 42,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Kanigrou",
+      "level": 90,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Chef Crocodaille",
+      "level": 110,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    },
+    {
+      "name": "Panoplie du Maître Corbac",
+      "level": 125,
+      "items": [],
+      "bonus": {},
+      "image_url": ""
+    }
+  ]
+}

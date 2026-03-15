@@ -1,0 +1,2594 @@
+[
+  {
+    "id": 0,
+    "name": "Bouftou",
+    "level_min": 1,
+    "level_max": 5,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 8,
+      "intelligence": 5,
+      "chance": 5,
+      "agilite": 5
+    },
+    "drops": [
+      {
+        "item": "Poil de Bouftou",
+        "rate": 50
+      },
+      {
+        "item": "Laine de Bouftou",
+        "rate": 35
+      },
+      {
+        "item": "Cuir de Bouftou",
+        "rate": 25
+      },
+      {
+        "item": "Oeil de Bouftou",
+        "rate": 10
+      },
+      {
+        "item": "Corne de Bouftou",
+        "rate": 5
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Boufton Blanc",
+    "level_min": 5,
+    "level_max": 10,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 12,
+      "intelligence": 8,
+      "chance": 8,
+      "agilite": 8
+    },
+    "drops": [
+      {
+        "item": "Poil de Boufton Blanc",
+        "rate": 45
+      },
+      {
+        "item": "Laine de Boufton Blanc",
+        "rate": 40
+      },
+      {
+        "item": "Cuir de Boufton Blanc",
+        "rate": 30
+      },
+      {
+        "item": "Corne de Boufton Blanc",
+        "rate": 8
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Boufton Noir",
+    "level_min": 5,
+    "level_max": 10,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 14,
+      "intelligence": 6,
+      "chance": 6,
+      "agilite": 8
+    },
+    "drops": [
+      {
+        "item": "Poil de Boufton Noir",
+        "rate": 45
+      },
+      {
+        "item": "Laine de Boufton Noir",
+        "rate": 40
+      },
+      {
+        "item": "Cuir de Boufton Noir",
+        "rate": 30
+      },
+      {
+        "item": "Corne de Boufton Noir",
+        "rate": 8
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Bouftou Royal",
+    "level_min": 15,
+    "level_max": 25,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 35,
+      "intelligence": 15,
+      "chance": 15,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Poil de Bouftou Royal",
+        "rate": 60
+      },
+      {
+        "item": "Cuir de Bouftou Royal",
+        "rate": 50
+      },
+      {
+        "item": "Corne de Bouftou Royal",
+        "rate": 30
+      },
+      {
+        "item": "Collier du Bouftou Royal",
+        "rate": 2
+      },
+      {
+        "item": "Clef du Donjon Bouftou",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Tofu",
+    "level_min": 1,
+    "level_max": 4,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 3,
+      "intelligence": 3,
+      "chance": 3,
+      "agilite": 12
+    },
+    "drops": [
+      {
+        "item": "Plume de Tofu",
+        "rate": 60
+      },
+      {
+        "item": "Oeil de Tofu",
+        "rate": 40
+      },
+      {
+        "item": "Bec de Tofu",
+        "rate": 20
+      },
+      {
+        "item": "Graine de Tournesol",
+        "rate": 10
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Tofu Maléfique",
+    "level_min": 3,
+    "level_max": 6,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 5,
+      "intelligence": 10,
+      "chance": 5,
+      "agilite": 15
+    },
+    "drops": [
+      {
+        "item": "Plume de Tofu Maléfique",
+        "rate": 55
+      },
+      {
+        "item": "Oeil de Tofu Maléfique",
+        "rate": 35
+      },
+      {
+        "item": "Bec de Tofu Maléfique",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Tofu Ventripotent",
+    "level_min": 8,
+    "level_max": 12,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 10,
+      "intelligence": 8,
+      "chance": 8,
+      "agilite": 18
+    },
+    "drops": [
+      {
+        "item": "Plume de Tofu Ventripotent",
+        "rate": 50
+      },
+      {
+        "item": "Oeil de Tofu Ventripotent",
+        "rate": 30
+      },
+      {
+        "item": "Viande de Tofu",
+        "rate": 40
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Tofukaz",
+    "level_min": 20,
+    "level_max": 30,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 20,
+      "intelligence": 40,
+      "chance": 20,
+      "agilite": 40
+    },
+    "drops": [
+      {
+        "item": "Plume de Tofukaz",
+        "rate": 55
+      },
+      {
+        "item": "Oeil de Tofukaz",
+        "rate": 40
+      },
+      {
+        "item": "Bec de Tofukaz",
+        "rate": 25
+      },
+      {
+        "item": "Aile de Tofukaz",
+        "rate": 15
+      },
+      {
+        "item": "Bottes de Tofu",
+        "rate": 1
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Tofu Royal",
+    "level_min": 25,
+    "level_max": 35,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 30,
+      "intelligence": 50,
+      "chance": 25,
+      "agilite": 60
+    },
+    "drops": [
+      {
+        "item": "Plume de Tofu Royal",
+        "rate": 60
+      },
+      {
+        "item": "Oeil de Tofu Royal",
+        "rate": 45
+      },
+      {
+        "item": "Corne de Tofu Royal",
+        "rate": 20
+      },
+      {
+        "item": "Coiffe du Tofu Royal",
+        "rate": 1
+      },
+      {
+        "item": "Clef du Donjon Tofu",
+        "rate": 20
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Arakne",
+    "level_min": 1,
+    "level_max": 5,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 5,
+      "intelligence": 5,
+      "chance": 8,
+      "agilite": 8
+    },
+    "drops": [
+      {
+        "item": "Toile d'Arakne",
+        "rate": 55
+      },
+      {
+        "item": "Patte d'Arakne",
+        "rate": 40
+      },
+      {
+        "item": "Oeil d'Arakne",
+        "rate": 25
+      },
+      {
+        "item": "Ficelle",
+        "rate": 30
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Arakne Majeure",
+    "level_min": 8,
+    "level_max": 15,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 12,
+      "intelligence": 10,
+      "chance": 18,
+      "agilite": 18
+    },
+    "drops": [
+      {
+        "item": "Toile d'Arakne Majeure",
+        "rate": 50
+      },
+      {
+        "item": "Patte d'Arakne Majeure",
+        "rate": 35
+      },
+      {
+        "item": "Oeil d'Arakne Majeure",
+        "rate": 20
+      },
+      {
+        "item": "Clef du Donjon Arakne",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Arakne Agressive",
+    "level_min": 12,
+    "level_max": 18,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 20,
+      "intelligence": 12,
+      "chance": 20,
+      "agilite": 25
+    },
+    "drops": [
+      {
+        "item": "Toile d'Arakne Agressive",
+        "rate": 45
+      },
+      {
+        "item": "Patte d'Arakne Agressive",
+        "rate": 30
+      },
+      {
+        "item": "Venin d'Arakne",
+        "rate": 20
+      },
+      {
+        "item": "Dent d'Arakne Agressive",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Reine des Araknes",
+    "level_min": 30,
+    "level_max": 40,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 40,
+      "intelligence": 30,
+      "chance": 50,
+      "agilite": 55
+    },
+    "drops": [
+      {
+        "item": "Toile de la Reine des Araknes",
+        "rate": 60
+      },
+      {
+        "item": "Patte de la Reine des Araknes",
+        "rate": 50
+      },
+      {
+        "item": "Oeil de la Reine des Araknes",
+        "rate": 30
+      },
+      {
+        "item": "Amulette de la Reine des Araknes",
+        "rate": 1
+      },
+      {
+        "item": "Clef du Donjon Reine des Araknes",
+        "rate": 25
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Prespic",
+    "level_min": 8,
+    "level_max": 14,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 15,
+      "intelligence": 10,
+      "chance": 10,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Poil de Prespic",
+        "rate": 50
+      },
+      {
+        "item": "Pic de Prespic",
+        "rate": 35
+      },
+      {
+        "item": "Oeil de Prespic",
+        "rate": 20
+      },
+      {
+        "item": "Viande de Prespic",
+        "rate": 40
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Prespic Lourd",
+    "level_min": 15,
+    "level_max": 22,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 30,
+      "intelligence": 15,
+      "chance": 15,
+      "agilite": 25
+    },
+    "drops": [
+      {
+        "item": "Poil de Prespic Lourd",
+        "rate": 45
+      },
+      {
+        "item": "Pic de Prespic Lourd",
+        "rate": 30
+      },
+      {
+        "item": "Ongle de Prespic",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Milimulou",
+    "level_min": 12,
+    "level_max": 18,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 18,
+      "intelligence": 12,
+      "chance": 12,
+      "agilite": 28
+    },
+    "drops": [
+      {
+        "item": "Poil de Milimulou",
+        "rate": 50
+      },
+      {
+        "item": "Croc de Milimulou",
+        "rate": 35
+      },
+      {
+        "item": "Langue de Milimulou",
+        "rate": 20
+      },
+      {
+        "item": "Oreille de Milimulou",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Milimulou Gargantuesque",
+    "level_min": 20,
+    "level_max": 28,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 35,
+      "intelligence": 20,
+      "chance": 20,
+      "agilite": 40
+    },
+    "drops": [
+      {
+        "item": "Poil de Milimulou Gargantuesque",
+        "rate": 45
+      },
+      {
+        "item": "Croc de Milimulou Gargantuesque",
+        "rate": 30
+      },
+      {
+        "item": "Queue de Milimulou",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Sanglier",
+    "level_min": 10,
+    "level_max": 16,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 28,
+      "intelligence": 8,
+      "chance": 8,
+      "agilite": 12
+    },
+    "drops": [
+      {
+        "item": "Poil de Sanglier",
+        "rate": 50
+      },
+      {
+        "item": "Cuir de Sanglier",
+        "rate": 40
+      },
+      {
+        "item": "Défense de Sanglier",
+        "rate": 25
+      },
+      {
+        "item": "Oeil de Sanglier",
+        "rate": 20
+      },
+      {
+        "item": "Viande de Sanglier",
+        "rate": 45
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Sanglier des Plaines",
+    "level_min": 18,
+    "level_max": 25,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 40,
+      "intelligence": 12,
+      "chance": 12,
+      "agilite": 18
+    },
+    "drops": [
+      {
+        "item": "Poil de Sanglier des Plaines",
+        "rate": 45
+      },
+      {
+        "item": "Cuir de Sanglier des Plaines",
+        "rate": 35
+      },
+      {
+        "item": "Défense de Sanglier des Plaines",
+        "rate": 20
+      },
+      {
+        "item": "Sabot de Sanglier",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Wabbit",
+    "level_min": 20,
+    "level_max": 30,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 15,
+      "intelligence": 15,
+      "chance": 25,
+      "agilite": 35
+    },
+    "drops": [
+      {
+        "item": "Poil de Wabbit",
+        "rate": 55
+      },
+      {
+        "item": "Oreille de Wabbit",
+        "rate": 40
+      },
+      {
+        "item": "Carotte",
+        "rate": 30
+      },
+      {
+        "item": "Viande de Wabbit",
+        "rate": 35
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Wabbit Squelettique",
+    "level_min": 25,
+    "level_max": 35,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 25,
+      "intelligence": 20,
+      "chance": 35,
+      "agilite": 45
+    },
+    "drops": [
+      {
+        "item": "Os de Wabbit Squelettique",
+        "rate": 50
+      },
+      {
+        "item": "Crâne de Wabbit",
+        "rate": 30
+      },
+      {
+        "item": "Oreille de Wabbit Squelettique",
+        "rate": 25
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Wabbit Céleste",
+    "level_min": 35,
+    "level_max": 45,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 30,
+      "intelligence": 40,
+      "chance": 50,
+      "agilite": 60
+    },
+    "drops": [
+      {
+        "item": "Poil de Wabbit Céleste",
+        "rate": 45
+      },
+      {
+        "item": "Oreille de Wabbit Céleste",
+        "rate": 35
+      },
+      {
+        "item": "Aile de Wabbit Céleste",
+        "rate": 20
+      },
+      {
+        "item": "Clef du Donjon Wabbit",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Wabbit GM",
+    "level_min": 50,
+    "level_max": 60,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 50,
+      "intelligence": 50,
+      "chance": 70,
+      "agilite": 80
+    },
+    "drops": [
+      {
+        "item": "Poil de Wabbit GM",
+        "rate": 60
+      },
+      {
+        "item": "Oreille de Wabbit GM",
+        "rate": 45
+      },
+      {
+        "item": "Carotte Magique",
+        "rate": 25
+      },
+      {
+        "item": "Arc de Wabbit",
+        "rate": 1
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Crocodaille",
+    "level_min": 30,
+    "level_max": 40,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 45,
+      "intelligence": 15,
+      "chance": 35,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Peau de Crocodaille",
+        "rate": 50
+      },
+      {
+        "item": "Dent de Crocodaille",
+        "rate": 35
+      },
+      {
+        "item": "Oeil de Crocodaille",
+        "rate": 25
+      },
+      {
+        "item": "Queue de Crocodaille",
+        "rate": 20
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Crocodaille Albinos",
+    "level_min": 40,
+    "level_max": 50,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 60,
+      "intelligence": 20,
+      "chance": 45,
+      "agilite": 25
+    },
+    "drops": [
+      {
+        "item": "Peau de Crocodaille Albinos",
+        "rate": 45
+      },
+      {
+        "item": "Dent de Crocodaille Albinos",
+        "rate": 30
+      },
+      {
+        "item": "Oeil de Crocodaille Albinos",
+        "rate": 20
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Sanglier des Rivières",
+    "level_min": 35,
+    "level_max": 45,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 55,
+      "intelligence": 20,
+      "chance": 40,
+      "agilite": 25
+    },
+    "drops": [
+      {
+        "item": "Poil de Sanglier des Rivières",
+        "rate": 45
+      },
+      {
+        "item": "Défense de Sanglier des Rivières",
+        "rate": 30
+      },
+      {
+        "item": "Viande de Sanglier des Rivières",
+        "rate": 40
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dragoeuf Blanc",
+    "level_min": 35,
+    "level_max": 45,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 20,
+      "intelligence": 20,
+      "chance": 20,
+      "agilite": 50
+    },
+    "drops": [
+      {
+        "item": "Écaille de Dragoeuf Blanc",
+        "rate": 50
+      },
+      {
+        "item": "Oeil de Dragoeuf Blanc",
+        "rate": 35
+      },
+      {
+        "item": "Patte de Dragoeuf Blanc",
+        "rate": 25
+      },
+      {
+        "item": "Aile de Dragoeuf Blanc",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dragoeuf Noir",
+    "level_min": 40,
+    "level_max": 50,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 30,
+      "intelligence": 30,
+      "chance": 30,
+      "agilite": 55
+    },
+    "drops": [
+      {
+        "item": "Écaille de Dragoeuf Noir",
+        "rate": 45
+      },
+      {
+        "item": "Oeil de Dragoeuf Noir",
+        "rate": 30
+      },
+      {
+        "item": "Corne de Dragoeuf Noir",
+        "rate": 20
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dragoeuf Doré",
+    "level_min": 50,
+    "level_max": 60,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 40,
+      "intelligence": 40,
+      "chance": 40,
+      "agilite": 70
+    },
+    "drops": [
+      {
+        "item": "Écaille de Dragoeuf Doré",
+        "rate": 40
+      },
+      {
+        "item": "Oeil de Dragoeuf Doré",
+        "rate": 25
+      },
+      {
+        "item": "Corne de Dragoeuf Doré",
+        "rate": 15
+      },
+      {
+        "item": "Clef du Donjon Dragoeuf",
+        "rate": 20
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dragoeuf de Saphir",
+    "level_min": 45,
+    "level_max": 55,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 35,
+      "intelligence": 35,
+      "chance": 50,
+      "agilite": 60
+    },
+    "drops": [
+      {
+        "item": "Écaille de Dragoeuf de Saphir",
+        "rate": 45
+      },
+      {
+        "item": "Oeil de Dragoeuf de Saphir",
+        "rate": 30
+      },
+      {
+        "item": "Cristal de Saphir",
+        "rate": 10
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Bandit Manchot",
+    "level_min": 20,
+    "level_max": 30,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 30,
+      "intelligence": 20,
+      "chance": 30,
+      "agilite": 25
+    },
+    "drops": [
+      {
+        "item": "Etoffe Violette",
+        "rate": 40
+      },
+      {
+        "item": "Poil de Bandit",
+        "rate": 35
+      },
+      {
+        "item": "Bâton de Bandit",
+        "rate": 20
+      },
+      {
+        "item": "Clef du Donjon Bandit",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Bandit Archer",
+    "level_min": 25,
+    "level_max": 35,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 25,
+      "intelligence": 15,
+      "chance": 35,
+      "agilite": 40
+    },
+    "drops": [
+      {
+        "item": "Etoffe Violette",
+        "rate": 45
+      },
+      {
+        "item": "Poil de Bandit Archer",
+        "rate": 35
+      },
+      {
+        "item": "Arc de Bandit",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Bandit Sorcier",
+    "level_min": 30,
+    "level_max": 40,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 15,
+      "intelligence": 50,
+      "chance": 25,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Etoffe Violette",
+        "rate": 50
+      },
+      {
+        "item": "Poil de Bandit Sorcier",
+        "rate": 40
+      },
+      {
+        "item": "Bâton du Bandit Sorcier",
+        "rate": 10
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Bandit du Clan",
+    "level_min": 40,
+    "level_max": 50,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 45,
+      "intelligence": 30,
+      "chance": 40,
+      "agilite": 35
+    },
+    "drops": [
+      {
+        "item": "Etoffe Violette",
+        "rate": 55
+      },
+      {
+        "item": "Cape de Bandit",
+        "rate": 5
+      },
+      {
+        "item": "Masque de Bandit",
+        "rate": 5
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dopeul Feca",
+    "level_min": 25,
+    "level_max": 35,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 25,
+      "intelligence": 30,
+      "chance": 20,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Poupée Feca",
+        "rate": 30
+      },
+      {
+        "item": "Etoffe Magique",
+        "rate": 40
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dopeul Osamodas",
+    "level_min": 30,
+    "level_max": 40,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 25,
+      "intelligence": 35,
+      "chance": 25,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Poupée Osamodas",
+        "rate": 30
+      },
+      {
+        "item": "Osmarite",
+        "rate": 25
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dopeul Enutrof",
+    "level_min": 35,
+    "level_max": 45,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 20,
+      "intelligence": 20,
+      "chance": 50,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Poupée Enutrof",
+        "rate": 30
+      },
+      {
+        "item": "Pierre de Diamant",
+        "rate": 20
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dopeul Sram",
+    "level_min": 40,
+    "level_max": 50,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 30,
+      "intelligence": 20,
+      "chance": 45,
+      "agilite": 40
+    },
+    "drops": [
+      {
+        "item": "Poupée Sram",
+        "rate": 30
+      },
+      {
+        "item": "Ongle de Sram",
+        "rate": 35
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dopeul Xelor",
+    "level_min": 45,
+    "level_max": 55,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 20,
+      "intelligence": 50,
+      "chance": 30,
+      "agilite": 25
+    },
+    "drops": [
+      {
+        "item": "Poupée Xelor",
+        "rate": 30
+      },
+      {
+        "item": "Sable Éternel",
+        "rate": 25
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dopeul Ecaflip",
+    "level_min": 50,
+    "level_max": 60,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 45,
+      "intelligence": 25,
+      "chance": 45,
+      "agilite": 30
+    },
+    "drops": [
+      {
+        "item": "Poupée Ecaflip",
+        "rate": 30
+      },
+      {
+        "item": "Carte de Duel",
+        "rate": 20
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dopeul Eniripsa",
+    "level_min": 55,
+    "level_max": 65,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 20,
+      "intelligence": 55,
+      "chance": 25,
+      "agilite": 25
+    },
+    "drops": [
+      {
+        "item": "Poupée Eniripsa",
+        "rate": 30
+      },
+      {
+        "item": "Plume d'Eniripsa",
+        "rate": 35
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dopeul Iop",
+    "level_min": 60,
+    "level_max": 70,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 70,
+      "intelligence": 20,
+      "chance": 20,
+      "agilite": 30
+    },
+    "drops": [
+      {
+        "item": "Poupée Iop",
+        "rate": 30
+      },
+      {
+        "item": "Moustache d'Iop",
+        "rate": 25
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dopeul Crâ",
+    "level_min": 65,
+    "level_max": 75,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 30,
+      "intelligence": 30,
+      "chance": 30,
+      "agilite": 60
+    },
+    "drops": [
+      {
+        "item": "Poupée Crâ",
+        "rate": 30
+      },
+      {
+        "item": "Oeil de Crâ",
+        "rate": 30
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dopeul Sadida",
+    "level_min": 70,
+    "level_max": 80,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 40,
+      "intelligence": 35,
+      "chance": 40,
+      "agilite": 30
+    },
+    "drops": [
+      {
+        "item": "Poupée Sadida",
+        "rate": 30
+      },
+      {
+        "item": "Feuille de Sadida",
+        "rate": 35
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Dopeul Sacrieur",
+    "level_min": 75,
+    "level_max": 85,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 60,
+      "intelligence": 30,
+      "chance": 30,
+      "agilite": 40
+    },
+    "drops": [
+      {
+        "item": "Poupée Sacrieur",
+        "rate": 30
+      },
+      {
+        "item": "Tatouage de Sacrieur",
+        "rate": 20
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Bwork",
+    "level_min": 25,
+    "level_max": 35,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 40,
+      "intelligence": 10,
+      "chance": 15,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Poil de Bwork",
+        "rate": 50
+      },
+      {
+        "item": "Cuir de Bwork",
+        "rate": 40
+      },
+      {
+        "item": "Dent de Bwork",
+        "rate": 25
+      },
+      {
+        "item": "Clef du Donjon Bwork",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Bwork Archer",
+    "level_min": 30,
+    "level_max": 40,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 30,
+      "intelligence": 15,
+      "chance": 35,
+      "agilite": 35
+    },
+    "drops": [
+      {
+        "item": "Poil de Bwork Archer",
+        "rate": 45
+      },
+      {
+        "item": "Arc de Bwork",
+        "rate": 10
+      },
+      {
+        "item": "Flèche de Bwork",
+        "rate": 30
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Bwork Mage",
+    "level_min": 35,
+    "level_max": 45,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 20,
+      "intelligence": 50,
+      "chance": 25,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Poil de Bwork Mage",
+        "rate": 45
+      },
+      {
+        "item": "Bâton de Bwork",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Bwork Elémental",
+    "level_min": 40,
+    "level_max": 50,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 35,
+      "intelligence": 35,
+      "chance": 35,
+      "agilite": 25
+    },
+    "drops": [
+      {
+        "item": "Poil de Bwork Elémental",
+        "rate": 40
+      },
+      {
+        "item": "Cœur de Bwork",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Bwork Royal",
+    "level_min": 50,
+    "level_max": 60,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 70,
+      "intelligence": 30,
+      "chance": 35,
+      "agilite": 40
+    },
+    "drops": [
+      {
+        "item": "Poil de Bwork Royal",
+        "rate": 55
+      },
+      {
+        "item": "Cuir de Bwork Royal",
+        "rate": 45
+      },
+      {
+        "item": "Couronne du Bwork Royal",
+        "rate": 2
+      },
+      {
+        "item": "Bottes du Bwork",
+        "rate": 1
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Craqueleur",
+    "level_min": 15,
+    "level_max": 25,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 35,
+      "intelligence": 10,
+      "chance": 10,
+      "agilite": 5
+    },
+    "drops": [
+      {
+        "item": "Fragment de Craqueleur",
+        "rate": 55
+      },
+      {
+        "item": "Pierre de Craqueleur",
+        "rate": 40
+      },
+      {
+        "item": "Minerai d'Argent",
+        "rate": 10
+      },
+      {
+        "item": "Minerai d'Étain",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Craqueleur Pétrifié",
+    "level_min": 25,
+    "level_max": 35,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 50,
+      "intelligence": 15,
+      "chance": 15,
+      "agilite": 5
+    },
+    "drops": [
+      {
+        "item": "Fragment de Craqueleur Pétrifié",
+        "rate": 50
+      },
+      {
+        "item": "Pierre de Craqueleur Pétrifié",
+        "rate": 35
+      },
+      {
+        "item": "Minerai de Fer",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Craqueleur des Plaines",
+    "level_min": 35,
+    "level_max": 45,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 65,
+      "intelligence": 20,
+      "chance": 20,
+      "agilite": 10
+    },
+    "drops": [
+      {
+        "item": "Fragment de Craqueleur des Plaines",
+        "rate": 45
+      },
+      {
+        "item": "Pierre de Craqueleur des Plaines",
+        "rate": 30
+      },
+      {
+        "item": "Minerai d'Or",
+        "rate": 10
+      },
+      {
+        "item": "Clef du Donjon Craqueleur",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Craqueleur Légendaire",
+    "level_min": 50,
+    "level_max": 60,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 80,
+      "intelligence": 30,
+      "chance": 30,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Fragment de Craqueleur Légendaire",
+        "rate": 50
+      },
+      {
+        "item": "Cœur de Craqueleur",
+        "rate": 15
+      },
+      {
+        "item": "Minerai de Kobalte",
+        "rate": 10
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Champignon",
+    "level_min": 5,
+    "level_max": 12,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 12,
+      "intelligence": 15,
+      "chance": 8,
+      "agilite": 5
+    },
+    "drops": [
+      {
+        "item": "Chapeau de Champignon",
+        "rate": 50
+      },
+      {
+        "item": "Pied de Champignon",
+        "rate": 40
+      },
+      {
+        "item": "Spore de Champignon",
+        "rate": 30
+      },
+      {
+        "item": "Viande de Champignon",
+        "rate": 35
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Champignon Parasite",
+    "level_min": 12,
+    "level_max": 20,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 18,
+      "intelligence": 25,
+      "chance": 12,
+      "agilite": 8
+    },
+    "drops": [
+      {
+        "item": "Chapeau de Champignon Parasite",
+        "rate": 45
+      },
+      {
+        "item": "Pied de Champignon Parasite",
+        "rate": 35
+      },
+      {
+        "item": "Spore Parasite",
+        "rate": 25
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Champignon Vénéneux",
+    "level_min": 20,
+    "level_max": 30,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 25,
+      "intelligence": 35,
+      "chance": 18,
+      "agilite": 12
+    },
+    "drops": [
+      {
+        "item": "Chapeau de Champignon Vénéneux",
+        "rate": 40
+      },
+      {
+        "item": "Pied de Champignon Vénéneux",
+        "rate": 30
+      },
+      {
+        "item": "Venin de Champignon",
+        "rate": 20
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Champignon Mourant",
+    "level_min": 30,
+    "level_max": 40,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 35,
+      "intelligence": 50,
+      "chance": 25,
+      "agilite": 15
+    },
+    "drops": [
+      {
+        "item": "Chapeau de Champignon Mourant",
+        "rate": 35
+      },
+      {
+        "item": "Spore Mourante",
+        "rate": 25
+      },
+      {
+        "item": "Clef du Donjon Champignon",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Champignon Dévoreur",
+    "level_min": 40,
+    "level_max": 50,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 50,
+      "intelligence": 65,
+      "chance": 35,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Chapeau de Champignon Dévoreur",
+        "rate": 30
+      },
+      {
+        "item": "Pied de Champignon Dévoreur",
+        "rate": 25
+      },
+      {
+        "item": "Anneau Fungique",
+        "rate": 2
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Squelette",
+    "level_min": 15,
+    "level_max": 25,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 25,
+      "intelligence": 15,
+      "chance": 15,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Os de Squelette",
+        "rate": 55
+      },
+      {
+        "item": "Crâne de Squelette",
+        "rate": 35
+      },
+      {
+        "item": "Côte de Squelette",
+        "rate": 30
+      },
+      {
+        "item": "Fémur de Squelette",
+        "rate": 25
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Squelette Archer",
+    "level_min": 20,
+    "level_max": 30,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 20,
+      "intelligence": 15,
+      "chance": 30,
+      "agilite": 35
+    },
+    "drops": [
+      {
+        "item": "Os de Squelette Archer",
+        "rate": 50
+      },
+      {
+        "item": "Crâne de Squelette Archer",
+        "rate": 30
+      },
+      {
+        "item": "Arc de Squelette",
+        "rate": 10
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Squelette Mage",
+    "level_min": 25,
+    "level_max": 35,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 15,
+      "intelligence": 45,
+      "chance": 25,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Os de Squelette Mage",
+        "rate": 50
+      },
+      {
+        "item": "Crâne de Squelette Mage",
+        "rate": 30
+      },
+      {
+        "item": "Bâton de Squelette",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Squelette Guerrier",
+    "level_min": 30,
+    "level_max": 40,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 50,
+      "intelligence": 20,
+      "chance": 25,
+      "agilite": 25
+    },
+    "drops": [
+      {
+        "item": "Os de Squelette Guerrier",
+        "rate": 45
+      },
+      {
+        "item": "Crâne de Squelette Guerrier",
+        "rate": 25
+      },
+      {
+        "item": "Épée de Squelette",
+        "rate": 10
+      },
+      {
+        "item": "Clef du Donjon Squelette",
+        "rate": 15
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Squelette Tactique",
+    "level_min": 35,
+    "level_max": 45,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 35,
+      "intelligence": 35,
+      "chance": 40,
+      "agilite": 35
+    },
+    "drops": [
+      {
+        "item": "Os de Squelette Tactique",
+        "rate": 40
+      },
+      {
+        "item": "Crâne de Squelette Tactique",
+        "rate": 25
+      },
+      {
+        "item": "Bouclier de Squelette",
+        "rate": 5
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Rib",
+    "level_min": 40,
+    "level_max": 50,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 45,
+      "intelligence": 30,
+      "chance": 35,
+      "agilite": 35
+    },
+    "drops": [
+      {
+        "item": "Os de Rib",
+        "rate": 50
+      },
+      {
+        "item": "Crâne de Rib",
+        "rate": 35
+      },
+      {
+        "item": "Côte de Rib",
+        "rate": 40
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Chafer",
+    "level_min": 25,
+    "level_max": 35,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 35,
+      "intelligence": 20,
+      "chance": 25,
+      "agilite": 25
+    },
+    "drops": [
+      {
+        "item": "Os de Chafer",
+        "rate": 55
+      },
+      {
+        "item": "Crâne de Chafer",
+        "rate": 40
+      },
+      {
+        "item": "Épée de Chafer",
+        "rate": 15
+      },
+      {
+        "item": "Clef du Donjon Chafer",
+        "rate": 20
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Chafer Archer",
+    "level_min": 30,
+    "level_max": 40,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 25,
+      "intelligence": 20,
+      "chance": 40,
+      "agilite": 40
+    },
+    "drops": [
+      {
+        "item": "Os de Chafer Archer",
+        "rate": 50
+      },
+      {
+        "item": "Crâne de Chafer Archer",
+        "rate": 35
+      },
+      {
+        "item": "Arc de Chafer",
+        "rate": 10
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Chafer Lancier",
+    "level_min": 35,
+    "level_max": 45,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 55,
+      "intelligence": 20,
+      "chance": 30,
+      "agilite": 30
+    },
+    "drops": [
+      {
+        "item": "Os de Chafer Lancier",
+        "rate": 45
+      },
+      {
+        "item": "Crâne de Chafer Lancier",
+        "rate": 30
+      },
+      {
+        "item": "Lance de Chafer",
+        "rate": 10
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Chafer Fantassin",
+    "level_min": 40,
+    "level_max": 50,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 60,
+      "intelligence": 25,
+      "chance": 35,
+      "agilite": 35
+    },
+    "drops": [
+      {
+        "item": "Os de Chafer Fantassin",
+        "rate": 50
+      },
+      {
+        "item": "Crâne de Chafer Fantassin",
+        "rate": 35
+      },
+      {
+        "item": "Côte de Chafer Fantassin",
+        "rate": 30
+      },
+      {
+        "item": "Casque de Chafer",
+        "rate": 5
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Chafer Invisible",
+    "level_min": 45,
+    "level_max": 55,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 30,
+      "intelligence": 30,
+      "chance": 50,
+      "agilite": 55
+    },
+    "drops": [
+      {
+        "item": "Os de Chafer Invisible",
+        "rate": 40
+      },
+      {
+        "item": "Cape Invisible",
+        "rate": 2
+      },
+      {
+        "item": "Poudre Invisible",
+        "rate": 20
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Chafer Ronin",
+    "level_min": 50,
+    "level_max": 60,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 70,
+      "intelligence": 30,
+      "chance": 40,
+      "agilite": 50
+    },
+    "drops": [
+      {
+        "item": "Os de Chafer Ronin",
+        "rate": 45
+      },
+      {
+        "item": "Katana de Chafer",
+        "rate": 5
+      },
+      {
+        "item": "Ceinture de Chafer Ronin",
+        "rate": 3
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Tournesol Sauvage",
+    "level_min": 3,
+    "level_max": 8,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 8,
+      "intelligence": 10,
+      "chance": 8,
+      "agilite": 4
+    },
+    "drops": [
+      {
+        "item": "Graine de Tournesol",
+        "rate": 60
+      },
+      {
+        "item": "Pétale de Tournesol",
+        "rate": 40
+      },
+      {
+        "item": "Feuille de Tournesol",
+        "rate": 30
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Rose Démoniaque",
+    "level_min": 8,
+    "level_max": 15,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 15,
+      "intelligence": 15,
+      "chance": 15,
+      "agilite": 8
+    },
+    "drops": [
+      {
+        "item": "Pétale de Rose Démoniaque",
+        "rate": 50
+      },
+      {
+        "item": "Épine de Rose Démoniaque",
+        "rate": 35
+      },
+      {
+        "item": "Griffe de Rose Démoniaque",
+        "rate": 25
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Piou Bleu",
+    "level_min": 1,
+    "level_max": 3,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 3,
+      "intelligence": 3,
+      "chance": 8,
+      "agilite": 6
+    },
+    "drops": [
+      {
+        "item": "Plume de Piou Bleu",
+        "rate": 65
+      },
+      {
+        "item": "Oeil de Piou",
+        "rate": 40
+      },
+      {
+        "item": "Viande de Piou",
+        "rate": 50
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Piou Rouge",
+    "level_min": 1,
+    "level_max": 3,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 8,
+      "intelligence": 3,
+      "chance": 3,
+      "agilite": 6
+    },
+    "drops": [
+      {
+        "item": "Plume de Piou Rouge",
+        "rate": 65
+      },
+      {
+        "item": "Oeil de Piou",
+        "rate": 40
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Piou Vert",
+    "level_min": 1,
+    "level_max": 3,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 3,
+      "intelligence": 3,
+      "chance": 3,
+      "agilite": 8
+    },
+    "drops": [
+      {
+        "item": "Plume de Piou Vert",
+        "rate": 65
+      },
+      {
+        "item": "Oeil de Piou",
+        "rate": 40
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Piou Jaune",
+    "level_min": 1,
+    "level_max": 3,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 3,
+      "intelligence": 8,
+      "chance": 3,
+      "agilite": 6
+    },
+    "drops": [
+      {
+        "item": "Plume de Piou Jaune",
+        "rate": 65
+      },
+      {
+        "item": "Oeil de Piou",
+        "rate": 40
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Moskito",
+    "level_min": 2,
+    "level_max": 6,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 5,
+      "intelligence": 3,
+      "chance": 5,
+      "agilite": 10
+    },
+    "drops": [
+      {
+        "item": "Aile de Moskito",
+        "rate": 55
+      },
+      {
+        "item": "Œuf de Moskito",
+        "rate": 40
+      },
+      {
+        "item": "Piquant de Moskito",
+        "rate": 30
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Kwoan",
+    "level_min": 5,
+    "level_max": 10,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 12,
+      "intelligence": 8,
+      "chance": 10,
+      "agilite": 10
+    },
+    "drops": [
+      {
+        "item": "Poil de Kwoan",
+        "rate": 50
+      },
+      {
+        "item": "Corne de Kwoan",
+        "rate": 35
+      },
+      {
+        "item": "Cuir de Kwoan",
+        "rate": 25
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Larve Bleue",
+    "level_min": 1,
+    "level_max": 4,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 4,
+      "intelligence": 4,
+      "chance": 10,
+      "agilite": 4
+    },
+    "drops": [
+      {
+        "item": "Coco de Larve Bleue",
+        "rate": 60
+      },
+      {
+        "item": "Ver de Terre",
+        "rate": 40
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Larve Verte",
+    "level_min": 2,
+    "level_max": 5,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 4,
+      "intelligence": 4,
+      "chance": 4,
+      "agilite": 10
+    },
+    "drops": [
+      {
+        "item": "Coco de Larve Verte",
+        "rate": 60
+      },
+      {
+        "item": "Ver de Terre",
+        "rate": 40
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Larve Orange",
+    "level_min": 3,
+    "level_max": 6,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 4,
+      "intelligence": 10,
+      "chance": 4,
+      "agilite": 4
+    },
+    "drops": [
+      {
+        "item": "Coco de Larve Orange",
+        "rate": 60
+      },
+      {
+        "item": "Ver de Terre",
+        "rate": 40
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Larve Dorée",
+    "level_min": 10,
+    "level_max": 15,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 15,
+      "intelligence": 15,
+      "chance": 15,
+      "agilite": 15
+    },
+    "drops": [
+      {
+        "item": "Coco de Larve Dorée",
+        "rate": 50
+      },
+      {
+        "item": "Sève de Larve",
+        "rate": 30
+      },
+      {
+        "item": "Pierre de Rubis",
+        "rate": 5
+      }
+    ],
+    "zones": []
+  },
+  {
+    "id": 0,
+    "name": "Coffre des Forgerons",
+    "level_min": 50,
+    "level_max": 60,
+    "race": "Inconnu",
+    "description": "",
+    "image_url": "",
+    "stats": {
+      "force": 60,
+      "intelligence": 40,
+      "chance": 40,
+      "agilite": 20
+    },
+    "drops": [
+      {
+        "item": "Pierre du Coffre",
+        "rate": 40
+      },
+      {
+        "item": "Planche de Bois",
+        "rate": 30
+      },
+      {
+        "item": "Rune de Forgeron",
+        "rate": 10
+      }
+    ],
+    "zones": []
+  }
+]

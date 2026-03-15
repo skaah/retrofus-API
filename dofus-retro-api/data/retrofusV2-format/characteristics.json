@@ -1,0 +1,260 @@
+[
+  {
+    "id": 1,
+    "name": "PA",
+    "name_en": "AP",
+    "description": "Points d'Action"
+  },
+  {
+    "id": 2,
+    "name": "PM",
+    "name_en": "MP",
+    "description": "Points de Mouvement"
+  },
+  {
+    "id": 3,
+    "name": "Vitalité",
+    "name_en": "Vitality",
+    "description": "Augmente les points de vie"
+  },
+  {
+    "id": 4,
+    "name": "Sagesse",
+    "name_en": "Wisdom",
+    "description": "Augmente l'expérience et les chances de capturer"
+  },
+  {
+    "id": 5,
+    "name": "Force",
+    "name_en": "Strength",
+    "description": "Augmente les dégâts Terre"
+  },
+  {
+    "id": 6,
+    "name": "Intelligence",
+    "name_en": "Intelligence",
+    "description": "Augmente les dégâts Feu"
+  },
+  {
+    "id": 7,
+    "name": "Chance",
+    "name_en": "Chance",
+    "description": "Augmente les dégâts Eau et la Prospection"
+  },
+  {
+    "id": 8,
+    "name": "Agilité",
+    "name_en": "Agility",
+    "description": "Augmente les dégâts Air"
+  },
+  {
+    "id": 9,
+    "name": "Initiative",
+    "name_en": "Initiative",
+    "description": "Détermine l'ordre de jeu"
+  },
+  {
+    "id": 10,
+    "name": "PO",
+    "name_en": "Range",
+    "description": "Portée"
+  },
+  {
+    "id": 11,
+    "name": "Invocations",
+    "name_en": "Summons",
+    "description": "Nombre maximum d'invocations"
+  },
+  {
+    "id": 12,
+    "name": "Prospection",
+    "name_en": "Prospecting",
+    "description": "Chances de drop"
+  },
+  {
+    "id": 13,
+    "name": "Pods",
+    "name_en": "Pods",
+    "description": "Poids transportable"
+  },
+  {
+    "id": 14,
+    "name": "Tacle",
+    "name_en": "Tackle",
+    "description": "Empêche les ennemis de fuir"
+  },
+  {
+    "id": 15,
+    "name": "Fuite",
+    "name_en": "Dodge",
+    "description": "Permet de fuir les tacles"
+  },
+  {
+    "id": 16,
+    "name": "Retrait PA",
+    "name_en": "AP Reduction",
+    "description": "Réduit les PA ennemis"
+  },
+  {
+    "id": 17,
+    "name": "Retrait PM",
+    "name_en": "MP Reduction",
+    "description": "Réduit les PM ennemis"
+  },
+  {
+    "id": 18,
+    "name": "Esquive PA",
+    "name_en": "AP Parry",
+    "description": "Résiste au retrait de PA"
+  },
+  {
+    "id": 19,
+    "name": "Esquive PM",
+    "name_en": "MP Parry",
+    "description": "Résiste au retrait de PM"
+  },
+  {
+    "id": 20,
+    "name": "Dommages",
+    "name_en": "Damage",
+    "description": "Dommages généraux"
+  },
+  {
+    "id": 21,
+    "name": "Dommages Terre",
+    "name_en": "Earth Damage",
+    "description": ""
+  },
+  {
+    "id": 22,
+    "name": "Dommages Feu",
+    "name_en": "Fire Damage",
+    "description": ""
+  },
+  {
+    "id": 23,
+    "name": "Dommages Eau",
+    "name_en": "Water Damage",
+    "description": ""
+  },
+  {
+    "id": 24,
+    "name": "Dommages Air",
+    "name_en": "Air Damage",
+    "description": ""
+  },
+  {
+    "id": 25,
+    "name": "Dommages Neutre",
+    "name_en": "Neutral Damage",
+    "description": ""
+  },
+  {
+    "id": 26,
+    "name": "% Résistance Terre",
+    "name_en": "% Earth Resist",
+    "description": ""
+  },
+  {
+    "id": 27,
+    "name": "% Résistance Feu",
+    "name_en": "% Fire Resist",
+    "description": ""
+  },
+  {
+    "id": 28,
+    "name": "% Résistance Eau",
+    "name_en": "% Water Resist",
+    "description": ""
+  },
+  {
+    "id": 29,
+    "name": "% Résistance Air",
+    "name_en": "% Air Resist",
+    "description": ""
+  },
+  {
+    "id": 30,
+    "name": "% Résistance Neutre",
+    "name_en": "% Neutral Resist",
+    "description": ""
+  },
+  {
+    "id": 31,
+    "name": "Résistance Terre",
+    "name_en": "Earth Resist",
+    "description": ""
+  },
+  {
+    "id": 32,
+    "name": "Résistance Feu",
+    "name_en": "Fire Resist",
+    "description": ""
+  },
+  {
+    "id": 33,
+    "name": "Résistance Eau",
+    "name_en": "Water Resist",
+    "description": ""
+  },
+  {
+    "id": 34,
+    "name": "Résistance Air",
+    "name_en": "Air Resist",
+    "description": ""
+  },
+  {
+    "id": 35,
+    "name": "Résistance Neutre",
+    "name_en": "Neutral Resist",
+    "description": ""
+  },
+  {
+    "id": 36,
+    "name": "Soins",
+    "name_en": "Heals",
+    "description": ""
+  },
+  {
+    "id": 37,
+    "name": "Dommages Critiques",
+    "name_en": "Critical Damage",
+    "description": ""
+  },
+  {
+    "id": 38,
+    "name": "Résistance Critiques",
+    "name_en": "Critical Resist",
+    "description": ""
+  },
+  {
+    "id": 39,
+    "name": "Coups Critiques",
+    "name_en": "Critical Hits",
+    "description": ""
+  },
+  {
+    "id": 40,
+    "name": "Pièges",
+    "name_en": "Traps",
+    "description": ""
+  },
+  {
+    "id": 41,
+    "name": "% Dommages Pièges",
+    "name_en": "% Trap Damage",
+    "description": ""
+  },
+  {
+    "id": 42,
+    "name": "Dommages Poussée",
+    "name_en": "Push Damage",
+    "description": ""
+  },
+  {
+    "id": 43,
+    "name": "Résistance Poussée",
+    "name_en": "Push Resist",
+    "description": ""
+  }
+]
