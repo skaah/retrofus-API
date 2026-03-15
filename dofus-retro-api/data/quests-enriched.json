@@ -1,21 +1,25 @@
 {
-  "metadata": {
-    "version": "1.0.0",
+  "meta": {
     "game": "Dofus Retro",
-    "totalQuests": 52,
-    "categories": ["classe", "donjon", "dofus", "alignement", "metier", "iles", "evenement"],
-    "lastUpdated": "2026-03-14"
+    "version": "1.29",
+    "total_quests": 62,
+    "categories": ["class", "dofus", "dungeon", "alignment", "profession", "island", "event"],
+    "generated_at": "2026-03-15T15:00:00+08:00"
   },
   "quests": [
     {
-      "name": "La Quête du Dofus Émeraude",
+      "id": 1,
+      "name": "Le Dofus Émeraude",
+      "category": "dofus",
       "level": 60,
-      "description": "Récupérez les fragments du Dofus Émeraude en accomplissant les épreuves de Crocabulia.",
+      "description": "Partez à la recherche du légendaire Dofus Émeraude en explorant les profondeurs du monde des Douze.",
       "steps": [
         "Parler à Otomai",
-        "Trouver le Fragment de Crocabulia",
-        "Vaincre Crocabulia",
-        "Assembler le Dofus Émeraude"
+        "Récupérer la Carte au Trésor Émeraude",
+        "Explorer la Grotte Hesque",
+        "Vaincre le Kimbo",
+        "Rassembler les 6 fragments de l'Émeraude",
+        "Forger le Dofus Émeraude"
       ],
       "rewards": {
         "xp": 500000,
@@ -25,1068 +29,1462 @@
         "access": ""
       },
       "starting_npc": "Otomai",
-      "zone": "Otomai"
+      "zone": "Île d'Otomai"
     },
     {
-      "name": "La Quête du Dofus Cawotte",
-      "level": 40,
-      "description": "Aidez le Wabbit à sauver son peuple et découvrez le secret du Dofus Cawotte.",
+      "id": 2,
+      "name": "Le Dofus Cawotte",
+      "category": "dofus",
+      "level": 50,
+      "description": "Trouvez le précieux Dofus Cawotte, fruit d'une magie étrange mêlée à des carottes enchantées.",
       "steps": [
-        "Parler au Wa Wabbit",
-        "Trouver la Cawotte d'Or",
-        "Affronter le Wa Wabbit",
-        "Récupérer le Dofus Cawotte"
+        "Parler à Krampos",
+        "Collecter 100 Carottes",
+        "Récupérer la Graine Magique",
+        "Planter la graine au Champ des Ingalsse",
+        "Vaincre le Wabbit GM",
+        "Rassembler les éléments du Dofus Cawotte"
       ],
       "rewards": {
-        "xp": 350000,
+        "xp": 400000,
         "kamas": 20000,
         "items": ["Dofus Cawotte"],
         "spells": [],
         "access": ""
       },
-      "starting_npc": "Wa Wabbit",
+      "starting_npc": "Krampos",
       "zone": "Île de la Cawotte"
     },
     {
-      "name": "La Quête du Dofus Pourpre",
+      "id": 3,
+      "name": "Le Dofus Pourpre",
+      "category": "dofus",
       "level": 100,
-      "description": "Pénétrez dans le sanctuaire du Minotoror pour découvrir le Dofus Pourpre.",
+      "description": "Le Dofus Pourpre est convoité par les plus grands aventuriers. Prouvez votre valeur pour l'obtenir.",
       "steps": [
-        "Collecter les 4 clés de la Dimension",
-        "Ouvrir le portail du Minotoror",
+        "Parler à Minotoror",
+        "Collecter les 4 Runes Élémentaires",
+        "Explorer le Labyrinthe du Minotoror",
         "Vaincre le Minotoror",
-        "Récupérer le Dofus Pourpre"
+        "Récupérer l'Œuf Pourpre",
+        "Purifier l'œuf à l'Autel de Feu"
       ],
       "rewards": {
-        "xp": 800000,
+        "xp": 1000000,
         "kamas": 50000,
         "items": ["Dofus Pourpre"],
         "spells": [],
-        "access": ""
+        "access": "Donjon du Minotoror"
       },
-      "starting_npc": "Ouginak",
+      "starting_npc": "Minotoror",
       "zone": "Labyrinthe du Minotoror"
     },
     {
-      "name": "La Quête du Dofus Turquoise",
-      "level": 110,
-      "description": "Explorez les profondeurs océaniques pour trouver le Dofus Turquoise.",
+      "id": 4,
+      "name": "Le Dofus Turquoise",
+      "category": "dofus",
+      "level": 80,
+      "description": "Plongez dans les profondeurs océaniques pour trouver le mystérieux Dofus Turquoise.",
       "steps": [
-        "Parler à Oto Mustam",
-        "Plonger dans l'océan",
-        "Affronter la Reine des Thons",
-        "Récupérer le Dofus Turquoise"
+        "Parler à Sura Kîna",
+        "Obtenir la Plongée Bénie",
+        "Explorer les Ruines Sous-Marines",
+      "Vaincre les Gardiens des Abysses",
+        "Récupérer le Fragment Turquoise",
+        "Forger le Dofus dans les Profondeurs"
       ],
       "rewards": {
-        "xp": 900000,
-        "kamas": 60000,
+        "xp": 750000,
+        "kamas": 35000,
         "items": ["Dofus Turquoise"],
         "spells": [],
-        "access": ""
+        "access": "Zone Sous-Marine"
       },
-      "starting_npc": "Oto Mustam",
-      "zone": "Port de Sufokia"
+      "starting_npc": "Sura Kîna",
+      "zone": "Village de la Tortue"
     },
     {
-      "name": "La Quête du Dofus Vulbis",
+      "id": 5,
+      "name": "Le Dofus Vulbis",
+      "category": "dofus",
       "level": 150,
-      "description": "Affrontez les forces démoniaques pour conquérir le puissant Dofus Vulbis.",
+      "description": "Le Dofus Vulbis est le plus difficile à obtenir. Seuls les plus courageux pourront le revendiquer.",
       "steps": [
-        "Rassembler les fragments du démon",
-        "Ouvrir le portail des Enfers",
-        "Vaincre le Démon de Flamme",
-        "Récupérer le Dofus Vulbis"
+        "Parler à Oto Mustam (Brakmar) ou Amayiro (Bonta)",
+        "Atteindre le grade 10 de son alignement",
+        "Collecter les 5 Orbes de Pouvoir",
+        "Vaincre le Dragon Vulbis",
+        "Récupérer l'Œuf Volant",
+        "Offrir l'œuf à son chef d'alignement"
       ],
       "rewards": {
-        "xp": 1500000,
+        "xp": 2000000,
         "kamas": 100000,
         "items": ["Dofus Vulbis"],
         "spells": [],
-        "access": ""
+        "access": "Sanctuaire des Dragons"
       },
-      "starting_npc": "Sparo",
-      "zone": "Brâkmar"
+      "starting_npc": "Oto Mustam / Amayiro",
+      "zone": "Bonta / Brakmar"
     },
     {
-      "name": "La Quête du Dofus Abyssal",
+      "id": 6,
+      "name": "Le Dofus Abyssal",
+      "category": "dofus",
       "level": 120,
-      "description": "Descendez dans les abysses pour retrouver le Dofus Abyssal perdu.",
+      "description": "Le Dofus Abyssal renferme une puissance des ténèbres incommensurable.",
       "steps": [
-        "Trouver le Capitaine Menace",
-        "Explorer le Temple des abysses",
-        "Vaincre le Gardiens des Profondeurs",
-        "Récupérer le Dofus Abyssal"
+        "Parler à l'Oracle des Ténèbres",
+        "Explorer le Temple des Ténèbres",
+        "Collecter les Fragments d'Ombre",
+        "Vaincre le Maître des Abysses",
+        "Récupérer le Dofus Abyssal",
+        "Résister à la corruption de l'œuf"
       ],
       "rewards": {
-        "xp": 1200000,
+        "xp": 1500000,
         "kamas": 75000,
         "items": ["Dofus Abyssal"],
         "spells": [],
-        "access": ""
+        "access": "Temple des Ténèbres"
       },
-      "starting_npc": "Capitaine Menace",
-      "zone": "Archipel d'Otomai"
+      "starting_npc": "Oracle des Ténèbres",
+      "zone": "Territoire des Ténèbres"
     },
     {
-      "name": "La Quête du Dofus Précieux",
+      "id": 7,
+      "name": "Le Dofus Précieux",
+      "category": "dofus",
       "level": 200,
-      "description": "Le plus rare des Dofus, obtenu uniquement par les plus valeureux.",
+      "description": "La quête ultime : réunir tous les Dofus pour créer le légendaire Dofus Précieux.",
       "steps": [
-        "Posséder les 6 Dofus principaux",
-        "Affronter le Dragon Noir",
-        "Prouver votre valeur",
-        "Récupérer le Dofus Précieux"
+        "Posséder les 6 Dofus élémentaires",
+        "Parler au Dragon Ancien",
+        "Collecter l'Essence de chaque Dofus",
+        "Vaincre les 6 Gardiens Élémentaires",
+        "Forger le Dofus Précieux",
+        "Devenir un véritable légendaire"
       ],
       "rewards": {
         "xp": 5000000,
-        "kamas": 500000,
+        "kamas": 250000,
         "items": ["Dofus Précieux"],
-        "spells": [],
-        "access": ""
+        "spells": ["Souffle du Dragon"],
+        "access": "Antre du Dragon Ancien"
       },
-      "starting_npc": "Hel Munster",
-      "zone": "Astrub"
+      "starting_npc": "Dragon Ancien",
+      "zone": "Montagne des Dragons"
     },
     {
-      "name": "Sort Spécial - Iop : Épée Divine",
+      "id": 8,
+      "name": "Sort Spécial : Mot Interdit",
+      "category": "class",
       "level": 30,
-      "description": "Apprenez l'Épée Divine, sort exclusif de la classe Iop.",
+      "class": "Xélor",
+      "description": "Apprenez le sort secret Mot Interdit, réservé aux Xélors les plus dévoués.",
       "steps": [
-        "Parler au Maître d'Armes",
-        "Collecter 10 Épées de Bois",
-        "Vaincre le Golem d'Entraînement",
-        "Apprendre le sort"
+        "Parler au Maître Xélor",
+        "Collecter 10 Sable Temporal",
+        "Vaincre 5 Horlogeurs",
+        "Apprendre le langage ancien",
+        "Méditer à l'Aiguille de Brâkmar",
+        "Maîtriser le Mot Interdit"
       ],
       "rewards": {
         "xp": 150000,
         "kamas": 5000,
-        "items": [],
-        "spells": ["Épée Divine"],
+        "items": ["Parchemin Mot Interdit"],
+        "spells": ["Mot Interdit"],
         "access": ""
       },
-      "starting_npc": "Maître d'Armes",
-      "zone": "Temple Iop"
+      "starting_npc": "Maître Xélor",
+      "zone": "Bonta"
     },
     {
-      "name": "Sort Spécial - Cra : Flèche Explosive",
+      "id": 9,
+      "name": "Sort Spécial : Rôde",
+      "category": "class",
       "level": 30,
-      "description": "Maîtrisez la Flèche Explosive, sort de dégâts de zone.",
+      "class": "Sram",
+      "description": "Maîtrisez l'art de la dissimulation suprême avec le sort Rôde.",
       "steps": [
-        "Parler à l'Archère Maîtresse",
-        "Trouver le Manuel des Flèches",
-        "Fabriquer 20 Flèches Explosives",
-        "Apprendre le sort"
+        "Parler au Maître Sram",
+        "Collecter 15 Peaux de Larve",
+        "Vaincre le Sram Bad",
+        "Prouver sa discrétion",
+        "Dérober l'Amulette de l'Ombre",
+        "Apprendre le Rôde"
       ],
       "rewards": {
         "xp": 150000,
         "kamas": 5000,
-        "items": [],
-        "spells": ["Flèche Explosive"],
+        "items": ["Parchemin Rôde"],
+        "spells": ["Rôde"],
         "access": ""
       },
-      "starting_npc": "Archère Maîtresse",
-      "zone": "Temple Cra"
+      "starting_npc": "Maître Sram",
+      "zone": "Srambad"
     },
     {
-      "name": "Sort Spécial - Sacrieur : Punition",
+      "id": 10,
+      "name": "Sort Spécial : Mot de Régénération",
+      "category": "class",
       "level": 30,
-      "description": "Découvrez le sort Punition, emblématique des Sacrieurs.",
+      "class": "Eniripsa",
+      "description": "Les Eniripsas peuvent apprendre ce puissant sort de soin supérieur.",
       "steps": [
-        "Parler au Maître Sacrieur",
-        "Subir 1000 dégâts en combat",
-        "Vaincre un Craqueleur",
-        "Apprendre le sort"
+        "Parler à la Maîtresse Eniripsa",
+        "Collecter 20 Pétales de Blop",
+        "Soigner 10 villageois malades",
+        "Vaincre le Champion Corrompu",
+        "Prouver sa compassion",
+        "Maîtriser le Mot de Régénération"
       ],
       "rewards": {
         "xp": 150000,
         "kamas": 5000,
-        "items": [],
-        "spells": ["Punition"],
-        "access": ""
-      },
-      "starting_npc": "Maître Sacrieur",
-      "zone": "Temple Sacrieur"
-    },
-    {
-      "name": "Sort Spécial - Eniripsa : Mot de Régénération",
-      "level": 30,
-      "description": "Apprenez à soigner vos alliés avec le Mot de Régénération.",
-      "steps": [
-        "Parler à la Prêtresse Eniripsa",
-        "Guérir 10 joueurs",
-        "Collecter des Herbes Médicinales",
-        "Apprendre le sort"
-      ],
-      "rewards": {
-        "xp": 150000,
-        "kamas": 5000,
-        "items": [],
+        "items": ["Parchemin Mot de Régénération"],
         "spells": ["Mot de Régénération"],
         "access": ""
       },
-      "starting_npc": "Prêtresse Eniripsa",
-      "zone": "Temple Eniripsa"
+      "starting_npc": "Maîtresse Eniripsa",
+      "zone": "Village d'Amakna"
     },
     {
-      "name": "Sort Spécial - Sram : Piège de Silence",
+      "id": 11,
+      "name": "Sort Spécial : Colère de Iop",
+      "category": "class",
       "level": 30,
-      "description": "Maîtrisez l'art du piège avec le Piège de Silence.",
+      "class": "Iop",
+      "description": "Les Iops peuvent canaliser leur rage pour apprendre la puissante Colère de Iop.",
       "steps": [
-        "Parler au Maître des Ombres",
-        "Poser 50 pièges",
-        "Vaincre un ennemi avec un piège",
-        "Apprendre le sort"
+        "Parler au Maître Iop",
+        "Vaincre 20 monstres en solo",
+        "Prouver sa force brute",
+        "Vaincre le Champion Iop",
+        "Méditer au Temple Iop",
+        "Maîtriser la Colère de Iop"
       ],
       "rewards": {
         "xp": 150000,
         "kamas": 5000,
-        "items": [],
-        "spells": ["Piège de Silence"],
+        "items": ["Parchemin Colère de Iop"],
+        "spells": ["Colère de Iop"],
         "access": ""
       },
-      "starting_npc": "Maître des Ombres",
-      "zone": "Temple Sram"
+      "starting_npc": "Maître Iop",
+      "zone": "Village d'Amakna"
     },
     {
-      "name": "Sort Spécial - Xélor : Ralentissement",
+      "id": 12,
+      "name": "Sort Spécial : Flèche Explosive",
+      "category": "class",
       "level": 30,
-      "description": "Contrôlez le temps avec le sort Ralentissement.",
+      "class": "Cra",
+      "description": "Les Cras peuvent apprendre à tirer des flèches explosives dévastatrices.",
       "steps": [
-        "Parler au Maître du Temps",
-        "Collecter du Sable du Temps",
-        "Retarder 5 ennemis",
-        "Apprendre le sort"
+        "Parler à la Maîtresse Cra",
+        "Collecter 30 Bois d'If",
+        "Fabriquer 10 Flèches Élémentaires",
+        "Toucher 15 cibles à distance",
+        "Vaincre l'Archer Corrompu",
+        "Maîtriser la Flèche Explosive"
       ],
       "rewards": {
         "xp": 150000,
         "kamas": 5000,
-        "items": [],
-        "spells": ["Ralentissement"],
+        "items": ["Parchemin Flèche Explosive"],
+        "spells": ["Flèche Explosive"],
         "access": ""
       },
-      "starting_npc": "Maître du Temps",
-      "zone": "Temple Xélor"
+      "starting_npc": "Maîtresse Cra",
+      "zone": "Village d'Amakna"
     },
     {
-      "name": "Sort Spécial - Osamodas : Invocation de Dragonnet",
+      "id": 13,
+      "name": "Sort Spécial : Lancer de Pièces",
+      "category": "class",
       "level": 30,
-      "description": "Invoquez un puissant Dragonnet pour vous aider au combat.",
+      "class": "Enutrof",
+      "description": "Les Enutrofs peuvent apprendre le célèbre Lancer de Pièces.",
       "steps": [
-        "Parler au Maître des Invocations",
-        "Collecter 10 Oeufs de Dragon",
-        "Vaincre un Dragon Sauvage",
-        "Apprendre le sort"
+        "Parler au Maître Enutrof",
+        "Collecter 5000 Kamas",
+        "Vaincre 10 Roublards",
+        "Prouver sa chance",
+        "Trouver le Trésor Caché",
+        "Maîtriser le Lancer de Pièces"
       ],
       "rewards": {
         "xp": 150000,
         "kamas": 5000,
-        "items": [],
-        "spells": ["Invocation de Dragonnet"],
+        "items": ["Parchemin Lancer de Pièces"],
+        "spells": ["Lancer de Pièces"],
         "access": ""
       },
-      "starting_npc": "Maître des Invocations",
-      "zone": "Temple Osamodas"
+      "starting_npc": "Maître Enutrof",
+      "zone": "Astrub"
     },
     {
-      "name": "Sort Spécial - Féca : Glyphe Enflammé",
+      "id": 14,
+      "name": "Sort Spécial : Transformation",
+      "category": "class",
       "level": 30,
-      "description": "Protégez vos alliés avec le Glyphe Enflammé.",
+      "class": "Osamodas",
+      "description": "Les Osamodas peuvent apprendre à se transformer en leurs créatures.",
       "steps": [
-        "Parler à la Gardienne des Glyphes",
-        "Collecter des Runes de Feu",
-        "Protéger un allié avec un glyphe",
-        "Apprendre le sort"
+        "Parler au Maître Osamodas",
+        "Capturer 5 familles de monstres différentes",
+        "Élever un familier au niveau 50",
+        "Vaincre le Dresseur Maudit",
+        "Prouver son lien avec les créatures",
+        "Maîtriser la Transformation"
       ],
       "rewards": {
         "xp": 150000,
         "kamas": 5000,
-        "items": [],
-        "spells": ["Glyphe Enflammé"],
+        "items": ["Parchemin Transformation"],
+        "spells": ["Transformation"],
         "access": ""
       },
-      "starting_npc": "Gardienne des Glyphes",
-      "zone": "Temple Féca"
+      "starting_npc": "Maître Osamodas",
+      "zone": "Village d'Amakna"
     },
     {
-      "name": "Clé du Donjon des Champs",
+      "id": 15,
+      "name": "Accès : Donjon des Bouftous",
+      "category": "dungeon",
       "level": 20,
-      "description": "Obtenez la clé pour accéder au Donjon des Champs.",
+      "description": "Obtenez l'accès au Donjon des Bouftous et affrontez le Bouftou Royal.",
       "steps": [
-        "Parler au Garde du Donjon",
-        "Collecter 10 Blés",
-        "Collecter 5 Orges",
-        "Fabriquer la clé"
-      ],
-      "rewards": {
-        "xp": 50000,
-        "kamas": 2000,
-        "items": ["Clé du Donjon des Champs"],
-        "spells": [],
-        "access": "Donjon des Champs"
-      },
-      "starting_npc": "Garde du Donjon",
-      "zone": "Champs d'Astrub"
-    },
-    {
-      "name": "Clé du Donjon des Bouftous",
-      "level": 25,
-      "description": "Fabriquez la clé du célèbre Donjon des Bouftous.",
-      "steps": [
-        "Parler au Berger",
-        "Collecter 20 Laines de Bouftou",
-        "Collecter 10 Cuirs de Bouftou",
-        "Fabriquer la clé"
+        "Parler à l'Éleveur de Bouftous",
+        "Collecter 10 Laines de Bouftou",
+        "Vaincre 15 Bouftous",
+        "Trouver la Clé du Donjon",
+        "Rendre la clé à l'Éleveur",
+        "Entrer dans le Donjon"
       ],
       "rewards": {
         "xp": 75000,
-        "kamas": 3000,
+        "kamas": 2500,
         "items": ["Clé du Donjon des Bouftous"],
         "spells": [],
         "access": "Donjon des Bouftous"
       },
-      "starting_npc": "Berger",
-      "zone": "Pâturages de Bonta"
+      "starting_npc": "Éleveur de Bouftous",
+      "zone": "Champs d'Amakna"
     },
     {
-      "name": "Clé du Donjon des Tofus",
-      "level": 15,
-      "description": "Accédez au Donjon des Tofus avec cette clé.",
+      "id": 16,
+      "name": "Accès : Donjon des Tofus",
+      "category": "dungeon",
+      "level": 30,
+      "description": "Obtenez l'accès au Donjon des Tofus pour affronter le Tofu Royal.",
       "steps": [
-        "Parler à l'Éleveur de Tofus",
-        "Collecter 15 Plumes de Tofu",
-        "Collecter 10 Becs de Tofu",
-        "Fabriquer la clé"
+        "Parler à l'Astronome",
+        "Collecter 20 Plumes de Tofu",
+        "Observer les constellations",
+        "Vaincre 20 Tofus",
+        "Trouver la Clé Astrale",
+        "Entrer dans le Donjon des Tofus"
       ],
       "rewards": {
-        "xp": 35000,
-        "kamas": 1500,
-        "items": ["Clé du Donjon des Tofus"],
+        "xp": 100000,
+        "kamas": 3500,
+        "items": ["Clé du Donjon des Tofus", "Plume du Tofu Royal"],
         "spells": [],
         "access": "Donjon des Tofus"
       },
-      "starting_npc": "Éleveur de Tofus",
-      "zone": "Clairière des Tofus"
+      "starting_npc": "Astronome",
+      "zone": "Astrub"
     },
     {
-      "name": "Clé du Donjon des Squelettes",
+      "id": 17,
+      "name": "Accès : Donjon des Scarafeuilles",
+      "category": "dungeon",
       "level": 40,
-      "description": "Ouvrez les portes du Donjon des Squelettes.",
-      "steps": [
-        "Parler au Nécromancien",
-        "Collecter 20 Os de Chafer",
-        "Collecter 10 Crânes de Squelette",
-        "Fabriquer la clé"
-      ],
-      "rewards": {
-        "xp": 120000,
-        "kamas": 8000,
-        "items": ["Clé du Donjon des Squelettes"],
-        "spells": [],
-        "access": "Donjon des Squelettes"
-      },
-      "starting_npc": "Nécromancien",
-      "zone": "Cimetière d'Amakna"
-    },
-    {
-      "name": "Clé du Donjon des Larves",
-      "level": 10,
-      "description": "La clé d'entrée du Donjon des Larves pour débutants.",
+      "description": "Obtenez l'accès au Donjon des Scarafeuilles et ses trésors cachés.",
       "steps": [
         "Parler à l'Entomologiste",
-        "Collecter 15 Gelées Bleues",
-        "Collecter 10 Gelées Rouges",
-        "Fabriquer la clé"
+        "Collecter 25 Ailes de Scarafeuille",
+        "Étudier les comportements",
+        "Vaincre 15 Scarafeuilles de chaque couleur",
+        "Synthétiser la Clé",
+        "Entrer dans le Donjon"
       ],
       "rewards": {
-        "xp": 20000,
-        "kamas": 1000,
-        "items": ["Clé du Donjon des Larves"],
+        "xp": 150000,
+        "kamas": 5000,
+        "items": ["Clé du Donjon des Scarafeuilles"],
         "spells": [],
-        "access": "Donjon des Larves"
+        "access": "Donjon des Scarafeuilles"
       },
       "starting_npc": "Entomologiste",
-      "zone": "Souterrains d'Amakna"
+      "zone": "Astrub"
     },
     {
-      "name": "Clé du Donjon des Bworks",
+      "id": 18,
+      "name": "Accès : Donjon des Blops",
+      "category": "dungeon",
       "level": 50,
-      "description": "Accédez au territoire des redoutables Bworks.",
+      "description": "Obtenez l'accès au Donjon des Blops pour affronter les Blops Royaux.",
       "steps": [
-        "Parler au Chasseur de Bworks",
-        "Collecter 15 Haches de Bwork",
-        "Collecter 10 Ceintures de Bwork",
-        "Fabriquer la clé"
+        "Parler à l'Alchimiste",
+        "Collecter 30 Gels de Blop de chaque couleur",
+        "Mélanger les gels",
+        "Vaincre 10 Blops de chaque type",
+        "Créer la Clé Gelée",
+        "Entrer dans le Donjon des Blops"
       ],
       "rewards": {
         "xp": 200000,
-        "kamas": 12000,
-        "items": ["Clé du Donjon des Bworks"],
+        "kamas": 7500,
+        "items": ["Clé du Donjon des Blops", "Gelée Royale"],
         "spells": [],
-        "access": "Donjon des Bworks"
+        "access": "Donjon des Blops"
       },
-      "starting_npc": "Chasseur de Bworks",
-      "zone": "Grotte des Bworks"
+      "starting_npc": "Alchimiste",
+      "zone": "Prairie d'Amakna"
     },
     {
-      "name": "Clé du Donjon des Crocodailles",
+      "id": 19,
+      "name": "Accès : Donjon des Champs",
+      "category": "dungeon",
       "level": 60,
-      "description": "Pénétrez dans le Donjon des Crocodailles.",
+      "description": "Obtenez l'accès au Donjon des Champs et affrontez le Bouftou Noir.",
       "steps": [
-        "Parler au Chasseur de Crocodailles",
-        "Collecter 20 Peaux de Crocodaille",
-        "Collecter 10 Dents de Crocodaille",
-        "Fabriquer la clé"
+        "Parler au Paysan Légendaire",
+        "Aider à récolter 50 Blés",
+        "Vaincre les Envahisseurs",
+        "Récupérer la Clé des Champs",
+        "Protéger la récolte",
+        "Entrer dans le Donjon"
+      ],
+      "rewards": {
+        "xp": 250000,
+        "kamas": 10000,
+        "items": ["Clé du Donjon des Champs", "Cape du Bouftou Noir"],
+        "spells": [],
+        "access": "Donjon des Champs"
+      },
+      "starting_npc": "Paysan Légendaire",
+      "zone": "Champs d'Amakna"
+    },
+    {
+      "id": 20,
+      "name": "Accès : Donjon des Squelettes",
+      "category": "dungeon",
+      "level": 70,
+      "description": "Obtenez l'accès au Donjon des Squelettes et défiez les morts-vivants.",
+      "steps": [
+        "Parler au Nécromant",
+        "Collecter 20 Ossements",
+        "Réciter l'incantation",
+        "Vaincre 25 Squelettes",
+        "Obtenir la Clé des Morts",
+        "Entrer dans le Donjon des Squelettes"
       ],
       "rewards": {
         "xp": 300000,
-        "kamas": 20000,
-        "items": ["Clé du Donjon des Crocodailles"],
+        "kamas": 12500,
+        "items": ["Clé du Donjon des Squelettes", "Tête de Squelette"],
         "spells": [],
-        "access": "Donjon des Crocodailles"
+        "access": "Donjon des Squelettes"
       },
-      "starting_npc": "Chasseur de Crocodailles",
-      "zone": "Marais de Litty"
+      "starting_npc": "Nécromant",
+      "zone": "Cimetière"
     },
     {
-      "name": "Clé du Donjon des Rats de Bonta",
-      "level": 70,
-      "description": "Descendez dans les égouts de Bonta.",
+      "id": 21,
+      "name": "Accès : Donjon des Forgerons",
+      "category": "dungeon",
+      "level": 80,
+      "description": "Obtenez l'accès au Donjon des Forgerons et ses secrets de forge.",
       "steps": [
-        "Parler au Garde des Égouts",
-        "Collecter 15 Queues de Rat",
-        "Collecter 10 Fromages Vénérables",
-        "Fabriquer la clé"
+        "Parler au Maître Forgeron",
+        "Rapporter 30 Minerais de Fer",
+        "Forger une Arme",
+        "Vaincre le Forgeron Déchu",
+        "Récupérer la Clé de Forge",
+        "Entrer dans le Donjon des Forgerons"
+      ],
+      "rewards": {
+        "xp": 350000,
+        "kamas": 15000,
+        "items": ["Clé du Donjon des Forgerons", "Recette Secrète"],
+        "spells": [],
+        "access": "Donjon des Forgerons"
+      },
+      "starting_npc": "Maître Forgeron",
+      "zone": "Village des Forgerons"
+    },
+    {
+      "id": 22,
+      "name": "Accès : Donjon du Dragon Cochon",
+      "category": "dungeon",
+      "level": 90,
+      "description": "Obtenez l'accès au Donjon du Dragon Cochon et affrontez cette créature étrange.",
+      "steps": [
+        "Parler au Chasseur",
+        "Collecter 25 Cuirs de Dragodinde",
+        "Préparer l'appât",
+        "Vaincre 20 Cochons de Farle",
+        "Récupérer la Clé Cochonne",
+        "Entrer dans le Donjon"
       ],
       "rewards": {
         "xp": 400000,
-        "kamas": 25000,
-        "items": ["Clé du Donjon des Rats de Bonta"],
+        "kamas": 17500,
+        "items": ["Clé du Donjon du Dragon Cochon"],
         "spells": [],
-        "access": "Donjon des Rats de Bonta"
+        "access": "Donjon du Dragon Cochon"
       },
-      "starting_npc": "Garde des Égouts",
-      "zone": "Égouts de Bonta"
+      "starting_npc": "Chasseur",
+      "zone": "Forêt d'Amakna"
     },
     {
-      "name": "Clé du Donjon des Rats de Brakmar",
-      "level": 70,
-      "description": "Explorez les égouts de Brakmar.",
+      "id": 23,
+      "name": "Accès : Labyrinthe du Minotoror",
+      "category": "dungeon",
+      "level": 110,
+      "description": "Obtenez l'accès au redoutable Labyrinthe du Minotoror.",
       "steps": [
-        "Parler au Garde des Égouts",
-        "Collecter 15 Queues de Rat",
-        "Collecter 10 Os Putrides",
-        "Fabriquer la clé"
+        "Parler au Gardien du Labyrinthe",
+        "Résoudre l'énigme de l'entrée",
+        "Collecter 50 Poils de Minotoror",
+        "Vaincre les Gardiens",
+        "Obtenir la Clé du Labyrinthe",
+        "Entrer dans le Labyrinthe"
       ],
       "rewards": {
-        "xp": 400000,
+        "xp": 500000,
         "kamas": 25000,
-        "items": ["Clé du Donjon des Rats de Brakmar"],
+        "items": ["Clé du Labyrinthe du Minotoror", "Corno"],
         "spells": [],
-        "access": "Donjon des Rats de Brakmar"
+        "access": "Labyrinthe du Minotoror"
       },
-      "starting_npc": "Garde des Égouts",
-      "zone": "Égouts de Brakmar"
+      "starting_npc": "Gardien du Labyrinthe",
+      "zone": "Labyrinthe du Minotoror"
     },
     {
-      "name": "Clé du Donjon du Bworker",
-      "level": 100,
-      "description": "Affrontez le redoutable Bworker.",
+      "id": 24,
+      "name": "Accès : Donjon du Kimbo",
+      "category": "dungeon",
+      "level": 130,
+      "description": "Obtenez l'accès au Donjon du Kimbo sur l'île d'Otomai.",
       "steps": [
-        "Parler au Chercheur de Trésors",
-        "Collecter 50 Haches de Bwork",
-        "Collecter 25 Casques de Bwork",
-        "Fabriquer la clé"
+        "Parler à l'Explorateur Otomaien",
+        "Naviguer jusqu'à l'île",
+        "Collecter 40 Bois de Kaliptus",
+        "Vaincre 15 Kimbos",
+        "Récupérer la Clé de Kaliptus",
+        "Entrer dans le Donjon du Kimbo"
       ],
       "rewards": {
         "xp": 600000,
+        "kamas": 30000,
+        "items": ["Clé du Donjon du Kimbo", "Coco du Kimbo"],
+        "spells": [],
+        "access": "Donjon du Kimbo"
+      },
+      "starting_npc": "Explorateur Otomaien",
+      "zone": "Île d'Otomai"
+    },
+    {
+      "id": 25,
+      "name": "Accès : Donjon des Rêves",
+      "category": "dungeon",
+      "level": 150,
+      "description": "Obtenez l'accès au mystérieux Donjon des Rêves.",
+      "steps": [
+        "Parler au Rêveur",
+        "Collecter 30 Poussières de Rêve",
+        "Endormir 20 monstres",
+        "Vaincre le Cauchemar",
+        "Récupérer la Clé Onirique",
+        "Entrer dans le Donjon des Rêves"
+      ],
+      "rewards": {
+        "xp": 750000,
         "kamas": 40000,
-        "items": ["Clé du Donjon du Bworker"],
+        "items": ["Clé du Donjon des Rêves", "Pierre de Rêve"],
         "spells": [],
-        "access": "Donjon du Bworker"
+        "access": "Donjon des Rêves"
       },
-      "starting_npc": "Chercheur de Trésors",
-      "zone": "Grotte des Bworks"
+      "starting_npc": "Rêveur",
+      "zone": "Dimension des Rêves"
     },
     {
-      "name": "Alignement Bonta - Grade I",
+      "id": 26,
+      "name": "Alignement : Le Choix de Bonta",
+      "category": "alignment",
       "level": 20,
-      "description": "Commencez votre ascension vers le grade de Gardien de Bonta.",
+      "alignment": "Bonta",
+      "description": "Rejoignez les rangs de l'alignement Bonta et défendez les valeurs de la lumière.",
       "steps": [
-        "Parler à Amayiro",
-        "Vaincre 10 Brâkmariens",
-        "Rapporter les preuves de victoire",
-        "Obtenir le Grade I"
+        "Parler à Amayiro à Bonta",
+        "Prouver sa bravoure",
+        "Vaincre 10 agents de Brakmar",
+        "Prêter serment de loyauté",
+        "Devenir Grade 1 Bontarien"
       ],
       "rewards": {
         "xp": 100000,
         "kamas": 5000,
-        "items": ["Cape de Bonta"],
+        "items": ["Cape Bontarienne", "Emblème Bonta"],
         "spells": [],
-        "access": ""
+        "access": "Quartier Général de Bonta"
       },
       "starting_npc": "Amayiro",
       "zone": "Bonta"
     },
     {
-      "name": "Alignement Bonta - Grade II",
-      "level": 40,
-      "description": "Devenez un véritable défenseur de Bonta.",
-      "steps": [
-        "Parler à Amayiro",
-        "Vaincre 20 Brâkmariens",
-        "Défendre les postes de Bonta",
-        "Obtenir le Grade II"
-      ],
-      "rewards": {
-        "xp": 200000,
-        "kamas": 10000,
-        "items": ["Chapeau de Bonta"],
-        "spells": [],
-        "access": ""
-      },
-      "starting_npc": "Amayiro",
-      "zone": "Bonta"
-    },
-    {
-      "name": "Alignement Bonta - Grade III",
-      "level": 60,
-      "description": "Prouvez votre dévouement à la cité blanche.",
-      "steps": [
-        "Parler à Amayiro",
-        "Vaincre le Capitaine des Brâkmariens",
-        "Récupérer les plans ennemis",
-        "Obtenir le Grade III"
-      ],
-      "rewards": {
-        "xp": 350000,
-        "kamas": 20000,
-        "items": ["Bottes de Bonta"],
-        "spells": [],
-        "access": ""
-      },
-      "starting_npc": "Amayiro",
-      "zone": "Bonta"
-    },
-    {
-      "name": "Alignement Brâkmar - Grade I",
+      "id": 27,
+      "name": "Alignement : Le Choix de Brakmar",
+      "category": "alignment",
       "level": 20,
-      "description": "Commencez votre ascension dans les rangs de Brâkmar.",
+      "alignment": "Brakmar",
+      "description": "Rejoignez les rangs de l'alignement Brakmar et embrassez les ténèbres.",
       "steps": [
-        "Parler à Oto Mustam",
-        "Vaincre 10 Bontariens",
-        "Rapporter les preuves de victoire",
-        "Obtenir le Grade I"
+        "Parler à Oto Mustam à Brakmar",
+        "Prouver sa cruauté",
+        "Vaincre 10 agents de Bonta",
+        "Prêter serment d'allégeance",
+        "Devenir Grade 1 Brakmarien"
       ],
       "rewards": {
         "xp": 100000,
         "kamas": 5000,
-        "items": ["Cape de Brâkmar"],
+        "items": ["Cape Brakmarienne", "Emblème Brakmar"],
         "spells": [],
-        "access": ""
+        "access": "Quartier Général de Brakmar"
       },
       "starting_npc": "Oto Mustam",
-      "zone": "Brâkmar"
+      "zone": "Brakmar"
     },
     {
-      "name": "Alignement Brâkmar - Grade II",
-      "level": 40,
-      "description": "Devenez un véritable soldat de Brâkmar.",
+      "id": 28,
+      "name": "Alignement : La Quête du Grade 3",
+      "category": "alignment",
+      "level": 30,
+      "alignment": "Bonta/Brakmar",
+      "description": "Montez en grade dans votre alignement pour accéder à de nouveaux privilèges.",
       "steps": [
-        "Parler à Oto Mustam",
-        "Vaincre 20 Bontariens",
-        "Attaquer les postes de Bonta",
-        "Obtenir le Grade II"
+        "Être Grade 2",
+        "Accomplir 10 missions d'alignement",
+        "Vaincre le Champion Adverse",
+        "Collecter 20 Insignes Ennemis",
+        "Passer à Grade 3"
       ],
       "rewards": {
         "xp": 200000,
         "kamas": 10000,
-        "items": ["Chapeau de Brâkmar"],
+        "items": ["Insigne de Grade 3", "Nouvelle Cape"],
         "spells": [],
-        "access": ""
+        "access": "Nouvelles Zones d'Alignement"
       },
-      "starting_npc": "Oto Mustam",
-      "zone": "Brâkmar"
+      "starting_npc": "Chef d'Alignement",
+      "zone": "Bonta / Brakmar"
     },
     {
-      "name": "Alignement Brâkmar - Grade III",
-      "level": 60,
-      "description": "Prouvez votre valeur aux yeux de la cité sombre.",
+      "id": 29,
+      "name": "Alignement : La Quête du Grade 5",
+      "category": "alignment",
+      "level": 40,
+      "alignment": "Bonta/Brakmar",
+      "description": "Poursuivez votre ascension dans les grades de votre alignement.",
       "steps": [
-        "Parler à Oto Mustam",
-        "Vaincre le Capitaine des Bontariens",
-        "Récupérer les secrets de Bonta",
-        "Obtenir le Grade III"
+        "Être Grade 4",
+        "Accomplir 20 missions d'alignement",
+        "Vaincre le Général Adverse",
+        "Collecter 50 Insignes Ennemis",
+        "Passer à Grade 5"
       ],
       "rewards": {
         "xp": 350000,
-        "kamas": 20000,
-        "items": ["Bottes de Brâkmar"],
+        "kamas": 17500,
+        "items": ["Insigne de Grade 5", "Bouclier d'Alignement"],
         "spells": [],
-        "access": ""
+        "access": "Zones d'Alignement Avancées"
       },
-      "starting_npc": "Oto Mustam",
-      "zone": "Brâkmar"
+      "starting_npc": "Chef d'Alignement",
+      "zone": "Bonta / Brakmar"
     },
     {
-      "name": "Métier - Apprendre la Forge",
-      "level": 1,
-      "description": "Devenez forgeron et fabriquez vos propres armes.",
+      "id": 30,
+      "name": "Alignement : La Quête du Grade 10",
+      "category": "alignment",
+      "level": 60,
+      "alignment": "Bonta/Brakmar",
+      "description": "Atteignez le grade ultime de votre alignement et devenez une légende.",
       "steps": [
-        "Parler au Maître Forgeron",
-        "Collecter 20 Fers",
-        "Fabriquer une Dague de Fer",
-        "Apprendre le métier"
+        "Être Grade 9",
+        "Accomplir 100 missions d'alignement",
+        "Vaincre le Conseiller Suprême Adverse",
+        "Collecter 100 Insignes Ennemis",
+        "Passer à Grade 10"
       ],
       "rewards": {
-        "xp": 5000,
-        "kamas": 500,
-        "items": ["Marteau de Forgeron"],
+        "xp": 750000,
+        "kamas": 50000,
+        "items": ["Insigne de Grade 10", "Cape Légendaire", "Titre de Conseiller"],
         "spells": [],
-        "access": ""
+        "access": "Toutes les Zones d'Alignement"
       },
-      "starting_npc": "Maître Forgeron",
-      "zone": "Astrub"
+      "starting_npc": "Chef Suprême",
+      "zone": "Bonta / Brakmar"
     },
     {
-      "name": "Métier - Apprendre la Cordonnerie",
+      "id": 31,
+      "name": "Métier : Devenir Paysan",
+      "category": "profession",
       "level": 1,
-      "description": "Devenez cordonnier et fabriquez des bottes et des ceintures.",
-      "steps": [
-        "Parler au Maître Cordonnier",
-        "Collecter 20 Cuirs de Larve",
-        "Fabriquer des Bottes de Cuir",
-        "Apprendre le métier"
-      ],
-      "rewards": {
-        "xp": 5000,
-        "kamas": 500,
-        "items": ["Aiguille de Cordonnier"],
-        "spells": [],
-        "access": ""
-      },
-      "starting_npc": "Maître Cordonnier",
-      "zone": "Astrub"
-    },
-    {
-      "name": "Métier - Apprendre la Bijouterie",
-      "level": 1,
-      "description": "Devenez bijoutier et fabriquez des amulettes et des anneaux.",
-      "steps": [
-        "Parler au Maître Bijoutier",
-        "Collecter 10 Ambres et 10 Argent",
-        "Fabriquer une Amulette",
-        "Apprendre le métier"
-      ],
-      "rewards": {
-        "xp": 5000,
-        "kamas": 500,
-        "items": ["Pince de Bijoutier"],
-        "spells": [],
-        "access": ""
-      },
-      "starting_npc": "Maître Bijoutier",
-      "zone": "Astrub"
-    },
-    {
-      "name": "Métier - Apprendre l'Alchimie",
-      "level": 1,
-      "description": "Devenez alchimiste et fabriquez des potions.",
-      "steps": [
-        "Parler au Maître Alchimiste",
-        "Collecter 20 Orties et 20 Sauge",
-        "Fabriquer une Potion de Vie",
-        "Apprendre le métier"
-      ],
-      "rewards": {
-        "xp": 5000,
-        "kamas": 500,
-        "items": ["Fiole d'Alchimiste"],
-        "spells": [],
-        "access": ""
-      },
-      "starting_npc": "Maître Alchimiste",
-      "zone": "Astrub"
-    },
-    {
-      "name": "Métier - Apprendre la Paysannerie",
-      "level": 1,
-      "description": "Devenez paysan et cultivez vos propres ressources.",
+      "profession": "Paysan",
+      "description": "Apprenez le métier de Paysan pour cultiver les ressources de base.",
       "steps": [
         "Parler au Maître Paysan",
-        "Planter 20 Blés",
-        "Récolter les blés matures",
-        "Apprendre le métier"
+        "Rapporter 20 Blés",
+        "Planter 10 graines",
+        "Récolter votre première production",
+        "Obtenir le métier de Paysan"
       ],
       "rewards": {
         "xp": 5000,
         "kamas": 500,
-        "items": ["Faux de Paysan"],
+        "items": ["Faux de Paysan", "Sac de Graines"],
         "spells": [],
-        "access": ""
+        "access": "Champs de culture"
       },
       "starting_npc": "Maître Paysan",
       "zone": "Astrub"
     },
     {
-      "name": "Métier - Apprendre la Boulangerie",
+      "id": 32,
+      "name": "Métier : Devenir Alchimiste",
+      "category": "profession",
       "level": 1,
-      "description": "Devenez boulanger et préparez du pain régénérant.",
+      "profession": "Alchimiste",
+      "description": "Apprenez le métier d'Alchimiste pour créer des potions magiques.",
       "steps": [
-        "Parler au Maître Boulanger",
-        "Collecter 30 Blés",
-        "Fabriquer 10 Pains",
-        "Apprendre le métier"
+        "Parler au Maître Alchimiste",
+        "Collecter 10 Orties",
+        "Collecter 10 Sauge",
+        "Fabriquer 5 Potions de Vie",
+        "Obtenir le métier d'Alchimiste"
       ],
       "rewards": {
         "xp": 5000,
         "kamas": 500,
-        "items": ["Rouleau à Pâtisserie"],
+        "items": ["Mortier d'Alchimiste", "Recettes de Base"],
         "spells": [],
-        "access": ""
+        "access": "Atelier d'Alchimie"
+      },
+      "starting_npc": "Maître Alchimiste",
+      "zone": "Astrub"
+    },
+    {
+      "id": 33,
+      "name": "Métier : Devenir Forgeron",
+      "category": "profession",
+      "level": 1,
+      "profession": "Forgeron",
+      "description": "Apprenez le métier de Forgeron pour forger armes et équipements.",
+      "steps": [
+        "Parler au Maître Forgeron",
+        "Miner 20 Minerais de Fer",
+        "Forger 5 Dagues",
+        "Forger 1 Épée",
+        "Obtenir le métier de Forgeron"
+      ],
+      "rewards": {
+        "xp": 5000,
+        "kamas": 500,
+        "items": ["Marteau de Forgeron", "Recettes de Base"],
+        "spells": [],
+        "access": "Forge"
+      },
+      "starting_npc": "Maître Forgeron",
+      "zone": "Village des Forgerons"
+    },
+    {
+      "id": 34,
+      "name": "Métier : Devenir Boulanger",
+      "category": "profession",
+      "level": 1,
+      "profession": "Boulanger",
+      "description": "Apprenez le métier de Boulanger pour créer des pains régénérants.",
+      "steps": [
+        "Parler au Maître Boulanger",
+        "Rapporter 30 Blés",
+        "Moudre 10 Farines",
+        "Cuire 10 Pains",
+        "Obtenir le métier de Boulanger"
+      ],
+      "rewards": {
+        "xp": 5000,
+        "kamas": 500,
+        "items": ["Rouleau à Pâtisserie", "Recettes de Pains"],
+        "spells": [],
+        "access": "Boulangerie"
       },
       "starting_npc": "Maître Boulanger",
       "zone": "Astrub"
     },
     {
-      "name": "Métier - Apprendre le Bûcheronnage",
+      "id": 35,
+      "name": "Métier : Devenir Bûcheron",
+      "category": "profession",
       "level": 1,
-      "description": "Devenez bûcheron et récoltez du bois précieux.",
+      "profession": "Bûcheron",
+      "description": "Apprenez le métier de Bûcheron pour couper du bois.",
       "steps": [
         "Parler au Maître Bûcheron",
-        "Couper 20 Arbres",
-        "Récupérer 50 Bois",
-        "Apprendre le métier"
+        "Couper 20 Bois de Frêne",
+        "Couper 10 Bois de Chêne",
+        "Rapporter les bois coupés",
+        "Obtenir le métier de Bûcheron"
       ],
       "rewards": {
         "xp": 5000,
         "kamas": 500,
-        "items": ["Hache de Bûcheron"],
+        "items": ["Hache de Bûcheron", "Guide des Arbres"],
         "spells": [],
-        "access": ""
+        "access": "Forêts"
       },
       "starting_npc": "Maître Bûcheron",
       "zone": "Astrub"
     },
     {
-      "name": "Métier - Apprendre la Mine",
+      "id": 36,
+      "name": "Métier : Devenir Mineur",
+      "category": "profession",
       "level": 1,
-      "description": "Devenez mineur et extrayez des minerais rares.",
+      "profession": "Mineur",
+      "description": "Apprenez le métier de Mineur pour extraire des minerais précieux.",
       "steps": [
         "Parler au Maître Mineur",
-        "Miner 10 Filons de Fer",
-        "Récupérer 30 Minerais de Fer",
-        "Apprendre le métier"
+        "Miner 20 Minerais de Fer",
+        "Miner 10 Minerais de Cuivre",
+        "Rapporter les minerais",
+        "Obtenir le métier de Mineur"
       ],
       "rewards": {
         "xp": 5000,
         "kamas": 500,
-        "items": ["Pelle de Mineur"],
+        "items": ["Pioche de Mineur", "Guide des Gisements"],
         "spells": [],
-        "access": ""
+        "access": "Mines"
       },
       "starting_npc": "Maître Mineur",
       "zone": "Astrub"
     },
     {
-      "name": "Île d'Otomai - L'Arbre de Vie",
+      "id": 37,
+      "name": "Métier : Devenir Pêcheur",
+      "category": "profession",
+      "level": 1,
+      "profession": "Pêcheur",
+      "description": "Apprenez le métier de Pêcheur pour attraper des poissons.",
+      "steps": [
+        "Parler au Maître Pêcheur",
+        "Pêcher 10 Gudgeons",
+        "Pêcher 5 Truites",
+        "Rapporter les poissons",
+        "Obtenir le métier de Pêcheur"
+      ],
+      "rewards": {
+        "xp": 5000,
+        "kamas": 500,
+        "items": ["Canne à Pêche", "Guide des Poissons"],
+        "spells": [],
+        "access": "Points de Pêche"
+      },
+      "starting_npc": "Maître Pêcheur",
+      "zone": "Astrub"
+    },
+    {
+      "id": 38,
+      "name": "Métier : Devenir Chasseur",
+      "category": "profession",
+      "level": 1,
+      "profession": "Chasseur",
+      "description": "Apprenez le métier de Chasseur pour dépecer les monstres.",
+      "steps": [
+        "Parler au Maître Chasseur",
+        "Dépecer 10 Bouftous",
+        "Collecter 10 Peaux",
+        "Rapporter les ressources",
+        "Obtenir le métier de Chasseur"
+      ],
+      "rewards": {
+        "xp": 5000,
+        "kamas": 500,
+        "items": ["Couteau de Chasseur", "Guide du Trappeur"],
+        "spells": [],
+        "access": "Zones de Chasse"
+      },
+      "starting_npc": "Maître Chasseur",
+      "zone": "Astrub"
+    },
+    {
+      "id": 39,
+      "name": "Métier : Devenir Tailleur",
+      "category": "profession",
+      "level": 1,
+      "profession": "Tailleur",
+      "description": "Apprenez le métier de Tailleur pour coudre des vêtements.",
+      "steps": [
+        "Parler au Maître Tailleur",
+        "Collecter 20 Laines",
+        "Coudre 5 Capes",
+        "Rapporter les créations",
+        "Obtenir le métier de Tailleur"
+      ],
+      "rewards": {
+        "xp": 5000,
+        "kamas": 500,
+        "items": ["Aiguille de Tailleur", "Recettes de Couture"],
+        "spells": [],
+        "access": "Atelier de Couture"
+      },
+      "starting_npc": "Maître Tailleur",
+      "zone": "Astrub"
+    },
+    {
+      "id": 40,
+      "name": "Île : Bienvenue à Otomai",
+      "category": "island",
       "level": 50,
-      "description": "Aidez Otomai à sauver l'Arbre de Vie de l'île.",
+      "description": "Découvrez l'île mystérieuse d'Otomai et ses secrets.",
       "steps": [
-        "Parler à Otomai",
-        "Collecter 20 Racines Magiques",
-        "Purifier les monstres corrompus",
-        "Rendre visite à l'Arbre de Vie"
+        "Parler au Capitaine de la Barque",
+        "Payer le voyage (5000 Kamas)",
+        "Arriver sur l'île d'Otomai",
+        "Rencontrer Otomai",
+        "Explorer les alentours"
       ],
       "rewards": {
-        "xp": 300000,
-        "kamas": 20000,
-        "items": ["Amulette de l'Arbre"],
+        "xp": 100000,
+        "kamas": 5000,
+        "items": ["Carte d'Otomai", "Potion de Rappel Otomai"],
         "spells": [],
-        "access": "Temple de l'Arbre"
+        "access": "Île d'Otomai"
       },
-      "starting_npc": "Otomai",
-      "zone": "Otomai"
+      "starting_npc": "Capitaine de la Barque",
+      "zone": "Port de Madrestam"
     },
     {
-      "name": "Île d'Otomai - Les Korails",
-      "level": 60,
-      "description": "Explorez les fonds marins à la recherche des Korails.",
-      "steps": [
-        "Parler au Maître des Korails",
-        "Plonger dans les abysses",
-        "Collecter 15 Korails",
-        "Rapporter les Korails"
-      ],
-      "rewards": {
-        "xp": 400000,
-        "kamas": 25000,
-        "items": ["Coiffe du Korail"],
-        "spells": [],
-        "access": ""
-      },
-      "starting_npc": "Maître des Korails",
-      "zone": "Otomai"
-    },
-    {
-      "name": "Île d'Otomai - Le Chêne Mou",
-      "level": 70,
-      "description": "Affrontez le redoutable Chêne Mou.",
-      "steps": [
-        "Parler au Gardien de la Forêt",
-        "Trouver le Chêne Mou",
-        "Vaincre le Chêne Mou",
-        "Récupérer l'Essence du Chêne"
-      ],
-      "rewards": {
-        "xp": 500000,
-        "kamas": 35000,
-        "items": ["Bâton du Chêne Mou"],
-        "spells": [],
-        "access": ""
-      },
-      "starting_npc": "Gardien de la Forêt",
-      "zone": "Forêt d'Otomai"
-    },
-    {
-      "name": "Île de Frigost - Le Village Gelé",
-      "level": 100,
-      "description": "Aidez les survivants du village de Frigost.",
-      "steps": [
-        "Parler au Chef du Village",
-        "Réchauffer 5 villageois",
-        "Collecter du Bois de Feu",
-        "Allumer les braseros"
-      ],
-      "rewards": {
-        "xp": 600000,
-        "kamas": 40000,
-        "items": ["Cape de Frigost"],
-        "spells": [],
-        "access": "Village de Frigost"
-      },
-      "starting_npc": "Chef du Village",
-      "zone": "Frigost"
-    },
-    {
-      "name": "Île de Frigost - Le Comte Harebourg",
-      "level": 150,
-      "description": "Déjouez les plans du Comte Harebourg.",
-      "steps": [
-        "Parler à l'Agent de Bonta",
-        "Infiltrer le château",
-        "Vaincre les gardes",
-        "Affronter le Comte Harebourg"
-      ],
-      "rewards": {
-        "xp": 1200000,
-        "kamas": 80000,
-        "items": ["Clé du Château", "Anneau de Harebourg"],
-        "spells": [],
-        "access": "Château de Harebourg"
-      },
-      "starting_npc": "Agent de Bonta",
-      "zone": "Frigost"
-    },
-    {
-      "name": "Île de Moon - Les Wabbits",
+      "id": 41,
+      "name": "Île : Les Secrets de la Cawotte",
+      "category": "island",
       "level": 40,
-      "description": "Explorez l'île de Moon et ses habitants Wabbits.",
+      "description": "Explorez l'île de la Cawotte et découvrez ses mystères.",
       "steps": [
-        "Parler au Capitaine de la Cale",
-        "Prendre le bateau pour Moon",
-        "Parler au Chef Wabbit",
-        "Aider à récolter des carottes"
+        "Parler au Capitaine de la Barque",
+        "Payer le voyage (3000 Kamas)",
+        "Arriver sur l'île",
+        "Rencontrer le Grand Maître des Wabbits",
+        "Explorer le Terrier"
+      ],
+      "rewards": {
+        "xp": 80000,
+        "kamas": 3000,
+        "items": ["Carte de la Cawotte", "Carotte Magique"],
+        "spells": [],
+        "access": "Île de la Cawotte"
+      },
+      "starting_npc": "Capitaine de la Barque",
+      "zone": "Port de Madrestam"
+    },
+    {
+      "id": 42,
+      "name": "Île : Découverte de Frigost",
+      "category": "island",
+      "level": 100,
+      "description": "Partez à la découverte de l'île glacée de Frigost.",
+      "steps": [
+        "Parler au Navigateur",
+        "Préparer l'expédition",
+        "Survivre au voyage",
+        "Arriver sur Frigost",
+        "Explorer la ville gelée"
       ],
       "rewards": {
         "xp": 250000,
         "kamas": 15000,
-        "items": ["Cawotte Magique"],
+        "items": ["Carte de Frigost", "Manteau Polaire"],
         "spells": [],
-        "access": "Île de Moon"
+        "access": "Île de Frigost"
       },
-      "starting_npc": "Capitaine de la Cale",
+      "starting_npc": "Navigateur",
       "zone": "Port de Madrestam"
     },
     {
-      "name": "Île de Moon - Le Wa Wabbit",
-      "level": 50,
-      "description": "Affrontez le terrible Wa Wabbit.",
+      "id": 43,
+      "name": "Île : Le Village de la Tortue",
+      "category": "island",
+      "level": 60,
+      "description": "Visitez le mystérieux Village de la Tortue.",
       "steps": [
-        "Trouver l'entrée du château",
-        "Vaincre les gardes Wabbits",
-        "Affronter le Wa Wabbit",
-        "Récupérer le Trésor Wabbit"
+        "Trouver la barque secrète",
+        "Naviguer vers le village",
+        "Rencontrer les habitants",
+        "Aider le Chef du Village",
+        "Obtenir la confiance des Tortues"
       ],
       "rewards": {
-        "xp": 400000,
-        "kamas": 25000,
-        "items": ["Coiffe du Wa Wabbit", "Cape du Wa Wabbit"],
+        "xp": 150000,
+        "kamas": 8000,
+        "items": ["Carte du Village", "Coquillage Magique"],
         "spells": [],
-        "access": "Château du Wa Wabbit"
+        "access": "Village de la Tortue"
       },
-      "starting_npc": "Wabbit Perdu",
-      "zone": "Île de Moon"
+      "starting_npc": "Guide Maritime",
+      "zone": "Port de Madrestam"
     },
     {
-      "name": "Événement - La Chasse aux Œufs",
-      "level": 1,
-      "description": "Participez à la chasse aux œufs de Pâques.",
+      "id": 44,
+      "name": "Île : L'Archipel de Wabbits",
+      "category": "island",
+      "level": 45,
+      "description": "Explorez l'archipel peuplé de Wabbits.",
       "steps": [
-        "Parler à l'Organisateur",
-        "Trouver 10 Œufs Cachés",
-        "Échanger les œufs contre des cadeaux",
-        "Obtenir la récompense finale"
+        "Trouver la barque vers l'archipel",
+        "Explorer les îles",
+        "Vaincre le Wabbit GM",
+        "Récupérer la Clé du Terrier",
+        "Explorer le Terrier Profond"
       ],
       "rewards": {
-        "xp": 50000,
-        "kamas": 5000,
-        "items": ["Chapeau de Pâques", "Familier Lapin"],
+        "xp": 120000,
+        "kamas": 6000,
+        "items": ["Carte de l'Archipel", "Oreille de Wabbit GM"],
         "spells": [],
-        "access": ""
+        "access": "Archipel de Wabbits"
       },
-      "starting_npc": "Organisateur",
-      "zone": "Place d'Astrub"
-    },
-    {
-      "name": "Événement - La Fête de la Kawotte",
-      "level": 20,
-      "description": "Célébrez la récolte des Kawottes avec les habitants.",
-      "steps": [
-        "Parler au Maire de la Fête",
-        "Collecter 50 Kawottes",
-        "Participer au concours de mangeur",
-        "Gagner le tournoi"
-      ],
-      "rewards": {
-        "xp": 100000,
-        "kamas": 10000,
-        "items": ["Emblème de la Kawotte"],
-        "spells": [],
-        "access": ""
-      },
-      "starting_npc": "Maire de la Fête",
+      "starting_npc": "Capitaine Wabbit",
       "zone": "Île de la Cawotte"
     },
     {
-      "name": "Événement - L'Invasion des Tofus",
-      "level": 30,
-      "description": "Défendez Amakna contre l'invasion des Tofus.",
+      "id": 45,
+      "name": "Île : Les Mines d'Astrub",
+      "category": "island",
+      "level": 15,
+      "description": "Explorez les mines sous Astrub et leurs secrets.",
       "steps": [
-        "Parler au Garde",
-        "Vaincre 50 Tofus",
-        "Vaincre le Tofu Royal",
-        "Sauver le village"
+        "Trouver l'entrée des mines",
+        "Explorer les tunnels",
+        "Vaincre les mineurs fou",
+        "Trouver le minerai rare",
+        "Sortir vivant des mines"
       ],
       "rewards": {
-        "xp": 200000,
-        "kamas": 15000,
-        "items": ["Chapeau de Tofu", "Plume du Tofu Royal"],
+        "xp": 50000,
+        "kamas": 2000,
+        "items": ["Torche de Mineur", "Minerai Rare"],
+        "spells": [],
+        "access": "Mines Profondes d'Astrub"
+      },
+      "starting_npc": "Vieux Mineur",
+      "zone": "Astrub"
+    },
+    {
+      "id": 46,
+      "name": "Événement : La Chasse aux Œufs",
+      "category": "event",
+      "level": 1,
+      "description": "Participez à l'événement de Pâques et chassez les œufs cachés.",
+      "steps": [
+        "Parler au Maître de la Chasse",
+        "Trouver 10 Œufs de Pâques",
+        "Trouver l'Œuf Doré",
+        "Échanger les œufs",
+        "Obtenir la récompense spéciale"
+      ],
+      "rewards": {
+        "xp": 50000,
+        "kamas": 10000,
+        "items": ["Familier Wabbit", "Chapeau de Pâques"],
         "spells": [],
         "access": ""
       },
-      "starting_npc": "Garde",
-      "zone": "Amakna"
+      "starting_npc": "Maître de la Chasse",
+      "zone": "Astrub"
     },
     {
-      "name": "Événement - La Nuit des Morts-Vivants",
-      "level": 40,
-      "description": "Survivez à la nuit des morts-vivants.",
+      "id": 47,
+      "name": "Événement : La Fête de Nowel",
+      "category": "event",
+      "level": 1,
+      "description": "Célébrez Nowel et aidez le Père Nowel à distribuer les cadeaux.",
       "steps": [
-        "Parler au Nécromancien",
-        "Vaincre 30 Chafer",
-        "Vaincre 20 Squelettes",
-        "Terrasser le Chafer Lancer"
+        "Parler au Père Nowel",
+        "Aider à emballer les cadeaux",
+        "Livrer 5 cadeaux aux enfants",
+        "Vaincre le Grinch",
+        "Sauver Nowel"
+      ],
+      "rewards": {
+        "xp": 75000,
+        "kamas": 15000,
+        "items": ["Costume de Nowel", "Bâton de Nowel"],
+        "spells": [],
+        "access": ""
+      },
+      "starting_npc": "Père Nowel",
+      "zone": "Village d'Amakna"
+    },
+    {
+      "id": 48,
+      "name": "Événement : La Foire du Trool",
+      "category": "event",
+      "level": 30,
+      "description": "Participez à la grande foire et remportez des prix fabuleux.",
+      "steps": [
+        "Entrer à la foire",
+        "Jouer à 5 jeux différents",
+        "Gagner 1000 Jetons",
+        "Vaincre le Trool de Foire",
+        "Échanger les jetons"
+      ],
+      "rewards": {
+        "xp": 100000,
+        "kamas": 20000,
+        "items": ["Monture Dragodinde", "Trophée de la Foire"],
+        "spells": [],
+        "access": "Foire du Trool"
+      },
+      "starting_npc": "Maître de la Foire",
+      "zone": "Foire du Trool"
+    },
+    {
+      "id": 49,
+      "name": "Événement : Tournoi des Gladiateurs",
+      "category": "event",
+      "level": 50,
+      "description": "Participez au grand tournoi et prouvez votre valeur.",
+      "steps": [
+        "S'inscrire au tournoi",
+        "Vaincre 3 adversaires en solo",
+        "Vaincre 3 adversaires en équipe",
+        "Atteindre la finale",
+        "Remporter le tournoi"
+      ],
+      "rewards": {
+        "xp": 200000,
+        "kamas": 50000,
+        "items": ["Titre de Champion", "Cape du Champion"],
+        "spells": [],
+        "access": "Arène"
+      },
+      "starting_npc": "Maître d'Arène",
+      "zone": "Arène de Bonta"
+    },
+    {
+      "id": 50,
+      "name": "Événement : Chasse au Trésor",
+      "category": "event",
+      "level": 20,
+      "description": "Participez à une chasse au trésor organisée par les Enutrofs.",
+      "steps": [
+        "Parler à l'Organisateur",
+        "Décoder la première énigme",
+        "Suivre les indices",
+        "Trouver le trésor caché",
+        "Garder le butin"
+      ],
+      "rewards": {
+        "xp": 100000,
+        "kamas": 25000,
+        "items": ["Carte au Trésor", "Coffre au Trésor"],
+        "spells": [],
+        "access": ""
+      },
+      "starting_npc": "Organisateur Enutrof",
+      "zone": "Astrub"
+    },
+    {
+      "id": 51,
+      "name": "Événement : Invasion de Bouftous",
+      "category": "event",
+      "level": 15,
+      "description": "Défendez les champs contre l'invasion massive de Bouftous.",
+      "steps": [
+        "Parler au Garde Champêtre",
+        "Vaincre 50 Bouftous",
+        "Vaincre 20 Bouftous Sauvages",
+      "Vaincre le Bouftou Royal Enragé",
+        "Sauver les récoltes"
+      ],
+      "rewards": {
+        "xp": 150000,
+        "kamas": 10000,
+        "items": ["Trophée du Bouftueur", "Cape du Bouftou Royal"],
+        "spells": [],
+        "access": ""
+      },
+      "starting_npc": "Garde Champêtre",
+      "zone": "Champs d'Amakna"
+    },
+    {
+      "id": 52,
+      "name": "Quête Spéciale : L'Épée de Glace",
+      "category": "special",
+      "level": 80,
+      "description": "Forgez la légendaire Épée de Glace.",
+      "steps": [
+        "Trouver les plans de forge",
+        "Collecter 50 Minerais de Kobalte",
+        "Collecter 20 Écailles de Glace",
+        "Trouver le Forgeron Légendaire",
+        "Forger l'Épée de Glace"
       ],
       "rewards": {
         "xp": 300000,
         "kamas": 20000,
-        "items": ["Cape de la Nuit", "Crâne Décoratif"],
+        "items": ["Épée de Glace"],
         "spells": [],
         "access": ""
       },
-      "starting_npc": "Nécromancien",
-      "zone": "Cimetière"
+      "starting_npc": "Forgeron Légendaire",
+      "zone": "Frigost"
     },
     {
-      "name": "Événement - Le Tournoi des Gladiateurs",
-      "level": 50,
-      "description": "Participez au grand tournoi des gladiateurs.",
+      "id": 53,
+      "name": "Quête Spéciale : L'Anneau des Quatre",
+      "category": "special",
+      "level": 100,
+      "description": "Rassemblez les quatre anneaux pour créer l'Anneau Ultime.",
       "steps": [
-        "S'inscrire au tournoi",
-        "Vaincre 5 adversaires",
-        "Accéder aux demi-finales",
-        "Devenir le Champion"
+        "Trouver l'Anneau de Feu",
+        "Trouver l'Anneau d'Eau",
+        "Trouver l'Anneau de Terre",
+        "Trouver l'Anneau d'Air",
+        "Forger l'Anneau des Quatre"
       ],
       "rewards": {
         "xp": 500000,
         "kamas": 50000,
-        "items": ["Titre de Champion", "Épée du Champion"],
-        "spells": [],
-        "access": "Arène"
-      },
-      "starting_npc": "Organisateur du Tournoi",
-      "zone": "Arène de Bonta"
-    },
-    {
-      "name": "Quête Annexe - Les Dofus Élémentaires",
-      "level": 100,
-      "description": "Collectionnez tous les fragments des Dofus Élémentaires.",
-      "steps": [
-        "Trouver le Fragment de Feu",
-        "Trouver le Fragment d'Eau",
-        "Trouver le Fragment d'Air",
-        "Trouver le Fragment de Terre",
-        "Assembler les fragments"
-      ],
-      "rewards": {
-        "xp": 800000,
-        "kamas": 50000,
-        "items": ["Pierre Élémentaire"],
+        "items": ["Anneau des Quatre"],
         "spells": [],
         "access": ""
       },
-      "starting_npc": "Archéologue",
+      "starting_npc": "Mage Élémentaire",
+      "zone": "Bonta"
+    },
+    {
+      "id": 54,
+      "name": "Quête Spéciale : Le Bâton des Âges",
+      "category": "special",
+      "level": 120,
+      "description": "Créez le Bâton des Âges, artefact des temps anciens.",
+      "steps": [
+        "Trouver le fragment du Passé",
+        "Trouver le fragment du Présent",
+        "Trouver le fragment du Futur",
+        "Réunir les fragments",
+        "Infuser le bâton avec la magie temporelle"
+      ],
+      "rewards": {
+        "xp": 750000,
+        "kamas": 75000,
+        "items": ["Bâton des Âges"],
+        "spells": ["Chronomancie"],
+        "access": ""
+      },
+      "starting_npc": "Xélor Ancien",
+      "zone": "Temple du Temps"
+    },
+    {
+      "id": 55,
+      "name": "Quête Spéciale : La Panoplie du Chafer",
+      "category": "special",
+      "level": 40,
+      "description": "Rassemblez tous les éléments de la Panoplie du Chafer.",
+      "steps": [
+        "Vaincre le Chafer pour le Casque",
+        "Vaincre le Chafer pour l'Anneau",
+        "Vaincre le Chafer pour l'Amulette",
+        "Vaincre le Chafer pour les Bottes",
+        "Vaincre le Chafer pour la Cape"
+      ],
+      "rewards": {
+        "xp": 200000,
+        "kamas": 15000,
+        "items": ["Panoplie du Chafer Complète"],
+        "spells": [],
+        "access": ""
+      },
+      "starting_npc": "Collectionneur",
+      "zone": "Cimetière"
+    },
+    {
+      "id": 56,
+      "name": "Sort Spécial : Invocation d'Arakne",
+      "category": "class",
+      "level": 30,
+      "class": "Osamodas",
+      "description": "Les Osamodas peuvent apprendre à invoquer une Arakne puissante.",
+      "steps": [
+        "Parler au Maître Osamodas",
+        "Capturer 10 Araknes",
+        "Étudier leur comportement",
+        "Vaincre la Reine Arakne",
+        "Maîtriser l'Invocation d'Arakne"
+      ],
+      "rewards": {
+        "xp": 150000,
+        "kamas": 5000,
+        "items": ["Parchemin Invocation d'Arakne"],
+        "spells": ["Invocation d'Arakne"],
+        "access": ""
+      },
+      "starting_npc": "Maître Osamodas",
+      "zone": "Village d'Amakna"
+    },
+    {
+      "id": 57,
+      "name": "Sort Spécial : Mot d'Épine",
+      "category": "class",
+      "level": 30,
+      "class": "Eniripsa",
+      "description": "Les Eniripsas peuvent apprendre le sort de protection Mot d'Épine.",
+      "steps": [
+        "Parler à la Maîtresse Eniripsa",
+        "Collecter 15 Épines de Rose Obscure",
+        "Soigner 5 combattants blessés",
+        "Créer le remède protecteur",
+        "Maîtriser le Mot d'Épine"
+      ],
+      "rewards": {
+        "xp": 150000,
+        "kamas": 5000,
+        "items": ["Parchemin Mot d'Épine"],
+        "spells": ["Mot d'Épine"],
+        "access": ""
+      },
+      "starting_npc": "Maîtresse Eniripsa",
+      "zone": "Village d'Amakna"
+    },
+    {
+      "id": 58,
+      "name": "Sort Spécial : Aiguille",
+      "category": "class",
+      "level": 30,
+      "class": "Sram",
+      "description": "Les Srams peuvent apprendre le sort empoisonné Aiguille.",
+      "steps": [
+        "Parler au Maître Sram",
+        "Collecter 20 Poisons de Scorbute",
+        "Empoisonner 10 cibles discrètement",
+        "Vaincre l'Assassin Cible",
+        "Maîtriser l'Aiguille"
+      ],
+      "rewards": {
+        "xp": 150000,
+        "kamas": 5000,
+        "items": ["Parchemin Aiguille"],
+        "spells": ["Aiguille"],
+        "access": ""
+      },
+      "starting_npc": "Maître Sram",
+      "zone": "Srambad"
+    },
+    {
+      "id": 59,
+      "name": "Sort Spécial : Flèche Magique",
+      "category": "class",
+      "level": 30,
+      "class": "Cra",
+      "description": "Les Cras peuvent apprendre le sort de base amélioré Flèche Magique.",
+      "steps": [
+        "Parler à la Maîtresse Cra",
+        "Toucher 50 cibles à distance",
+        "Collecter 25 Plumes de Tofu",
+        "Vaincre l'Archer Cible",
+        "Maîtriser la Flèche Magique"
+      ],
+      "rewards": {
+        "xp": 150000,
+        "kamas": 5000,
+        "items": ["Parchemin Flèche Magique"],
+        "spells": ["Flèche Magique"],
+        "access": ""
+      },
+      "starting_npc": "Maîtresse Cra",
+      "zone": "Village d'Amakna"
+    },
+    {
+      "id": 60,
+      "name": "Sort Spécial : Sabotage",
+      "category": "class",
+      "level": 30,
+      "class": "Sram",
+      "description": "Les Srams peuvent apprendre le sort de piège Sabotage.",
+      "steps": [
+        "Parler au Maître Sram",
+        "Poser 20 pièges avec succès",
+        "Collecter 15 Mécanismes de Piège",
+        "Vaincre le Piégeur Corrompu",
+        "Maîtriser le Sabotage"
+      ],
+      "rewards": {
+        "xp": 150000,
+        "kamas": 5000,
+        "items": ["Parchemin Sabotage"],
+        "spells": ["Sabotage"],
+        "access": ""
+      },
+      "starting_npc": "Maître Sram",
+      "zone": "Srambad"
+    },
+    {
+      "id": 61,
+      "name": "Sort Spécial : Téléportation",
+      "category": "class",
+      "level": 30,
+      "class": "Xélor",
+      "description": "Les Xélors peuvent apprendre le sort de déplacement Téléportation.",
+      "steps": [
+        "Parler au Maître Xélor",
+        "Collecter 20 Sables du Temps",
+        "Se téléporter 30 fois avec succès",
+        "Vaincre le Maître des Portails",
+        "Maîtriser la Téléportation"
+      ],
+      "rewards": {
+        "xp": 150000,
+        "kamas": 5000,
+        "items": ["Parchemin Téléportation"],
+        "spells": ["Téléportation"],
+        "access": ""
+      },
+      "starting_npc": "Maître Xélor",
+      "zone": "Bonta"
+    },
+    {
+      "id": 62,
+      "name": "Sort Spécial : Coup de Baguette",
+      "category": "class",
+      "level": 30,
+      "class": "Enutrof",
+      "description": "Les Enutrofs peuvent apprendre le sort de combat Coup de Baguette.",
+      "steps": [
+        "Parler au Maître Enutrof",
+        "Collecter 15 Baguettes Magiques",
+        "Frapper 20 ennemis avec une baguette",
+        "Vaincre le Mage Baguettiste",
+        "Maîtriser le Coup de Baguette"
+      ],
+      "rewards": {
+        "xp": 150000,
+        "kamas": 5000,
+        "items": ["Parchemin Coup de Baguette"],
+        "spells": ["Coup de Baguette"],
+        "access": ""
+      },
+      "starting_npc": "Maître Enutrof",
       "zone": "Astrub"
-    },
-    {
-      "name": "Quête Annexe - La Légende du Gelax",
-      "level": 80,
-      "description": "Découvrez la vérité sur la créature mythique Gelax.",
-      "steps": [
-        "Parler au Vieil Alchimiste",
-        "Trouver le Journal de Bonta",
-        "Localiser la tanière du Gelax",
-        "Vaincre le Gelax"
-      ],
-      "rewards": {
-        "xp": 600000,
-        "kamas": 35000,
-        "items": ["Gelée du Gelax", "Recette Secrète"],
-        "spells": [],
-        "access": ""
-      },
-      "starting_npc": "Vieil Alchimiste",
-      "zone": "Sufokia"
-    },
-    {
-      "name": "Quête Annexe - Le Trésor du Captain Chafer",
-      "level": 45,
-      "description": "Partez à la recherche du trésor perdu du Captain Chafer.",
-      "steps": [
-        "Trouver la Carte au Trésor",
-        "Décrypter les indices",
-        "Suivre la piste jusqu'à l'île",
-        "Déterrer le trésor"
-      ],
-      "rewards": {
-        "xp": 350000,
-        "kamas": 50000,
-        "items": ["Coffre au Trésor", "Dague du Captain"],
-        "spells": [],
-        "access": ""
-      },
-      "starting_npc": "Vieux Loup de Mer",
-      "zone": "Port de Madrestam"
     }
   ]
 }
